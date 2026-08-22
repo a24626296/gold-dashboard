@@ -1,1 +1,209 @@
-[]
+[
+  {
+    "timestamp": "2026-08-22T07:29:54.963506+00:00",
+    "gold_price": 4624.10009765625,
+    "momentum_score": 10,
+    "reasons": [
+      "DXY 5日小跌 -0.87% (+10)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 98.80000305175781,
+        "prev_5d": 99.66999816894531,
+        "change_pct": -0.8728756227253236
+      },
+      "vix": {
+        "latest": 15.130000114440918,
+        "prev_5d": 14.25,
+        "change_pct": 6.175439399585389
+      },
+      "gld": null,
+      "cot": null,
+      "real_rate_5d_change": -0.04999999999999982
+    }
+  },
+  {
+    "timestamp": "2026-08-22T07:32:47.478694+00:00",
+    "gold_price": 4624.10009765625,
+    "momentum_score": 25,
+    "reasons": [
+      "DXY 5日小跌 -0.87% (+10)",
+      "COT 淨多頭週增 2.90% (+15)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 98.80000305175781,
+        "prev_5d": 99.66999816894531,
+        "change_pct": -0.8728756227253236
+      },
+      "vix": {
+        "latest": 15.130000114440918,
+        "prev_5d": 14.25,
+        "change_pct": 6.175439399585389
+      },
+      "gld": null,
+      "cot": {
+        "report_date": "2026-08-18T00:00:00.000",
+        "net_long": 141648,
+        "prev_net_long": 137662,
+        "change_pct": 2.8954976682018274
+      },
+      "real_rate_5d_change": -0.04999999999999982
+    }
+  },
+  {
+    "timestamp": "2026-08-22T07:34:24.329323+00:00",
+    "gold_price": 4624.10009765625,
+    "momentum_score": 25,
+    "reasons": [
+      "DXY 5日小跌 -0.87% (+10)",
+      "COT 淨多頭週增 2.90% (+15)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 98.80000305175781,
+        "prev_5d": 99.66999816894531,
+        "change_pct": -0.8728756227253236
+      },
+      "vix": {
+        "latest": 15.130000114440918,
+        "prev_5d": 14.25,
+        "change_pct": 6.175439399585389
+      },
+      "gld": {
+        "debug_error": "no_header_found",
+        "debug_status": 200,
+        "debug_preview": "%PDF-1.5\r\n%����\r\n2 0 obj\r\n<<\r\n/Type /XObject\r\n/Subtype /Image\r\n/Width 1489\r\n/Height 680\r\n/ColorSpace /DeviceGray\r\n/BitsPerComponent 8\r\n/Interpolate false\r\n/Filter /FlateDecode\r\n/Length 15691\r\n>>\r\nstream\r\nx���w@��\u0003��\u000e�=\u0005ٸ\u0011\u0004��=�����ʲ�޳��,We�(+�^�JM�\u001cT��{oe(�\u0010\u0004d��CQ����|����\u001e�{��s�}��|�/�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "cot": {
+        "report_date": "2026-08-18T00:00:00.000",
+        "net_long": 141648,
+        "prev_net_long": 137662,
+        "change_pct": 2.8954976682018274
+      },
+      "real_rate_5d_change": -0.04999999999999982
+    }
+  },
+  {
+    "timestamp": "2026-08-22T07:36:07.067359+00:00",
+    "gold_price": 4624.10009765625,
+    "momentum_score": 25,
+    "reasons": [
+      "DXY 5日小跌 -0.87% (+10)",
+      "COT 淨多頭週增 2.90% (+15)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 98.80000305175781,
+        "prev_5d": 99.66999816894531,
+        "change_pct": -0.8728756227253236
+      },
+      "vix": {
+        "latest": 15.130000114440918,
+        "prev_5d": 14.25,
+        "change_pct": 6.175439399585389
+      },
+      "gld": null,
+      "cot": {
+        "report_date": "2026-08-18T00:00:00.000",
+        "net_long": 141648,
+        "prev_net_long": 137662,
+        "change_pct": 2.8954976682018274
+      },
+      "real_rate_5d_change": -0.04999999999999982
+    }
+  },
+  {
+    "timestamp": "2026-08-22T07:37:34.659181+00:00",
+    "gold_price": 4624.10009765625,
+    "momentum_score": 25,
+    "reasons": [
+      "DXY 5日小跌 -0.87% (+10)",
+      "COT 淨多頭週增 2.90% (+15)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 98.80000305175781,
+        "prev_5d": 99.66999816894531,
+        "change_pct": -0.8728756227253236
+      },
+      "vix": {
+        "latest": 15.130000114440918,
+        "prev_5d": 14.25,
+        "change_pct": 6.175439399585389
+      },
+      "gld": null,
+      "cot": {
+        "report_date": "2026-08-18T00:00:00.000",
+        "net_long": 141648,
+        "prev_net_long": 137662,
+        "change_pct": 2.8954976682018274
+      },
+      "real_rate_5d_change": -0.04999999999999982
+    }
+  },
+  {
+    "timestamp": "2026-08-22T16:01:07.300254+00:00",
+    "gold_price": 4624.10009765625,
+    "momentum_score": 48,
+    "alert_level": "watch",
+    "reasons": [
+      "實質利率小幅下降 -0.050 (+10)",
+      "DXY 5日小跌 -0.87% (+8)",
+      "COT 淨多頭週增 2.90% (+20)",
+      "VIX 上升 6.18% (+10)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 98.80000305175781,
+        "prev_5d": 99.66999816894531,
+        "change_pct": -0.8728756227253236
+      },
+      "vix": {
+        "latest": 15.130000114440918,
+        "prev_5d": 14.25,
+        "change_pct": 6.175439399585389
+      },
+      "gld": null,
+      "cot": {
+        "report_date": "2026-08-18T00:00:00.000",
+        "net_long": 141648,
+        "prev_net_long": 137662,
+        "change_pct": 2.8954976682018274
+      },
+      "real_rate_5d_change": -0.04999999999999982
+    }
+  },
+  {
+    "timestamp": "2026-08-22T16:04:56.710116+00:00",
+    "gold_price": 4624.10009765625,
+    "momentum_score": 48,
+    "alert_level": "watch",
+    "reasons": [
+      "實質利率小幅下降 -0.050 (+10)",
+      "DXY 5日小跌 -0.87% (+8)",
+      "COT 淨多頭週增 2.90% (+20)",
+      "VIX 上升 6.18% (+10)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 98.80000305175781,
+        "prev_5d": 99.66999816894531,
+        "change_pct": -0.8728756227253236
+      },
+      "vix": {
+        "latest": 15.130000114440918,
+        "prev_5d": 14.25,
+        "change_pct": 6.175439399585389
+      },
+      "gld": null,
+      "cot": {
+        "report_date": "2026-08-18T00:00:00.000",
+        "net_long": 141648,
+        "prev_net_long": 137662,
+        "change_pct": 2.8954976682018274
+      },
+      "real_rate_5d_change": -0.04999999999999982
+    }
+  }
+]
