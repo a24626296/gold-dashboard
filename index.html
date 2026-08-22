@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="zh-Hant" data-mode="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GOLD MOMENTUM MONITOR</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0A0E0B;
+    --panel:#101511;
+    --panel-2:#141A15;
+    --line:#1C2620;
+    --line-strong:#26332A;
+    --ink:#DCE8DE;
+    --ink-dim:#7C9184;
+    --ink-faint:#4B5A50;
+    --phosphor:#4ADE5C;
+    --phosphor-dim:#2E7A3B;
+    --amber:#F2A93B;
+    --amber-dim:#8A6420;
+    --cyan:#5DC9D9;
+    --cyan-dim:#356B73;
+    --red:#E5484D;
+    --gray:#5A6B5E;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  html,body{
+    background:var(--bg);
+    color:var(--ink);
+    font-family:'IBM Plex Mono', ui-monospace, monospace;
+    font-size:14px;
+    line-height:1.5;
+  }
+  body{padding:24px 16px 64px;}
+  .wrap{max-width:920px; margin:0 auto;}
+
+  .topbar{
+    display:flex; justify-content:space-between; align-items:baseline;
+    border-bottom:1px solid var(--line-strong);
+    padding-bottom:12px; margin-bottom:20px;
+    flex-wrap:wrap; gap:8px;
+  }
+  .topbar .title{
+    font-size:15px; font-weight:600; letter-spacing:.12em; color:var(--ink);
+  }
+  .topbar .tag{font-size:11px; color:var(--ink-faint); letter-spacing:.06em;}
+  .topbar .updated{font-size:11px; color:var(--ink-dim);}
+
+  .panel{
+    background:var(--panel);
+    border:1px solid var(--line);
+    border-radius:2px;
+    padding:16px;
+    margin-bottom:16px;
+  }
+  .panel-label{
+    font-size:11px; letter-spacing:.1em; color:var(--ink-faint);
+    text-transform:uppercase; margin-bottom:10px;
+  }
+
+  /* --- gauge --- */
+  .gauge-row{display:flex; gap:24px; flex-wrap:wrap;}
+  .gauge-box{flex:0 0 220px; display:flex; flex-direction:column; align-items:center;}
+  .gauge-score{font-size:44px; font-weight:600; letter-spacing:.02em; margin-top:-58px;}
+  .gauge-max{font-size:13px; color:var(--ink-faint); margin-top:-6px;}
+  .gauge-level{
+    margin-top:10px; font-size:12px; letter-spacing:.1em; font-weight:600;
+    padding:3px 10px; border-radius:2px; border:1px solid; text-transform:uppercase;
+  }
+  .lvl-none{color:var(--gray); border-color:var(--gray); background:rgba(90,107,94,.08);}
+  .lvl-watch{color:var(--amber); border-color:var(--amber-dim); background:rgba(242,169,59,.08);}
+  .lvl-alert{color:var(--phosphor); border-color:var(--phosphor-dim); background:rgba(74,222,92,.08);}
+
+  .reasons{flex:1; min-width:220px;}
+  .reason-row{
+    display:flex; gap:8px; font-size:12.5px; padding:6px 0;
+    border-bottom:1px solid var(--line); color:var(--ink);
+  }
+  .reason-row:last-child{border-bottom:none;}
+  .reason-row .mark{color:var(--phosphor); flex:0 0 auto;}
+  .reason-empty{font-size:12.5px; color:var(--ink-faint);}
+
+  /* --- indicator grid --- */
+  .ind-grid{
+    display:grid; grid-template-columns:repeat(4, 1fr); gap:10px;
+  }
+  @media (max-width:640px){.ind-grid{grid-template-columns:repeat(2, 1fr);}}
+  .ind-box{
+    background:var(--panel-2); border:1px solid var(--line);
+    padding:10px 12px; border-radius:2px;
+  }
+  .ind-label{font-size:10.5px; color:var(--ink-faint); letter-spacing:.08em;}
+  .ind-value{font-size:18px; font-weight:600; margin-top:4px;}
+  .ind-sub{font-size:10.5px; color:var(--ink-dim); margin-top:2px;}
+  .up{color:var(--phosphor);}
+  .down{color:var(--red);}
+  .flat{color:var(--ink-dim);}
+
+  /* --- chart --- */
+  .chart-wrap{position:relative; height:280px;}
+  .legend{display:flex; gap:18px; font-size:11.5px; color:var(--ink-dim); margin-bottom:10px;}
+  .legend span{display:flex; align-items:center; gap:6px;}
+  .swatch{width:10px; height:2px; display:inline-block;}
+
+  /* --- table --- */
+  table{width:100%; border-collapse:collapse; font-size:12px;}
+  th{
+    text-align:left; font-weight:500; color:var(--ink-faint);
+    font-size:10.5px; letter-spacing:.08em; text-transform:uppercase;
+    padding:6px 8px; border-bottom:1px solid var(--line-strong);
+  }
+  td{padding:7px 8px; border-bottom:1px solid var(--line); color:var(--ink);}
+  tr:last-child td{border-bottom:none;}
+  .col-r{text-align:right;}
+
+  .footer{
+    margin-top:24px; font-size:11px; color:var(--ink-faint); line-height:1.7;
+    border-top:1px solid var(--line); padding-top:14px;
+  }
+  .footer a{color:var(--cyan);}
+
+  .empty-state{
+    text-align:center; padding:60px 20px; color:var(--ink-dim); font-size:13px;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="topbar">
+    <div>
+      <div class="title">GOLD MOMENTUM MONITOR</div>
+      <div class="tag">a24626296 / GOLD &middot; DFII10 / DXY / VIX / COT</div>
+    </div>
+    <div class="updated" id="updated-at">LOADING&hellip;</div>
+  </div>
+
+  <div id="root">
+    <div class="empty-state">讀取數據中&hellip;</div>
+  </div>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<script>
+async function main(){
+  const root = document.getElementById('root');
+  let history;
+  try{
+    const res = await fetch('./data/history.json', {cache:'no-store'});
+    if(!res.ok) throw new Error('no data');
+    history = await res.json();
+    if(!Array.isArray(history) || history.length===0) throw new Error('empty');
+  }catch(e){
+    root.innerHTML = '<div class="empty-state">尚無監控數據 &mdash; 排程執行後會自動顯示</div>';
+    document.getElementById('updated-at').textContent='--';
+    return;
+  }
+
+  const latest = history[history.length-1];
+  document.getElementById('updated-at').textContent =
+    '更新於 ' + new Date(latest.timestamp).toLocaleString('zh-TW', {hour12:false});
+
+  root.innerHTML = buildLayout();
+  renderGauge(latest);
+  renderIndicators(latest);
+  renderChart(history);
+  renderTable(history);
+}
+
+function buildLayout(){
+  return `
+    <div class="panel">
+      <div class="panel-label">動能分數</div>
+      <div class="gauge-row">
+        <div class="gauge-box">
+          <svg id="gauge-svg" viewBox="0 0 220 130" width="220" height="130"></svg>
+          <div class="gauge-score" id="gauge-score">--</div>
+          <div class="gauge-max">/ 100</div>
+          <div class="gauge-level" id="gauge-level">--</div>
+        </div>
+        <div class="reasons" id="reasons"></div>
+      </div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-label">指標明細(最新一筆)</div>
+      <div class="ind-grid" id="ind-grid"></div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-label">金價 &amp; 動能分數走勢</div>
+      <div class="legend">
+        <span><i class="swatch" style="background:#DCE8DE"></i>金價 (USD)</span>
+        <span><i class="swatch" style="background:#4ADE5C"></i>動能分數</span>
+      </div>
+      <div class="chart-wrap"><canvas id="trend-chart" role="img" aria-label="金價與動能分數走勢圖"></canvas></div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-label">歷史紀錄</div>
+      <div style="overflow-x:auto;">
+        <table>
+          <thead><tr>
+            <th>日期</th><th class="col-r">金價</th><th class="col-r">分數</th><th>等級</th><th>觸發原因</th>
+          </tr></thead>
+          <tbody id="history-body"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      本頁僅供個人觀察用途,呈現統計訊號而非投資建議。GLD 資金流向指標目前停用(資料源不穩定)。
+      模型參數以少量歷史樣本校準,持續觀察中。原始資料:
+      <a href="https://github.com/a24626296/gold-dashboard/blob/main/data/history.json" target="_blank">history.json</a>
+    </div>
+  `;
+}
+
+function levelMeta(level){
+  if(level==='alert') return {cls:'lvl-alert', label:'ALERT 警戒'};
+  if(level==='watch') return {cls:'lvl-watch', label:'WATCH 觀察'};
+  return {cls:'lvl-none', label:'NONE'};
+}
+
+function renderGauge(latest){
+  const score = latest.momentum_score ?? 0;
+  const level = latest.alert_level || 'none';
+  document.getElementById('gauge-score').textContent = score;
+  const lm = levelMeta(level);
+  const badge = document.getElementById('gauge-level');
+  badge.textContent = lm.label;
+  badge.className = 'gauge-level ' + lm.cls;
+
+  // semi-circle gauge: 180deg arc, mapped 0-100
+  const cx=110, cy=110, r=90;
+  const angleFor = (v) => Math.PI - (v/100)*Math.PI; // 180deg (left) -> 0deg (right)
+  const pt = (v) => [cx + r*Math.cos(angleFor(v)), cy - r*Math.sin(angleFor(v))];
+
+  const bands = [
+    {from:0, to:35, color:'#3A463D'},
+    {from:35, to:50, color:'#8A6420'},
+    {from:50, to:100, color:'#2E7A3B'},
+  ];
+  let arcs = '';
+  bands.forEach(b=>{
+    const [x1,y1] = pt(b.from);
+    const [x2,y2] = pt(b.to);
+    const large = (b.to-b.from) > 50 ? 1:0;
+    arcs += `<path d="M ${x1} ${y1} A ${r} ${r} 0 ${large} 1 ${x2} ${y2}" stroke="${b.color}" stroke-width="14" fill="none" stroke-linecap="butt"/>`;
+  });
+
+  const needleAngle = angleFor(score);
+  const nx = cx + (r-6)*Math.cos(needleAngle);
+  const ny = cy - (r-6)*Math.sin(needleAngle);
+  const needleColor = level==='alert' ? '#4ADE5C' : level==='watch' ? '#F2A93B' : '#7C9184';
+
+  const svg = document.getElementById('gauge-svg');
+  svg.innerHTML = `
+    ${arcs}
+    <line x1="${cx}" y1="${cy}" x2="${nx}" y2="${ny}" stroke="${needleColor}" stroke-width="2.5" stroke-linecap="round">
+      <animateTransform attributeName="transform" type="rotate" from="180 ${cx} ${cy}" to="0 ${cx} ${cy}" dur="0.01s" begin="0s" fill="freeze" additive="sum"/>
+    </line>
+    <circle cx="${cx}" cy="${cy}" r="4" fill="${needleColor}"/>
+  `;
+
+  const reasonsEl = document.getElementById('reasons');
+  const reasons = latest.reasons || [];
+  if(reasons.length===0){
+    reasonsEl.innerHTML = '<div class="reason-empty">今日無指標觸發計分條件</div>';
+  }else{
+    reasonsEl.innerHTML = reasons.map(r=>`<div class="reason-row"><span class="mark">&gt;</span><span>${escapeHtml(r)}</span></div>`).join('');
+  }
+}
+
+function trendClass(v, invert){
+  if(v===undefined || v===null || v===0) return 'flat';
+  const positive = invert ? v<0 : v>0;
+  return positive ? 'up' : 'down';
+}
+
+function renderIndicators(latest){
+  const raw = latest.raw || {};
+  const boxes = [
+    {
+      label:'實質利率 5日變化',
+      value: raw.real_rate_5d_change!=null ? raw.real_rate_5d_change.toFixed(3) : '--',
+      sub: '越負越利多(降息預期)',
+      cls: trendClass(raw.real_rate_5d_change, true),
+    },
+    {
+      label:'DXY 美元指數 5日',
+      value: raw.dxy ? (raw.dxy.change_pct>=0?'+':'')+raw.dxy.change_pct.toFixed(2)+'%' : '--',
+      sub: raw.dxy ? '最新: '+raw.dxy.latest.toFixed(2) : '--',
+      cls: raw.dxy ? trendClass(raw.dxy.change_pct, true) : 'flat',
+    },
+    {
+      label:'VIX 5日變化',
+      value: raw.vix ? (raw.vix.change_pct>=0?'+':'')+raw.vix.change_pct.toFixed(2)+'%' : '--',
+      sub: raw.vix ? '最新: '+raw.vix.latest.toFixed(2) : '--',
+      cls: raw.vix && Math.abs(raw.vix.change_pct)>12 ? 'up' : 'flat',
+    },
+    {
+      label:'COT 淨多頭週變化',
+      value: raw.cot ? (raw.cot.change_pct>=0?'+':'')+raw.cot.change_pct.toFixed(2)+'%' : '--',
+      sub: raw.cot ? '報告日: '+String(raw.cot.report_date).slice(0,10) : 'GLD 資金流向: 停用中',
+      cls: raw.cot ? trendClass(raw.cot.change_pct, false) : 'flat',
+    },
+  ];
+  document.getElementById('ind-grid').innerHTML = boxes.map(b=>`
+    <div class="ind-box">
+      <div class="ind-label">${b.label}</div>
+      <div class="ind-value ${b.cls}">${b.value}</div>
+      <div class="ind-sub">${b.sub}</div>
+    </div>
+  `).join('');
+}
+
+function renderChart(history){
+  const labels = history.map(h => new Date(h.timestamp).toLocaleDateString('zh-TW',{month:'2-digit', day:'2-digit'}));
+  const prices = history.map(h => h.gold_price);
+  const scores = history.map(h => h.momentum_score);
+
+  new Chart(document.getElementById('trend-chart'), {
+    type:'line',
+    data:{
+      labels,
+      datasets:[
+        {
+          label:'金價',
+          data:prices,
+          borderColor:'#DCE8DE',
+          backgroundColor:'transparent',
+          borderWidth:1.5,
+          pointRadius:0,
+          yAxisID:'y',
+          tension:0.15,
+        },
+        {
+          label:'動能分數',
+          data:scores,
+          borderColor:'#4ADE5C',
+          backgroundColor:'transparent',
+          borderWidth:1.5,
+          borderDash:[4,3],
+          pointRadius:0,
+          yAxisID:'y1',
+          tension:0.15,
+        },
+      ]
+    },
+    options:{
+      responsive:true,
+      maintainAspectRatio:false,
+      interaction:{mode:'index', intersect:false},
+      plugins:{ legend:{display:false} },
+      scales:{
+        x:{ grid:{color:'#1C2620'}, ticks:{color:'#7C9184', font:{family:'IBM Plex Mono', size:10}} },
+        y:{ position:'left', grid:{color:'#1C2620'}, ticks:{color:'#7C9184', font:{family:'IBM Plex Mono', size:10}} },
+        y1:{ position:'right', min:0, max:100, grid:{display:false}, ticks:{color:'#2E7A3B', font:{family:'IBM Plex Mono', size:10}} },
+      }
+    }
+  });
+}
+
+function renderTable(history){
+  const rows = history.slice().reverse().slice(0,20);
+  document.getElementById('history-body').innerHTML = rows.map(h=>{
+    const lm = levelMeta(h.alert_level || 'none');
+    const date = new Date(h.timestamp).toLocaleDateString('zh-TW');
+    const price = h.gold_price!=null ? '$'+h.gold_price.toFixed(0) : '--';
+    const reasons = (h.reasons||[]).join(' / ') || '--';
+    return `<tr>
+      <td>${date}</td>
+      <td class="col-r">${price}</td>
+      <td class="col-r">${h.momentum_score}</td>
+      <td><span class="${lm.cls}" style="border:none; padding:0; font-size:11px;">${lm.label}</span></td>
+      <td style="color:var(--ink-dim); font-size:11px;">${escapeHtml(reasons)}</td>
+    </tr>`;
+  }).join('');
+}
+
+function escapeHtml(s){
+  return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+main();
+</script>
+</body>
+</html>
