@@ -148,7 +148,7 @@
 <script>
 async function main(){
   const root = document.getElementById('root');
-  let history;
+  let history, entryHistory;
   try{
     const res = await fetch('./data/history.json', {cache:'no-store'});
     if(!res.ok) throw new Error('no data');
@@ -160,6 +160,13 @@ async function main(){
     return;
   }
 
+  try{
+    const res2 = await fetch('./data/entry_history.json', {cache:'no-store'});
+    entryHistory = res2.ok ? await res2.json() : [];
+  }catch(e){
+    entryHistory = [];
+  }
+
   const latest = history[history.length-1];
   document.getElementById('updated-at').textContent =
     '更新於 ' + new Date(latest.timestamp).toLocaleString('zh-TW', {hour12:false});
@@ -169,6 +176,10 @@ async function main(){
   renderIndicators(latest);
   renderChart(history);
   renderTable(history);
+
+  if(Array.isArray(entryHistory) && entryHistory.length>0){
+    renderEntrySection(entryHistory);
+  }
 }
 
 function buildLayout(){
@@ -201,13 +212,34 @@ function buildLayout(){
     </div>
 
     <div class="panel">
-      <div class="panel-label">歷史紀錄</div>
+      <div class="panel-label">歷史紀錄(總經動能)</div>
       <div style="overflow-x:auto;">
         <table>
           <thead><tr>
             <th>日期</th><th class="col-r">金價</th><th class="col-r">分數</th><th>等級</th><th>觸發原因</th>
           </tr></thead>
           <tbody id="history-body"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="panel" id="entry-panel" style="display:none;">
+      <div class="panel-label">進場時機(技術面 / 價格行為 &mdash; 獨立系統,實驗中)</div>
+      <div class="gauge-row">
+        <div class="gauge-box">
+          <svg id="entry-gauge-svg" viewBox="0 0 220 130" width="220" height="130"></svg>
+          <div class="gauge-score" id="entry-gauge-score">--</div>
+          <div class="gauge-max">/ 100</div>
+          <div class="gauge-level" id="entry-gauge-level">--</div>
+        </div>
+        <div class="reasons" id="entry-reasons"></div>
+      </div>
+      <div style="overflow-x:auto; margin-top:14px;">
+        <table>
+          <thead><tr>
+            <th>日期</th><th class="col-r">金價</th><th class="col-r">分數</th><th>等級</th><th>觸發原因</th>
+          </tr></thead>
+          <tbody id="entry-history-body"></tbody>
         </table>
       </div>
     </div>
@@ -385,6 +417,70 @@ function renderTable(history){
 
 function escapeHtml(s){
   return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+function renderEntryGauge(latest){
+  const score = latest.entry_score ?? 0;
+  const level = latest.entry_level || 'none';
+  document.getElementById('entry-gauge-score').textContent = score;
+  const lm = levelMeta(level);
+  const badge = document.getElementById('entry-gauge-level');
+  badge.textContent = lm.label;
+  badge.className = 'gauge-level ' + lm.cls;
+
+  const cx=110, cy=110, r=90;
+  const angleFor = (v) => Math.PI - (v/100)*Math.PI;
+  const pt = (v) => [cx + r*Math.cos(angleFor(v)), cy - r*Math.sin(angleFor(v))];
+  const bands = [
+    {from:0, to:25, color:'#3A463D'},
+    {from:25, to:50, color:'#8A6420'},
+    {from:50, to:100, color:'#2E7A3B'},
+  ];
+  let arcs = '';
+  bands.forEach(b=>{
+    const [x1,y1] = pt(b.from);
+    const [x2,y2] = pt(b.to);
+    const large = (b.to-b.from) > 50 ? 1:0;
+    arcs += `<path d="M ${x1} ${y1} A ${r} ${r} 0 ${large} 1 ${x2} ${y2}" stroke="${b.color}" stroke-width="14" fill="none" stroke-linecap="butt"/>`;
+  });
+  const needleAngle = angleFor(score);
+  const nx = cx + (r-6)*Math.cos(needleAngle);
+  const ny = cy - (r-6)*Math.sin(needleAngle);
+  const needleColor = level==='alert' ? '#4ADE5C' : level==='watch' ? '#F2A93B' : '#7C9184';
+  document.getElementById('entry-gauge-svg').innerHTML = `
+    ${arcs}
+    <line x1="${cx}" y1="${cy}" x2="${nx}" y2="${ny}" stroke="${needleColor}" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="${cx}" cy="${cy}" r="4" fill="${needleColor}"/>
+  `;
+
+  const reasonsEl = document.getElementById('entry-reasons');
+  const reasons = latest.reasons || [];
+  if(reasons.length===0){
+    reasonsEl.innerHTML = '<div class="reason-empty">今日無技術面訊號觸發</div>';
+  }else{
+    reasonsEl.innerHTML = reasons.map(r=>`<div class="reason-row"><span class="mark">&gt;</span><span>${escapeHtml(r)}</span></div>`).join('');
+  }
+}
+
+function renderEntrySection(entryHistory){
+  document.getElementById('entry-panel').style.display = 'block';
+  const latest = entryHistory[entryHistory.length-1];
+  renderEntryGauge(latest);
+
+  const rows = entryHistory.slice().reverse().slice(0,20);
+  document.getElementById('entry-history-body').innerHTML = rows.map(h=>{
+    const lm = levelMeta(h.entry_level || 'none');
+    const date = new Date(h.timestamp).toLocaleDateString('zh-TW');
+    const price = h.gold_price!=null ? '$'+h.gold_price.toFixed(0) : '--';
+    const reasons = (h.reasons||[]).join(' / ') || '--';
+    return `<tr>
+      <td>${date}</td>
+      <td class="col-r">${price}</td>
+      <td class="col-r">${h.entry_score}</td>
+      <td><span class="${lm.cls}" style="border:none; padding:0; font-size:11px;">${lm.label}</span></td>
+      <td style="color:var(--ink-dim); font-size:11px;">${escapeHtml(reasons)}</td>
+    </tr>`;
+  }).join('');
 }
 
 main();
