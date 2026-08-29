@@ -66,5 +66,22 @@
       "latest_close": 4504.10009765625,
       "volume_ratio": 2.26214122494884
     }
+  },
+  {
+    "timestamp": "2026-08-29T04:10:03.238786+00:00",
+    "gold_price": NaN,
+    "entry_score": 10,
+    "entry_level": "none",
+    "reasons": [
+      "GLD 成交量略為放大 (2.26 倍均量) (+10)"
+    ],
+    "detail": {
+      "rsi": 70.02695270032132,
+      "macd": 124.04682640581268,
+      "macd_signal": 105.58379284853622,
+      "high_20d": 4640.7998046875,
+      "latest_close": NaN,
+      "volume_ratio": 2.26214122494884
+    }
   }
 ]
