@@ -28,7 +28,7 @@
         "won",
         "work"
       ],
-      "last_seen_utc": "2026-08-29T15:24:10.310403+00:00",
+      "last_seen_utc": "2026-08-29T18:44:16.302161+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "ap news",
@@ -102,14 +102,17 @@
         "act",
         "ameri",
         "analy",
+        "anti",
         "back",
         "brace",
         "bring",
+        "calm",
         "case",
         "chair",
         "cites",
         "close",
         "comin",
+        "conce",
         "doesn",
         "door",
         "down",
@@ -128,12 +131,15 @@
         "hole",
         "impro",
         "infla",
+        "inter",
         "jacks",
+        "jump",
         "kevin",
         "key",
         "las",
         "leave",
         "linge",
+        "live",
         "makes",
         "marke",
         "may",
@@ -142,9 +148,11 @@
         "need",
         "neede",
         "news",
+        "not",
         "odds",
         "open",
         "opens",
+        "out",
         "persi",
         "possi",
         "raise",
@@ -155,13 +163,18 @@
         "requi",
         "reser",
         "revie",
+        "rulin",
         "says",
         "see",
+        "seeks",
         "septe",
         "sharp",
         "shift",
         "signa",
+        "speak",
         "speec",
+        "spike",
+        "stanc",
         "stati",
         "stays",
         "still",
@@ -174,9 +187,10 @@
         "vegas",
         "warni",
         "warsh",
-        "watch"
+        "watch",
+        "work"
       ],
-      "last_seen_utc": "2026-08-29T15:24:10.310403+00:00",
+      "last_seen_utc": "2026-08-29T18:44:16.302161+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "abc news - breaking news, latest news and videos",
@@ -225,7 +239,7 @@
         "warsh",
         "will"
       ],
-      "last_seen_utc": "2026-08-29T15:24:10.310403+00:00",
+      "last_seen_utc": "2026-08-29T18:44:16.302161+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "financial times",
@@ -244,7 +258,7 @@
         "豐雲學堂",
         "長債穩定反"
       ],
-      "last_seen_utc": "2026-08-29T15:24:10.310403+00:00",
+      "last_seen_utc": "2026-08-29T18:44:16.302161+00:00",
       "confidence": "LIKELY",
       "sources": [
         "news.cnyes.com",
@@ -263,7 +277,7 @@
         "通膨未解不",
         "通膨未解恐"
       ],
-      "last_seen_utc": "2026-08-29T15:24:10.310403+00:00",
+      "last_seen_utc": "2026-08-29T18:44:16.302161+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "udn",
@@ -282,7 +296,7 @@
         "華許示警",
         "通膨更令人"
       ],
-      "last_seen_utc": "2026-08-29T15:24:10.310403+00:00",
+      "last_seen_utc": "2026-08-29T18:44:16.302161+00:00",
       "confidence": "LIKELY",
       "sources": [
         "ctwant",
@@ -298,7 +312,7 @@
         "國際焦點",
         "華許重拾抗"
       ],
-      "last_seen_utc": "2026-08-29T15:24:10.310403+00:00",
+      "last_seen_utc": "2026-08-29T18:44:16.302161+00:00",
       "confidence": "LIKELY",
       "sources": [
         "世界新聞網",
