@@ -32,7 +32,7 @@
         "won",
         "work"
       ],
-      "last_seen_utc": "2026-08-30T19:50:12.206646+00:00",
+      "last_seen_utc": "2026-08-30T22:17:46.334944+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "ap news",
@@ -49,6 +49,7 @@
         "chair",
         "conce",
         "could",
+        "dismi",
         "doesn",
         "door",
         "eleva",
@@ -57,10 +58,14 @@
         "fed",
         "flags",
         "forwa",
+        "fuel",
         "guida",
         "hawki",
+        "high",
         "hike",
+        "hints",
         "hole",
+        "impro",
         "incre",
         "infla",
         "inter",
@@ -70,12 +75,16 @@
         "live",
         "marke",
         "more",
+        "news",
         "not",
         "open",
         "out",
         "play",
+        "price",
         "rate",
         "rejec",
+        "remai",
+        "remar",
         "resha",
         "rulin",
         "seeks",
@@ -83,15 +92,21 @@
         "shift",
         "signa",
         "speak",
+        "specu",
         "speec",
+        "stati",
         "stays",
+        "stron",
         "table",
         "targe",
+        "too",
+        "trump",
+        "warns",
         "warsh",
         "why",
         "work"
       ],
-      "last_seen_utc": "2026-08-30T19:50:12.206646+00:00",
+      "last_seen_utc": "2026-08-30T22:17:46.334944+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "euronews.com",
@@ -138,6 +153,7 @@
         "echoe",
         "eleva",
         "faces",
+        "fails",
         "fed",
         "feder",
         "flags",
@@ -201,6 +217,7 @@
         "requi",
         "reser",
         "retre",
+        "retur",
         "revie",
         "rulin",
         "says",
@@ -236,7 +253,7 @@
         "worry",
         "would"
       ],
-      "last_seen_utc": "2026-08-30T19:50:12.206646+00:00",
+      "last_seen_utc": "2026-08-30T22:17:46.334944+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "abc news - breaking news, latest news and videos",
@@ -304,7 +321,7 @@
         "豐雲學堂",
         "長債穩定反"
       ],
-      "last_seen_utc": "2026-08-30T19:50:12.206646+00:00",
+      "last_seen_utc": "2026-08-30T22:17:46.334944+00:00",
       "confidence": "LIKELY",
       "sources": [
         "news.cnyes.com",
@@ -323,7 +340,7 @@
         "通膨未解不",
         "通膨未解恐"
       ],
-      "last_seen_utc": "2026-08-30T19:50:12.206646+00:00",
+      "last_seen_utc": "2026-08-30T22:17:46.334944+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "udn",
@@ -342,7 +359,7 @@
         "華許示警",
         "通膨更令人"
       ],
-      "last_seen_utc": "2026-08-30T19:50:12.206646+00:00",
+      "last_seen_utc": "2026-08-30T22:17:46.334944+00:00",
       "confidence": "LIKELY",
       "sources": [
         "ctwant",
@@ -359,7 +376,7 @@
         "國際焦點",
         "華許重拾抗"
       ],
-      "last_seen_utc": "2026-08-30T19:50:12.206646+00:00",
+      "last_seen_utc": "2026-08-30T22:17:46.334944+00:00",
       "confidence": "LIKELY",
       "sources": [
         "世界新聞網",
@@ -376,7 +393,7 @@
         "交易員押注",
         "華許終於讓"
       ],
-      "last_seen_utc": "2026-08-30T19:50:12.206646+00:00",
+      "last_seen_utc": "2026-08-30T22:17:46.334944+00:00",
       "confidence": "LIKELY",
       "sources": [
         "news.cnyes.com",
@@ -393,7 +410,7 @@
         "聯準會凱文",
         "華許暗示升"
       ],
-      "last_seen_utc": "2026-08-30T19:50:12.206646+00:00",
+      "last_seen_utc": "2026-08-30T22:17:46.334944+00:00",
       "confidence": "LIKELY",
       "sources": [
         "商傳媒",
@@ -407,22 +424,30 @@
       "stance": "hawkish",
       "tokens": [
         "bets",
+        "chair",
         "comme",
         "drops",
         "fed",
         "gold",
+        "goldm",
         "hawki",
         "hike",
         "lift",
+        "other",
         "piles",
         "rate",
         "renew",
+        "sachs",
+        "sayin",
+        "soar",
+        "speec",
         "stree",
         "tone",
         "wall",
-        "warsh"
+        "warsh",
+        "what"
       ],
-      "last_seen_utc": "2026-08-30T19:50:12.206646+00:00",
+      "last_seen_utc": "2026-08-30T22:17:46.334944+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "cnbc",
@@ -440,7 +465,7 @@
         "全球財經",
         "開盤前先回"
       ],
-      "last_seen_utc": "2026-08-30T19:50:12.206646+00:00",
+      "last_seen_utc": "2026-08-30T22:17:46.334944+00:00",
       "confidence": "LIKELY",
       "sources": [
         "udn",
@@ -478,7 +503,7 @@
         "warsh",
         "watch"
       ],
-      "last_seen_utc": "2026-08-30T19:50:12.206646+00:00",
+      "last_seen_utc": "2026-08-30T22:17:46.334944+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "pensions & investments",
@@ -498,7 +523,7 @@
         "聯準會恐重",
         "華許放鷹"
       ],
-      "last_seen_utc": "2026-08-30T19:50:12.206646+00:00",
+      "last_seen_utc": "2026-08-30T22:17:46.334944+00:00",
       "confidence": "LIKELY",
       "sources": [
         "yahoo股市",
@@ -570,9 +595,11 @@
       "stance": "hawkish",
       "tokens": [
         "9月升息機",
-        "華許180"
+        "美股4大指",
+        "華許180",
+        "華許放鷹"
       ],
-      "last_seen_utc": "2026-08-30T19:50:12.206646+00:00",
+      "last_seen_utc": "2026-08-30T22:17:46.334944+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "台灣大紀元",
@@ -602,7 +629,7 @@
         "while",
         "yield"
       ],
-      "last_seen_utc": "2026-08-30T19:50:12.206646+00:00",
+      "last_seen_utc": "2026-08-30T22:17:46.334944+00:00",
       "confidence": "LIKELY",
       "sources": [
         "investing.com",
@@ -610,6 +637,118 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hczBFZUg1U1p0cEtvYjRzaDc4WTdhRE9ZeS1tXzd4OVdOb1JkY3FtdlJFa2ZBQlFmdkZ4bU9VYkVjYS1fVjlzT0txYkptTDEy?oc=5",
       "short_link": "https://tinyurl.com/232yvsjn"
+    },
+    {
+      "title": "Fed chair Warsh’s hawkish Jackson Hole turn favours soaring banks over struggling S-Reits",
+      "stance": "hawkish",
+      "tokens": [
+        "banks",
+        "chair",
+        "could",
+        "expec",
+        "favou",
+        "fed",
+        "hawki",
+        "hole",
+        "infla",
+        "jacks",
+        "marke",
+        "reits",
+        "resha",
+        "shift",
+        "signa",
+        "soari",
+        "strug",
+        "turn",
+        "warsh",
+        "why"
+      ],
+      "last_seen_utc": "2026-08-30T22:17:46.334944+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "azat tv",
+        "the business times"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSlBRNXYtSk1ITWNIRW9vS1o4NFFZLTg5VS1RTVRKOUozbl9vVFd3VmNJdUdWRi12NmhWR25pX2JRYXNQSDI5LWptamJ6SHg5YUp2aDYtNUktcURlVjE5NjdURktfN19Oc3hqWEtLb29FcWxNUk12V25CMzhlU0RDRzZLNVB0MEtwazB3MXFmY2l4aXhMb2RhQWlNcmdtcWR3YUtnc1hlYTktcFZvQmFjeDlXeXRoMXNKZGp2djVzMm5aYUdBUkZVVWt3YmVPV1ZEZFo4Mg?oc=5",
+      "short_link": "https://tinyurl.com/255dchnw"
+    },
+    {
+      "title": "Jackson Hole 2026: Markets eye Warsh's hawkish signals",
+      "stance": "hawkish",
+      "tokens": [
+        "2026",
+        "debut",
+        "eye",
+        "fears",
+        "feder",
+        "hawki",
+        "hike",
+        "hole",
+        "jacks",
+        "marke",
+        "rate",
+        "reser",
+        "signa",
+        "warsh",
+        "wraps"
+      ],
+      "last_seen_utc": "2026-08-30T22:17:46.334944+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "crypto briefing",
+        "news.cgtn.com"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX3BwTmtRd3lMbnQ2QXE2aHIzMTczbzROYjRVLVJHS25fX3hYT18zdXVHSDRhVFpoXy1KdDh5ZldaNDdrM1ViWkpTdEtzNXl5MW80ckxGR2VsX0V2bmVrWnRGVjBWZFJ1RldhSG0xTkVDbWJ5d3NYUTY0WDhFZkM0bDBzR2FXOVF5MTlwLU0tVXp3c0dQeTVuQU80ZlRPaEU5Mm5BaUI4ZWZJM2NTOUFj?oc=5",
+      "short_link": "https://tinyurl.com/266n4jop"
+    },
+    {
+      "title": "Following Kevin Warsh's remarks, the US Federal Reserve is paving the way for an interest rate hike in September",
+      "stance": "hawkish",
+      "tokens": [
+        "feder",
+        "follo",
+        "hike",
+        "inter",
+        "keeps",
+        "kevin",
+        "news",
+        "pavin",
+        "rate",
+        "remar",
+        "reser",
+        "septe",
+        "table",
+        "warsh",
+        "way"
+      ],
+      "last_seen_utc": "2026-08-30T22:17:46.334944+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "coin gabbar",
+        "صوت الإمارات"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQVEVvbmxzTm1maWtyaG9hYjRjczJJQ3Y1SmxVMHp0akJNcXhGTUI0Um1TWENZQVlkNFlTX2pWd0JISHE4OU5jYk9GdHhNTkRYbTMtbUROZDJqM25BVjdOV0h2QURqV2hLb1Q5aXR3SlNsUkJ4WnBuMS1maG1fbzVXM2xyeFFDUU1pUU9IcTRrZDh4OXhuZGNhQnl5ZW43djgzZWtuZUJlcUNCd1ZVMlZMeWZHZnZqTndNM0VBRDZQMzMtUGxSMGxyRDZ6RUJ4aHFDZWxSdFJKTG5pMS1tV0I0cXdnTFZkTkpzN3lOejdEMHI2UzI4SS1TVWsydjhHV2RaekF3QXJucG1vTGEyMEFMSA?oc=5",
+      "short_link": "https://tinyurl.com/27p4pmpv"
+    },
+    {
+      "title": "華許首亮相「放鷹」恐升息！全球年會「登山論」藏玄機 3大重點一次看",
+      "stance": "hawkish",
+      "tokens": [
+        "3大重點一",
+        "全球年會",
+        "恐升息",
+        "登山論",
+        "華許首亮相",
+        "藏玄機"
+      ],
+      "last_seen_utc": "2026-08-30T22:17:46.334944+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "三立新聞",
+        "三立新聞網setn.com"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE42bHZXNGdYLWxhRER0TVBMM1JpR1B0UWZOWlNnLUZnTnl5Vnk1bVBlS3BSTlNCejg3YUtnODZWaldMVmxPbUFQdlNNZw?oc=5",
+      "short_link": "https://tinyurl.com/2bnffamb"
     }
   ]
 }
