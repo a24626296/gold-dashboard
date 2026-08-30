@@ -1,3 +1,58 @@
 {
-  "events": []
+  "events": [
+    {
+      "title": "U.S. strikes Iranian missile launchers on Larak Island",
+      "tokens": [
+        "escal",
+        "fires",
+        "force",
+        "four",
+        "heavy",
+        "iran",
+        "irani",
+        "irgc",
+        "islan",
+        "jazee",
+        "larak",
+        "launc",
+        "missi",
+        "news",
+        "oil",
+        "provi",
+        "retal",
+        "strik",
+        "struc",
+        "two",
+        "vows"
+      ],
+      "last_seen_utc": "2026-08-30T22:17:37.124334+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "investinglive",
+        "irishsun.com",
+        "just the news",
+        "livenow from fox",
+        "українські національні новини (унн)"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9aa3lHSk9kVUJPanlJc1VCWmRwZ0p6ZGZ1bDBYYk1FZGlxRnowaUkxTEFRQ1owWE8wTWxndnMwWGJNQ3ZfbG1DVmY4OG1fcmR5ZHJEWGR0TURRTU1uSDFoRVBIQdIBaEFVX3lxTE0xbU9BSzhhSXpXMFhkUk9oLWFnQThUbDRreWpGVFBLV0lhSy1zMjNiS2JBN1I0RkJWUGlsbkhsN2FlMmhQMHVIZTFNSmxDN1JNYTVqay1TOTlZYVFsUWdCTXd0SUJoY2hn?oc=5",
+      "short_link": "https://tinyurl.com/23qs2t4f"
+    },
+    {
+      "title": "【速報】米がイランのミサイル発射施設攻撃か",
+      "tokens": [
+        "米がイラン"
+      ],
+      "last_seen_utc": "2026-08-30T22:17:37.124334+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "47news",
+        "沖縄タイムス社",
+        "河北新報オンライン",
+        "長崎新聞ホームページ",
+        "ｄメニューニュース"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VVjJoZGFWQWc0SVJLaHczb1QyNHlYT0hxZXFhYXFTYUNzSnl4NGRkUFJJUVdvNnd1U3hpSUVoYjlDUEZrR2k2N25Oaw?oc=5",
+      "short_link": "https://tinyurl.com/2b46rshe"
+    }
+  ]
 }
