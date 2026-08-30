@@ -28,7 +28,7 @@
         "won",
         "work"
       ],
-      "last_seen_utc": "2026-08-30T01:30:33.976496+00:00",
+      "last_seen_utc": "2026-08-30T05:14:27.123803+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "ap news",
@@ -80,7 +80,7 @@
         "warsh",
         "work"
       ],
-      "last_seen_utc": "2026-08-29T23:29:07.334922+00:00",
+      "last_seen_utc": "2026-08-30T05:14:27.123803+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "euronews.com",
@@ -113,11 +113,13 @@
         "close",
         "comin",
         "conce",
+        "divid",
         "doesn",
         "door",
         "down",
         "eagle",
         "eleva",
+        "faces",
         "fed",
         "feder",
         "flags",
@@ -146,12 +148,14 @@
         "makes",
         "marke",
         "may",
+        "miran",
         "more",
         "neces",
         "need",
         "neede",
         "news",
         "not",
+        "now",
         "odds",
         "open",
         "opens",
@@ -162,6 +166,7 @@
         "rate",
         "rates",
         "readi",
+        "reall",
         "rejec",
         "remai",
         "requi",
@@ -181,7 +186,9 @@
         "stanc",
         "stati",
         "stays",
+        "steph",
         "still",
+        "stran",
         "stubb",
         "table",
         "tame",
@@ -192,9 +199,10 @@
         "warni",
         "warsh",
         "watch",
-        "work"
+        "work",
+        "would"
       ],
-      "last_seen_utc": "2026-08-30T01:30:33.976496+00:00",
+      "last_seen_utc": "2026-08-30T05:14:27.123803+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "abc news - breaking news, latest news and videos",
@@ -243,7 +251,7 @@
         "warsh",
         "will"
       ],
-      "last_seen_utc": "2026-08-30T01:30:33.976496+00:00",
+      "last_seen_utc": "2026-08-30T05:14:27.123803+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "financial times",
@@ -262,7 +270,7 @@
         "豐雲學堂",
         "長債穩定反"
       ],
-      "last_seen_utc": "2026-08-30T01:30:33.976496+00:00",
+      "last_seen_utc": "2026-08-30T05:14:27.123803+00:00",
       "confidence": "LIKELY",
       "sources": [
         "news.cnyes.com",
@@ -281,7 +289,7 @@
         "通膨未解不",
         "通膨未解恐"
       ],
-      "last_seen_utc": "2026-08-30T01:30:33.976496+00:00",
+      "last_seen_utc": "2026-08-30T05:14:27.123803+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "udn",
@@ -300,7 +308,7 @@
         "華許示警",
         "通膨更令人"
       ],
-      "last_seen_utc": "2026-08-30T01:30:33.976496+00:00",
+      "last_seen_utc": "2026-08-30T05:14:27.123803+00:00",
       "confidence": "LIKELY",
       "sources": [
         "ctwant",
@@ -316,7 +324,7 @@
         "國際焦點",
         "華許重拾抗"
       ],
-      "last_seen_utc": "2026-08-30T01:30:33.976496+00:00",
+      "last_seen_utc": "2026-08-30T05:14:27.123803+00:00",
       "confidence": "LIKELY",
       "sources": [
         "世界新聞網",
@@ -333,7 +341,7 @@
         "交易員押注",
         "華許終於讓"
       ],
-      "last_seen_utc": "2026-08-30T01:30:33.976496+00:00",
+      "last_seen_utc": "2026-08-30T05:14:27.123803+00:00",
       "confidence": "LIKELY",
       "sources": [
         "news.cnyes.com",
@@ -373,7 +381,7 @@
         "rate",
         "warsh"
       ],
-      "last_seen_utc": "2026-08-30T01:30:33.976496+00:00",
+      "last_seen_utc": "2026-08-30T05:14:27.123803+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "cnbc",
@@ -381,6 +389,24 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMmlaZmhlQldVcHFEci1jR3NFN1d6M1FhU1prdVBXTnhWdjNvRTVEQU0tc0prbGRJc2NoNUhnbDNZTy1jYXN4UlQwaTRJU05YZTNiX0pQUFdsdFJpU2VWTmh3MVdFcEJ6MDNGTUFJOS1yekdqM2p4emxOZC1GOWZpQkxMY3V0MDJmSFNxWHpCZl9ISFEyTG5tMtIBngFBVV95cUxQME41RDdRSWpfTjllbWtJeWE3RE8wQngxZXI0VjlrZWhZUnVjaUdZU0thcUtuSHhPSmxZOHFaVUNMeklxOVh4LXdMMUVybXB3UDhRZFRNSE1NYWVNTEp0QnlVcTdSdGdzSlhpYXpKcnBPNzc5VTUxNWlFYmxuWjgwNVBfQmtPYVhkNldXSDZvNkdVLW52Z0VQMVVKTVJfUQ?oc=5",
       "short_link": "https://tinyurl.com/2am8um87"
+    },
+    {
+      "title": "9月更難不升息？Fed主席華許央行年會放鷹開盤前先回顧5國際大事| 全球財經| 全球",
+      "stance": "hawkish",
+      "tokens": [
+        "9月更難不",
+        "fed主席",
+        "全球財經",
+        "開盤前先回"
+      ],
+      "last_seen_utc": "2026-08-30T05:14:27.123803+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "udn",
+        "世界新聞網"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zTUpCTE4wZTUtQ0pUd29BVW4tWHhZazBjN2YyMEFGel9FRG0wZi1yZ3Ztb204YWZrU2dlV1VXWU5iQmxlM2ZadlNQcmlyVC10?oc=5",
+      "short_link": "https://tinyurl.com/28wtnk6l"
     }
   ]
 }
