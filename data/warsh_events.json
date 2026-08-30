@@ -28,7 +28,7 @@
         "won",
         "work"
       ],
-      "last_seen_utc": "2026-08-29T23:29:07.334922+00:00",
+      "last_seen_utc": "2026-08-30T01:30:33.976496+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "ap news",
@@ -120,9 +120,12 @@
         "eleva",
         "fed",
         "feder",
+        "flags",
         "focus",
         "follo",
+        "forwa",
         "gauge",
+        "guida",
         "hawki",
         "high",
         "hike",
@@ -159,6 +162,7 @@
         "rate",
         "rates",
         "readi",
+        "rejec",
         "remai",
         "requi",
         "reser",
@@ -190,7 +194,7 @@
         "watch",
         "work"
       ],
-      "last_seen_utc": "2026-08-29T23:29:07.334922+00:00",
+      "last_seen_utc": "2026-08-30T01:30:33.976496+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "abc news - breaking news, latest news and videos",
@@ -239,7 +243,7 @@
         "warsh",
         "will"
       ],
-      "last_seen_utc": "2026-08-29T23:29:07.334922+00:00",
+      "last_seen_utc": "2026-08-30T01:30:33.976496+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "financial times",
@@ -258,7 +262,7 @@
         "豐雲學堂",
         "長債穩定反"
       ],
-      "last_seen_utc": "2026-08-29T23:29:07.334922+00:00",
+      "last_seen_utc": "2026-08-30T01:30:33.976496+00:00",
       "confidence": "LIKELY",
       "sources": [
         "news.cnyes.com",
@@ -277,7 +281,7 @@
         "通膨未解不",
         "通膨未解恐"
       ],
-      "last_seen_utc": "2026-08-29T23:29:07.334922+00:00",
+      "last_seen_utc": "2026-08-30T01:30:33.976496+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "udn",
@@ -296,7 +300,7 @@
         "華許示警",
         "通膨更令人"
       ],
-      "last_seen_utc": "2026-08-29T23:29:07.334922+00:00",
+      "last_seen_utc": "2026-08-30T01:30:33.976496+00:00",
       "confidence": "LIKELY",
       "sources": [
         "ctwant",
@@ -312,7 +316,7 @@
         "國際焦點",
         "華許重拾抗"
       ],
-      "last_seen_utc": "2026-08-29T23:29:07.334922+00:00",
+      "last_seen_utc": "2026-08-30T01:30:33.976496+00:00",
       "confidence": "LIKELY",
       "sources": [
         "世界新聞網",
@@ -329,7 +333,7 @@
         "交易員押注",
         "華許終於讓"
       ],
-      "last_seen_utc": "2026-08-29T23:29:07.334922+00:00",
+      "last_seen_utc": "2026-08-30T01:30:33.976496+00:00",
       "confidence": "LIKELY",
       "sources": [
         "news.cnyes.com",
@@ -346,7 +350,7 @@
         "聯準會凱文",
         "華許暗示升"
       ],
-      "last_seen_utc": "2026-08-29T23:29:07.334922+00:00",
+      "last_seen_utc": "2026-08-30T01:30:33.976496+00:00",
       "confidence": "LIKELY",
       "sources": [
         "商傳媒",
@@ -354,6 +358,29 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56VFlnZXBVUWR4RGQ3RDhvNlZmZkhwQmEtbVMwZlZPa25lX1Z2STVkSnk3OHVKR3FuSmtFa0l3OXZXRFI1a0R0a3c0QQ?oc=5",
       "short_link": "https://tinyurl.com/2ccfmxmo"
+    },
+    {
+      "title": "Gold drops as Fed's Warsh comments lift rate hike bets",
+      "stance": "hawkish",
+      "tokens": [
+        "bets",
+        "comme",
+        "drops",
+        "fed",
+        "gold",
+        "hike",
+        "lift",
+        "rate",
+        "warsh"
+      ],
+      "last_seen_utc": "2026-08-30T01:30:33.976496+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "cnbc",
+        "reuters"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMmlaZmhlQldVcHFEci1jR3NFN1d6M1FhU1prdVBXTnhWdjNvRTVEQU0tc0prbGRJc2NoNUhnbDNZTy1jYXN4UlQwaTRJU05YZTNiX0pQUFdsdFJpU2VWTmh3MVdFcEJ6MDNGTUFJOS1yekdqM2p4emxOZC1GOWZpQkxMY3V0MDJmSFNxWHpCZl9ISFEyTG5tMtIBngFBVV95cUxQME41RDdRSWpfTjllbWtJeWE3RE8wQngxZXI0VjlrZWhZUnVjaUdZU0thcUtuSHhPSmxZOHFaVUNMeklxOVh4LXdMMUVybXB3UDhRZFRNSE1NYWVNTEp0QnlVcTdSdGdzSlhpYXpKcnBPNzc5VTUxNWlFYmxuWjgwNVBfQmtPYVhkNldXSDZvNkdVLW52Z0VQMVVKTVJfUQ?oc=5",
+      "short_link": "https://tinyurl.com/2am8um87"
     }
   ]
 }
