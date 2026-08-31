@@ -32,6 +32,7 @@
         "irani",
         "irgc",
         "islan",
+        "israe",
         "jazee",
         "jorda",
         "larak",
@@ -48,6 +49,7 @@
         "retal",
         "revol",
         "sanct",
+        "says",
         "ships",
         "signa",
         "spark",
@@ -58,13 +60,14 @@
         "tehra",
         "treas",
         "two",
+        "uae",
         "vows",
         "war",
         "warns",
         "weekl",
         "world"
       ],
-      "last_seen_utc": "2026-08-31T05:19:11.630622+00:00",
+      "last_seen_utc": "2026-08-31T06:13:48.148463+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "investinglive",
@@ -81,7 +84,7 @@
       "tokens": [
         "米がイラン"
       ],
-      "last_seen_utc": "2026-08-31T05:19:11.630622+00:00",
+      "last_seen_utc": "2026-08-31T06:13:48.148463+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "47news",
@@ -96,17 +99,24 @@
     {
       "title": "Iran launches missiles from multiple sites in sweeping regional attack",
       "tokens": [
+        "above",
         "ameri",
+        "army",
         "attac",
         "bases",
         "break",
         "claim",
         "confi",
+        "downe",
         "drone",
+        "eight",
+        "fires",
         "follo",
         "force",
         "guard",
+        "holds",
         "iran",
+        "irgc",
         "jorda",
         "launc",
         "milit",
@@ -115,12 +125,14 @@
         "regio",
         "retal",
         "revol",
+        "says",
         "sites",
         "sourc",
         "strik",
-        "sweep"
+        "sweep",
+        "wti"
       ],
-      "last_seen_utc": "2026-08-31T05:19:11.630622+00:00",
+      "last_seen_utc": "2026-08-31T06:13:48.148463+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "bd24live",
@@ -154,7 +166,7 @@
         "warsh",
         "withi"
       ],
-      "last_seen_utc": "2026-08-31T05:19:11.630622+00:00",
+      "last_seen_utc": "2026-08-31T06:13:48.148463+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "azernews",
