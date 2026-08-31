@@ -514,5 +514,39 @@
       "geo_score": 0,
       "warsh_score": -25
     }
+  },
+  {
+    "timestamp": "2026-08-31T00:04:17.178851+00:00",
+    "gold_price": 4495.5,
+    "momentum_score": 55,
+    "alert_level": "alert",
+    "reasons": [
+      "實質利率下降 -0.070 (+20)",
+      "COT 淨多頭週增 2.19% (報告日 2026-08-25) (+20)",
+      "地緣政治衝擊事件(24小時內): U.S. strikes Iranian missile launchers on Larak Island... (+40)",
+      "華許鷹派發言(24小時內): Fed's Kevin Warsh warns inflation is too high, sparking bets... (-25)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 99.64600372314453,
+        "prev_5d": 99.0,
+        "change_pct": 0.6525290132773043
+      },
+      "vix": {
+        "latest": 14.430000305175781,
+        "prev_5d": 15.130000114440918,
+        "change_pct": -4.626568433380366
+      },
+      "gld": null,
+      "cot": {
+        "report_date": "2026-08-25T00:00:00.000",
+        "net_long": 144747,
+        "prev_net_long": 141648,
+        "change_pct": 2.1878176889190106
+      },
+      "real_rate_5d_change": -0.07000000000000028,
+      "geo_score": 40,
+      "warsh_score": -25
+    }
   }
 ]
