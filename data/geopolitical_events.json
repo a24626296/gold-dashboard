@@ -3,29 +3,48 @@
     {
       "title": "U.S. strikes Iranian missile launchers on Larak Island",
       "tokens": [
+        "air",
+        "attac",
+        "augus",
+        "balli",
+        "base",
+        "bases",
+        "brief",
+        "energ",
         "escal",
         "fires",
         "force",
         "four",
         "heavy",
+        "hits",
+        "hormu",
         "iran",
         "irani",
         "irgc",
         "islan",
         "jazee",
+        "jorda",
         "larak",
+        "lates",
         "launc",
+        "live",
         "missi",
         "news",
         "oil",
         "provi",
+        "repor",
         "retal",
+        "strai",
         "strik",
         "struc",
+        "targe",
         "two",
-        "vows"
+        "vows",
+        "war",
+        "warns",
+        "world"
       ],
-      "last_seen_utc": "2026-08-30T22:17:37.124334+00:00",
+      "last_seen_utc": "2026-08-31T00:42:55.999643+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "investinglive",
@@ -42,7 +61,7 @@
       "tokens": [
         "米がイラン"
       ],
-      "last_seen_utc": "2026-08-30T22:17:37.124334+00:00",
+      "last_seen_utc": "2026-08-31T00:42:55.999643+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "47news",
@@ -53,6 +72,44 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VVjJoZGFWQWc0SVJLaHczb1QyNHlYT0hxZXFhYXFTYUNzSnl4NGRkUFJJUVdvNnd1U3hpSUVoYjlDUEZrR2k2N25Oaw?oc=5",
       "short_link": "https://tinyurl.com/2b46rshe"
+    },
+    {
+      "title": "Iran launches missiles from multiple sites in sweeping regional attack",
+      "tokens": [
+        "ameri",
+        "attac",
+        "bases",
+        "claim",
+        "confi",
+        "drone",
+        "follo",
+        "force",
+        "guard",
+        "iran",
+        "jorda",
+        "launc",
+        "milit",
+        "missi",
+        "multi",
+        "regio",
+        "retal",
+        "revol",
+        "sites",
+        "sourc",
+        "strik",
+        "sweep"
+      ],
+      "last_seen_utc": "2026-08-31T00:42:55.999643+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "bd24live",
+        "fox news",
+        "just the news",
+        "the times of israel",
+        "trt world"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91M0hnTUhYQnl2ZWExLWdyT2dYRnZwVGI4eEIzVUQ5Y3FWanpQX3U1b25XOWpkWF9VdzFjTFExa2k2eVoxRHVzZTdXVm90NjBJcDA0aFlMLU8?oc=5",
+      "short_link": "https://tinyurl.com/2655cbu6"
     }
   ]
 }
