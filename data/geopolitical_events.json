@@ -10,6 +10,7 @@
         "augus",
         "back",
         "balli",
+        "barra",
         "base",
         "bases",
         "basse",
@@ -19,6 +20,7 @@
         "drone",
         "energ",
         "escal",
+        "explo",
         "fear",
         "fires",
         "force",
@@ -28,6 +30,7 @@
         "heavy",
         "hits",
         "hormu",
+        "hours",
         "iran",
         "irani",
         "irgc",
@@ -59,6 +62,7 @@
         "targe",
         "tehra",
         "treas",
+        "trigg",
         "two",
         "uae",
         "vows",
@@ -67,7 +71,7 @@
         "weekl",
         "world"
       ],
-      "last_seen_utc": "2026-08-31T06:13:48.148463+00:00",
+      "last_seen_utc": "2026-08-31T13:53:12.021275+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "investinglive",
@@ -84,7 +88,7 @@
       "tokens": [
         "米がイラン"
       ],
-      "last_seen_utc": "2026-08-31T06:13:48.148463+00:00",
+      "last_seen_utc": "2026-08-31T13:53:12.021275+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "47news",
@@ -106,18 +110,23 @@
         "bases",
         "break",
         "claim",
+        "conde",
         "confi",
         "downe",
         "drone",
         "eight",
+        "expre",
         "fires",
         "follo",
         "force",
+        "full",
         "guard",
         "holds",
         "iran",
+        "irani",
         "irgc",
         "jorda",
+        "kuwai",
         "launc",
         "milit",
         "missi",
@@ -127,12 +136,16 @@
         "revol",
         "says",
         "sites",
+        "solid",
         "sourc",
         "strik",
+        "stron",
         "sweep",
+        "targe",
+        "uae",
         "wti"
       ],
-      "last_seen_utc": "2026-08-31T06:13:48.148463+00:00",
+      "last_seen_utc": "2026-08-31T13:53:12.021275+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "bd24live",
@@ -166,7 +179,7 @@
         "warsh",
         "withi"
       ],
-      "last_seen_utc": "2026-08-31T06:13:48.148463+00:00",
+      "last_seen_utc": "2026-08-31T13:53:12.021275+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "azernews",
@@ -175,6 +188,31 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tdDUtb2llNl9XUzVzVVZ2cHdCdzlRM0hTeHpNU0xuaUVwQjZtdVdlc0RpUWlEb1ZKeHRfQlJ3bUc0LUpaMzJ4Q0tYVHZfYzBQbDRkYVFQSlhrb3doMFlFZWVYcEQ?oc=5",
       "short_link": "https://tinyurl.com/2b4erkyu"
+    },
+    {
+      "title": "UAE denies reports of missile attack on Al Minhad air base",
+      "tokens": [
+        "air",
+        "attac",
+        "base",
+        "claim",
+        "denie",
+        "minha",
+        "missi",
+        "refut",
+        "repor",
+        "says",
+        "uae"
+      ],
+      "last_seen_utc": "2026-08-31T13:53:12.021275+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "free press kashmir",
+        "gulf news",
+        "thenationalnews.com"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSVY4YjFENjNpYVpzTTE2MmdLTV91aDdBbWtYX0YwOTdtNGR4aVhsd1NvTGpKdlE4ZnROX1FYeC1sNUxzdkItYk43R2QxaWZnRlRraHhEc3hqZzE1Ym9PRmhiMDVfZXhZSUJEcHRZMV85aC1ZdzRrNlI0eDF6VTNMVTRFejZIOWtDQkw2UlpVeFVNT1JUNDBhbnhlWUR2d3FOMzc1TU5Kd9IBpwFBVV95cUxOSVY4YjFENjNpYVpzTTE2MmdLTV91aDdBbWtYX0YwOTdtNGR4aVhsd1NvTGpKdlE4ZnROX1FYeC1sNUxzdkItYk43R2QxaWZnRlRraHhEc3hqZzE1Ym9PRmhiMDVfZXhZSUJEcHRZMV85aC1ZdzRrNlI0eDF6VTNMVTRFejZIOWtDQkw2UlpVeFVNT1JUNDBhbnhlWUR2d3FOMzc1TU5Kdw?oc=5",
+      "short_link": "https://tinyurl.com/269dpdub"
     }
   ]
 }
