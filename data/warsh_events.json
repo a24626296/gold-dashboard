@@ -276,7 +276,7 @@
         "worry",
         "would"
       ],
-      "last_seen_utc": "2026-08-31T05:19:19.744157+00:00",
+      "last_seen_utc": "2026-08-31T06:13:55.831493+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "abc news - breaking news, latest news and videos",
@@ -400,7 +400,7 @@
         "華許重拾抗",
         "華許點燃9"
       ],
-      "last_seen_utc": "2026-08-31T00:43:04.458047+00:00",
+      "last_seen_utc": "2026-08-31T06:13:55.831493+00:00",
       "confidence": "LIKELY",
       "sources": [
         "世界新聞網",
@@ -435,7 +435,7 @@
         "聯準會凱文",
         "華許暗示升"
       ],
-      "last_seen_utc": "2026-08-31T05:19:19.744157+00:00",
+      "last_seen_utc": "2026-08-31T06:13:55.831493+00:00",
       "confidence": "LIKELY",
       "sources": [
         "商傳媒",
@@ -448,7 +448,9 @@
       "title": "Gold drops as Fed's Warsh comments lift rate hike bets",
       "stance": "hawkish",
       "tokens": [
+        "2026",
         "450",
+        "above",
         "addre",
         "advis",
         "below",
@@ -457,11 +459,14 @@
         "chair",
         "comme",
         "conce",
+        "debut",
         "divid",
         "drops",
         "faces",
         "falls",
+        "fears",
         "fed",
+        "feder",
         "focus",
         "fuel",
         "gold",
@@ -480,11 +485,13 @@
         "odds",
         "other",
         "piles",
+        "pushe",
         "raise",
         "rate",
         "reall",
         "remar",
         "renew",
+        "reser",
         "reviv",
         "rise",
         "sachs",
@@ -505,9 +512,10 @@
         "wall",
         "warsh",
         "what",
-        "would"
+        "would",
+        "wraps"
       ],
-      "last_seen_utc": "2026-08-31T05:19:19.744157+00:00",
+      "last_seen_utc": "2026-08-31T06:13:55.831493+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "cnbc",
@@ -525,7 +533,7 @@
         "全球財經",
         "開盤前先回"
       ],
-      "last_seen_utc": "2026-08-31T05:19:19.744157+00:00",
+      "last_seen_utc": "2026-08-31T06:13:55.831493+00:00",
       "confidence": "LIKELY",
       "sources": [
         "udn",
@@ -583,7 +591,7 @@
         "聯準會恐重",
         "華許放鷹"
       ],
-      "last_seen_utc": "2026-08-31T00:43:04.458047+00:00",
+      "last_seen_utc": "2026-08-31T06:13:55.831493+00:00",
       "confidence": "LIKELY",
       "sources": [
         "yahoo股市",
@@ -663,7 +671,7 @@
         "華許放鷹",
         "華許露鷹爪"
       ],
-      "last_seen_utc": "2026-08-31T05:19:19.744157+00:00",
+      "last_seen_utc": "2026-08-31T06:13:55.831493+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "台灣大紀元",
@@ -698,7 +706,7 @@
         "while",
         "yield"
       ],
-      "last_seen_utc": "2026-08-31T05:19:19.744157+00:00",
+      "last_seen_utc": "2026-08-31T06:13:55.831493+00:00",
       "confidence": "LIKELY",
       "sources": [
         "investing.com",
@@ -711,28 +719,37 @@
       "title": "Fed chair Warsh’s hawkish Jackson Hole turn favours soaring banks over struggling S-Reits",
       "stance": "hawkish",
       "tokens": [
+        "2026",
         "banks",
         "chair",
         "could",
         "expec",
+        "eye",
         "favou",
         "fed",
+        "goldm",
         "hawki",
+        "hold",
         "hole",
         "infla",
         "jacks",
         "marke",
         "reits",
         "resha",
+        "sachs",
+        "sees",
         "shift",
         "signa",
         "soari",
+        "still",
         "strug",
+        "stumb",
+        "tone",
         "turn",
         "warsh",
         "why"
       ],
-      "last_seen_utc": "2026-08-31T05:19:19.744157+00:00",
+      "last_seen_utc": "2026-08-31T06:13:55.831493+00:00",
       "confidence": "LIKELY",
       "sources": [
         "azat tv",
@@ -826,7 +843,7 @@
         "前fed副",
         "華許最終還"
       ],
-      "last_seen_utc": "2026-08-31T05:19:19.744157+00:00",
+      "last_seen_utc": "2026-08-31T06:13:55.831493+00:00",
       "confidence": "LIKELY",
       "sources": [
         "yahoo股市",
@@ -851,7 +868,7 @@
         "warsh",
         "year"
       ],
-      "last_seen_utc": "2026-08-31T05:19:19.744157+00:00",
+      "last_seen_utc": "2026-08-31T06:13:55.831493+00:00",
       "confidence": "LIKELY",
       "sources": [
         "reuters"
@@ -876,7 +893,7 @@
         "tone",
         "warsh"
       ],
-      "last_seen_utc": "2026-08-31T05:19:19.744157+00:00",
+      "last_seen_utc": "2026-08-31T06:13:55.831493+00:00",
       "confidence": "LIKELY",
       "sources": [
         "the business times",
