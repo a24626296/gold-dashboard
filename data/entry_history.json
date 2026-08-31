@@ -83,5 +83,22 @@
       "latest_close": NaN,
       "volume_ratio": 2.26214122494884
     }
+  },
+  {
+    "timestamp": "2026-08-31T00:04:18.729983+00:00",
+    "gold_price": 4495.5,
+    "entry_score": 25,
+    "entry_level": "watch",
+    "reasons": [
+      "GLD 成交量放大至20日均量 2.32 倍,且金價上漲 (+25)"
+    ],
+    "detail": {
+      "rsi": 57.50616248697845,
+      "macd": 103.33961235375773,
+      "macd_signal": 103.33941291810694,
+      "high_20d": 4640.7998046875,
+      "latest_close": 4495.5,
+      "volume_ratio": 2.323649910867812
+    }
   }
 ]
