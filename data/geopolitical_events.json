@@ -3,18 +3,28 @@
     {
       "title": "U.S. strikes Iranian missile launchers on Larak Island",
       "tokens": [
+        "again",
         "air",
+        "ameri",
         "attac",
         "augus",
+        "back",
         "balli",
         "base",
         "bases",
+        "basse",
         "brief",
+        "claim",
+        "confi",
+        "drone",
         "energ",
         "escal",
+        "fear",
         "fires",
         "force",
         "four",
+        "fresh",
+        "guard",
         "heavy",
         "hits",
         "hormu",
@@ -28,23 +38,33 @@
         "lates",
         "launc",
         "live",
+        "major",
+        "milit",
         "missi",
         "news",
         "oil",
         "provi",
         "repor",
         "retal",
+        "revol",
+        "sanct",
+        "ships",
+        "signa",
+        "spark",
         "strai",
         "strik",
         "struc",
         "targe",
+        "tehra",
+        "treas",
         "two",
         "vows",
         "war",
         "warns",
+        "weekl",
         "world"
       ],
-      "last_seen_utc": "2026-08-31T00:42:55.999643+00:00",
+      "last_seen_utc": "2026-08-31T05:19:11.630622+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "investinglive",
@@ -61,7 +81,7 @@
       "tokens": [
         "米がイラン"
       ],
-      "last_seen_utc": "2026-08-31T00:42:55.999643+00:00",
+      "last_seen_utc": "2026-08-31T05:19:11.630622+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "47news",
@@ -79,6 +99,7 @@
         "ameri",
         "attac",
         "bases",
+        "break",
         "claim",
         "confi",
         "drone",
@@ -99,7 +120,7 @@
         "strik",
         "sweep"
       ],
-      "last_seen_utc": "2026-08-31T00:42:55.999643+00:00",
+      "last_seen_utc": "2026-08-31T05:19:11.630622+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "bd24live",
@@ -110,6 +131,38 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91M0hnTUhYQnl2ZWExLWdyT2dYRnZwVGI4eEIzVUQ5Y3FWanpQX3U1b25XOWpkWF9VdzFjTFExa2k2eVoxRHVzZTdXVm90NjBJcDA0aFlMLU8?oc=5",
       "short_link": "https://tinyurl.com/2655cbu6"
+    },
+    {
+      "title": "Iran Retaliates Within a Day of Attack... Fires Missiles at U.S. Warships in the Strait of Hormuz (Comprehensive)",
+      "tokens": [
+        "alleg",
+        "attac",
+        "compr",
+        "day",
+        "fire",
+        "fires",
+        "hormu",
+        "iran",
+        "irgc",
+        "islan",
+        "lark",
+        "missi",
+        "respo",
+        "retal",
+        "strai",
+        "vows",
+        "warsh",
+        "withi"
+      ],
+      "last_seen_utc": "2026-08-31T05:19:11.630622+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "azernews",
+        "the new york times",
+        "아시아경제"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tdDUtb2llNl9XUzVzVVZ2cHdCdzlRM0hTeHpNU0xuaUVwQjZtdVdlc0RpUWlEb1ZKeHRfQlJ3bUc0LUpaMzJ4Q0tYVHZfYzBQbDRkYVFQSlhrb3doMFlFZWVYcEQ?oc=5",
+      "short_link": "https://tinyurl.com/2b4erkyu"
     }
   ]
 }
