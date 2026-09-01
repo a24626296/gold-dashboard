@@ -236,17 +236,23 @@
         "lark",
         "launc",
         "missi",
+        "month",
+        "multi",
         "presi",
+        "regio",
         "respo",
         "retal",
         "rocke",
         "says",
         "send",
         "share",
+        "sites",
         "strai",
         "strik",
         "struc",
+        "sweep",
         "tehra",
+        "trade",
         "trigg",
         "trump",
         "video",
@@ -256,7 +262,7 @@
         "withi",
         "азия"
       ],
-      "last_seen_utc": "2026-09-01T07:47:45.404674+00:00",
+      "last_seen_utc": "2026-09-01T12:56:43.941046+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "azernews",
@@ -323,7 +329,7 @@
         "times",
         "union"
       ],
-      "last_seen_utc": "2026-09-01T07:47:45.404674+00:00",
+      "last_seen_utc": "2026-09-01T12:56:43.941046+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "firstpost",
@@ -362,7 +368,7 @@
         "uae",
         "vows"
       ],
-      "last_seen_utc": "2026-09-01T07:47:45.404674+00:00",
+      "last_seen_utc": "2026-09-01T12:56:43.941046+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "8am media",
@@ -397,6 +403,34 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1PQnlrUDZVNUdicnZrQXUyTjk0LW1zc1JfUGtiQnVhdjFDVDFFZlNNTGQ3blR1WFNmc0JneWRtNVBBeldRaXlISnB3?oc=5",
       "short_link": "https://tinyurl.com/297cdsw6"
+    },
+    {
+      "title": "Iran Fires Ballistic Missiles at U.S. Bases in Jordan After Larak Island Strike",
+      "tokens": [
+        "balli",
+        "base",
+        "bases",
+        "escal",
+        "fires",
+        "iran",
+        "islan",
+        "jorda",
+        "larak",
+        "missi",
+        "spark",
+        "strik",
+        "tensi",
+        "threa"
+      ],
+      "last_seen_utc": "2026-09-01T12:56:43.941046+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "jfeed",
+        "ratopati",
+        "sofx"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc0ZXYjNkV0xxSVpDVmc0WFByMVZ3RExWenpYUW90SU1uS1phVm9UekRNdEY0T184elR3QzFsNE5sNFZmSmdjZnBkY2hwSWlMN2dmZWVUY2NFRUlmRjRpbnpnT29oaE9qTWg4QWp2NDlaa0FJQ2U1QVk1SVhFMlE5M0tTRXlqTkJwS3F0QzVQUXZyY3NvdnFKZDEwY1ZSV0tZNlE?oc=5",
+      "short_link": "https://tinyurl.com/2bpd5x7e"
     }
   ]
 }
