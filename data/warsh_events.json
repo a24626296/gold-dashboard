@@ -401,7 +401,7 @@
         "華許重拾抗",
         "華許點燃9"
       ],
-      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
+      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
       "confidence": "LIKELY",
       "sources": [
         "世界新聞網",
@@ -563,10 +563,17 @@
       "title": "In closely watched speech, Warsh signals Fed may need to raise rates",
       "stance": "hawkish",
       "tokens": [
+        "7150",
         "above",
         "ameri",
+        "aud",
+        "austr",
         "chair",
+        "china",
         "close",
+        "cuts",
+        "data",
+        "dolla",
         "eleva",
         "fed",
         "focus",
@@ -584,31 +591,40 @@
         "kevin",
         "key",
         "linge",
+        "loom",
         "low",
         "marke",
         "may",
         "need",
         "neede",
         "odds",
+        "pmi",
+        "possi",
         "raise",
         "rate",
         "rates",
         "remai",
         "rise",
+        "sept",
         "septe",
         "signa",
+        "slips",
+        "soon",
         "speec",
         "stays",
         "stock",
         "stubb",
         "table",
         "targe",
+        "towar",
         "two",
+        "usd",
         "warsh",
         "watch",
+        "weake",
         "week"
       ],
-      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
+      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "pensions & investments",
@@ -709,7 +725,7 @@
         "華許放鷹",
         "華許露鷹爪"
       ],
-      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
+      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "台灣大紀元",
@@ -797,6 +813,7 @@
         "appro",
         "banks",
         "barcl",
+        "bets",
         "call",
         "calli",
         "can",
@@ -806,8 +823,10 @@
         "deliv",
         "expec",
         "eye",
+        "far",
         "favou",
         "fed",
+        "fight",
         "follo",
         "forec",
         "goldm",
@@ -824,6 +843,7 @@
         "more",
         "now",
         "odds",
+        "predi",
         "quiet",
         "rate",
         "reits",
@@ -849,7 +869,7 @@
         "work",
         "year"
       ],
-      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
+      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
       "confidence": "LIKELY",
       "sources": [
         "azat tv",
@@ -882,7 +902,7 @@
         "warsh",
         "wraps"
       ],
-      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
+      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
       "confidence": "LIKELY",
       "sources": [
         "crypto briefing",
@@ -920,7 +940,7 @@
         "warsh",
         "way"
       ],
-      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
+      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
       "confidence": "LIKELY",
       "sources": [
         "coin gabbar",
@@ -985,7 +1005,7 @@
         "warsh",
         "year"
       ],
-      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
+      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
       "confidence": "LIKELY",
       "sources": [
         "reuters"
@@ -1018,7 +1038,7 @@
         "tone",
         "warsh"
       ],
-      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
+      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
       "confidence": "LIKELY",
       "sources": [
         "the business times",
@@ -1249,7 +1269,7 @@
         "work",
         "year"
       ],
-      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
+      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "bitcoin world",
@@ -1286,7 +1306,7 @@
         "under",
         "warsh"
       ],
-      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
+      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
       "confidence": "LIKELY",
       "sources": [
         "crypto briefing",
@@ -1305,7 +1325,7 @@
         "華許溝通風",
         "豐雲學堂"
       ],
-      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
+      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cmoney",
@@ -1322,7 +1342,7 @@
         "聯準會華許",
         "資金持續流"
       ],
-      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
+      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
       "confidence": "LIKELY",
       "sources": [
         "winnews.com.tw",
@@ -1336,17 +1356,37 @@
       "stance": "hawkish",
       "tokens": [
         "await",
+        "bets",
+        "boost",
         "clari",
         "debat",
         "dolla",
         "fed",
+        "fuels",
+        "goldm",
+        "hawki",
         "hike",
+        "hole",
+        "jacks",
+        "news",
+        "odds",
+        "other",
         "rate",
         "reviv",
+        "rise",
+        "sachs",
+        "sayin",
+        "septe",
+        "signa",
+        "soar",
+        "specu",
         "speec",
-        "warsh"
+        "stanc",
+        "stati",
+        "warsh",
+        "what"
       ],
-      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
+      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
       "confidence": "LIKELY",
       "sources": [
         "bitcoin world",
@@ -1389,8 +1429,10 @@
       "tokens": [
         "borro",
         "costs",
+        "cut",
         "cuts",
         "doesn",
+        "fears",
         "fed",
         "fuel",
         "growt",
@@ -1398,13 +1440,15 @@
         "lowes",
         "press",
         "rate",
+        "rates",
+        "rejec",
         "says",
         "shoul",
         "trump",
         "warsh",
         "world"
       ],
-      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
+      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
       "confidence": "LIKELY",
       "sources": [
         "bloomingbit",
@@ -1433,7 +1477,7 @@
         "warsh",
         "weake"
       ],
-      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
+      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cryptorank",
@@ -1453,7 +1497,7 @@
         "股市爆料同",
         "華許剛轉鷹"
       ],
-      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
+      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cmoney",
@@ -1470,7 +1514,7 @@
         "小摩交易員",
         "華許鷹派發"
       ],
-      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
+      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
       "confidence": "LIKELY",
       "sources": [
         "news.cnyes.com",
@@ -1478,6 +1522,115 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40R1JleU4tUWF4NnpkZE1hMnBIRnhZRTZvazlrUEU5Y09JRnJoSUZDWUpZV2hVRDBQeVNGbFNRWVdDRDVCRjNTdENMOA?oc=5",
       "short_link": "https://tinyurl.com/2dkmgza8"
+    },
+    {
+      "title": "WATCH: Trump says Fed Chair Warsh will 'do what he has to do' on possible rate hikes",
+      "stance": "hawkish",
+      "tokens": [
+        "about",
+        "chair",
+        "debut",
+        "didn",
+        "fed",
+        "hikes",
+        "hole",
+        "jacks",
+        "possi",
+        "rate",
+        "said",
+        "say",
+        "says",
+        "trump",
+        "warsh",
+        "watch",
+        "what",
+        "will"
+      ],
+      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "pbs",
+        "the globe and mail"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVlN2dE44RDRlTjdOSXBEbXJ6V0xiWEVPTlBGWGo0Sy1KZ2lIemhoQTJQTmJWRXNrYm5zTGl1YXVwX2NqSFhBdGhlZmlaOXd0dVl0eUNlNzMzNUdEbGV0NnlnRWNiV056RUFzOTR5NVhWdW5XbnU5VkRydFJNOTRlSDQ5VUhIWlM5TWRfeEwxanU2OVJSOU8tYnZwNTd6bmotMkFtZ0g0ZE5wVWlVR3ZZTUlHY0hxR0x6d3Nr0gHAAUFVX3lxTE9mb0NkNVo5NWxYa1RlQl9ub3NXMjFiZmhzaXZERm1iLUV4dXdsX2d1dFR1dDl1cklXVUpoWHNWaFhSNVBEWDNZYm5sSjdhTGZRZFQ1ZksyeXR3b0NKVEk4MWhnV0loMlhVZGNZMGl5SzZiNVIwNXVCejRiREg1YUpHSUppV1NWTjBPNEVPQ1NfZFlkSXFJRElVU2F6UjlRSXNfQVUzRW5nTGhzR21Da0NwSXBHcV9CQkx2RUVKbXdIbg?oc=5",
+      "short_link": "https://tinyurl.com/2adaqwks"
+    },
+    {
+      "title": "The Odds of a September Rate Hike Have Nearly Doubled, Courtesy of Fed Chair Kevin Warsh -- Here's What He Just Said",
+      "stance": "hawkish",
+      "tokens": [
+        "2027",
+        "chair",
+        "cola",
+        "conce",
+        "could",
+        "court",
+        "doubl",
+        "fed",
+        "here",
+        "hike",
+        "infla",
+        "just",
+        "kevin",
+        "mean",
+        "nearl",
+        "new",
+        "odds",
+        "raise",
+        "rate",
+        "said",
+        "secur",
+        "septe",
+        "socia",
+        "warsh",
+        "what",
+        "your"
+      ],
+      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "the globe and mail",
+        "the motley fool"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQR1dTek5Ccm5XaXdMSldDVEV1cHQ5a0taOFZ0T1d4U0dGTFo2N2l5dVIyaXdsZVNHQy1uQ1JucVRIQzVrdlBNUUdBbGV3M3NVNkhYSzJPWmhaUUpPcTlVVGtoRFhTVW5jSjg3bGV3QS1MOUsxdklfTlpZbHJHY05sVGJzaHQ0OGNmVThvLUFVcnVRV25zd3ZFTmkzWUJVcVJSMXd4UThFYjVZZUs0cDlaNUYwNll0c05Nd3pvYzBTdEVRMV9SdlNCX1dJa3cwa0tRTFM0dFF6NnRpNkJGZHpiNDJtMng2bGJzSW43V3lZVkh0QW5aT3FVMV9VWE5TaEhPRzdFWFFCSDdRbVhlaTRPeWJlVlVaRG1RN2ow?oc=5",
+      "short_link": "https://tinyurl.com/28sqc9ea"
+    },
+    {
+      "title": "Warsh fans Fed rate hike bets, crude up on US-Iran strikes",
+      "stance": "hawkish",
+      "tokens": [
+        "500",
+        "arca",
+        "back",
+        "bets",
+        "could",
+        "crude",
+        "etf",
+        "fans",
+        "fed",
+        "force",
+        "hawk",
+        "hike",
+        "infla",
+        "iran",
+        "rate",
+        "says",
+        "spdr",
+        "spy",
+        "state",
+        "stree",
+        "strik",
+        "trust",
+        "warsh"
+      ],
+      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "benefits and pensions monitor",
+        "hürriyet daily news"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS3YzM3FPTFNUd29ENUxKSm5CTlA0WGZKb3JGUzZTM1BaNE5pal9LOXlvYlphZXo0YmxTVGFQM0VPZlowTC0xLU1Jb19Bb1MxVzR6SWROQTRRUGR2Uldzd1NyUl9GTFREYkF3S0N2anRneUVyQzlDS2FQajlCMlF5TWxjcUpxZTRYSExPQ3k0dVZYdHhrWXhxdFdrX2x2NUE?oc=5",
+      "short_link": "https://tinyurl.com/29n7po8b"
     }
   ]
 }
