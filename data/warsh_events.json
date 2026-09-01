@@ -401,7 +401,7 @@
         "華許重拾抗",
         "華許點燃9"
       ],
-      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
+      "last_seen_utc": "2026-09-01T17:08:18.611934+00:00",
       "confidence": "LIKELY",
       "sources": [
         "世界新聞網",
@@ -458,13 +458,16 @@
         "below",
         "bets",
         "boost",
+        "but",
         "chair",
         "comme",
         "conce",
         "could",
+        "court",
         "crude",
         "debut",
         "divid",
+        "doubl",
         "drop",
         "drops",
         "expec",
@@ -480,20 +483,26 @@
         "gold",
         "goldm",
         "hawki",
+        "here",
         "hike",
         "hole",
         "infla",
+        "inves",
         "iran",
         "jacks",
+        "just",
         "kedia",
         "kevin",
         "lift",
         "lifts",
+        "marke",
         "miran",
+        "nearl",
         "news",
         "now",
         "odds",
         "other",
+        "past",
         "piles",
         "predi",
         "price",
@@ -504,10 +513,12 @@
         "remar",
         "renew",
         "reser",
+        "resol",
         "retre",
         "reviv",
         "rise",
         "sachs",
+        "said",
         "sayin",
         "says",
         "septe",
@@ -524,15 +535,17 @@
         "stran",
         "stree",
         "strik",
+        "test",
         "tone",
         "veter",
         "wall",
         "warsh",
         "what",
         "would",
-        "wraps"
+        "wraps",
+        "wrong"
       ],
-      "last_seen_utc": "2026-08-31T13:53:20.072001+00:00",
+      "last_seen_utc": "2026-09-01T17:08:18.611934+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "cnbc",
@@ -624,7 +637,7 @@
         "weake",
         "week"
       ],
-      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
+      "last_seen_utc": "2026-09-01T17:08:18.611934+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "pensions & investments",
@@ -725,7 +738,7 @@
         "華許放鷹",
         "華許露鷹爪"
       ],
-      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
+      "last_seen_utc": "2026-09-01T17:08:18.611934+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "台灣大紀元",
@@ -795,7 +808,7 @@
         "would",
         "yield"
       ],
-      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
+      "last_seen_utc": "2026-09-01T17:08:18.611934+00:00",
       "confidence": "LIKELY",
       "sources": [
         "investing.com",
@@ -809,18 +822,24 @@
       "stance": "hawkish",
       "tokens": [
         "2026",
+        "about",
         "adds",
         "appro",
         "banks",
         "barcl",
         "bets",
+        "bitco",
         "call",
         "calli",
         "can",
         "chair",
         "comme",
+        "corre",
         "could",
+        "cuts",
+        "debut",
         "deliv",
+        "didn",
         "expec",
         "eye",
         "far",
@@ -829,6 +848,7 @@
         "fight",
         "follo",
         "forec",
+        "fuels",
         "goldm",
         "hawki",
         "hike",
@@ -843,6 +863,7 @@
         "more",
         "now",
         "odds",
+        "possi",
         "predi",
         "quiet",
         "rate",
@@ -850,11 +871,17 @@
         "remar",
         "repor",
         "resha",
+        "risks",
         "sachs",
+        "said",
+        "say",
         "sees",
+        "septe",
         "shift",
         "signa",
         "soari",
+        "soon",
+        "specu",
         "speec",
         "still",
         "strug",
@@ -865,11 +892,12 @@
         "two",
         "warni",
         "warsh",
+        "what",
         "why",
         "work",
         "year"
       ],
-      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
+      "last_seen_utc": "2026-09-01T17:08:18.611934+00:00",
       "confidence": "LIKELY",
       "sources": [
         "azat tv",
@@ -902,7 +930,7 @@
         "warsh",
         "wraps"
       ],
-      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
+      "last_seen_utc": "2026-09-01T17:08:18.611934+00:00",
       "confidence": "LIKELY",
       "sources": [
         "crypto briefing",
@@ -1005,7 +1033,7 @@
         "warsh",
         "year"
       ],
-      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
+      "last_seen_utc": "2026-09-01T17:08:18.611934+00:00",
       "confidence": "LIKELY",
       "sources": [
         "reuters"
@@ -1038,7 +1066,7 @@
         "tone",
         "warsh"
       ],
-      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
+      "last_seen_utc": "2026-09-01T17:08:18.611934+00:00",
       "confidence": "LIKELY",
       "sources": [
         "the business times",
@@ -1269,7 +1297,7 @@
         "work",
         "year"
       ],
-      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
+      "last_seen_utc": "2026-09-01T17:08:18.611934+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "bitcoin world",
@@ -1306,7 +1334,7 @@
         "under",
         "warsh"
       ],
-      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
+      "last_seen_utc": "2026-09-01T17:08:18.611934+00:00",
       "confidence": "LIKELY",
       "sources": [
         "crypto briefing",
@@ -1325,7 +1353,7 @@
         "華許溝通風",
         "豐雲學堂"
       ],
-      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
+      "last_seen_utc": "2026-09-01T17:08:18.611934+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cmoney",
@@ -1342,7 +1370,7 @@
         "聯準會華許",
         "資金持續流"
       ],
-      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
+      "last_seen_utc": "2026-09-01T17:08:18.611934+00:00",
       "confidence": "LIKELY",
       "sources": [
         "winnews.com.tw",
@@ -1386,7 +1414,7 @@
         "warsh",
         "what"
       ],
-      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
+      "last_seen_utc": "2026-09-01T17:08:18.611934+00:00",
       "confidence": "LIKELY",
       "sources": [
         "bitcoin world",
@@ -1448,7 +1476,7 @@
         "warsh",
         "world"
       ],
-      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
+      "last_seen_utc": "2026-09-01T17:08:18.611934+00:00",
       "confidence": "LIKELY",
       "sources": [
         "bloomingbit",
@@ -1461,7 +1489,9 @@
       "title": "Silver Price Drops to Near $66.00 as Fed Chair Warsh’s Hawkish Stance Strengthens Dollar",
       "stance": "hawkish",
       "tokens": [
+        "bolst",
         "chair",
+        "dbs",
         "dolla",
         "drops",
         "fed",
@@ -1477,7 +1507,7 @@
         "warsh",
         "weake"
       ],
-      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
+      "last_seen_utc": "2026-09-01T17:08:18.611934+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cryptorank",
@@ -1497,7 +1527,7 @@
         "股市爆料同",
         "華許剛轉鷹"
       ],
-      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
+      "last_seen_utc": "2026-09-01T17:08:18.611934+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cmoney",
@@ -1514,7 +1544,7 @@
         "小摩交易員",
         "華許鷹派發"
       ],
-      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
+      "last_seen_utc": "2026-09-01T17:08:18.611934+00:00",
       "confidence": "LIKELY",
       "sources": [
         "news.cnyes.com",
@@ -1528,25 +1558,34 @@
       "stance": "hawkish",
       "tokens": [
         "about",
+        "advis",
         "chair",
+        "conta",
         "debut",
         "didn",
+        "drops",
         "fed",
+        "gold",
         "hikes",
         "hole",
+        "infla",
         "jacks",
+        "kedia",
+        "nikke",
         "possi",
         "rate",
         "said",
         "say",
         "says",
+        "signa",
         "trump",
+        "tumbl",
         "warsh",
         "watch",
         "what",
         "will"
       ],
-      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
+      "last_seen_utc": "2026-09-01T17:08:18.611934+00:00",
       "confidence": "LIKELY",
       "sources": [
         "pbs",
@@ -1586,7 +1625,7 @@
         "what",
         "your"
       ],
-      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
+      "last_seen_utc": "2026-09-01T17:08:18.611934+00:00",
       "confidence": "LIKELY",
       "sources": [
         "the globe and mail",
@@ -1623,7 +1662,7 @@
         "trust",
         "warsh"
       ],
-      "last_seen_utc": "2026-09-01T12:56:52.051881+00:00",
+      "last_seen_utc": "2026-09-01T17:08:18.611934+00:00",
       "confidence": "LIKELY",
       "sources": [
         "benefits and pensions monitor",
