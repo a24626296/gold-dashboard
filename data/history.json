@@ -582,5 +582,38 @@
       "geo_score": 40,
       "warsh_score": -25
     }
+  },
+  {
+    "timestamp": "2026-09-01T23:41:53.814151+00:00",
+    "gold_price": 4378.0,
+    "momentum_score": 35,
+    "alert_level": "watch",
+    "reasons": [
+      "COT 淨多頭週增 2.19% (報告日 2026-08-25) (+20)",
+      "地緣政治衝擊事件(24小時內): Iran Fires Ballistic Missiles at U.S. Bases in Jordan After ... (+40)",
+      "華許鷹派發言(24小時內): 華許重拾抗通膨公信力 卻把自己逼進9月升息死角 | 國際焦點 | 國際... (-25)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 99.66500091552734,
+        "prev_5d": 99.0,
+        "change_pct": 0.6717180964922664
+      },
+      "vix": {
+        "latest": 16.34000015258789,
+        "prev_5d": 15.850000381469727,
+        "change_pct": 3.09148113138864
+      },
+      "gld": null,
+      "cot": {
+        "report_date": "2026-08-25T00:00:00.000",
+        "net_long": 144747,
+        "prev_net_long": 141648,
+        "change_pct": 2.1878176889190106
+      },
+      "real_rate_5d_change": 0.029999999999999805,
+      "geo_score": 40,
+      "warsh_score": -25
+    }
   }
 ]
