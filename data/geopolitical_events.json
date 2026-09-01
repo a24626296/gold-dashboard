@@ -186,7 +186,7 @@
         "vows",
         "wti"
       ],
-      "last_seen_utc": "2026-08-31T23:32:43.831300+00:00",
+      "last_seen_utc": "2026-09-01T02:03:06.706238+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "bd24live",
@@ -203,20 +203,24 @@
       "tokens": [
         "again",
         "alleg",
+        "ameri",
         "attac",
         "barra",
         "bases",
         "compr",
         "day",
         "depic",
+        "drone",
         "explo",
         "fire",
         "fires",
         "force",
+        "frien",
         "hard",
         "heavy",
         "hit",
         "hormu",
+        "insta",
         "iran",
         "irani",
         "irgc",
@@ -230,19 +234,24 @@
         "presi",
         "respo",
         "retal",
+        "rocke",
         "says",
+        "send",
         "share",
         "strai",
         "strik",
+        "struc",
+        "tehra",
         "trigg",
         "trump",
         "video",
         "vows",
         "warsh",
         "will",
-        "withi"
+        "withi",
+        "азия"
       ],
-      "last_seen_utc": "2026-08-31T23:32:43.831300+00:00",
+      "last_seen_utc": "2026-09-01T02:03:06.706238+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "azernews",
@@ -267,7 +276,7 @@
         "says",
         "uae"
       ],
-      "last_seen_utc": "2026-08-31T23:32:43.831300+00:00",
+      "last_seen_utc": "2026-09-01T02:03:06.706238+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "free press kashmir",
@@ -303,7 +312,7 @@
         "site",
         "strik"
       ],
-      "last_seen_utc": "2026-08-31T23:32:43.831300+00:00",
+      "last_seen_utc": "2026-09-01T02:03:06.706238+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "firstpost",
@@ -342,7 +351,7 @@
         "uae",
         "vows"
       ],
-      "last_seen_utc": "2026-08-31T23:32:43.831300+00:00",
+      "last_seen_utc": "2026-09-01T02:03:06.706238+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "8am media",
@@ -356,6 +365,27 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrdGJoaFhXUEF5R2d5RGR2Q2NTak82dUNMbzFvSFNRLWctYjhiaWt3bkxjSFVwSExMbDdEM1pZRm5OSy12RUtRMU1jUkJkcTZvcmZ0SDhLRFNGQlRHTlktVDZoLVVMT1ozZ2g2YjhFTEFNNXNIdnc?oc=5",
       "short_link": "https://tinyurl.com/23mrkmjq"
+    },
+    {
+      "title": "自衛隊の輸送機が「ミサイル大量発射」の攻撃機に!? 防衛省の新たな「ハイ・ロー・ミックス」構想とは（1/2 ページ）",
+      "tokens": [
+        "の攻撃機に",
+        "ページ",
+        "ミサイル大",
+        "ミックス",
+        "構想とは",
+        "自衛隊の輸",
+        "防衛省の新"
+      ],
+      "last_seen_utc": "2026-09-01T02:03:06.706238+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "infoseek",
+        "yahoo!ニュース",
+        "乗りものニュース"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1PQnlrUDZVNUdicnZrQXUyTjk0LW1zc1JfUGtiQnVhdjFDVDFFZlNNTGQ3blR1WFNmc0JneWRtNVBBeldRaXlISnB3?oc=5",
+      "short_link": "https://tinyurl.com/297cdsw6"
     }
   ]
 }
