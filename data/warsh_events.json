@@ -401,7 +401,7 @@
         "華許重拾抗",
         "華許點燃9"
       ],
-      "last_seen_utc": "2026-08-31T23:32:51.800903+00:00",
+      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
       "confidence": "LIKELY",
       "sources": [
         "世界新聞網",
@@ -436,7 +436,7 @@
         "聯準會凱文",
         "華許暗示升"
       ],
-      "last_seen_utc": "2026-08-31T06:13:55.831493+00:00",
+      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
       "confidence": "LIKELY",
       "sources": [
         "商傳媒",
@@ -600,6 +600,7 @@
         "speec",
         "stays",
         "stock",
+        "stubb",
         "table",
         "targe",
         "two",
@@ -607,7 +608,7 @@
         "watch",
         "week"
       ],
-      "last_seen_utc": "2026-08-31T23:32:51.800903+00:00",
+      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "pensions & investments",
@@ -627,7 +628,7 @@
         "聯準會恐重",
         "華許放鷹"
       ],
-      "last_seen_utc": "2026-08-31T06:13:55.831493+00:00",
+      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
       "confidence": "LIKELY",
       "sources": [
         "yahoo股市",
@@ -708,7 +709,7 @@
         "華許放鷹",
         "華許露鷹爪"
       ],
-      "last_seen_utc": "2026-08-31T23:32:51.800903+00:00",
+      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "台灣大紀元",
@@ -722,10 +723,14 @@
       "title": "Stocks fall while dollar, bond yields rise as Fed chair Warsh prompts rate hike bets",
       "stance": "hawkish",
       "tokens": [
+        "450",
+        "advis",
         "analy",
+        "below",
         "bets",
         "bond",
         "chair",
+        "conce",
         "could",
         "crude",
         "divid",
@@ -733,26 +738,37 @@
         "drop",
         "faces",
         "fall",
+        "falls",
         "fans",
         "fed",
         "force",
+        "gold",
         "hawki",
         "hike",
         "hole",
         "infla",
         "iran",
         "jacks",
+        "kedia",
         "kevin",
+        "lift",
+        "lifts",
         "miran",
         "now",
         "predi",
+        "price",
         "promp",
         "rate",
         "reall",
+        "rebou",
+        "remar",
         "reute",
+        "reviv",
         "rise",
         "says",
         "shift",
+        "slips",
+        "stanc",
         "steph",
         "stock",
         "stran",
@@ -763,7 +779,7 @@
         "would",
         "yield"
       ],
-      "last_seen_utc": "2026-08-31T23:32:51.800903+00:00",
+      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
       "confidence": "LIKELY",
       "sources": [
         "investing.com",
@@ -833,7 +849,7 @@
         "work",
         "year"
       ],
-      "last_seen_utc": "2026-08-31T23:32:51.800903+00:00",
+      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
       "confidence": "LIKELY",
       "sources": [
         "azat tv",
@@ -866,7 +882,7 @@
         "warsh",
         "wraps"
       ],
-      "last_seen_utc": "2026-08-31T23:32:51.800903+00:00",
+      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
       "confidence": "LIKELY",
       "sources": [
         "crypto briefing",
@@ -960,7 +976,7 @@
         "warsh",
         "year"
       ],
-      "last_seen_utc": "2026-08-31T23:32:51.800903+00:00",
+      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
       "confidence": "LIKELY",
       "sources": [
         "reuters"
@@ -993,7 +1009,7 @@
         "tone",
         "warsh"
       ],
-      "last_seen_utc": "2026-08-31T23:32:51.800903+00:00",
+      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
       "confidence": "LIKELY",
       "sources": [
         "the business times",
@@ -1007,12 +1023,15 @@
       "stance": "hawkish",
       "tokens": [
         "7150",
+        "actio",
         "analy",
         "aud",
         "austr",
         "bitco",
         "bolst",
         "bond",
+        "boost",
+        "but",
         "chair",
         "china",
         "comme",
@@ -1026,6 +1045,7 @@
         "drive",
         "emerg",
         "expec",
+        "expre",
         "fed",
         "feder",
         "focus",
@@ -1045,17 +1065,21 @@
         "pivot",
         "pmi",
         "possi",
+        "poten",
         "predi",
         "press",
         "quest",
         "rate",
         "rates",
+        "remai",
+        "remar",
         "reser",
         "risks",
         "sept",
         "septe",
         "shift",
         "signa",
+        "skept",
         "slips",
         "soon",
         "strik",
@@ -1064,13 +1088,14 @@
         "towar",
         "trump",
         "tumbl",
+        "under",
         "usd",
         "varia",
         "veter",
         "warsh",
         "weake"
       ],
-      "last_seen_utc": "2026-08-31T23:32:51.800903+00:00",
+      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "bitget",
@@ -1120,6 +1145,7 @@
         "forec",
         "fuels",
         "gold",
+        "goldm",
         "hawki",
         "hike",
         "hikes",
@@ -1136,6 +1162,8 @@
         "more",
         "news",
         "odds",
+        "other",
+        "predi",
         "price",
         "pushe",
         "quest",
@@ -1147,13 +1175,16 @@
         "retre",
         "reviv",
         "rise",
+        "sachs",
         "said",
         "say",
+        "sayin",
         "sees",
         "sends",
         "septe",
         "signa",
         "slips",
+        "soar",
         "sound",
         "specu",
         "speec",
@@ -1173,7 +1204,7 @@
         "work",
         "year"
       ],
-      "last_seen_utc": "2026-08-31T23:32:51.800903+00:00",
+      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "bitcoin world",
@@ -1229,7 +1260,7 @@
         "華許溝通風",
         "豐雲學堂"
       ],
-      "last_seen_utc": "2026-08-31T23:32:51.800903+00:00",
+      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cmoney",
@@ -1246,7 +1277,7 @@
         "聯準會華許",
         "資金持續流"
       ],
-      "last_seen_utc": "2026-08-31T23:32:51.800903+00:00",
+      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
       "confidence": "LIKELY",
       "sources": [
         "winnews.com.tw",
@@ -1270,7 +1301,7 @@
         "speec",
         "warsh"
       ],
-      "last_seen_utc": "2026-08-31T23:32:51.800903+00:00",
+      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
       "confidence": "LIKELY",
       "sources": [
         "bitcoin world",
@@ -1278,6 +1309,64 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR2Q4TzhmZGRJXzA0TkkwRXhNRHJnckxucWxPSWVQT2wycG9VSmVrTjdWQTNxNEZLaU51SFU3SnJiSU5NNmNzb3VRZG1MMDdxV2oyb3piU3ByYWZHeXptVFFUd0ltODh6ODktbnFUeW53ckxaZmU2Vll6WEhCNFR0YWxzUXBES3JfSEo0bnVmTHZ0d1lX?oc=5",
       "short_link": "https://tinyurl.com/2abb33ra"
+    },
+    {
+      "title": "Warsh Sounds Hawkish, but Will There Be a September Rate Hike in the US?",
+      "stance": "hawkish",
+      "tokens": [
+        "above",
+        "but",
+        "gold",
+        "hawki",
+        "hike",
+        "odds",
+        "rate",
+        "rattl",
+        "sends",
+        "septe",
+        "sound",
+        "there",
+        "warsh",
+        "will"
+      ],
+      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "morningstar",
+        "헤럴드경제"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX3UyMFBOaTd4REtkSERIa2lZV3FfSFJxanBOQkFORkh4ZWNJT3JfZmxvaTNFdUpVMkJPNkxic0VrSXJhZVlkQUtWZDRMQ1BVTGtLMTFFZUQ1cGdRemJjMW5lenk2TzRUMnQ2X0hUcXJXdElyYzdVWmItUVdnam5ISGJET1dUeHdnNTVMVEQtVV9Fb3F2RU9yLTNSZEoxbVFz?oc=5",
+      "short_link": "https://tinyurl.com/2y4yenjd"
+    },
+    {
+      "title": "Trump Presses Warsh for Rate Cuts, Says US Borrowing Costs Should Be World’s Lowest",
+      "stance": "dovish",
+      "tokens": [
+        "borro",
+        "costs",
+        "cuts",
+        "doesn",
+        "fed",
+        "fuel",
+        "growt",
+        "infla",
+        "lowes",
+        "press",
+        "rate",
+        "says",
+        "shoul",
+        "trump",
+        "warsh",
+        "world"
+      ],
+      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "bloomingbit",
+        "seoul economic daily"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WSzFvek91bHZWb2Z3SEltbFgtOXJQSDlnS0dOTkpZSFpnMEQ3SDRtQ0ZXX2JHTDhPbThLeFJPRVZ6Si0zazdiUGFPN1BtZFVZR21YbQ?oc=5",
+      "short_link": "https://tinyurl.com/23ff9wkd"
     }
   ]
 }
