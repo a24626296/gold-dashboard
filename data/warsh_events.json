@@ -401,7 +401,7 @@
         "華許重拾抗",
         "華許點燃9"
       ],
-      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
+      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
       "confidence": "LIKELY",
       "sources": [
         "世界新聞網",
@@ -709,7 +709,7 @@
         "華許放鷹",
         "華許露鷹爪"
       ],
-      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
+      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "台灣大紀元",
@@ -779,7 +779,7 @@
         "would",
         "yield"
       ],
-      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
+      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
       "confidence": "LIKELY",
       "sources": [
         "investing.com",
@@ -882,7 +882,7 @@
         "warsh",
         "wraps"
       ],
-      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
+      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
       "confidence": "LIKELY",
       "sources": [
         "crypto briefing",
@@ -895,6 +895,10 @@
       "title": "Following Kevin Warsh's remarks, the US Federal Reserve is paving the way for an interest rate hike in September",
       "stance": "hawkish",
       "tokens": [
+        "bitco",
+        "chair",
+        "corre",
+        "fed",
         "feder",
         "follo",
         "hike",
@@ -903,15 +907,20 @@
         "kevin",
         "news",
         "pavin",
+        "possi",
+        "press",
         "rate",
         "remar",
         "reser",
+        "risks",
         "septe",
+        "signa",
         "table",
+        "trump",
         "warsh",
         "way"
       ],
-      "last_seen_utc": "2026-08-31T00:43:04.458047+00:00",
+      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
       "confidence": "LIKELY",
       "sources": [
         "coin gabbar",
@@ -976,7 +985,7 @@
         "warsh",
         "year"
       ],
-      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
+      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
       "confidence": "LIKELY",
       "sources": [
         "reuters"
@@ -1009,7 +1018,7 @@
         "tone",
         "warsh"
       ],
-      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
+      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
       "confidence": "LIKELY",
       "sources": [
         "the business times",
@@ -1024,42 +1033,64 @@
       "tokens": [
         "7150",
         "actio",
+        "adds",
+        "advis",
+        "ameri",
         "analy",
+        "appro",
         "aud",
         "austr",
+        "banks",
         "bitco",
         "bolst",
         "bond",
         "boost",
         "but",
+        "call",
+        "can",
         "chair",
         "china",
         "comme",
         "conce",
+        "conta",
         "conti",
         "corre",
         "cpi",
         "cuts",
         "data",
+        "deliv",
         "dolla",
         "drive",
+        "drops",
+        "eleva",
         "emerg",
         "expec",
         "expre",
+        "favou",
         "fed",
         "feder",
         "focus",
+        "gauge",
+        "gold",
+        "goldm",
         "hawki",
+        "high",
         "highe",
         "hike",
         "hikes",
+        "hold",
         "hole",
         "infla",
         "inves",
         "jacks",
+        "kedia",
         "kevin",
         "key",
         "loom",
+        "marke",
+        "may",
+        "need",
+        "neede",
         "nikke",
         "persi",
         "pivot",
@@ -1069,25 +1100,35 @@
         "predi",
         "press",
         "quest",
+        "quiet",
+        "raise",
         "rate",
         "rates",
+        "reits",
         "remai",
         "remar",
         "reser",
         "risks",
+        "sachs",
+        "sees",
         "sept",
         "septe",
         "shift",
         "signa",
         "skept",
         "slips",
+        "soari",
         "soon",
+        "still",
+        "stock",
         "strik",
+        "strug",
         "surge",
         "tone",
         "towar",
         "trump",
         "tumbl",
+        "turn",
         "under",
         "usd",
         "varia",
@@ -1095,7 +1136,7 @@
         "warsh",
         "weake"
       ],
-      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
+      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "bitget",
@@ -1118,10 +1159,12 @@
         "about",
         "above",
         "advis",
+        "analy",
         "await",
         "barcl",
         "below",
         "bets",
+        "bolst",
         "bond",
         "boost",
         "but",
@@ -1182,6 +1225,7 @@
         "sees",
         "sends",
         "septe",
+        "shift",
         "signa",
         "slips",
         "soar",
@@ -1197,6 +1241,7 @@
         "tone",
         "two",
         "varia",
+        "veter",
         "warsh",
         "what",
         "why",
@@ -1204,7 +1249,7 @@
         "work",
         "year"
       ],
-      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
+      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "bitcoin world",
@@ -1241,7 +1286,7 @@
         "under",
         "warsh"
       ],
-      "last_seen_utc": "2026-08-31T23:32:51.800903+00:00",
+      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
       "confidence": "LIKELY",
       "sources": [
         "crypto briefing",
@@ -1260,7 +1305,7 @@
         "華許溝通風",
         "豐雲學堂"
       ],
-      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
+      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cmoney",
@@ -1277,7 +1322,7 @@
         "聯準會華許",
         "資金持續流"
       ],
-      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
+      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
       "confidence": "LIKELY",
       "sources": [
         "winnews.com.tw",
@@ -1301,7 +1346,7 @@
         "speec",
         "warsh"
       ],
-      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
+      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
       "confidence": "LIKELY",
       "sources": [
         "bitcoin world",
@@ -1359,7 +1404,7 @@
         "warsh",
         "world"
       ],
-      "last_seen_utc": "2026-09-01T02:03:14.837979+00:00",
+      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
       "confidence": "LIKELY",
       "sources": [
         "bloomingbit",
@@ -1367,6 +1412,72 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WSzFvek91bHZWb2Z3SEltbFgtOXJQSDlnS0dOTkpZSFpnMEQ3SDRtQ0ZXX2JHTDhPbThLeFJPRVZ6Si0zazdiUGFPN1BtZFVZR21YbQ?oc=5",
       "short_link": "https://tinyurl.com/23ff9wkd"
+    },
+    {
+      "title": "Silver Price Drops to Near $66.00 as Fed Chair Warsh’s Hawkish Stance Strengthens Dollar",
+      "stance": "hawkish",
+      "tokens": [
+        "chair",
+        "dolla",
+        "drops",
+        "fed",
+        "franc",
+        "gains",
+        "hawki",
+        "price",
+        "remar",
+        "silve",
+        "stanc",
+        "stren",
+        "swiss",
+        "warsh",
+        "weake"
+      ],
+      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "cryptorank",
+        "tmgm.com"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX2xjOGY1S0VybHlZUlpmREZRU3lMZEpxYVBMWTRGVHRlWTk3STl0Vms4Y3J0Rndnd3NoQ0FzekVfZVd6YzdJR1BxRFV0UnJwOXRPM1lUX3dCcGlXTHVkNDFpdDJ2Q3F6bzMtT005Wlh5U2t3eGZXZ2UwLUV0T3RHQmJ3eXdhN3dQUHBxcmZFRzhyUGh3?oc=5",
+      "short_link": "https://tinyurl.com/2d6vqato"
+    },
+    {
+      "title": "華許剛轉鷹 川普：尊重他但 GDP 增 20% 也不該升息",
+      "stance": "hawkish",
+      "tokens": [
+        "gdp",
+        "也不該升息",
+        "尊重他但",
+        "尊重他但g",
+        "股市爆料同",
+        "華許剛轉鷹"
+      ],
+      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "cmoney",
+        "technews 科技新報"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYXF1clYwSnJ3MU9nbGd6Y0wxX0dzNHdQbU9PWGlTbHNDNHZrd1VubEFLcDRTMEhVQVYtd2lCZjRqTExlVkFYbUItN0ZEWVhOQk5YdW1WSXNFSzZQbWhWdFdwWkl6Y2I3R3JoOEZKTTlPaEx2X0hHLU42YnhRbVpVMExNWG5DS242YjlTWVdlUjBvbF85TldHS25jUmVrREJZYmc2anVUVFE2RlFBeXJn?oc=5",
+      "short_link": "https://tinyurl.com/264orguw"
+    },
+    {
+      "title": "三大壓力罩頂！華許鷹派發言過後 小摩交易員暫棄短期看漲美股立場",
+      "stance": "hawkish",
+      "tokens": [
+        "三大壓力罩",
+        "小摩交易員",
+        "華許鷹派發"
+      ],
+      "last_seen_utc": "2026-09-01T07:47:53.148910+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "news.cnyes.com",
+        "鉅亨網"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40R1JleU4tUWF4NnpkZE1hMnBIRnhZRTZvazlrUEU5Y09JRnJoSUZDWUpZV2hVRDBQeVNGbFNRWVdDRDVCRjNTdENMOA?oc=5",
+      "short_link": "https://tinyurl.com/2dkmgza8"
     }
   ]
 }
