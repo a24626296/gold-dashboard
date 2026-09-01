@@ -130,6 +130,7 @@
         "army",
         "attac",
         "balli",
+        "barra",
         "base",
         "bases",
         "break",
@@ -140,6 +141,7 @@
         "downe",
         "drone",
         "eight",
+        "escal",
         "expre",
         "fires",
         "follo",
@@ -167,6 +169,7 @@
         "respo",
         "retal",
         "revol",
+        "rocke",
         "says",
         "ships",
         "sites",
@@ -178,15 +181,17 @@
         "stron",
         "sweep",
         "targe",
+        "tehra",
         "tensi",
         "threa",
+        "trigg",
         "two",
         "uae",
         "unite",
         "vows",
         "wti"
       ],
-      "last_seen_utc": "2026-09-01T02:03:06.706238+00:00",
+      "last_seen_utc": "2026-09-01T07:47:45.404674+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "bd24live",
@@ -251,7 +256,7 @@
         "withi",
         "азия"
       ],
-      "last_seen_utc": "2026-09-01T02:03:06.706238+00:00",
+      "last_seen_utc": "2026-09-01T07:47:45.404674+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "azernews",
@@ -294,6 +299,7 @@
         "blast",
         "civil",
         "count",
+        "diego",
         "exper",
         "far",
         "iran",
@@ -305,14 +311,19 @@
         "metre",
         "missi",
         "new",
+        "news",
         "prsm",
         "recor",
         "repor",
+        "san",
         "says",
+        "scran",
         "site",
-        "strik"
+        "strik",
+        "times",
+        "union"
       ],
-      "last_seen_utc": "2026-09-01T02:03:06.706238+00:00",
+      "last_seen_utc": "2026-09-01T07:47:45.404674+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "firstpost",
@@ -351,7 +362,7 @@
         "uae",
         "vows"
       ],
-      "last_seen_utc": "2026-09-01T02:03:06.706238+00:00",
+      "last_seen_utc": "2026-09-01T07:47:45.404674+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "8am media",
@@ -377,7 +388,7 @@
         "自衛隊の輸",
         "防衛省の新"
       ],
-      "last_seen_utc": "2026-09-01T02:03:06.706238+00:00",
+      "last_seen_utc": "2026-09-01T07:47:45.404674+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "infoseek",
