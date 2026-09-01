@@ -407,9 +407,11 @@
     {
       "title": "Iran Fires Ballistic Missiles at U.S. Bases in Jordan After Larak Island Strike",
       "tokens": [
+        "attac",
         "balli",
         "base",
         "bases",
+        "conti",
         "escal",
         "fires",
         "iran",
@@ -417,12 +419,14 @@
         "jorda",
         "larak",
         "missi",
+        "month",
         "spark",
         "strik",
         "tensi",
-        "threa"
+        "threa",
+        "trade"
       ],
-      "last_seen_utc": "2026-09-01T17:08:10.955934+00:00",
+      "last_seen_utc": "2026-09-01T19:56:05.267277+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "jfeed",
