@@ -417,6 +417,7 @@
         "base",
         "bases",
         "break",
+        "celeb",
         "conti",
         "could",
         "depic",
@@ -426,6 +427,7 @@
         "fires",
         "fresh",
         "gulf",
+        "hits",
         "inter",
         "iran",
         "irani",
@@ -465,10 +467,11 @@
         "video",
         "vows",
         "wbal",
+        "weddi",
         "wiped",
         "world"
       ],
-      "last_seen_utc": "2026-09-02T17:22:36.426830+00:00",
+      "last_seen_utc": "2026-09-02T19:57:31.359513+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "jfeed",
@@ -502,7 +505,7 @@
         "strik",
         "tehra"
       ],
-      "last_seen_utc": "2026-09-02T04:51:42.252029+00:00",
+      "last_seen_utc": "2026-09-02T19:57:31.359513+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "livemint",
@@ -598,7 +601,7 @@
         "who",
         "world"
       ],
-      "last_seen_utc": "2026-09-02T17:22:36.426830+00:00",
+      "last_seen_utc": "2026-09-02T19:57:31.359513+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "daily-sun.com",
@@ -619,7 +622,7 @@
         "トランプ大",
         "報復すれば"
       ],
-      "last_seen_utc": "2026-09-02T17:22:36.426830+00:00",
+      "last_seen_utc": "2026-09-02T19:57:31.359513+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "excite エキサイト",
@@ -628,6 +631,65 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIZVBfdGdBdTNtOEd3V2R4U0Y4WFdUWEM2MWcxWFRYNkM1SmRpcE4zQUY5WDcwbHpfWVpXT0o5TS1BYWY4ZFkzbzQ0UE1KRkV5a3ZlR2IyRVNnNFFxVjVuN04tVS1Xckx3YTNaRWdFSTRqekxybElkRWVHYUJiWVE?oc=5",
       "short_link": "https://tinyurl.com/2cnsqzam"
+    },
+    {
+      "title": "Bahrain says Iranian missile, drone attacks target civilians",
+      "tokens": [
+        "alert",
+        "ashar",
+        "attac",
+        "bahra",
+        "battl",
+        "civil",
+        "drone",
+        "iran",
+        "irani",
+        "iraq",
+        "issue",
+        "jorda",
+        "kuwai",
+        "missi",
+        "says",
+        "targe",
+        "threa"
+      ],
+      "last_seen_utc": "2026-09-02T19:57:31.359513+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "a news",
+        "anadolu ajansı",
+        "arabian business",
+        "asharq al-awsat english"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNamxybXR5VHRwTjFoZFhTNmU2WWZ3TjFUNUFHUUtDc0tCVVktSXJTcUNHZXNMUDVtYlUxZ2RfbWFkOU02YUtnNWVLRVhCN0Ezb0I3d3EtcGx5OWdQcEltRFRaS25QSFZxZUtlVmtTdmZmdHRtcEhmeHV2VzBteW9vQzJzZU16RWZDbTdqWGliMkNqX1VjZmw5UElTSmhTY0QyNTFJ0gGoAUFVX3lxTE13NUxnY3dqZHowaWZZRl9MbHhMRTB2THBDZElLSVUtUl83WDFiTko2bHl4U0VpVlpXd21QZC04WUdKS0EzQTRUZWI0UGdWQ0JnSEVzU0E0ZVpTVzRMNTB2dUpRV2NaYkY5VV9ZMWdjM2Q1VlhWSkZqX3hvZW14Y1JjRURNVV9jSTBtZ1JnNnRBYkg4NDExMGNBQ0paQ2pjS3F6Nm40M1Mydg?oc=5",
+      "short_link": "https://tinyurl.com/255kag4f"
+    },
+    {
+      "title": "Seven killed in US missile strikes on Iran's Khuzestan province",
+      "tokens": [
+        "claim",
+        "hosts",
+        "houth",
+        "iran",
+        "khuze",
+        "kille",
+        "missi",
+        "provi",
+        "reper",
+        "seven",
+        "strik",
+        "troop",
+        "warn"
+      ],
+      "last_seen_utc": "2026-09-02T19:57:31.359513+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "devdiscourse",
+        "the economic times",
+        "trt world"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FV1NtMy1IZk9Od210bGF1MHkyejNjZ1NjMjZYWEVMVUNMYllxeVNvalZvR3FJc3Vra0d1QlNTaUJWVkZUVFBHZHhxZ3BkOHlIaFRMM2xqSjA?oc=5",
+      "short_link": "https://tinyurl.com/22feohfk"
     }
   ]
 }
