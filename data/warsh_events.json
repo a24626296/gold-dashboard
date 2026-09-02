@@ -749,7 +749,7 @@
         "華許露鷹爪",
         "費半摔"
       ],
-      "last_seen_utc": "2026-09-02T04:51:50.206017+00:00",
+      "last_seen_utc": "2026-09-02T09:14:21.556401+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "台灣大紀元",
@@ -947,7 +947,7 @@
         "warsh",
         "wraps"
       ],
-      "last_seen_utc": "2026-09-02T04:51:50.206017+00:00",
+      "last_seen_utc": "2026-09-02T09:14:21.556401+00:00",
       "confidence": "LIKELY",
       "sources": [
         "crypto briefing",
@@ -1059,7 +1059,7 @@
         "work",
         "year"
       ],
-      "last_seen_utc": "2026-09-02T04:51:50.206017+00:00",
+      "last_seen_utc": "2026-09-02T09:14:21.556401+00:00",
       "confidence": "LIKELY",
       "sources": [
         "reuters"
@@ -1379,7 +1379,7 @@
         "華許溝通風",
         "豐雲學堂"
       ],
-      "last_seen_utc": "2026-09-02T04:51:50.206017+00:00",
+      "last_seen_utc": "2026-09-02T09:14:21.556401+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cmoney",
@@ -1454,17 +1454,21 @@
       "stance": "hawkish",
       "tokens": [
         "above",
+        "bets",
         "boost",
         "but",
+        "dolla",
         "gold",
         "hawki",
         "hike",
         "hole",
         "jacks",
+        "lifts",
         "news",
         "odds",
         "rate",
         "rattl",
+        "rebou",
         "sends",
         "septe",
         "signa",
@@ -1475,7 +1479,7 @@
         "warsh",
         "will"
       ],
-      "last_seen_utc": "2026-09-01T19:56:12.985988+00:00",
+      "last_seen_utc": "2026-09-02T09:14:21.556401+00:00",
       "confidence": "LIKELY",
       "sources": [
         "morningstar",
@@ -1510,7 +1514,7 @@
         "warsh",
         "world"
       ],
-      "last_seen_utc": "2026-09-02T04:51:50.206017+00:00",
+      "last_seen_utc": "2026-09-02T09:14:21.556401+00:00",
       "confidence": "LIKELY",
       "sources": [
         "bloomingbit",
@@ -1598,7 +1602,7 @@
         "股市爆料同",
         "華許剛轉鷹"
       ],
-      "last_seen_utc": "2026-09-02T04:51:50.206017+00:00",
+      "last_seen_utc": "2026-09-02T09:14:21.556401+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cmoney",
@@ -1615,7 +1619,7 @@
         "小摩交易員",
         "華許鷹派發"
       ],
-      "last_seen_utc": "2026-09-02T04:51:50.206017+00:00",
+      "last_seen_utc": "2026-09-02T09:14:21.556401+00:00",
       "confidence": "LIKELY",
       "sources": [
         "news.cnyes.com",
@@ -1656,7 +1660,7 @@
         "what",
         "will"
       ],
-      "last_seen_utc": "2026-09-01T19:56:12.985988+00:00",
+      "last_seen_utc": "2026-09-02T09:14:21.556401+00:00",
       "confidence": "LIKELY",
       "sources": [
         "pbs",
@@ -1672,6 +1676,7 @@
         "2027",
         "analy",
         "bets",
+        "bolst",
         "but",
         "chair",
         "cola",
@@ -1679,13 +1684,18 @@
         "could",
         "court",
         "doubl",
+        "expec",
         "fed",
         "force",
+        "fuels",
+        "gold",
         "hawki",
         "here",
         "hike",
+        "hole",
         "infla",
         "inves",
+        "jacks",
         "just",
         "kevin",
         "marke",
@@ -1699,6 +1709,7 @@
         "raise",
         "rate",
         "resol",
+        "retre",
         "reviv",
         "said",
         "says",
@@ -1706,6 +1717,9 @@
         "septe",
         "shift",
         "socia",
+        "specu",
+        "speec",
+        "stanc",
         "test",
         "veter",
         "warsh",
@@ -1713,7 +1727,7 @@
         "wrong",
         "your"
       ],
-      "last_seen_utc": "2026-09-02T04:51:50.206017+00:00",
+      "last_seen_utc": "2026-09-02T09:14:21.556401+00:00",
       "confidence": "LIKELY",
       "sources": [
         "the globe and mail",
@@ -1750,7 +1764,7 @@
         "trust",
         "warsh"
       ],
-      "last_seen_utc": "2026-09-02T04:51:50.206017+00:00",
+      "last_seen_utc": "2026-09-02T09:14:21.556401+00:00",
       "confidence": "LIKELY",
       "sources": [
         "benefits and pensions monitor",
@@ -1781,7 +1795,7 @@
         "warsh",
         "weake"
       ],
-      "last_seen_utc": "2026-09-02T04:51:50.206017+00:00",
+      "last_seen_utc": "2026-09-02T09:14:21.556401+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cryptorank",
@@ -1798,7 +1812,7 @@
         "資金大逃殺",
         "這些電子股"
       ],
-      "last_seen_utc": "2026-09-02T04:51:50.206017+00:00",
+      "last_seen_utc": "2026-09-02T09:14:21.556401+00:00",
       "confidence": "LIKELY",
       "sources": [
         "inews.setn.com",
@@ -1806,6 +1820,51 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jb3Q5Wjh2T05VYWlYMGdEU1JHLWdsTFpFMUJsWnVIWkczT245SHRHSEcycm52NHZ5R3JsaXktWDVDVmswQmFRRw?oc=5",
       "short_link": "https://tinyurl.com/25u5jg7p"
+    },
+    {
+      "title": "Fed Chair Warsh Signals Rate Hikes May Be Needed With U.S. Inflation Stubbornly Elevated",
+      "stance": "hawkish",
+      "tokens": [
+        "barcl",
+        "bets",
+        "can",
+        "chair",
+        "conce",
+        "deliv",
+        "eleva",
+        "far",
+        "fed",
+        "fight",
+        "forec",
+        "hawki",
+        "hikes",
+        "hole",
+        "infla",
+        "jacks",
+        "kevin",
+        "may",
+        "more",
+        "neede",
+        "now",
+        "pivot",
+        "rate",
+        "rates",
+        "remar",
+        "signa",
+        "stubb",
+        "two",
+        "warni",
+        "warsh"
+      ],
+      "last_seen_utc": "2026-09-02T09:14:21.556401+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "industrial distribution",
+        "streamlinefeed.co.ke",
+        "tekedia"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYTZrZ0Q5SmlLMXpFcmVHcmxGMlFaRjBFbnRuZW0wYnJYTU9Ya1lBMjZyTE5jb2ZDWmQ2Y2xDU0JJeWw2SWc5QU85ZzRVVUxqZzhweUdrdTdJazV2azRtV1NET1AxQUZhWUtzOV9HS19QX1dGejdTTnRiZ0hUaWk2VWkwM1BodU8tZmJUcHEzNWo1eUNrbWNleURXeW81ZVc5YXRHNms2aWtScVpQY0RHNlg2cEc5WTU0SFZkZTNOWHI3TkgtQXYydElLUVc?oc=5",
+      "short_link": "https://tinyurl.com/22crt3nb"
     }
   ]
 }
