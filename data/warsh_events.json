@@ -681,9 +681,11 @@
       "tokens": [
         "act",
         "addre",
+        "again",
         "analy",
         "anti",
         "bets",
+        "betti",
         "brace",
         "chair",
         "cites",
@@ -694,6 +696,7 @@
         "focus",
         "follo",
         "gld",
+        "going",
         "gold",
         "hawki",
         "hike",
@@ -705,6 +708,7 @@
         "jump",
         "kevin",
         "marke",
+        "mater",
         "news",
         "not",
         "nysea",
@@ -722,10 +726,12 @@
         "speec",
         "stanc",
         "stati",
+        "strat",
+        "this",
         "turn",
         "warsh"
       ],
-      "last_seen_utc": "2026-08-31T00:43:04.458047+00:00",
+      "last_seen_utc": "2026-09-02T22:22:37.102219+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "barron's",
@@ -749,7 +755,7 @@
         "華許露鷹爪",
         "費半摔"
       ],
-      "last_seen_utc": "2026-09-02T19:57:39.566631+00:00",
+      "last_seen_utc": "2026-09-02T22:22:37.102219+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "台灣大紀元",
@@ -1379,7 +1385,7 @@
         "華許溝通風",
         "豐雲學堂"
       ],
-      "last_seen_utc": "2026-09-02T19:57:39.566631+00:00",
+      "last_seen_utc": "2026-09-02T22:22:37.102219+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cmoney",
@@ -1448,7 +1454,7 @@
         "what",
         "will"
       ],
-      "last_seen_utc": "2026-09-02T19:57:39.566631+00:00",
+      "last_seen_utc": "2026-09-02T22:22:37.102219+00:00",
       "confidence": "LIKELY",
       "sources": [
         "bitcoin world",
@@ -1491,7 +1497,7 @@
         "warsh",
         "will"
       ],
-      "last_seen_utc": "2026-09-02T19:57:39.566631+00:00",
+      "last_seen_utc": "2026-09-02T22:22:37.102219+00:00",
       "confidence": "LIKELY",
       "sources": [
         "morningstar",
@@ -1526,7 +1532,7 @@
         "warsh",
         "world"
       ],
-      "last_seen_utc": "2026-09-02T19:57:39.566631+00:00",
+      "last_seen_utc": "2026-09-02T22:22:37.102219+00:00",
       "confidence": "LIKELY",
       "sources": [
         "bloomingbit",
@@ -1614,7 +1620,7 @@
         "股市爆料同",
         "華許剛轉鷹"
       ],
-      "last_seen_utc": "2026-09-02T19:57:39.566631+00:00",
+      "last_seen_utc": "2026-09-02T22:22:37.102219+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cmoney",
@@ -1631,7 +1637,7 @@
         "小摩交易員",
         "華許鷹派發"
       ],
-      "last_seen_utc": "2026-09-02T19:57:39.566631+00:00",
+      "last_seen_utc": "2026-09-02T22:22:37.102219+00:00",
       "confidence": "LIKELY",
       "sources": [
         "news.cnyes.com",
@@ -1750,7 +1756,7 @@
         "wrong",
         "your"
       ],
-      "last_seen_utc": "2026-09-02T19:57:39.566631+00:00",
+      "last_seen_utc": "2026-09-02T22:22:37.102219+00:00",
       "confidence": "LIKELY",
       "sources": [
         "the globe and mail",
@@ -1835,7 +1841,7 @@
         "資金大逃殺",
         "這些電子股"
       ],
-      "last_seen_utc": "2026-09-02T19:57:39.566631+00:00",
+      "last_seen_utc": "2026-09-02T22:22:37.102219+00:00",
       "confidence": "LIKELY",
       "sources": [
         "inews.setn.com",
