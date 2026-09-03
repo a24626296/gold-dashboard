@@ -666,6 +666,7 @@
         "drone",
         "east",
         "egypt",
+        "engag",
         "forei",
         "fresh",
         "heino",
@@ -689,7 +690,7 @@
         "threa",
         "war"
       ],
-      "last_seen_utc": "2026-09-03T17:16:32.602827+00:00",
+      "last_seen_utc": "2026-09-03T20:00:12.753396+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "a news",
@@ -768,7 +769,7 @@
         "what",
         "widen"
       ],
-      "last_seen_utc": "2026-09-03T04:51:02.844361+00:00",
+      "last_seen_utc": "2026-09-03T20:00:12.753396+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "joburg etc",
@@ -788,6 +789,7 @@
         "base",
         "blame",
         "celeb",
+        "deadl",
         "defen",
         "drone",
         "evacu",
@@ -809,13 +811,15 @@
         "outle",
         "princ",
         "strik",
+        "surpr",
         "tehra",
         "troop",
+        "unlea",
         "video",
         "weddi",
         "who"
       ],
-      "last_seen_utc": "2026-09-03T17:16:32.602827+00:00",
+      "last_seen_utc": "2026-09-03T20:00:12.753396+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "migflug",
@@ -879,7 +883,7 @@
         "video",
         "weddi"
       ],
-      "last_seen_utc": "2026-09-03T09:21:58.318397+00:00",
+      "last_seen_utc": "2026-09-03T20:00:12.753396+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "daily mail",
@@ -891,28 +895,37 @@
     {
       "title": "Iran Accuses U.S. Of War Crime After Missile Strike Kills Four At Kouhestak Wedding: how 21 outlets framed it",
       "tokens": [
+        "239",
         "accus",
         "again",
         "among",
         "attac",
         "bases",
+        "blame",
         "blast",
         "call",
         "claim",
         "come",
+        "comma",
         "confi",
         "confl",
         "conti",
         "crime",
         "days",
         "drone",
+        "excha",
+        "fires",
+        "force",
         "four",
         "frame",
         "how",
         "iran",
+        "joint",
         "kills",
         "kouhe",
+        "kuhes",
         "kuwai",
+        "lates",
         "launc",
         "milit",
         "missi",
@@ -920,16 +933,21 @@
         "natio",
         "outle",
         "peopl",
+        "regio",
         "repor",
+        "resum",
+        "says",
         "strik",
         "targe",
+        "tehra",
         "uae",
         "under",
         "unity",
         "war",
-        "weddi"
+        "weddi",
+        "who"
       ],
-      "last_seen_utc": "2026-09-03T17:16:32.602827+00:00",
+      "last_seen_utc": "2026-09-03T20:00:12.753396+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "newscord",
@@ -937,6 +955,39 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbWtKTHpfaml2UzhCM1F4VWNEOTEtc0EyTlR3UGZ6bjlDWVc4ZE16am5HTFpacGtqVDZiMWh5SVRTOTF4UWxMZHpKelcyellNV3ZwZ3B0VzkwNHdWZkhtOHZneHBFTnpEUDc1ZE5xU0NZUDZuMWtyNGE1UnhBdHNuYjNhTDc4dFBZMVFqbHpxYVRHVVJaNEZNNnllRGlIS3RHOVFlQUJLcGM0RzBXVGNJcjRDVEY0eEcxRkloUVZpT2JSd2lMTFZQTUt6N3dXVTgyS0pHTlc3U29WeThuYloxOXdB?oc=5",
       "short_link": "https://tinyurl.com/28naznpx"
+    },
+    {
+      "title": "Renewed Iranian Missile and Drone Attack on Kuwait",
+      "tokens": [
+        "attac",
+        "bases",
+        "drone",
+        "injur",
+        "inter",
+        "irani",
+        "khark",
+        "kuwai",
+        "milit",
+        "missi",
+        "peopl",
+        "regio",
+        "renew",
+        "repel",
+        "says",
+        "targe"
+      ],
+      "last_seen_utc": "2026-09-03T20:00:12.753396+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "arab news pk",
+        "iranwire.com",
+        "yahoo",
+        "антикор",
+        "արցախ լրատվական",
+        "جريدة القدس"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWTJmTDE2RTdFX00xLVlaZm8tN2g4UVQtVTRUS1hyUHgxdW42cUZEcExQdVZKYlJITVp1a3ItQV8zM3hBV2ktR2d2UVRWZkt3NlowSTBGalBNc2g2NEpjd0g4UTdYS0NZRVpjd2M5NXZHa05GSUFGaDBhSFFTZm5pb0hOdXR1YjhaTFJRSVBBYWs?oc=5",
+      "short_link": "https://tinyurl.com/29hr4sou"
     }
   ]
 }
