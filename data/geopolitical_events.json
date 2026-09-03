@@ -647,6 +647,7 @@
     {
       "title": "Bahrain says Iranian missile, drone attacks target civilians",
       "tokens": [
+        "affai",
         "air",
         "alert",
         "ashar",
@@ -654,8 +655,12 @@
         "bahra",
         "battl",
         "civil",
+        "conde",
         "defen",
         "drone",
+        "egypt",
+        "forei",
+        "fresh",
         "hosti",
         "iran",
         "irani",
@@ -669,7 +674,7 @@
         "targe",
         "threa"
       ],
-      "last_seen_utc": "2026-09-02T22:22:29.302148+00:00",
+      "last_seen_utc": "2026-09-03T00:26:47.574893+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "a news",
@@ -687,6 +692,7 @@
         "hosts",
         "houth",
         "iran",
+        "irna",
         "khuze",
         "kille",
         "missi",
@@ -697,7 +703,7 @@
         "troop",
         "warn"
       ],
-      "last_seen_utc": "2026-09-02T22:22:29.302148+00:00",
+      "last_seen_utc": "2026-09-03T00:26:47.574893+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "devdiscourse",
@@ -710,24 +716,34 @@
     {
       "title": "Iran launches missile and drone strikes on US bases as Middle East war widens",
       "tokens": [
+        "attac",
         "balli",
         "bases",
         "claim",
         "drone",
         "east",
+        "edge",
         "erbil",
         "escal",
+        "hits",
         "iran",
         "irgc",
         "jorda",
         "launc",
+        "major",
         "middl",
         "missi",
+        "new",
+        "repor",
+        "respo",
+        "retal",
+        "serie",
         "strik",
+        "tehra",
         "war",
         "widen"
       ],
-      "last_seen_utc": "2026-09-02T22:22:29.302148+00:00",
+      "last_seen_utc": "2026-09-03T00:26:47.574893+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "joburg etc",
@@ -736,6 +752,72 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSHhIa3F5eDZQRm1JNWNpUnZ4S2M0VzljY2NialFzb1llNktQZ2hYUjJmR0NTWUcxX1V0TXkzb1ZaQ29pVml1R1JEWDU4b1A5NzY2aTZ0ZS1aR1p5SkJVVXdwS2NmajgwQVAzTXRrOGQ5TDJyWXNCNHFCd3lEQWgwemlCRUNHQQ?oc=5",
       "short_link": "https://tinyurl.com/26fakp3s"
+    },
+    {
+      "title": "US Strikes Iran’s Air Defences as Missiles Fall on Jordan Air Base",
+      "tokens": [
+        "air",
+        "base",
+        "blame",
+        "celeb",
+        "defen",
+        "fall",
+        "fires",
+        "hits",
+        "iran",
+        "irgc",
+        "jorda",
+        "launc",
+        "marin",
+        "missi",
+        "outle",
+        "strik",
+        "weddi",
+        "who"
+      ],
+      "last_seen_utc": "2026-09-03T00:26:47.574893+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "migflug",
+        "newscord",
+        "rediff"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUkhSc3U3TTVYYWp2M0sxMTQ1OXQxV1MybFBWSDV4T3ZtLVRHd2theW43eWRXSXk3WTFpakNkVmxxUElyNndvXy1DZ1dETVFQR1Nmd1Q1bU8yMklIT3FNOWZPQ3JqUkd4NEszQ2JjNDdwa3BRTmpsWDJ1NF8tei1IU1U0Q3NpYzBMVVhJZy1XNXJqdw?oc=5",
+      "short_link": "https://tinyurl.com/28f7sd4x"
+    },
+    {
+      "title": "What is a 'double-tap' missile strike? US Air Force accused of targeted killing of wedding party in Iran's Sirik",
+      "tokens": [
+        "accus",
+        "air",
+        "doubl",
+        "fire",
+        "force",
+        "four",
+        "inclu",
+        "iran",
+        "killi",
+        "missi",
+        "old",
+        "party",
+        "resum",
+        "sirik",
+        "strik",
+        "tap",
+        "targe",
+        "weddi",
+        "what",
+        "year"
+      ],
+      "last_seen_utc": "2026-09-03T00:26:47.574893+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "daily express us",
+        "the eastern herald",
+        "theweek.in"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOLUF5Y0VuRHR3RUNfazdCbk10dHdZMlNSM2t3TklvRF9nRllZYVVaOHYtWXJLZ3MyYnljR1ZvUDhVWjAtMGp5ZDNVaF9zTVJXM1YwbGU4b3lvV1lmdGJJUV9yOExQVmtMUTRmejFPOElFWld3aEE3ODZycFR1VlJzaGo1Z2tDZEwybGZyZWhiNDJrdDNjX2tzNk0tOWltYVFDTXhsWTBndlpLVmxrelhJcTk5UjVGU0xPRlEwVmRsM1I5TVF6cXpoSFRLTnlxS1cwdzVaeUlPa0pRVzBVZGZUTTI1SFBLYXPSAecBQVVfeXFMTi1BeWNFbkR0d0VDX2s3Qm5NdHR3WTJTUjNrd05Jb0RfZ0ZZWWFVWjh2LVlyS2dzMmJ5Y0dWb1A4VVowLTBqeWQzVWhfc01SVzNWMGxlOG95b1dZZnRiSVFfcjhMUFZrTFE0ZnoxTzhJRVpXd2hBNzg2cnBUdVZSc2hqNWdrQ2RMMmxmcmVoYjQya3QzY19rczZNLTlpbWFRQ014bFkwZ3ZaS1Zsa3pYSXE5OVI1RlNMT0ZRMFZkbDNSOU1RenF6aEhUS055cUtXMHc1WnlJT2tKUVcwVWRmVE0yNUhQS2Fz?oc=5",
+      "short_link": "https://tinyurl.com/2desa3y6"
     }
   ]
 }
