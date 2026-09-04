@@ -520,7 +520,7 @@
         "strik",
         "tehra"
       ],
-      "last_seen_utc": "2026-09-04T00:15:51.370545+00:00",
+      "last_seen_utc": "2026-09-04T04:51:43.036434+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "livemint",
@@ -769,7 +769,7 @@
         "what",
         "widen"
       ],
-      "last_seen_utc": "2026-09-04T00:15:51.370545+00:00",
+      "last_seen_utc": "2026-09-04T04:51:43.036434+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "joburg etc",
@@ -819,7 +819,7 @@
         "weddi",
         "who"
       ],
-      "last_seen_utc": "2026-09-04T00:15:51.370545+00:00",
+      "last_seen_utc": "2026-09-04T04:51:43.036434+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "migflug",
@@ -889,7 +889,7 @@
         "video",
         "weddi"
       ],
-      "last_seen_utc": "2026-09-04T00:15:51.370545+00:00",
+      "last_seen_utc": "2026-09-04T04:51:43.036434+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "daily mail",
@@ -907,6 +907,7 @@
         "among",
         "army",
         "attac",
+        "balli",
         "bases",
         "blame",
         "blast",
@@ -922,14 +923,25 @@
         "crime",
         "days",
         "drone",
+        "escal",
         "excha",
+        "fired",
         "fires",
+        "focus",
         "force",
         "four",
         "frame",
+        "gravi",
+        "hodei",
+        "houth",
         "how",
+        "hudai",
+        "injur",
+        "inter",
         "iran",
+        "irani",
         "joint",
+        "khark",
         "kheib",
         "kills",
         "kouhe",
@@ -943,12 +955,18 @@
         "natio",
         "outle",
         "peopl",
+        "proje",
         "regio",
+        "renew",
+        "repel",
         "repor",
         "resum",
+        "say",
         "says",
         "sheka",
         "strik",
+        "super",
+        "taiz",
         "targe",
         "tehra",
         "uae",
@@ -956,9 +974,10 @@
         "unity",
         "war",
         "weddi",
-        "who"
+        "who",
+        "yemen"
       ],
-      "last_seen_utc": "2026-09-04T00:15:51.370545+00:00",
+      "last_seen_utc": "2026-09-04T04:51:43.036434+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "newscord",
@@ -999,6 +1018,34 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWTJmTDE2RTdFX00xLVlaZm8tN2g4UVQtVTRUS1hyUHgxdW42cUZEcExQdVZKYlJITVp1a3ItQV8zM3hBV2ktR2d2UVRWZkt3NlowSTBGalBNc2g2NEpjd0g4UTdYS0NZRVpjd2M5NXZHa05GSUFGaDBhSFFTZm5pb0hOdXR1YjhaTFJRSVBBYWs?oc=5",
       "short_link": "https://tinyurl.com/29hr4sou"
+    },
+    {
+      "title": "Funerals held in Iran for wedding party victims of US missile strikes",
+      "tokens": [
+        "attac",
+        "burie",
+        "fly",
+        "funer",
+        "gulf",
+        "held",
+        "iran",
+        "missi",
+        "opeli",
+        "party",
+        "strik",
+        "victi",
+        "weddi"
+      ],
+      "last_seen_utc": "2026-09-04T04:51:43.036434+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "dawn",
+        "opelika-auburn news",
+        "the daily progress",
+        "theeagle.com"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdzZfbWwyWGhQVVp0NnRRejdvWXFtUDJVTmlqQlFFMG5xcjRHSmYzbklKR0JPV18zbUVaaDJVTWRQaW15dDYxTUFXd1RIWnZaaXNvUWtkeE1fMUNCdVpKVU5aRFNuMDUzdWJ2SDlRT2s0Tk9CMEV4SkJwR1Nld0pCNXg3Ymt4Vl9PSExJZWdSZlRkZzIwYlMzekQwZE1CU0EyRTRzRA?oc=5",
+      "short_link": "https://tinyurl.com/2b9ctzq2"
     }
   ]
 }
