@@ -520,7 +520,7 @@
         "strik",
         "tehra"
       ],
-      "last_seen_utc": "2026-09-03T22:27:19.838473+00:00",
+      "last_seen_utc": "2026-09-04T00:15:51.370545+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "livemint",
@@ -690,7 +690,7 @@
         "threa",
         "war"
       ],
-      "last_seen_utc": "2026-09-03T22:27:19.838473+00:00",
+      "last_seen_utc": "2026-09-04T00:15:51.370545+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "a news",
@@ -769,7 +769,7 @@
         "what",
         "widen"
       ],
-      "last_seen_utc": "2026-09-03T22:27:19.838473+00:00",
+      "last_seen_utc": "2026-09-04T00:15:51.370545+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "joburg etc",
@@ -819,7 +819,7 @@
         "weddi",
         "who"
       ],
-      "last_seen_utc": "2026-09-03T22:27:19.838473+00:00",
+      "last_seen_utc": "2026-09-04T00:15:51.370545+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "migflug",
@@ -867,23 +867,29 @@
       "title": "Iran retaliates after US missile strike reportedly hits wedding – video",
       "tokens": [
         "civil",
+        "four",
+        "hit",
         "hits",
         "inves",
         "iran",
         "irani",
         "kille",
         "lamer",
+        "least",
         "may",
         "missi",
         "prsm",
         "repor",
         "retal",
+        "says",
         "strik",
+        "that",
         "trump",
+        "vance",
         "video",
         "weddi"
       ],
-      "last_seen_utc": "2026-09-03T22:27:19.838473+00:00",
+      "last_seen_utc": "2026-09-04T00:15:51.370545+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "daily mail",
@@ -952,7 +958,7 @@
         "weddi",
         "who"
       ],
-      "last_seen_utc": "2026-09-03T22:27:19.838473+00:00",
+      "last_seen_utc": "2026-09-04T00:15:51.370545+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "newscord",
@@ -981,7 +987,7 @@
         "says",
         "targe"
       ],
-      "last_seen_utc": "2026-09-03T22:27:19.838473+00:00",
+      "last_seen_utc": "2026-09-04T00:15:51.370545+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "arab news pk",
