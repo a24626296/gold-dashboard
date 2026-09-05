@@ -825,7 +825,7 @@
         "would",
         "yield"
       ],
-      "last_seen_utc": "2026-09-05T18:17:44.614012+00:00",
+      "last_seen_utc": "2026-09-05T20:33:13.213632+00:00",
       "confidence": "LIKELY",
       "sources": [
         "investing.com",
@@ -1072,7 +1072,7 @@
         "work",
         "year"
       ],
-      "last_seen_utc": "2026-09-05T18:17:44.614012+00:00",
+      "last_seen_utc": "2026-09-05T20:33:13.213632+00:00",
       "confidence": "LIKELY",
       "sources": [
         "reuters"
@@ -1512,7 +1512,7 @@
         "why",
         "will"
       ],
-      "last_seen_utc": "2026-09-05T18:17:44.614012+00:00",
+      "last_seen_utc": "2026-09-05T20:33:13.213632+00:00",
       "confidence": "LIKELY",
       "sources": [
         "morningstar",
@@ -1918,7 +1918,7 @@
         "三大關鍵",
         "華許鷹派訊"
       ],
-      "last_seen_utc": "2026-09-05T18:17:44.614012+00:00",
+      "last_seen_utc": "2026-09-05T20:33:13.213632+00:00",
       "confidence": "LIKELY",
       "sources": [
         "yahoo 財經",
@@ -1926,6 +1926,25 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxORGRzdDlSWE9lTG92RXBZQzNqQU9JOGJwOGhFcG94ZTc5NkYxUWJwNU80X2Y1YVIwUHdmaXZRZjUtdk01eldzeXlHc2c3YmRRTXdvdUpsSjRWZTVrYjdhZVFZRi1KTEpEUUhzNGpMSXcxRHlUYUhDNzJjdEdEcHU0dFBzeHdkRkhRdER6SGR6SVVwUGg0MGRIM3RncThvbjRXazhnYW1zeXlXOEtnYTJjVVVfNjRhNGRLT3QwbEk2Wk0yY3IzYUlqM2pGbmJ3WmtjQkVsYkhsaFFKbkxMZFE0TDU0Snd5dTJRMlFxN0tUNGp6UDlNZXhLeHIwY3Z6a3hldmtNVURwelpyV3o1Snh6Y1RSeDhhZjYtZ1FNUzlhV1lsaThSU1JwYjROY0ZSaEdLcm5tRXZnNHQ5eGVYWUMyUXFQbFZnYmNIVi1fU3I4REtZWnE3MVJ0ekxya2gyMDYxc1pXb25Vci15RElEdmJ5em5CZTFXQlBYRTZkbg?oc=5",
       "short_link": "https://tinyurl.com/2bac2k3h"
+    },
+    {
+      "title": "川普撂狠話要求Fed降息！強調主席和理事應愛國華許陷兩難| 全球財經| 全球",
+      "stance": "dovish",
+      "tokens": [
+        "fed",
+        "全球財經",
+        "川普撂狠話",
+        "強調主席和",
+        "華許陷兩難"
+      ],
+      "last_seen_utc": "2026-09-05T20:33:13.213632+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "money.udn.com",
+        "udn"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42VEUwZEtKb3FwS2swNUFxYzkzSkhmeGY4OVdxclltZU16TmY1dzkyTW91UXpsTTB3NDhIUlpFRVc5bW01WndKUER0VTVRZ09V?oc=5",
+      "short_link": "https://tinyurl.com/2de4tfr5"
     }
   ]
 }
