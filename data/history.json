@@ -681,5 +681,37 @@
       "geo_score": 40,
       "warsh_score": -25
     }
+  },
+  {
+    "timestamp": "2026-09-06T23:22:13.329000+00:00",
+    "gold_price": 4476.60009765625,
+    "momentum_score": 15,
+    "alert_level": "none",
+    "reasons": [
+      "地緣政治衝擊事件(24小時內): Iran launches missile and drone attacks across Gulf as Israe... (+40)",
+      "華許鷹派發言(24小時內): Barclays sees two more Fed rate hikes this year after Warsh ... (-25)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 99.13899993896484,
+        "prev_5d": 99.43000030517578,
+        "change_pct": -0.29266857620213604
+      },
+      "vix": {
+        "latest": 14.529999732971191,
+        "prev_5d": 14.430000305175781,
+        "change_pct": 0.6929967129629385
+      },
+      "gld": null,
+      "cot": {
+        "report_date": "2026-09-01T00:00:00.000",
+        "net_long": 136771,
+        "prev_net_long": 144747,
+        "change_pct": -5.510304185924406
+      },
+      "real_rate_5d_change": 0.020000000000000018,
+      "geo_score": 40,
+      "warsh_score": -25
+    }
   }
 ]
