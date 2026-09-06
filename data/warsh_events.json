@@ -1044,7 +1044,7 @@
         "work",
         "year"
       ],
-      "last_seen_utc": "2026-09-06T12:31:00.843369+00:00",
+      "last_seen_utc": "2026-09-06T17:56:07.851393+00:00",
       "confidence": "LIKELY",
       "sources": [
         "reuters"
@@ -1489,7 +1489,7 @@
         "why",
         "will"
       ],
-      "last_seen_utc": "2026-09-06T12:31:00.843369+00:00",
+      "last_seen_utc": "2026-09-06T17:56:07.851393+00:00",
       "confidence": "LIKELY",
       "sources": [
         "morningstar",
@@ -1914,7 +1914,7 @@
         "強調主席和",
         "華許陷兩難"
       ],
-      "last_seen_utc": "2026-09-06T12:31:00.843369+00:00",
+      "last_seen_utc": "2026-09-06T17:56:07.851393+00:00",
       "confidence": "LIKELY",
       "sources": [
         "money.udn.com",
@@ -1946,7 +1946,7 @@
         "trump",
         "warsh"
       ],
-      "last_seen_utc": "2026-09-06T12:31:00.843369+00:00",
+      "last_seen_utc": "2026-09-06T17:56:07.851393+00:00",
       "confidence": "LIKELY",
       "sources": [
         "finance.biggo.com",
@@ -1954,6 +1954,38 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNnd5bl85ekY1RXRtczJwRjNSc3RxLUQ5SngzT2pfdTZsejlTT0JZOGRjeUI2SG1lZVJGcnZwWXhxWUlHLUNrNUQ3OUpDMHZTaXFSWjI2MGJBZ1N6RWt4X1F3QnRIMlhKT3A1RTYwUE1Lc3k2a0ZXRXpNNWZIOWkwR1F2SWh3VnRSaGFrYV9n?oc=5",
       "short_link": "https://tinyurl.com/2yhep792"
+    },
+    {
+      "title": "Fed Chair Kevin Warsh Warned a Rate Hike Could Be Coming. Some Dividend Stocks Would Get Hurt -- Others Could Actually Win.",
+      "stance": "hawkish",
+      "tokens": [
+        "actua",
+        "chair",
+        "comin",
+        "could",
+        "divid",
+        "fed",
+        "get",
+        "hike",
+        "hurt",
+        "kevin",
+        "other",
+        "rate",
+        "some",
+        "stock",
+        "warne",
+        "warsh",
+        "win",
+        "would"
+      ],
+      "last_seen_utc": "2026-09-06T17:56:07.851393+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "the globe and mail",
+        "the motley fool"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVXUtS1BUeHpoZENodzNuWEFsM2JyOW0tT1NVcURUOFFyT3RFZmpSeTQ2V0gxc1cwT1BNTkhRbVRCMVFXVkY5VzVhai1MNHNPQWFOUFZzaV80MkNqcm1UOFF4RUUxTjEtRUxfZUhKbWpCZTJCcUZnYzBQY2s4eDRqOXdGR2w1aXlVUFUwb2lNcXRyekotVWlCVnl4bk9RMFFFai05WFlNQnlDNFJsemozWkZqYkZQVmZjbWtOZW5pQjh2Wkh4TXlrNEtsOENVUHZUWkNDdDlfeWJocS1xenUwdjUwb1kzTV9xREFIQ0s1QWZQdnM?oc=5",
+      "short_link": "https://tinyurl.com/24os8kk3"
     }
   ]
 }
