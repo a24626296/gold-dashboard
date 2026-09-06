@@ -1074,7 +1074,7 @@
         "work",
         "year"
       ],
-      "last_seen_utc": "2026-09-05T22:17:36.944676+00:00",
+      "last_seen_utc": "2026-09-06T00:04:52.662054+00:00",
       "confidence": "LIKELY",
       "sources": [
         "reuters"
@@ -1519,7 +1519,7 @@
         "why",
         "will"
       ],
-      "last_seen_utc": "2026-09-05T22:17:36.944676+00:00",
+      "last_seen_utc": "2026-09-06T00:04:52.662054+00:00",
       "confidence": "LIKELY",
       "sources": [
         "morningstar",
@@ -1925,7 +1925,7 @@
         "三大關鍵",
         "華許鷹派訊"
       ],
-      "last_seen_utc": "2026-09-05T22:17:36.944676+00:00",
+      "last_seen_utc": "2026-09-06T00:04:52.662054+00:00",
       "confidence": "LIKELY",
       "sources": [
         "yahoo 財經",
@@ -1944,7 +1944,7 @@
         "強調主席和",
         "華許陷兩難"
       ],
-      "last_seen_utc": "2026-09-05T22:17:36.944676+00:00",
+      "last_seen_utc": "2026-09-06T00:04:52.662054+00:00",
       "confidence": "LIKELY",
       "sources": [
         "money.udn.com",
@@ -1952,6 +1952,38 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42VEUwZEtKb3FwS2swNUFxYzkzSkhmeGY4OVdxclltZU16TmY1dzkyTW91UXpsTTB3NDhIUlpFRVc5bW01WndKUER0VTVRZ09V?oc=5",
       "short_link": "https://tinyurl.com/2de4tfr5"
+    },
+    {
+      "title": "Fed Chair Warsh's Dilemma: Trump's Rate Cut Demand vs Strong Jobs",
+      "stance": "dovish",
+      "tokens": [
+        "betwe",
+        "chair",
+        "credi",
+        "cut",
+        "cuts",
+        "deman",
+        "dilem",
+        "faces",
+        "fed",
+        "force",
+        "hikin",
+        "jobs",
+        "rate",
+        "stron",
+        "threa",
+        "trade",
+        "trump",
+        "warsh"
+      ],
+      "last_seen_utc": "2026-09-06T00:04:52.662054+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "finance.biggo.com",
+        "조선일보"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNnd5bl85ekY1RXRtczJwRjNSc3RxLUQ5SngzT2pfdTZsejlTT0JZOGRjeUI2SG1lZVJGcnZwWXhxWUlHLUNrNUQ3OUpDMHZTaXFSWjI2MGJBZ1N6RWt4X1F3QnRIMlhKT3A1RTYwUE1Lc3k2a0ZXRXpNNWZIOWkwR1F2SWh3VnRSaGFrYV9n?oc=5",
+      "short_link": "https://tinyurl.com/2yhep792"
     }
   ]
 }
