@@ -1,52 +1,6 @@
 {
   "events": [
     {
-      "title": "Fed's Kevin Warsh warns inflation is too high, sparking bets rate hikes are coming",
-      "stance": "hawkish",
-      "tokens": [
-        "arkan",
-        "audac",
-        "bets",
-        "chair",
-        "comin",
-        "conce",
-        "democ",
-        "dismi",
-        "don",
-        "door",
-        "fall",
-        "fed",
-        "high",
-        "hikes",
-        "infla",
-        "kevin",
-        "news",
-        "north",
-        "opens",
-        "possi",
-        "price",
-        "rate",
-        "remai",
-        "says",
-        "spark",
-        "still",
-        "they",
-        "too",
-        "trump",
-        "warns",
-        "warsh",
-        "won",
-        "work"
-      ],
-      "last_seen_utc": "2026-08-31T00:43:04.458047+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "ap news",
-        "npr"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ29adFdRZFdqaTlNc3d2bGY0N29nNUtfd3ByZkIxc0dWRmJ0OHNuS0pJME42enEzd01od1ZhZ1lOQ3BDUGFEODhzcFpxanU4T0hLLWItenZMNHduOGhOTXNreFJjYWMtZ0VlMklzTmhpbjVBc1pHdFhXdVg5S1RObGM5MUlHbGRrMEE0eWp6cWliOUxQUzFwNHQ2WlEza3c?oc=5"
-    },
-    {
       "title": "WATCH: Fed Chair Warsh signals stubborn inflation may require rate hikes in Jackson Hole speech",
       "stance": "hawkish",
       "tokens": [
@@ -227,62 +181,6 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeTZYd1JtU2tpSmRvbTJqT2J5VHpCQzJMVFR5WWJlZ3ppLTNjU3prR01jeUtWSXVEbWZScmw5S2RfdmVES3dEOThSeGwwMGVvOWs5NWpjNjU3M3JFdmpsVlRyaFJ6cEU4SWptdUM2MWotckR3dDYzSkxzUUJyOEtWbDFkMzJWZG1sSWd3d3Q3d3BndjlIb2ZfaGthSDlWdFZESEpkdERKbEJ4VnVGRmJGZFRR?oc=5"
     },
     {
-      "title": "華許放鷹卻替美股留活路！升息預期升溫 長債穩定反而替股市開路",
-      "stance": "hawkish",
-      "tokens": [
-        "升息預期升",
-        "新聞快訊",
-        "華許放鷹卻",
-        "豐雲學堂",
-        "長債穩定反"
-      ],
-      "last_seen_utc": "2026-08-31T00:43:04.458047+00:00",
-      "confidence": "LIKELY",
-      "sources": [
-        "news.cnyes.com",
-        "sinotrade.com.tw"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15MlFQWkRFMWp2Q2k5dVI2R0FwdnEtRFU2clFoU0F4cVFweFJjbWNJOEpxWC16alR5S3lVUE14Q1d5SVZaQU1DZGtqTkJQVmc?oc=5"
-    },
-    {
-      "title": "華許重拾抗通膨公信力卻把自己逼進9月升息死角| 全球財經| 全球",
-      "stance": "hawkish",
-      "tokens": [
-        "全球財經",
-        "憂通膨未改",
-        "華許全球央",
-        "華許重拾抗",
-        "通膨未解不",
-        "通膨未解恐"
-      ],
-      "last_seen_utc": "2026-08-31T00:43:04.458047+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "udn",
-        "yahoo新聞",
-        "經濟日報",
-        "鏡新聞"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5SMWhtbERsVGV2R0I5YmZsMVdhNUgxY3hnSEtaMjRrUWJMYlBIcnFLS2VBLVRxdG1icTFxRzBxM2xxNEp6SF9CUFlkYlEwUVRMRUx6RktFQkgyclJ4enBsdUw0dEh4QW45LVotQVdEOThWMDZuNVpnWWdhMA?oc=5"
-    },
-    {
-      "title": "華許示警「通膨更令人擔憂」 投資人預估9月升息機率34％",
-      "stance": "hawkish",
-      "tokens": [
-        "ctwan",
-        "投資人預估",
-        "華許示警",
-        "通膨更令人"
-      ],
-      "last_seen_utc": "2026-08-31T00:43:04.458047+00:00",
-      "confidence": "LIKELY",
-      "sources": [
-        "ctwant",
-        "yahoo新聞"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNZGNJRTdWV21GT0xDdVNMQUd1Q0VROTYwZEg0Qy1mZ19jQ0NIRG0zNkE0NHAySXh4OUlUdjRNVVhQbjBZNVdJOWZEd1NsZEF4VXRSSWE5RF9LampETmNfbjIzMmJMdWtNdThyVHNFd3FveWpCNW5WUl8yOHBPZVNTaFp2YVpibUJBOFRyXzI2TXd2ZEEzbzZnN1R6YURrVm53WU45WlVYcVRPTmtmc1RTUWRrb0FkWHBkQ0FPSnI0cGcxUFR4Z0w0b3NscHdMNlVpek11bWFiaEVPUWl1UkFBN1pJc2VyWGV2NnFZUHB0LVNWVDdYVm0tR25ybTQxQlcta1FSZGgxOTQxRHR1ZVpwSTJHQ2tEQllOMGZncWRXZGRwV25zdUVreTNtNlFNaWdrSk5XSVZlZ0JZcVQwTlZ0T1FnS0o0ZXpCOXF4QU1ZdUk4UVQ1M2c?oc=5"
-    },
-    {
       "title": "華許重拾抗通膨公信力 卻把自己逼進9月升息死角 | 國際焦點 | 國際",
       "stance": "hawkish",
       "tokens": [
@@ -301,23 +199,6 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbnhqeFZKeUx1dHdNT2l6VU1BMkRKVXFmZktzdlRNZGpYanljM2w2STRHVFozVU1yM1J0MjBXeUdUNlRVVG1KSWtsNi1ualpFcE5jOE1ETWdXQWNLbE1EeGZuRkxfOVhRb1lwZ3QxZ2dqZ09nS21RaUtRTTNYTmhVSzRFcTV6S3RSZUNZbGc3WDA?oc=5",
       "short_link": "https://tinyurl.com/23sa2aou"
-    },
-    {
-      "title": "華許終於讓債市安心！Fed抗通膨立場轉硬 交易員押注9月升息機率突破五成",
-      "stance": "hawkish",
-      "tokens": [
-        "fed抗通",
-        "交易員押注",
-        "華許終於讓"
-      ],
-      "last_seen_utc": "2026-08-31T00:43:04.458047+00:00",
-      "confidence": "LIKELY",
-      "sources": [
-        "news.cnyes.com",
-        "鉅亨網"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lYWpoclFzdkM1bGR5Ni1tdTdLOEdOUWNHV3NBVjNhZEM4VVhlcTVUREo0c0ZkWVhFTlN1cmN0eUI3RmtFaHR1LUdkWDNtTk0?oc=5",
-      "short_link": "https://tinyurl.com/2252wfe5"
     },
     {
       "title": "聯準會凱文·華許暗示升息 美股扭轉漲勢全面收黑",
@@ -966,7 +847,7 @@
         "work",
         "year"
       ],
-      "last_seen_utc": "2026-09-06T23:23:26.425156+00:00",
+      "last_seen_utc": "2026-09-07T01:10:38.701916+00:00",
       "confidence": "LIKELY",
       "sources": [
         "reuters"
@@ -1411,7 +1292,7 @@
         "why",
         "will"
       ],
-      "last_seen_utc": "2026-09-06T23:23:26.425156+00:00",
+      "last_seen_utc": "2026-09-07T01:10:38.701916+00:00",
       "confidence": "LIKELY",
       "sources": [
         "morningstar",
@@ -1836,7 +1717,7 @@
         "強調主席和",
         "華許陷兩難"
       ],
-      "last_seen_utc": "2026-09-06T23:23:26.425156+00:00",
+      "last_seen_utc": "2026-09-07T01:10:38.701916+00:00",
       "confidence": "LIKELY",
       "sources": [
         "money.udn.com",
@@ -1868,7 +1749,7 @@
         "trump",
         "warsh"
       ],
-      "last_seen_utc": "2026-09-06T23:23:26.425156+00:00",
+      "last_seen_utc": "2026-09-07T01:10:38.701916+00:00",
       "confidence": "LIKELY",
       "sources": [
         "finance.biggo.com",
@@ -1900,7 +1781,7 @@
         "win",
         "would"
       ],
-      "last_seen_utc": "2026-09-06T23:23:26.425156+00:00",
+      "last_seen_utc": "2026-09-07T01:10:38.701916+00:00",
       "confidence": "LIKELY",
       "sources": [
         "the globe and mail",
@@ -1934,7 +1815,7 @@
         "today",
         "warsh"
       ],
-      "last_seen_utc": "2026-09-06T23:23:26.425156+00:00",
+      "last_seen_utc": "2026-09-07T01:10:38.701916+00:00",
       "confidence": "LIKELY",
       "sources": [
         "the eastern herald",
