@@ -400,7 +400,7 @@
         "would",
         "yield"
       ],
-      "last_seen_utc": "2026-09-07T17:49:41.940918+00:00",
+      "last_seen_utc": "2026-09-07T20:58:27.393186+00:00",
       "confidence": "LIKELY",
       "sources": [
         "investing.com",
@@ -633,7 +633,7 @@
         "work",
         "year"
       ],
-      "last_seen_utc": "2026-09-07T17:49:41.940918+00:00",
+      "last_seen_utc": "2026-09-07T20:58:27.393186+00:00",
       "confidence": "LIKELY",
       "sources": [
         "reuters"
@@ -1535,7 +1535,7 @@
         "trump",
         "warsh"
       ],
-      "last_seen_utc": "2026-09-07T17:49:41.940918+00:00",
+      "last_seen_utc": "2026-09-07T20:58:27.393186+00:00",
       "confidence": "LIKELY",
       "sources": [
         "finance.biggo.com",
@@ -1567,7 +1567,7 @@
         "win",
         "would"
       ],
-      "last_seen_utc": "2026-09-07T17:49:41.940918+00:00",
+      "last_seen_utc": "2026-09-07T20:58:27.393186+00:00",
       "confidence": "LIKELY",
       "sources": [
         "the globe and mail",
@@ -1601,7 +1601,7 @@
         "today",
         "warsh"
       ],
-      "last_seen_utc": "2026-09-07T17:49:41.940918+00:00",
+      "last_seen_utc": "2026-09-07T20:58:27.393186+00:00",
       "confidence": "LIKELY",
       "sources": [
         "the eastern herald",
@@ -1609,6 +1609,23 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOXFsTXBacjItX01fQ29aMWp0a2VtM1ZmMlhzN2NSYkx6Rk1Fb1gyZENrSnE5bmhLSEdZSm9TT001MGw0bzEzaEVKb3JYWFN5TEFuUU5RZ2JSWVR5SUxNV2hfeDcwMHp6a3BCSURJaGN6bFZrRWRmYlRoZkVCLTJKVWlPaDdFY0hna003U2hDMWhNd1BUekE?oc=5",
       "short_link": "https://tinyurl.com/29gukgpn"
+    },
+    {
+      "title": "聯準會升息路徑曝光？美銀：華許談話暗示 通膨惡化恐大幅升息",
+      "stance": "hawkish",
+      "tokens": [
+        "聯準會升息",
+        "華許談話暗",
+        "通膨惡化恐"
+      ],
+      "last_seen_utc": "2026-09-07T20:58:27.393186+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "yahoo新聞",
+        "三立新聞"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOQXNmNzZkTFg0YlZoSFpkMlc1Vkg2QjNSZDE2ZGg3RkpZdlF6eDliMzFsdWxCaFU3THZwUUFFQ3VrVmpHYUJEOEM4MklVZlByTFlFclBaRVFPYjFlYkJ3NkZYd1llYU1nX0NBbXZzTlktM1YwLUlTQURwSl9XOFhvYWw5WkNJZXREX2U4T3ZndVdFRFZmWVJqNzhqRkI5a3JrTnltY1JFTktIZE9jdlp5akJQU3g3YmlFdG5OWVIzMGZYWmNwSHptb1VDOVVnZllnR1BCMU5lVXVqVktzcm04UEwtRlhRbXBUTTMxT0hpc1dNSWFTMlFUOGV4dzBla0Rtd1Q1MWdZOVhqNnZRaTNZMWFBZTJKQ0ZkbUxsUnR4TDN3TURCMlRFS1hEcnhpZGw1azhYVktFcERHTlBBRmhuNVpWTUlQclRLenNqbXlQQVFQS0d4cFNYTTR0TldwN2R4MzVtbk5NVHN5YnpyRVNGZjViQVdmYVZkMS1VSHFNd1NsODZVVnRzZXlmNlprMjg?oc=5",
+      "short_link": "https://tinyurl.com/29b5h4p4"
     }
   ]
 }
