@@ -713,5 +713,37 @@
       "geo_score": 40,
       "warsh_score": -25
     }
+  },
+  {
+    "timestamp": "2026-09-07T23:52:36.350581+00:00",
+    "gold_price": 4470.7998046875,
+    "momentum_score": 15,
+    "alert_level": "none",
+    "reasons": [
+      "地緣政治衝擊事件(24小時內): Iran launches missile and drone attacks across Gulf as Israe... (+40)",
+      "華許鷹派發言(24小時內): Stocks fall while dollar, bond yields rise as Fed chair Wars... (-25)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 99.1760025024414,
+        "prev_5d": 99.43000030517578,
+        "change_pct": -0.2554538891227915
+      },
+      "vix": {
+        "latest": 15.300000190734863,
+        "prev_5d": 14.920000076293945,
+        "change_pct": 2.546917644086957
+      },
+      "gld": null,
+      "cot": {
+        "report_date": "2026-09-01T00:00:00.000",
+        "net_long": 136771,
+        "prev_net_long": 144747,
+        "change_pct": -5.510304185924406
+      },
+      "real_rate_5d_change": 0.020000000000000018,
+      "geo_score": 40,
+      "warsh_score": -25
+    }
   }
 ]
