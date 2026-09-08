@@ -745,5 +745,38 @@
       "geo_score": 40,
       "warsh_score": -25
     }
+  },
+  {
+    "timestamp": "2026-09-08T23:46:13.750578+00:00",
+    "gold_price": 4401.5,
+    "momentum_score": 23,
+    "alert_level": "none",
+    "reasons": [
+      "DXY 5日小跌 -0.63% (+8)",
+      "地緣政治衝擊事件(24小時內): Iran launches missile and drone attacks across Gulf as Israe... (+40)",
+      "華許鷹派發言(24小時內): 聯準會升息路徑曝光？美銀：華許談話暗示 通膨惡化恐大幅升息... (-25)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 98.80799865722656,
+        "prev_5d": 99.43000030517578,
+        "change_pct": -0.6255673801067471
+      },
+      "vix": {
+        "latest": 15.720000267028809,
+        "prev_5d": 16.34000015258789,
+        "change_pct": -3.7943689092370536
+      },
+      "gld": null,
+      "cot": {
+        "report_date": "2026-09-01T00:00:00.000",
+        "net_long": 136771,
+        "prev_net_long": 144747,
+        "change_pct": -5.510304185924406
+      },
+      "real_rate_5d_change": 0.050000000000000266,
+      "geo_score": 40,
+      "warsh_score": -25
+    }
   }
 ]
