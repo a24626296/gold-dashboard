@@ -47,27 +47,6 @@
       "short_link": "https://tinyurl.com/269dpdub"
     },
     {
-      "title": "自衛隊の輸送機が「ミサイル大量発射」の攻撃機に!? 防衛省の新たな「ハイ・ロー・ミックス」構想とは（1/2 ページ）",
-      "tokens": [
-        "の攻撃機に",
-        "ページ",
-        "ミサイル大",
-        "ミックス",
-        "構想とは",
-        "自衛隊の輸",
-        "防衛省の新"
-      ],
-      "last_seen_utc": "2026-09-02T04:51:42.252029+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "infoseek",
-        "yahoo!ニュース",
-        "乗りものニュース"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1PQnlrUDZVNUdicnZrQXUyTjk0LW1zc1JfUGtiQnVhdjFDVDFFZlNNTGQ3blR1WFNmc0JneWRtNVBBeldRaXlISnB3?oc=5",
-      "short_link": "https://tinyurl.com/297cdsw6"
-    },
-    {
       "title": "Iran Fires Ballistic Missiles at U.S. Bases in Jordan After Larak Island Strike",
       "tokens": [
         "again",
@@ -164,6 +143,7 @@
         "akash",
         "attac",
         "back",
+        "bahra",
         "balli",
         "bases",
         "confl",
@@ -177,7 +157,9 @@
         "iran",
         "israe",
         "jorda",
+        "large",
         "launc",
+        "milit",
         "missi",
         "new",
         "news",
@@ -188,7 +170,7 @@
         "strik",
         "tehra"
       ],
-      "last_seen_utc": "2026-09-09T01:24:56.861562+00:00",
+      "last_seen_utc": "2026-09-09T06:15:46.245902+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "livemint",
@@ -1143,16 +1125,20 @@
     {
       "title": "US sinks 3 Iranian tankers after ballistic missile attacks",
       "tokens": [
+        "actio",
+        "air",
         "ameri",
         "attac",
         "attem",
         "balli",
         "barra",
+        "base",
         "bases",
         "blame",
         "bombs",
         "claim",
         "compa",
+        "defen",
         "destr",
         "disab",
         "fire",
@@ -1164,6 +1150,7 @@
         "gulf",
         "hit",
         "hits",
+        "inter",
         "iran",
         "irani",
         "irgc",
@@ -1186,6 +1173,7 @@
         "oman",
         "outle",
         "port",
+        "repel",
         "respo",
         "retal",
         "says",
@@ -1207,7 +1195,7 @@
         "was",
         "who"
       ],
-      "last_seen_utc": "2026-09-09T01:24:56.861562+00:00",
+      "last_seen_utc": "2026-09-09T06:15:46.245902+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "menafn",
