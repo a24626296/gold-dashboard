@@ -170,7 +170,7 @@
         "strik",
         "tehra"
       ],
-      "last_seen_utc": "2026-09-09T15:17:21.058290+00:00",
+      "last_seen_utc": "2026-09-09T18:45:10.023365+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "livemint",
@@ -1216,7 +1216,7 @@
         "was",
         "who"
       ],
-      "last_seen_utc": "2026-09-09T15:17:21.058290+00:00",
+      "last_seen_utc": "2026-09-09T18:45:10.023365+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "menafn",
@@ -1321,7 +1321,9 @@
         "again",
         "airba",
         "attac",
+        "attem",
         "azraq",
+        "bahra",
         "balli",
         "barra",
         "base",
@@ -1334,15 +1336,21 @@
         "fires",
         "gulf",
         "hit",
+        "hits",
         "iran",
         "irani",
+        "islan",
+        "jask",
         "jorda",
+        "kharg",
         "launc",
         "major",
+        "media",
         "missi",
         "multi",
         "new",
         "oil",
+        "port",
         "rbc",
         "retal",
         "seen",
@@ -1361,7 +1369,7 @@
         "washi",
         "watch"
       ],
-      "last_seen_utc": "2026-09-09T15:17:21.058290+00:00",
+      "last_seen_utc": "2026-09-09T18:45:10.023365+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
@@ -1382,21 +1390,30 @@
         "attac",
         "balli",
         "base",
+        "claim",
         "defen",
+        "escal",
         "fires",
+        "gulf",
         "heavy",
         "iran",
         "irani",
         "jorda",
+        "launc",
         "missi",
         "patri",
         "repor",
         "respo",
+        "risin",
         "strea",
+        "strik",
+        "tensi",
         "trigg",
-        "vesse"
+        "used",
+        "vesse",
+        "war"
       ],
-      "last_seen_utc": "2026-09-09T15:17:21.058290+00:00",
+      "last_seen_utc": "2026-09-09T18:45:10.023365+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "the defense watch",
@@ -1405,6 +1422,33 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWEItSDdfYlZsVzBYQUlUak43bHZzanFETXVVWHprM2IyV3dtc21VbmVDQ3J3VjBnNG9TeWRlc1A2TlNLRlRWeE1wZzI2OGVQd0RDVHV1NHp5d0VieXUtYlY5MUc3cWowcHZyZmVJN0xtN3liTmYwNk1ib29TYW02UzhzMTdkSlUxbHJjbUh4cVFFeWxjNC1YalNHRUNkZW8wTFoyQUkzNnk?oc=5",
       "short_link": "https://tinyurl.com/2artbha3"
+    },
+    {
+      "title": "Oil Near $100 pb Due to Iranian Missile Attack on Jordan",
+      "tokens": [
+        "100",
+        "arab",
+        "attac",
+        "balli",
+        "due",
+        "inter",
+        "irani",
+        "jorda",
+        "leagu",
+        "missi",
+        "oil",
+        "rebuk",
+        "repel"
+      ],
+      "last_seen_utc": "2026-09-09T18:45:10.023365+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "caliber.az",
+        "fananews.com",
+        "وكالة الانباء الاردنية"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTEhMQlNUR2xrM1VUeG1fbGxnaWRib3NuWEZnU01xQjZCTGtmTG5sS3VxNVVMRXUxdThWaDV6OXZUV0prMEJmajNLSFlhM3c2R2xNNnB3dzRrM0ViZGhoaHR4S3N1dFotZmd6SGw4STl6cTVGUFJUdEFHanBHUU9mM1I1dmxHaHZXeHBXUHkwcFh2OUI4UU9SZQ?oc=5",
+      "short_link": "https://tinyurl.com/22xqff6b"
     }
   ]
 }
