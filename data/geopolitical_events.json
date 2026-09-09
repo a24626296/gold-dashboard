@@ -170,7 +170,7 @@
         "strik",
         "tehra"
       ],
-      "last_seen_utc": "2026-09-09T11:38:58.477766+00:00",
+      "last_seen_utc": "2026-09-09T15:17:21.058290+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "livemint",
@@ -358,7 +358,7 @@
         "war",
         "warne"
       ],
-      "last_seen_utc": "2026-09-09T11:38:58.477766+00:00",
+      "last_seen_utc": "2026-09-09T15:17:21.058290+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "a news",
@@ -1216,7 +1216,7 @@
         "was",
         "who"
       ],
-      "last_seen_utc": "2026-09-09T11:38:58.477766+00:00",
+      "last_seen_utc": "2026-09-09T15:17:21.058290+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "menafn",
@@ -1321,20 +1321,29 @@
         "again",
         "airba",
         "attac",
+        "azraq",
         "balli",
         "barra",
+        "base",
         "bases",
         "celeb",
+        "claim",
+        "clust",
+        "escal",
         "explo",
         "fires",
+        "gulf",
         "hit",
         "iran",
         "irani",
         "jorda",
         "launc",
+        "major",
         "missi",
         "multi",
+        "new",
         "oil",
+        "rbc",
         "retal",
         "seen",
         "sinks",
@@ -1343,10 +1352,16 @@
         "tanke",
         "targe",
         "tehra",
+        "usa",
+        "used",
+        "uses",
         "video",
+        "war",
+        "warhe",
+        "washi",
         "watch"
       ],
-      "last_seen_utc": "2026-09-09T11:38:58.477766+00:00",
+      "last_seen_utc": "2026-09-09T15:17:21.058290+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
@@ -1359,6 +1374,37 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQN0tIQS1waFk1Vl9UUVphSGRpQmI3YVZTZ2dmMjMzZnNMOUtteFRNbTl1ZzQzUzhrelFMaFFOY211TzBib1E4VVY0YzlrQXBvTER5Qnllc0hCT1dKRXVsMGZ4azRVOVZ0NWw2UURJa2gxelAxWnVvSnFNcDBMVGVQREljRzZUZGR1ZDZqQXg3UEdIbVpudV93eXMxcC1hTkVkT1B5b3ZXZFRTUkhOX3dDSXo3YXVyWGZkMWhJZW5ScDVialVyVzJXR05OQXROdDBfT2c4VUtpNUoxQThWN2ZqcnE3aGtibGtfQWVHc3VKZTVjcU0yNGRYb1lLbkdDMGRxU1RB0gGIAkFVX3lxTE9yYlA4QXAtSVV0cjA4Nk05a3RBdml0MHJ6dkd6TEZXRlpDVWZocDlZZUt0aW8yall0M0RkNU5pUDJQVTlWNU9jS1E5dW9jNVh0cEVtSURlcENlaUpmUzBJSjI5RXZ2a05aVGZaOVREcHNPdF94M0tkelJxVGZWOEhhQy1CMlB1TGpNQWw0R2t6N3hlcHF4bG52U0tyS0cydk5KODhOaHpvZGIwZEh2OUNWVXpLd2ozUjBCUlFNNzFSclY0eUZyZUpqbUxtSXQ5dGxSbXhQSHB4RHNaNkJ5aldNbGFvNkwyaFhCa01JQXJDa04zaDZFT2tERGJOLWdwbFFtb283dVdyVw?oc=5",
       "short_link": "https://tinyurl.com/23uv4tph"
+    },
+    {
+      "title": "Iran Attacks US Vessels, Fires Ballistic Missiles at US Base in Jordan",
+      "tokens": [
+        "air",
+        "attac",
+        "balli",
+        "base",
+        "defen",
+        "fires",
+        "heavy",
+        "iran",
+        "irani",
+        "jorda",
+        "missi",
+        "patri",
+        "repor",
+        "respo",
+        "strea",
+        "trigg",
+        "vesse"
+      ],
+      "last_seen_utc": "2026-09-09T15:17:21.058290+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "the defense watch",
+        "the media line",
+        "the times of india"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWEItSDdfYlZsVzBYQUlUak43bHZzanFETXVVWHprM2IyV3dtc21VbmVDQ3J3VjBnNG9TeWRlc1A2TlNLRlRWeE1wZzI2OGVQd0RDVHV1NHp5d0VieXUtYlY5MUc3cWowcHZyZmVJN0xtN3liTmYwNk1ib29TYW02UzhzMTdkSlUxbHJjbUh4cVFFeWxjNC1YalNHRUNkZW8wTFoyQUkzNnk?oc=5",
+      "short_link": "https://tinyurl.com/2artbha3"
     }
   ]
 }
