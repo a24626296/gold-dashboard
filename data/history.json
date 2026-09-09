@@ -778,5 +778,39 @@
       "geo_score": 40,
       "warsh_score": -25
     }
+  },
+  {
+    "timestamp": "2026-09-09T23:42:02.659083+00:00",
+    "gold_price": 4441.0,
+    "momentum_score": 33,
+    "alert_level": "none",
+    "reasons": [
+      "DXY 5日小跌 -0.89% (+8)",
+      "VIX 上升 8.29% (+10)",
+      "地緣政治衝擊事件(24小時內): US sinks 3 Iranian tankers after ballistic missile attacks... (+40)",
+      "華許鷹派發言(24小時內): Fed Chair Warsh Signals Rate Hikes May Be Needed With U.S. I... (-25)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 98.78299713134766,
+        "prev_5d": 99.66999816894531,
+        "change_pct": -0.8899378487939249
+      },
+      "vix": {
+        "latest": 16.459999084472656,
+        "prev_5d": 15.199999809265137,
+        "change_pct": 8.289469019858071
+      },
+      "gld": null,
+      "cot": {
+        "report_date": "2026-09-01T00:00:00.000",
+        "net_long": 136771,
+        "prev_net_long": 144747,
+        "change_pct": -5.510304185924406
+      },
+      "real_rate_5d_change": 0.0900000000000003,
+      "geo_score": 40,
+      "warsh_score": -25
+    }
   }
 ]
