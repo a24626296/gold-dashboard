@@ -1,96 +1,6 @@
 {
   "events": [
     {
-      "title": "Markets Brace for Possible Rate Hike After Kevin Warsh’s Hawkish Turn",
-      "stance": "hawkish",
-      "tokens": [
-        "act",
-        "addre",
-        "again",
-        "analy",
-        "anti",
-        "bets",
-        "betti",
-        "brace",
-        "chair",
-        "cites",
-        "comin",
-        "conce",
-        "doesn",
-        "fed",
-        "focus",
-        "follo",
-        "gld",
-        "going",
-        "gold",
-        "hawki",
-        "hike",
-        "hints",
-        "hole",
-        "impro",
-        "infla",
-        "jacks",
-        "jump",
-        "kevin",
-        "marke",
-        "mater",
-        "news",
-        "not",
-        "nysea",
-        "odds",
-        "out",
-        "plung",
-        "possi",
-        "rate",
-        "readi",
-        "rulin",
-        "see",
-        "septe",
-        "signa",
-        "spark",
-        "speec",
-        "stanc",
-        "stati",
-        "strat",
-        "this",
-        "turn",
-        "warsh"
-      ],
-      "last_seen_utc": "2026-09-02T22:22:37.102219+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "barron's",
-        "bond buyer",
-        "indexbox",
-        "wsj"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd21XY0p2U19xZjhVVUdnMUNXUHpJT0c5bGxHdzRGaVpBckhWSmtRRENmaWVKZDVzY0J0VllrWDFmOC1NMXhlMnQ4bEEwZG1SeHczVWhfMC1sZGRUMjBPeVU5ZWZBdW1yMTZpa1NsUy1Ra2lBUEwwMHJyYXRHRThha2ZvQXF2d2pNME9KY3BCRTRFZkVPZjJzUHM3Rng0ZXZJYTBDalVtTDRTZDVxcldtSEdlRUo0dw?oc=5",
-      "short_link": "https://tinyurl.com/2aykpxsn"
-    },
-    {
-      "title": "華許180度大轉成鷹派 9月升息機率大漲",
-      "stance": "hawkish",
-      "tokens": [
-        "9月升息機",
-        "半導體展重",
-        "新聞內容",
-        "美股4大指",
-        "華許180",
-        "華許放鷹",
-        "華許露鷹爪",
-        "費半摔"
-      ],
-      "last_seen_utc": "2026-09-02T22:22:37.102219+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "台灣大紀元",
-        "大纪元",
-        "自由財經"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOMjNJNXBoeFJBdHRleUdzc01tQUJrclVPSEJ0MmhhTE84Z2FycHdiWjgtMkZKVXVBZ2lUV3pmVkNGa1dFaFN1V1pDTWhWY0p3dnRXWF9YMVctQTRyc1FPVDdOMDRFS1pERENuTlFmT1hrZTZ0ZlRuenc0V1lfMHZhVVk5ZFpMeXFCc2tvdTREQ0Y0TVZXcE0zOE5rbFdqWVRnQ2pGeUJ4RkMyMnhDRjZWdjBlakJDOENQVzZzWnUxMkM4cjI4SHhHVHNhSGZXNlV6ZlAydmU5Q1ZwMEdYVXFLNWJQZFl3NDJMTnNXSUFzVVN5Q3c0RFF0bTN1NThrbEQ4SUR3UVpiZ3BtN2RNUVZ0Sw?oc=5",
-      "short_link": "https://tinyurl.com/23vzgd9h"
-    },
-    {
       "title": "Stocks fall while dollar, bond yields rise as Fed chair Warsh prompts rate hike bets",
       "stance": "hawkish",
       "tokens": [
@@ -371,41 +281,6 @@
       "short_link": "https://tinyurl.com/2y4yenjd"
     },
     {
-      "title": "Trump Presses Warsh for Rate Cuts, Says US Borrowing Costs Should Be World’s Lowest",
-      "stance": "dovish",
-      "tokens": [
-        "borro",
-        "chosu",
-        "costs",
-        "cut",
-        "cuts",
-        "doesn",
-        "fears",
-        "fed",
-        "fuel",
-        "growt",
-        "infla",
-        "lowes",
-        "press",
-        "rate",
-        "rates",
-        "rejec",
-        "says",
-        "shoul",
-        "trump",
-        "warsh",
-        "world"
-      ],
-      "last_seen_utc": "2026-09-02T22:22:37.102219+00:00",
-      "confidence": "LIKELY",
-      "sources": [
-        "bloomingbit",
-        "seoul economic daily"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WSzFvek91bHZWb2Z3SEltbFgtOXJQSDlnS0dOTkpZSFpnMEQ3SDRtQ0ZXX2JHTDhPbThLeFJPRVZ6Si0zazdiUGFPN1BtZFVZR21YbQ?oc=5",
-      "short_link": "https://tinyurl.com/23ff9wkd"
-    },
-    {
       "title": "華許剛轉鷹 川普：尊重他但 GDP 增 20% 也不該升息",
       "stance": "hawkish",
       "tokens": [
@@ -580,7 +455,7 @@
         "warni",
         "warsh"
       ],
-      "last_seen_utc": "2026-09-09T21:14:40.940981+00:00",
+      "last_seen_utc": "2026-09-09T23:17:31.504969+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "industrial distribution",
