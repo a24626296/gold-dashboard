@@ -81,7 +81,7 @@
         "strik",
         "tehra"
       ],
-      "last_seen_utc": "2026-09-10T21:02:16.717498+00:00",
+      "last_seen_utc": "2026-09-10T23:09:05.461373+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "livemint",
@@ -1114,7 +1114,7 @@
         "what",
         "yemen"
       ],
-      "last_seen_utc": "2026-09-10T21:02:16.717498+00:00",
+      "last_seen_utc": "2026-09-10T23:09:05.461373+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "forex factory",
@@ -1382,6 +1382,7 @@
         "bahra",
         "balli",
         "base",
+        "cbs",
         "conde",
         "confl",
         "damag",
@@ -1390,13 +1391,16 @@
         "eight",
         "escal",
         "explo",
+        "fatal",
         "fight",
         "fires",
+        "first",
         "five",
         "force",
         "forei",
         "gulf",
         "hit",
+        "inclu",
         "iran",
         "irani",
         "israe",
@@ -1411,7 +1415,11 @@
         "missi",
         "multi",
         "muwaf",
+        "news",
+        "nine",
         "overn",
+        "parad",
+        "piece",
         "repor",
         "salti",
         "says",
@@ -1421,6 +1429,7 @@
         "strik",
         "tanke",
         "targe",
+        "tensi",
         "thund",
         "uae",
         "usaf",
@@ -1430,7 +1439,7 @@
         "warth",
         "wing"
       ],
-      "last_seen_utc": "2026-09-10T21:02:16.717498+00:00",
+      "last_seen_utc": "2026-09-10T23:09:05.461373+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "aerotime",
@@ -1468,7 +1477,7 @@
         "ukrai",
         "was"
       ],
-      "last_seen_utc": "2026-09-10T21:02:16.717498+00:00",
+      "last_seen_utc": "2026-09-10T23:09:05.461373+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "the new voice of ukraine",
