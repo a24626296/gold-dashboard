@@ -220,5 +220,20 @@
       "latest_close": 4441.0,
       "volume_ratio": 0.669662043774067
     }
+  },
+  {
+    "timestamp": "2026-09-10T23:34:54.795110+00:00",
+    "gold_price": 4358.7001953125,
+    "entry_score": 0,
+    "entry_level": "none",
+    "reasons": [],
+    "detail": {
+      "rsi": 47.20992056070532,
+      "macd": 31.79116725721815,
+      "macd_signal": 60.22915856029195,
+      "high_20d": 4640.7998046875,
+      "latest_close": 4358.7001953125,
+      "volume_ratio": 0.8229716216081752
+    }
   }
 ]
