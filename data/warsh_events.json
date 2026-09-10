@@ -154,25 +154,6 @@
       "short_link": "https://tinyurl.com/27uwmahl"
     },
     {
-      "title": "美債投資人質疑聯準會升息預期 華許溝通風格引發市場震盪",
-      "stance": "hawkish",
-      "tokens": [
-        "新聞快訊",
-        "美債投資人",
-        "股市爆料同",
-        "華許溝通風",
-        "豐雲學堂"
-      ],
-      "last_seen_utc": "2026-09-03T04:51:13.172302+00:00",
-      "confidence": "LIKELY",
-      "sources": [
-        "cmoney",
-        "news.cnyes.com"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HNTdrOFZfeWpGSDJNS1YybHV0bW4tczRyTjhWek9PcXZWNXpNR1VhZll3S2ZDYlU5R0F3VU9RUm9YazhTa3NqSmFWY2tZOEk?oc=5",
-      "short_link": "https://tinyurl.com/2xztw2m4"
-    },
-    {
       "title": "Warsh Sounds Hawkish, but Will There Be a September Rate Hike in the US?",
       "stance": "hawkish",
       "tokens": [
@@ -366,7 +347,7 @@
         "warni",
         "warsh"
       ],
-      "last_seen_utc": "2026-09-10T01:15:31.820497+00:00",
+      "last_seen_utc": "2026-09-10T06:00:51.343513+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "industrial distribution",
@@ -526,6 +507,27 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOQXNmNzZkTFg0YlZoSFpkMlc1Vkg2QjNSZDE2ZGg3RkpZdlF6eDliMzFsdWxCaFU3THZwUUFFQ3VrVmpHYUJEOEM4MklVZlByTFlFclBaRVFPYjFlYkJ3NkZYd1llYU1nX0NBbXZzTlktM1YwLUlTQURwSl9XOFhvYWw5WkNJZXREX2U4T3ZndVdFRFZmWVJqNzhqRkI5a3JrTnltY1JFTktIZE9jdlp5akJQU3g3YmlFdG5OWVIzMGZYWmNwSHptb1VDOVVnZllnR1BCMU5lVXVqVktzcm04UEwtRlhRbXBUTTMxT0hpc1dNSWFTMlFUOGV4dzBla0Rtd1Q1MWdZOVhqNnZRaTNZMWFBZTJKQ0ZkbUxsUnR4TDN3TURCMlRFS1hEcnhpZGw1azhYVktFcERHTlBBRmhuNVpWTUlQclRLenNqbXlQQVFQS0d4cFNYTTR0TldwN2R4MzVtbk5NVHN5YnpyRVNGZjViQVdmYVZkMS1VSHFNd1NsODZVVnRzZXlmNlprMjg?oc=5",
       "short_link": "https://tinyurl.com/29b5h4p4"
+    },
+    {
+      "title": "Fed傳聲筒：升不升息就差在0.1個百分點 華許等周五CPI定奪",
+      "stance": "hawkish",
+      "tokens": [
+        "1個百分點",
+        "cpi",
+        "fed",
+        "fed傳聲",
+        "傳聲筒",
+        "升不升息就",
+        "華許等周五"
+      ],
+      "last_seen_utc": "2026-09-10T06:00:51.343513+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "udn",
+        "經濟日報"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qOGRDczFvSER2bEhxM3FDWGdYU3drdm9sQTNieWY4Z0Q0ZUY5WFRKRDNqT0FpOGRGT2h5OEg2Zi03TWp4dmhhaDFMTzVQTzV1?oc=5",
+      "short_link": "https://tinyurl.com/23fn6dvg"
     }
   ]
 }
