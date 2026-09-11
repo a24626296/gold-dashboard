@@ -165,56 +165,6 @@
       "short_link": "https://tinyurl.com/255kag4f"
     },
     {
-      "title": "Iran launches missile and drone strikes on US bases as Middle East war widens",
-      "tokens": [
-        "ameri",
-        "attac",
-        "balli",
-        "bases",
-        "bruta",
-        "casua",
-        "claim",
-        "drone",
-        "east",
-        "edge",
-        "erbil",
-        "escal",
-        "happe",
-        "hit",
-        "hits",
-        "iran",
-        "irgc",
-        "jorda",
-        "know",
-        "launc",
-        "major",
-        "middl",
-        "missi",
-        "new",
-        "party",
-        "repor",
-        "respo",
-        "retal",
-        "serie",
-        "sirik",
-        "strik",
-        "tehra",
-        "war",
-        "weddi",
-        "what",
-        "widen"
-      ],
-      "last_seen_utc": "2026-09-04T13:33:50.974840+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "joburg etc",
-        "latest news from azerbaijan",
-        "news18"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSHhIa3F5eDZQRm1JNWNpUnZ4S2M0VzljY2NialFzb1llNktQZ2hYUjJmR0NTWUcxX1V0TXkzb1ZaQ29pVml1R1JEWDU4b1A5NzY2aTZ0ZS1aR1p5SkJVVXdwS2NmajgwQVAzTXRrOGQ5TDJyWXNCNHFCd3lEQWgwemlCRUNHQQ?oc=5",
-      "short_link": "https://tinyurl.com/26fakp3s"
-    },
-    {
       "title": "What is a 'double-tap' missile strike? US Air Force accused of targeted killing of wedding party in Iran's Sirik",
       "tokens": [
         "accus",
@@ -1269,7 +1219,7 @@
         "warth",
         "wing"
       ],
-      "last_seen_utc": "2026-09-11T10:33:57.950880+00:00",
+      "last_seen_utc": "2026-09-11T14:37:26.566535+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "aerotime",
@@ -1316,6 +1266,34 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBISzRkUjV3cHJWa2RkNl8zZnJTWEo2Yk11YnU2cUNWeW1mZU1LZGpUR3h0Ni1KSEVlLXNSVkRIdnlLcVhXT1dMd0RWQ1M1d3BYbjZQYkJmWXhJcmhZTVdjeWJjc3k3V3N2QWxKYXZqVkhtSWJ5R0cyVGtvb3RuWjTSAYQBQVVfeXFMUEFYa3Fqa0U4UlZCQ1FpYkJXZXFrMnNDcnB6akVaYWltZ2V4cF9IakZRd0tNV0ZCUFNBaHBBenBwOThRTGJ2MUpNenU5ZVdFMmJKcThEdDRSZUdWcmdvMTF0UnZoaXlwQ2ZKSVRNNGJBdmlTNW9XeGMzUGFoX2p3VXpGc090?oc=5",
       "short_link": "https://tinyurl.com/29rytbm8"
+    },
+    {
+      "title": "Ukrainian forces launch missile strike on Volgograd",
+      "tokens": [
+        "area",
+        "attac",
+        "fire",
+        "force",
+        "launc",
+        "lukoi",
+        "massi",
+        "missi",
+        "oil",
+        "refin",
+        "strik",
+        "ukrai",
+        "volgo"
+      ],
+      "last_seen_utc": "2026-09-11T14:37:26.566535+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "azernews",
+        "finway.com.ua",
+        "today.az",
+        "мілітарний"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HU1ZabF9xTW1XVXJ0eHRyclR1SEx2UVhqT3FTR0g3UFBKZzBDdGhhMEwwZk85ajRUejYzakRxTVkwNV9vN0xhNGxwaTBzM0FpQnFDUg?oc=5",
+      "short_link": "https://tinyurl.com/29sdhmf3"
     }
   ]
 }
