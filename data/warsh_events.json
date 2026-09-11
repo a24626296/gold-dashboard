@@ -431,7 +431,7 @@
         "國際焦點",
         "華許等周五"
       ],
-      "last_seen_utc": "2026-09-11T17:54:48.204554+00:00",
+      "last_seen_utc": "2026-09-11T20:17:49.438540+00:00",
       "confidence": "LIKELY",
       "sources": [
         "udn",
@@ -439,6 +439,33 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qOGRDczFvSER2bEhxM3FDWGdYU3drdm9sQTNieWY4Z0Q0ZUY5WFRKRDNqT0FpOGRGT2h5OEg2Zi03TWp4dmhhaDFMTzVQTzV1?oc=5",
       "short_link": "https://tinyurl.com/23fn6dvg"
+    },
+    {
+      "title": "Warsh Faces Intensifying Pressure to Raise Rates After Hot CPI",
+      "stance": "hawkish",
+      "tokens": [
+        "cpi",
+        "faces",
+        "hot",
+        "infla",
+        "inten",
+        "kevin",
+        "mount",
+        "persi",
+        "press",
+        "raise",
+        "rates",
+        "under",
+        "warsh"
+      ],
+      "last_seen_utc": "2026-09-11T20:17:49.438540+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "bloomberg.com",
+        "financial times"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSlA0Sl9sSUFuNjJhanlXWXcxMlNNRENsaEtlRVZvMW5TX3VGb182NW50R2steXkwaDBINzhaWFdjYXI5M3drazl4UGJMOTlzQ0RXTnJXeG45eHROSjNwR1o5d0lmUVQtVnVaN3ZhdzBkd3JUTWFHODEtSEdzbEFlNmVOVy1QOHlLRk9uRmZRdUs0ekg4c3hocE5uNzdXSXc1NDduWmUyVGVPM2Z3SzAzY3lzQ1ZsMl9tQnR3QnJyRVZfN0NR?oc=5",
+      "short_link": "https://tinyurl.com/2d8fvayt"
     }
   ]
 }
