@@ -205,51 +205,6 @@
       "short_link": "https://tinyurl.com/2desa3y6"
     },
     {
-      "title": "Funerals held in Iran for wedding party victims of US missile strikes",
-      "tokens": [
-        "agenc",
-        "attac",
-        "burie",
-        "cerem",
-        "fly",
-        "four",
-        "funer",
-        "gulf",
-        "held",
-        "hit",
-        "hits",
-        "house",
-        "inves",
-        "iran",
-        "kille",
-        "least",
-        "milit",
-        "missi",
-        "news",
-        "opeli",
-        "party",
-        "photo",
-        "says",
-        "south",
-        "strik",
-        "tasni",
-        "that",
-        "vance",
-        "victi",
-        "weddi"
-      ],
-      "last_seen_utc": "2026-09-05T05:59:54.173597+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "dawn",
-        "opelika-auburn news",
-        "the daily progress",
-        "theeagle.com"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdzZfbWwyWGhQVVp0NnRRejdvWXFtUDJVTmlqQlFFMG5xcjRHSmYzbklKR0JPV18zbUVaaDJVTWRQaW15dDYxTUFXd1RIWnZaaXNvUWtkeE1fMUNCdVpKVU5aRFNuMDUzdWJ2SDlRT2s0Tk9CMEV4SkJwR1Nld0pCNXg3Ymt4Vl9PSExJZWdSZlRkZzIwYlMzekQwZE1CU0EyRTRzRA?oc=5",
-      "short_link": "https://tinyurl.com/2b9ctzq2"
-    },
-    {
       "title": "U.S. Missiles Hit Iranian Oil Tanker Near Kharg Island, Tasnim Reports: 19 outlets compared",
       "tokens": [
         "accus",
@@ -1252,6 +1207,68 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HU1ZabF9xTW1XVXJ0eHRyclR1SEx2UVhqT3FTR0g3UFBKZzBDdGhhMEwwZk85ajRUejYzakRxTVkwNV9vN0xhNGxwaTBzM0FpQnFDUg?oc=5",
       "short_link": "https://tinyurl.com/29sdhmf3"
+    },
+    {
+      "title": "Odesa hit by massive missile and drone attack, six injured",
+      "tokens": [
+        "attac",
+        "drone",
+        "hit",
+        "injur",
+        "least",
+        "massi",
+        "missi",
+        "odesa",
+        "six",
+        "twelv",
+        "updat"
+      ],
+      "last_seen_utc": "2026-09-12T09:18:17.998624+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "menafn",
+        "ukrinform",
+        "бта"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZUhwdWVHRk92YmNNbnZKTFo4ZDgzM2VaM3VudVMxTmoyRXhiSjE3THcydFY4LU1oMGhhcHAtaGk3SjQ2TTI3cWllRFUzX090MS1IbUFScnpyWGtHX3ptRm1OTm0yVUhMa2FUNHBpVVBlNXNHZ0h6eXB1RVpjT3BHcVpiQ1ZHTURLS09JS1BLMm9qR1hncWNydlhmOER6VzlueHg1azJvbG5ZOU3SAbABQVVfeXFMUDNRWG40ZU5pcmM4NEhmWHlHaUFTV3FXZ2dMSUV2ajNZUDZmTUdnbGN4OE5kTF9Odmc4bVI5R2JuVC1FbHRZbUdjZVFJTGZhMmp6R1F3MFFJbnc3Z201ZWRlYjB0MHRkZ3EzTTRlaC0zNmZkdlVKd0diWDlGUmpPT1cwOXBXVTNNUjRrcGdLQ2ZCU0tRNFlPSms3Z2VwVXJsZGVyU2tPY1JKaFhYdnZiLWQ?oc=5",
+      "short_link": "https://tinyurl.com/293du26c"
+    },
+    {
+      "title": "Chinese entities provided Iran with satellite images of air base in Jordan before deadly missile strike: report",
+      "tokens": [
+        "air",
+        "ameri",
+        "attac",
+        "base",
+        "befor",
+        "beiji",
+        "china",
+        "chine",
+        "deadl",
+        "denia",
+        "entit",
+        "follo",
+        "guide",
+        "image",
+        "iran",
+        "jorda",
+        "missi",
+        "provi",
+        "repor",
+        "resum",
+        "satel",
+        "strik",
+        "wsj"
+      ],
+      "last_seen_utc": "2026-09-12T09:18:17.998624+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "dailybeirut.com",
+        "hornbilltv.com",
+        "new york post"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQM2ZrdDl0a0xUX2ZDVnpYS3g2VERTQXZzSDh3TEpoYkhMNEswbmxWRW5CVG9VTE5EeTlqQ25xU1hldVYyU3dDdmZ6Rk0xdjI2dW9pRmxfMEJ0anI3TE11aEg4OTAya3NNODY1VFhKUFFGRENsM3FzU2t4dlA4UFBEaUFLdG1aUzMtMmw1VDBIZjFwVEpTcmIzZ0syMFBUaTBsUzdONEVma3JDODRUN3dmVk1sMVltRmtBcXVmNWJ1N3UzWlByZ0VaTkpBbUZIbllzZkdDT1RDWlg1bEJtNnVaRFV3dw?oc=5",
+      "short_link": "https://tinyurl.com/2y6phqdj"
     }
   ]
 }
