@@ -1,52 +1,6 @@
 {
   "events": [
     {
-      "title": "UAE denies reports of missile attack on Al Minhad air base",
-      "tokens": [
-        "air",
-        "allia",
-        "ameri",
-        "attac",
-        "base",
-        "bases",
-        "claim",
-        "denie",
-        "deny",
-        "drone",
-        "escal",
-        "infor",
-        "iran",
-        "irani",
-        "jorda",
-        "keeps",
-        "launc",
-        "minha",
-        "missi",
-        "north",
-        "offic",
-        "posit",
-        "refut",
-        "repor",
-        "says",
-        "surpr",
-        "tanke",
-        "targe",
-        "tensi",
-        "uae",
-        "unawa",
-        "uncon"
-      ],
-      "last_seen_utc": "2026-09-05T20:33:05.488324+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "free press kashmir",
-        "gulf news",
-        "thenationalnews.com"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSVY4YjFENjNpYVpzTTE2MmdLTV91aDdBbWtYX0YwOTdtNGR4aVhsd1NvTGpKdlE4ZnROX1FYeC1sNUxzdkItYk43R2QxaWZnRlRraHhEc3hqZzE1Ym9PRmhiMDVfZXhZSUJEcHRZMV85aC1ZdzRrNlI0eDF6VTNMVTRFejZIOWtDQkw2UlpVeFVNT1JUNDBhbnhlWUR2d3FOMzc1TU5Kd9IBpwFBVV95cUxOSVY4YjFENjNpYVpzTTE2MmdLTV91aDdBbWtYX0YwOTdtNGR4aVhsd1NvTGpKdlE4ZnROX1FYeC1sNUxzdkItYk43R2QxaWZnRlRraHhEc3hqZzE1Ym9PRmhiMDVfZXhZSUJEcHRZMV85aC1ZdzRrNlI0eDF6VTNMVTRFejZIOWtDQkw2UlpVeFVNT1JUNDBhbnhlWUR2d3FOMzc1TU5Kdw?oc=5",
-      "short_link": "https://tinyurl.com/269dpdub"
-    },
-    {
       "title": "Iran launches missile and drone attacks across Gulf as Israel strikes Tehran infrastructure | Akashvani News",
       "tokens": [
         "acros",
@@ -1200,7 +1154,7 @@
         "twelv",
         "updat"
       ],
-      "last_seen_utc": "2026-09-12T18:21:04.171027+00:00",
+      "last_seen_utc": "2026-09-12T20:44:39.369274+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "menafn",
@@ -1237,7 +1191,7 @@
         "strik",
         "wsj"
       ],
-      "last_seen_utc": "2026-09-12T18:21:04.171027+00:00",
+      "last_seen_utc": "2026-09-12T20:44:39.369274+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "dailybeirut.com",
