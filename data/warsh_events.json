@@ -458,7 +458,7 @@
         "under",
         "warsh"
       ],
-      "last_seen_utc": "2026-09-12T00:39:19.890543+00:00",
+      "last_seen_utc": "2026-09-12T05:02:44.931353+00:00",
       "confidence": "LIKELY",
       "sources": [
         "bloomberg.com",
@@ -466,6 +466,23 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSlA0Sl9sSUFuNjJhanlXWXcxMlNNRENsaEtlRVZvMW5TX3VGb182NW50R2steXkwaDBINzhaWFdjYXI5M3drazl4UGJMOTlzQ0RXTnJXeG45eHROSjNwR1o5d0lmUVQtVnVaN3ZhdzBkd3JUTWFHODEtSEdzbEFlNmVOVy1QOHlLRk9uRmZRdUs0ekg4c3hocE5uNzdXSXc1NDduWmUyVGVPM2Z3SzAzY3lzQ1ZsMl9tQnR3QnJyRVZfN0NR?oc=5",
       "short_link": "https://tinyurl.com/2d8fvayt"
+    },
+    {
+      "title": "下周Fed升息與否 將成華許領導力大會考",
+      "stance": "hawkish",
+      "tokens": [
+        "下周fed",
+        "將成華許領",
+        "股市爆料同"
+      ],
+      "last_seen_utc": "2026-09-12T05:02:44.931353+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "cmoney",
+        "news.cnyes.com"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mS1VyR09GQWl1dk0wUnJFeFpvZG9yOWhJdmJ0U0pVWHNibnk4b1JJTlpvTTFCSHkwcXZvSEx3OVFIQk40dW1KSE5fUEJpR2c?oc=5",
+      "short_link": "https://tinyurl.com/2bhkjbef"
     }
   ]
 }
