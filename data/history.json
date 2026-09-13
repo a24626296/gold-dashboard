@@ -845,5 +845,38 @@
       "geo_score": 40,
       "warsh_score": -25
     }
+  },
+  {
+    "timestamp": "2026-09-13T23:48:27.274310+00:00",
+    "gold_price": 4381.89990234375,
+    "momentum_score": 25,
+    "alert_level": "none",
+    "reasons": [
+      "VIX 上升 9.02% (+10)",
+      "地緣政治衝擊事件(24小時內): Odesa hit by massive missile and drone attack, six injured... (+40)",
+      "華許鷹派發言(24小時內): 下周Fed升息與否 將成華許領導力大會考... (-25)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 99.1510009765625,
+        "prev_5d": 99.16000366210938,
+        "change_pct": -0.009078948380792639
+      },
+      "vix": {
+        "latest": 15.84000015258789,
+        "prev_5d": 14.529999732971191,
+        "change_pct": 9.015832372275078
+      },
+      "gld": null,
+      "cot": {
+        "report_date": "2026-09-08T00:00:00.000",
+        "net_long": 134972,
+        "prev_net_long": 136771,
+        "change_pct": -1.3153373156590213
+      },
+      "real_rate_5d_change": 0.1299999999999999,
+      "geo_score": 40,
+      "warsh_score": -25
+    }
   }
 ]
