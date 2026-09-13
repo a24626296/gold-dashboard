@@ -35,7 +35,7 @@
         "strik",
         "tehra"
       ],
-      "last_seen_utc": "2026-09-13T10:14:25.381885+00:00",
+      "last_seen_utc": "2026-09-13T14:25:02.478043+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "livemint",
@@ -332,24 +332,6 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMzBFcWFFYUtvdldkbENhUVl4aEtxaFJXd2gzVEVDdkxVVm1xcnRDU0d3WjhxWTYxZXB0QVBoQXlOREpOVlNTZDhxSW1HX0dfSzFjMG51UmpkbGd1Vkw4RTkwM3Ffbng5ZUZvNVRVdDNmaG1adUlNanZ2Ti0ySVYyU2xvVGVfdzZvVUhVbDVqdHpoUm1uNUgxdzI3V0FhNDR6?oc=5",
       "short_link": "https://tinyurl.com/29tokzcr"
-    },
-    {
-      "title": "米軍 イランのタンカー3隻を攻撃 艦艇へのミサイル発射の報復で 「攻撃すれば大きな経済的代償を科す」と警告",
-      "tokens": [
-        "と警告",
-        "イランのタ",
-        "攻撃すれば",
-        "艦艇へのミ"
-      ],
-      "last_seen_utc": "2026-09-06T12:30:53.661739+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "excite エキサイト",
-        "tbs news dig",
-        "yahoo!ニュース"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SRjlzbkxBQV90VzZrNFo1SXZ1TWFSRHZUbFB0aVpRV1pEMnRpcVotR2IzR2ZxRUxhRXlGNkltNXBFTmpJUGZhQmhneDlGS2RHNDA5NmZ1NA?oc=5",
-      "short_link": "https://tinyurl.com/2bahpjbe"
     },
     {
       "title": "Iran Says US Warships Forced to Flee after Ballistic Missile Attack",
@@ -1060,6 +1042,7 @@
         "build",
         "damag",
         "drone",
+        "enemy",
         "five",
         "high",
         "hit",
@@ -1075,6 +1058,8 @@
         "offic",
         "old",
         "photo",
+        "regio",
+        "resid",
         "rise",
         "say",
         "six",
@@ -1083,7 +1068,7 @@
         "twelv",
         "updat"
       ],
-      "last_seen_utc": "2026-09-13T10:14:25.381885+00:00",
+      "last_seen_utc": "2026-09-13T14:25:02.478043+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "menafn",
@@ -1133,6 +1118,8 @@
     {
       "title": "Yemen’s Houthis announce drone and missile attack on base in southern Saudi Arabia",
       "tokens": [
+        "again",
+        "aggre",
         "annou",
         "arabi",
         "attac",
@@ -1145,23 +1132,30 @@
         "drone",
         "escal",
         "fight",
+        "force",
         "houth",
         "injur",
         "iran",
+        "large",
         "launc",
+        "major",
         "milit",
         "missi",
         "renew",
+        "retal",
         "risin",
         "saudi",
+        "scale",
+        "sharu",
         "south",
+        "stage",
         "strik",
         "tensi",
         "threa",
         "two",
         "yemen"
       ],
-      "last_seen_utc": "2026-09-13T10:14:25.381885+00:00",
+      "last_seen_utc": "2026-09-13T14:25:02.478043+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
