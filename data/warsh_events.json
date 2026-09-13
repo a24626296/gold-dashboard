@@ -419,7 +419,7 @@
         "將成華許領",
         "股市爆料同"
       ],
-      "last_seen_utc": "2026-09-13T17:30:19.855562+00:00",
+      "last_seen_utc": "2026-09-13T21:42:47.025309+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cmoney",
@@ -427,6 +427,31 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mS1VyR09GQWl1dk0wUnJFeFpvZG9yOWhJdmJ0U0pVWHNibnk4b1JJTlpvTTFCSHkwcXZvSEx3OVFIQk40dW1KSE5fUEJpR2c?oc=5",
       "short_link": "https://tinyurl.com/2bhkjbef"
+    },
+    {
+      "title": "Fed’s Warsh on Collision Course With Trump as Rate Hike Looms",
+      "stance": "hawkish",
+      "tokens": [
+        "colli",
+        "cours",
+        "fed",
+        "hike",
+        "looms",
+        "rate",
+        "risk",
+        "septe",
+        "trump",
+        "warsh",
+        "wrath"
+      ],
+      "last_seen_utc": "2026-09-13T21:42:47.025309+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "bloomberg.com",
+        "heisenberg report"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWVhZzhtem1ITHl2LWpyR2M5QjJiSzBqM1Fsc1g3QkpLbGdTV2wtZUlKdVhoZGhqWjUzMzlla0diUFNDQkpXb3BYeWZtRGJidm5hbjRHZmZnTllvaFhyQ3pLbHlYNVM0SlctRXF0OXkydHZOcUZxNXRmRlhTY0R6RzQ3YVFIelpxajgxNEhCWkp6NUp1dkpKVXlNOVJQMjlLM200LTM2Y2tOdWFENHQ3Q2d3?oc=5",
+      "short_link": "https://tinyurl.com/2xm5w6es"
     }
   ]
 }
