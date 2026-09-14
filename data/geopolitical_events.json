@@ -814,7 +814,7 @@
         "troop",
         "wsj"
       ],
-      "last_seen_utc": "2026-09-14T07:05:50.026672+00:00",
+      "last_seen_utc": "2026-09-14T14:00:22.733099+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "dailybeirut.com",
@@ -829,6 +829,7 @@
       "tokens": [
         "again",
         "aggre",
+        "air",
         "annou",
         "arabi",
         "attac",
@@ -849,7 +850,10 @@
         "injur",
         "iran",
         "iraq",
+        "islan",
         "jazan",
+        "khali",
+        "king",
         "large",
         "launc",
         "major",
@@ -859,12 +863,16 @@
         "oil",
         "pipel",
         "probe",
+        "rebel",
+        "red",
         "regio",
         "renew",
         "retal",
         "risin",
         "saudi",
         "scale",
+        "sea",
+        "seize",
         "sharu",
         "south",
         "stage",
@@ -875,7 +883,7 @@
         "two",
         "yemen"
       ],
-      "last_seen_utc": "2026-09-14T07:05:50.026672+00:00",
+      "last_seen_utc": "2026-09-14T14:00:22.733099+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
@@ -884,6 +892,80 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNek1UN3VJa3YyM01SNzY0LW43eVBTc2JPR3FfUkhIemtIVURyUFZtYUVJNTJOQzNVREdBc05oQ2p3VGw0Y1VKOWpPX3J6TEhKNHpHR09mNTFGbzJKcWtTT1dPeGNpUXVPdHA4aE1iWGtIN051eklGUjlBZE1SaEhBWnFwa25DclQ5Sk9JUWtEazc4ellRdE1WUnZZeVdZZWVTd0tSVlZvcWJFMmhFcEpnNzUwUG5rczJJQmg3aHRHY2ZsNVhRcWc?oc=5",
       "short_link": "https://tinyurl.com/243el7h9"
+    },
+    {
+      "title": "North Korea says weekend missile launches were part of coordinated attack drill",
+      "tokens": [
+        "artil",
+        "attac",
+        "calli",
+        "conce",
+        "coord",
+        "drill",
+        "drone",
+        "firep",
+        "held",
+        "joint",
+        "korea",
+        "lates",
+        "launc",
+        "long",
+        "missi",
+        "north",
+        "part",
+        "range",
+        "repor",
+        "says",
+        "sever",
+        "strik",
+        "units",
+        "weeke",
+        "were"
+      ],
+      "last_seen_utc": "2026-09-14T14:00:22.733099+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "anadolu ajansı",
+        "eastern mirror",
+        "nk news",
+        "ommcom news",
+        "stripes.com"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUV9QUENUQlY2bVRCek5pT2JzR2FVNmtuN3JGbW1FT1VnYWpSWW5SUlBXSU9GampvQnNKWHgtRTY4Q3B1QWdLTDFzT3JXclUxa2w0V0FSdXNoQUxRQjlfLW1SU0R4bUhLZ2VfTUdkUGJMSzV6LXlDNVRuY3hEdXlranhPTHVSdGdtZ1pBNjhsME9rRTVjWG5jVzZHbU50WU9Ldi00SEVnbG5sR3g5ZkdUY1BiVDFWZw?oc=5",
+      "short_link": "https://tinyurl.com/2cv4v28j"
+    },
+    {
+      "title": "ArcelorMittal statement regarding missile strike on its Ukraine plant",
+      "tokens": [
+        "arcel",
+        "compa",
+        "halts",
+        "kille",
+        "kills",
+        "missi",
+        "outpu",
+        "plant",
+        "regar",
+        "says",
+        "secon",
+        "state",
+        "steel",
+        "stops",
+        "strik",
+        "two",
+        "ukrai"
+      ],
+      "last_seen_utc": "2026-09-14T14:00:22.733099+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "global banking & finance review",
+        "stock titan",
+        "the economic times",
+        "whalesbook",
+        "yahoo finance uk"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdmZKZlpoVEdzS2NNc294UG1JWjdRNm83N1N2WjBRcWUyZEF6YXJRVGJHUVp6U01WV2hMQmstMEFtZGZnb25LeFdVT1FKLVBCaEVqOFNHODZXc3hQOU9SbFZNWTFpN0JiekE0aXprcFZxR1pDWGNZeU9scHhYVm9ZUHJ0Yi1zVXRucUFXdGY2VnhRVGxSYm9ORHhPQjdwQQ?oc=5",
+      "short_link": "https://tinyurl.com/22kp7zfk"
     }
   ]
 }
