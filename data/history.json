@@ -878,5 +878,38 @@
       "geo_score": 40,
       "warsh_score": -25
     }
+  },
+  {
+    "timestamp": "2026-09-15T00:06:04.491630+00:00",
+    "gold_price": 4328.5,
+    "momentum_score": 25,
+    "alert_level": "none",
+    "reasons": [
+      "VIX 上升 11.76% (+10)",
+      "地緣政治衝擊事件(24小時內): Chinese entities provided Iran with satellite images of air ... (+40)",
+      "華許鷹派發言(24小時內): Warsh Faces Intensifying Pressure to Raise Rates After Hot C... (-25)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 99.49600219726562,
+        "prev_5d": 99.16000366210938,
+        "change_pct": 0.3388448192289049
+      },
+      "vix": {
+        "latest": 17.100000381469727,
+        "prev_5d": 15.300000190734863,
+        "change_pct": 11.764706982323304
+      },
+      "gld": null,
+      "cot": {
+        "report_date": "2026-09-08T00:00:00.000",
+        "net_long": 134972,
+        "prev_net_long": 136771,
+        "change_pct": -1.3153373156590213
+      },
+      "real_rate_5d_change": 0.16000000000000014,
+      "geo_score": 40,
+      "warsh_score": -25
+    }
   }
 ]
