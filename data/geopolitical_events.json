@@ -846,6 +846,7 @@
         "citie",
         "civil",
         "claim",
+        "coali",
         "confi",
         "confl",
         "destr",
@@ -884,6 +885,7 @@
         "red",
         "regio",
         "renew",
+        "repor",
         "respo",
         "retal",
         "risin",
@@ -904,13 +906,15 @@
         "threa",
         "three",
         "two",
+        "under",
         "vows",
         "warni",
+        "warns",
         "wave",
         "wound",
         "yemen"
       ],
-      "last_seen_utc": "2026-09-15T05:38:51.817824+00:00",
+      "last_seen_utc": "2026-09-15T10:26:58.820221+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
@@ -952,7 +956,7 @@
         "weeke",
         "were"
       ],
-      "last_seen_utc": "2026-09-15T05:38:51.817824+00:00",
+      "last_seen_utc": "2026-09-15T10:26:58.820221+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
@@ -991,7 +995,7 @@
         "two",
         "ukrai"
       ],
-      "last_seen_utc": "2026-09-15T05:38:51.817824+00:00",
+      "last_seen_utc": "2026-09-15T10:26:58.820221+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "global banking & finance review",
