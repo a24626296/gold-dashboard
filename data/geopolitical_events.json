@@ -860,7 +860,7 @@
         "wound",
         "yemen"
       ],
-      "last_seen_utc": "2026-09-15T15:09:49.752174+00:00",
+      "last_seen_utc": "2026-09-15T18:58:41.606993+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
@@ -947,7 +947,7 @@
         "two",
         "ukrai"
       ],
-      "last_seen_utc": "2026-09-15T15:09:49.752174+00:00",
+      "last_seen_utc": "2026-09-15T18:58:41.606993+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "global banking & finance review",
@@ -958,6 +958,45 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdmZKZlpoVEdzS2NNc294UG1JWjdRNm83N1N2WjBRcWUyZEF6YXJRVGJHUVp6U01WV2hMQmstMEFtZGZnb25LeFdVT1FKLVBCaEVqOFNHODZXc3hQOU9SbFZNWTFpN0JiekE0aXprcFZxR1pDWGNZeU9scHhYVm9ZUHJ0Yi1zVXRucUFXdGY2VnhRVGxSYm9ORHhPQjdwQQ?oc=5",
       "short_link": "https://tinyurl.com/22kp7zfk"
+    },
+    {
+      "title": "Houthi Militants Launch Missile Attacks on Saudi Arabia, Expanding Foothold on Yemen’s Red Sea Coast",
+      "tokens": [
+        "alert",
+        "arabi",
+        "attac",
+        "city",
+        "coast",
+        "expan",
+        "footh",
+        "holie",
+        "houth",
+        "islam",
+        "issue",
+        "launc",
+        "mecca",
+        "milit",
+        "missi",
+        "rain",
+        "red",
+        "saudi",
+        "scram",
+        "sea",
+        "shock",
+        "threa",
+        "under",
+        "vanta",
+        "yemen"
+      ],
+      "last_seen_utc": "2026-09-15T18:58:41.606993+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "firstpost.com",
+        "newscord",
+        "the times of india"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWU9WMHE3ejh6eFNYcGREZGxScUl0YV9iRG8td1c3WlNsbGdkbWpmc2hFbFZXelpfTnBieHdPVXhvdEZfcWtVYlg2ZVd6MlRYbGVrZkw3NUxXYWoxeUFtX0JFcGRMN0FFa1psNUV5UUVqRTZmS1NEb2lidEp5YV8xc1M1MzFOWXJGSGE2bVFPSUVreHo4ak5FUzh5TFlfczNYV1puT3RtSUFCNFE5cVUtRzliM3oweTcyN1RNQmhtOE55aHU5TDl3OWtoTWF1WV9oaWV5VmJ0YWctWVFrdnA1a3JSZElGSnljOWc?oc=5",
+      "short_link": "https://tinyurl.com/227e7wyc"
     }
   ]
 }
