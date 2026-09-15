@@ -911,5 +911,38 @@
       "geo_score": 40,
       "warsh_score": -25
     }
+  },
+  {
+    "timestamp": "2026-09-15T23:51:26.579170+00:00",
+    "gold_price": 4325.10009765625,
+    "momentum_score": 25,
+    "alert_level": "none",
+    "reasons": [
+      "VIX 上升 9.41% (+10)",
+      "地緣政治衝擊事件(24小時內): Yemen’s Houthis announce drone and missile attack on base in... (+40)",
+      "華許鷹派發言(24小時內): Warsh Faces Intensifying Pressure to Raise Rates After Hot C... (-25)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 99.61199951171875,
+        "prev_5d": 98.83999633789062,
+        "change_pct": 0.7810635394896055
+      },
+      "vix": {
+        "latest": 17.200000762939453,
+        "prev_5d": 15.720000267028809,
+        "change_pct": 9.41476126444351
+      },
+      "gld": null,
+      "cot": {
+        "report_date": "2026-09-08T00:00:00.000",
+        "net_long": 134972,
+        "prev_net_long": 136771,
+        "change_pct": -1.3153373156590213
+      },
+      "real_rate_5d_change": 0.16000000000000014,
+      "geo_score": 40,
+      "warsh_score": -25
+    }
   }
 ]
