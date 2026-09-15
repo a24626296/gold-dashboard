@@ -261,13 +261,16 @@
         "pull",
         "raise",
         "rates",
+        "set",
+        "showd",
         "time",
         "trigg",
+        "trump",
         "under",
         "warsh",
         "watch"
       ],
-      "last_seen_utc": "2026-09-15T05:38:59.201807+00:00",
+      "last_seen_utc": "2026-09-15T10:27:06.923316+00:00",
       "confidence": "LIKELY",
       "sources": [
         "bloomberg.com",
@@ -366,6 +369,7 @@
         "stran",
         "table",
         "test",
+        "testi",
         "threa",
         "top",
         "tough",
@@ -375,10 +379,11 @@
         "votes",
         "war",
         "warsh",
+        "wedne",
         "would",
         "wrath"
       ],
-      "last_seen_utc": "2026-09-15T05:38:59.201807+00:00",
+      "last_seen_utc": "2026-09-15T10:27:06.923316+00:00",
       "confidence": "LIKELY",
       "sources": [
         "bloomberg.com",
@@ -432,7 +437,7 @@
         "warsh",
         "week"
       ],
-      "last_seen_utc": "2026-09-15T05:38:59.201807+00:00",
+      "last_seen_utc": "2026-09-15T10:27:06.923316+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "finance.biggo.com",
@@ -470,7 +475,7 @@
         "華許鷹派定",
         "財經週報"
       ],
-      "last_seen_utc": "2026-09-15T05:38:59.201807+00:00",
+      "last_seen_utc": "2026-09-15T10:27:06.923316+00:00",
       "confidence": "LIKELY",
       "sources": [
         "ec.ltn.com.tw",
@@ -500,7 +505,7 @@
         "warsh",
         "week"
       ],
-      "last_seen_utc": "2026-09-15T05:38:59.201807+00:00",
+      "last_seen_utc": "2026-09-15T10:27:06.923316+00:00",
       "confidence": "LIKELY",
       "sources": [
         "barchart.com",
