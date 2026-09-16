@@ -176,7 +176,7 @@
         "watch",
         "wedne"
       ],
-      "last_seen_utc": "2026-09-16T03:37:55.401289+00:00",
+      "last_seen_utc": "2026-09-16T08:50:59.686705+00:00",
       "confidence": "LIKELY",
       "sources": [
         "bloomberg.com",
@@ -414,7 +414,7 @@
         "華許鷹派定",
         "財經週報"
       ],
-      "last_seen_utc": "2026-09-16T03:37:55.401289+00:00",
+      "last_seen_utc": "2026-09-16T08:50:59.686705+00:00",
       "confidence": "LIKELY",
       "sources": [
         "ec.ltn.com.tw",
@@ -444,7 +444,7 @@
         "warsh",
         "week"
       ],
-      "last_seen_utc": "2026-09-16T03:37:55.401289+00:00",
+      "last_seen_utc": "2026-09-16T08:50:59.686705+00:00",
       "confidence": "LIKELY",
       "sources": [
         "barchart.com",
@@ -457,24 +457,46 @@
       "title": "Fed Interest Rate Hike May Put Warsh on Collision Course With Trump",
       "stance": "hawkish",
       "tokens": [
+        "2023",
         "arriv",
+        "brace",
+        "chanc",
+        "city",
         "colli",
         "cours",
         "ended",
+        "era",
+        "expec",
         "fed",
+        "finan",
+        "first",
         "hike",
         "inter",
+        "kevin",
+        "likel",
+        "marke",
         "may",
+        "morni",
+        "now",
         "put",
         "rate",
+        "recor",
+        "set",
+        "shock",
+        "side",
+        "since",
+        "table",
         "test",
+        "trave",
         "truce",
         "trump",
+        "under",
         "war",
         "warsh",
+        "wedne",
         "would"
       ],
-      "last_seen_utc": "2026-09-16T03:37:55.401289+00:00",
+      "last_seen_utc": "2026-09-16T08:50:59.686705+00:00",
       "confidence": "LIKELY",
       "sources": [
         "realtor.com",
@@ -490,7 +512,7 @@
         "fed升息",
         "華許緊張升"
       ],
-      "last_seen_utc": "2026-09-16T03:37:55.401289+00:00",
+      "last_seen_utc": "2026-09-16T08:50:59.686705+00:00",
       "confidence": "LIKELY",
       "sources": [
         "自由財經",
@@ -498,6 +520,40 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MWHljVGxYMTFYYWlmY0lWeFlBYWRqMkkwMG1ud3k3Nk1lM3Y3SXJvODJtRVk1OWx5bXRXM2lUa1FFb2I3SWo5M2JOd3B4V2FkR0FWdHhIaFZlRWdLZVhaYThvWHJHcjI4NzRqNG9sUzRXSmZMZDl6eg?oc=5",
       "short_link": "https://tinyurl.com/2ykcwyw9"
+    },
+    {
+      "title": "What to Expect From Today's FOMC Meeting: Warsh's First Fed Rate Hike Vote, Dot Plot and Bitcoin Reaction",
+      "stance": "hawkish",
+      "tokens": [
+        "bitco",
+        "dot",
+        "expec",
+        "faces",
+        "fed",
+        "first",
+        "fomc",
+        "half",
+        "hike",
+        "meeti",
+        "only",
+        "plot",
+        "rate",
+        "react",
+        "story",
+        "test",
+        "today",
+        "vote",
+        "warsh",
+        "what"
+      ],
+      "last_seen_utc": "2026-09-16T08:50:59.686705+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "the crypto times",
+        "thestreet.com"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNemljUnY4NW1CN2FNbXhCaTRPX0hfUVBudi0wNnJwbGVLaHhrNzFzTVRXQkFRLWhIRlZyclZjaFNDSTlkTGRNQURScG5keUVyUHc5N2FNWU9NVnpHaHhRMDNrS3AzSXItcnNiT1NfMVlmU3RmRmRWQUlOd2Nva3VTcDVEX0dibE1tME5oMjc4MXZGakFlUjh5amNzZWoxUFp1Q2gxM0Q4SnB2X2hQNHE3Smx6WlNUeFQ5ZngtdWlkQm10UnI0dVNJNlVlNVA1VzJSWGFJSUFPdw?oc=5",
+      "short_link": "https://tinyurl.com/2yyljqgn"
     }
   ]
 }
