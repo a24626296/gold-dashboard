@@ -962,6 +962,7 @@
     {
       "title": "Houthi Militants Launch Missile Attacks on Saudi Arabia, Expanding Foothold on Yemen’s Red Sea Coast",
       "tokens": [
+        "8am",
         "advis",
         "alert",
         "arabi",
@@ -973,6 +974,7 @@
         "expan",
         "first",
         "footh",
+        "headl",
         "holie",
         "houth",
         "islam",
@@ -987,6 +989,7 @@
         "scram",
         "sea",
         "sees",
+        "sep",
         "shock",
         "sound",
         "threa",
@@ -995,7 +998,7 @@
         "vanta",
         "yemen"
       ],
-      "last_seen_utc": "2026-09-16T08:50:51.960911+00:00",
+      "last_seen_utc": "2026-09-16T13:57:20.045564+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "firstpost.com",
@@ -1040,7 +1043,7 @@
         "warns",
         "who"
       ],
-      "last_seen_utc": "2026-09-16T08:50:51.960911+00:00",
+      "last_seen_utc": "2026-09-16T13:57:20.045564+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "daily pakistan",
@@ -1084,7 +1087,7 @@
         "west",
         "wides"
       ],
-      "last_seen_utc": "2026-09-16T08:50:51.960911+00:00",
+      "last_seen_utc": "2026-09-16T13:57:20.045564+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "cbs news",
@@ -1094,6 +1097,98 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbEZUMnF2N3Y5bFV4c3FvRkgtaG56ZTFrLURTR2VseWRnUVVnTmhTdGxENWVEOVc5Q2xfbnQzZk1Qbk9NanZIRHg0QlVSTEFQOXJyREFPR3g4N0pSZmZ0VVcxbFM2UWZhdFJhQTVKVFN1dUV6djZ4d2hDNERITW01S0JzU2RpZHF3Y0wtVHRJeTFDaFd3YUpWTEZGR21pVDA?oc=5",
       "short_link": "https://tinyurl.com/2574cx96"
+    },
+    {
+      "title": "Saudi-Houthi conflict escalates: Rebels claim missile, drone attacks on Aramco facility and air base After...",
+      "tokens": [
+        "air",
+        "aramc",
+        "attac",
+        "base",
+        "citie",
+        "claim",
+        "confl",
+        "drone",
+        "escal",
+        "facil",
+        "gulf",
+        "houth",
+        "hurt",
+        "missi",
+        "rebel",
+        "saudi",
+        "strik",
+        "tensi"
+      ],
+      "last_seen_utc": "2026-09-16T13:57:20.045564+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "moneycontrol.com",
+        "news18",
+        "the chronicle ph"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQQW9UTnc2ZkFKdngwOXk2Y1V2RVQ3NExLdEFuZHk1SF91WHFLMDV2WktaNUR0UERJdlZ6Y2hvYmNrdXpJc1V2TzlxdGhSVV9nWjFDU3RlS2FJLU9WUW5xQVlnc1BhejNQZGhKc0tTelVTZ1NsTnkxbXNBczFSQlZZblZBYmdVTE9vdlhDbVVRbHIyTEVKQVNMdnY1Q1JlR0E0SVVLdUhIdnhjTmFTT0hFMnlQT2QxWExIM2d1NmMwQ3puSUJ2dU4zSnhzY1FVYWtHWlRsc0NlSGtRS1VFU3VrVGFjVlRVbnNvYUYtejB1WVpIV00tenZuaFNNYjQ0MEZJUnlBeE9DajluTExzUUR0UVJNTdIBmAJBVV95cUxPR0dNTTlXOUU0b0huZWJkemtUeG1yRjRRcU5tV2RuWklSS2d5d1NsalBxY3lEbVl5ZWRhWGlydy11M19mUUVoNV90US10bzhJZ3RpTjc5djhlMFVZYzVnd09lZmxybFdmcm1fWUY2WXlUbEpCQ3R1dktDaXFtS21IZU1qWk5MRWNNQ1lTS053Mk5lRUFsenRHVl93enZkaVZzUi1wUnFJakc4VG5TdXRqdmxiMlFMZFlRYkNRb3RBZXYtMjFpZUxSWjVaTkhlYzBobkFSNXJmR0p3eEwteFl2VmVfLW0zdTg0eW1fSW9ITDVBVEljMWllU1pLQWJheGw3RVB4b1RiUHhzcWtSN1dlbGFHeVdBcm4w?oc=5",
+      "short_link": "https://tinyurl.com/23ohnqkq"
+    },
+    {
+      "title": "US burns through dozens of missile interceptors in single Iranian attack on Jordan: Report",
+      "tokens": [
+        "attac",
+        "burns",
+        "dozen",
+        "fired",
+        "fires",
+        "inter",
+        "iran",
+        "irani",
+        "jorda",
+        "missi",
+        "patri",
+        "repor",
+        "says",
+        "singl",
+        "throu"
+      ],
+      "last_seen_utc": "2026-09-16T13:57:20.045564+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "anadolu ajansı",
+        "outlook india",
+        "yeni safak english"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMTM2eUpQbzl3ejItQ2ZucF9BSTYxYmJ6N21RSzIteGNfZFBEYjRISGg1UnJial8wcWtHOGUyOTY1ZFUzY1JPYVhBVXNZTTNHa0h1X3dxZWstMXNwZU53NUQzMlZBM1h5bl9iOG5wSkZGSGVycG16S0h3eGNCVTg4d1J0Q3lNZFBCRFEtWGx5SHJEVDB0NjBBZDNrV2lHUmJnZU5ybUV1NnpnUmlYVi00U2UtczZ5NloyUWxQMkJGYTd5X19HX0JsNFZR?oc=5",
+      "short_link": "https://tinyurl.com/2bck5ytt"
+    },
+    {
+      "title": "US Missile Strike Foils Iranian Capture of American Sea Drone",
+      "tokens": [
+        "acros",
+        "air",
+        "ameri",
+        "bases",
+        "captu",
+        "defen",
+        "drone",
+        "east",
+        "foils",
+        "growi",
+        "irani",
+        "middl",
+        "missi",
+        "press",
+        "put",
+        "sea",
+        "strik"
+      ],
+      "last_seen_utc": "2026-09-16T13:57:20.045564+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "i̇lke haber ajansı",
+        "the defense post",
+        "조선일보"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBra3hicEVIUnlmcl9zblpsWE9WeldFVlNoSjlESjE1SVI2T0J4ZjZ5Nk0zWFJEWDltVlRpUmxuUEY0V3RfSmdDX2lOQURHLVk0dVBxdUJzWDYxaXJMcS1qU1hIWEd1X0laeWE3MG5QT2VtYjJrbkxVRUJUNNIBgAFBVV95cUxQRzdzOUl1Mnl2MnRnamdZa2stbVY4dFhDbzNsZk1BR1ZOUzNzVk5PYUgtNXpfVFRhaDNjZ0gyLURXLTJjdk80Tlphd2Q1Wk11dnNiM0duRkNWVTV3MFU1emJsc2pMMFNLYmkyRGFlQ0VaVU9RSkhtMng5QkZPYkExaQ?oc=5",
+      "short_link": "https://tinyurl.com/29axkusa"
     }
   ]
 }
