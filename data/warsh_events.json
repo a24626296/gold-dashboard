@@ -111,7 +111,7 @@
         "華許談話暗",
         "通膨惡化恐"
       ],
-      "last_seen_utc": "2026-09-16T13:57:28.413860+00:00",
+      "last_seen_utc": "2026-09-16T17:58:34.177740+00:00",
       "confidence": "LIKELY",
       "sources": [
         "yahoo新聞",
@@ -177,7 +177,7 @@
         "watch",
         "wedne"
       ],
-      "last_seen_utc": "2026-09-16T13:57:28.413860+00:00",
+      "last_seen_utc": "2026-09-16T17:58:34.177740+00:00",
       "confidence": "LIKELY",
       "sources": [
         "bloomberg.com",
@@ -323,6 +323,7 @@
         "count",
         "cours",
         "credi",
+        "cuts",
         "decis",
         "dot",
         "ended",
@@ -337,11 +338,13 @@
         "half",
         "hike",
         "hit",
+        "incre",
         "infla",
         "inter",
         "kevin",
         "kicks",
         "leade",
+        "live",
         "looks",
         "looms",
         "marke",
@@ -349,12 +352,14 @@
         "may",
         "meeti",
         "more",
+        "new",
         "news",
         "now",
         "odds",
         "only",
         "pivot",
         "plot",
+        "poise",
         "poten",
         "prepa",
         "press",
@@ -370,6 +375,7 @@
         "setti",
         "shock",
         "since",
+        "speak",
         "stati",
         "story",
         "surpr",
@@ -378,8 +384,10 @@
         "tests",
         "than",
         "this",
+        "three",
         "top",
         "tough",
+        "treas",
         "truce",
         "trump",
         "under",
@@ -390,9 +398,11 @@
         "wedne",
         "week",
         "words",
-        "would"
+        "would",
+        "years",
+        "yield"
       ],
-      "last_seen_utc": "2026-09-16T13:57:28.413860+00:00",
+      "last_seen_utc": "2026-09-16T17:58:34.177740+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "finance.biggo.com",
@@ -430,7 +440,7 @@
         "華許鷹派定",
         "財經週報"
       ],
-      "last_seen_utc": "2026-09-16T13:57:28.413860+00:00",
+      "last_seen_utc": "2026-09-16T17:58:34.177740+00:00",
       "confidence": "LIKELY",
       "sources": [
         "ec.ltn.com.tw",
@@ -460,7 +470,7 @@
         "warsh",
         "week"
       ],
-      "last_seen_utc": "2026-09-16T13:57:28.413860+00:00",
+      "last_seen_utc": "2026-09-16T17:58:34.177740+00:00",
       "confidence": "LIKELY",
       "sources": [
         "barchart.com",
@@ -496,15 +506,19 @@
         "may",
         "morni",
         "now",
+        "presi",
         "put",
         "rate",
         "recor",
+        "relat",
         "set",
         "shock",
         "side",
         "since",
+        "stand",
         "table",
         "test",
+        "tests",
         "tight",
         "trave",
         "truce",
@@ -516,7 +530,7 @@
         "wedne",
         "would"
       ],
-      "last_seen_utc": "2026-09-16T13:57:28.413860+00:00",
+      "last_seen_utc": "2026-09-16T17:58:34.177740+00:00",
       "confidence": "LIKELY",
       "sources": [
         "realtor.com",
@@ -533,7 +547,7 @@
         "華許緊張升",
         "華許說錯一"
       ],
-      "last_seen_utc": "2026-09-16T13:57:28.413860+00:00",
+      "last_seen_utc": "2026-09-16T17:58:34.177740+00:00",
       "confidence": "LIKELY",
       "sources": [
         "自由財經",
@@ -567,7 +581,7 @@
         "warsh",
         "what"
       ],
-      "last_seen_utc": "2026-09-16T13:57:28.413860+00:00",
+      "last_seen_utc": "2026-09-16T17:58:34.177740+00:00",
       "confidence": "LIKELY",
       "sources": [
         "the crypto times",
@@ -607,6 +621,57 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVlB2TmNqY1dILUtfRTFBQ0JPSk53elRnU1QzdmhIQ3VvTWlkelRTd3haWHJ4bmxiY2ZOcGhvd09wMTllVkVLQzk5NkdKZzNPeHpaZTRHQ242Ynd2Q1ZIUU50cUp1N2JYd1lCQndZQlhMUTZFekFZWWNueUxNbmRiUHdBZ2dWbDgzNlhmejZneHptaFhGbDI1M0JPbk8zZw?oc=5",
       "short_link": "https://tinyurl.com/28xj2nda"
+    },
+    {
+      "title": "Traders are betting Trump may soon turn on Fed chair Kevin Warsh as interest-rate hikes loom",
+      "stance": "hawkish",
+      "tokens": [
+        "betti",
+        "chair",
+        "colli",
+        "cours",
+        "fed",
+        "hike",
+        "hikes",
+        "inter",
+        "kevin",
+        "loom",
+        "may",
+        "put",
+        "rate",
+        "soon",
+        "trade",
+        "trump",
+        "turn",
+        "warsh"
+      ],
+      "last_seen_utc": "2026-09-16T17:58:34.177740+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "marketwatch",
+        "realtor.com"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb0ppNUhrMzgzXzk0YnlIZ2VSSWdWZGFUWDdIMWtsNTIwdE5yUU04WTZSY0FJRTktaDlqc1dsSUU3bExuTkZXOFhXYl83OC1vMFZpRnJJQkxSTklONGh0eWlNZ0FONWxfVDEwSEtaanZaZkI5R255QS14NnM3T0xQMm1BQUxPOTFwbnpLTHFuaFJJZlJpMnJ1bGgySk54M0pKZWxOa0F3bXluRTd4MHhNTll3dC1yZkF6blF0aTRVQUR5b1d6SUM3YkJGejkxRDQ1?oc=5",
+      "short_link": "https://tinyurl.com/2bc58quf"
+    },
+    {
+      "title": "Fed升息機率近90%也不算穩！華許若按兵不動 恐引爆美股賣壓",
+      "stance": "hawkish",
+      "tokens": [
+        "fed升息",
+        "也不算穩",
+        "恐引爆美股",
+        "股市爆料同",
+        "華許若按兵"
+      ],
+      "last_seen_utc": "2026-09-16T17:58:34.177740+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "cmoney",
+        "news.cnyes.com"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpZ19FSDJkbEtyemR3cDQwalBVZ0NMZThaY0RxOVg1N0xqSjRjOGFnbVB6Qm9SeklzMTNOdHR5MXpXeDFKdDNwSnNxVmt2ZWs?oc=5",
+      "short_link": "https://tinyurl.com/2avezjgv"
     }
   ]
 }
