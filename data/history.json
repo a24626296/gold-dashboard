@@ -944,5 +944,38 @@
       "geo_score": 40,
       "warsh_score": -25
     }
+  },
+  {
+    "timestamp": "2026-09-16T23:59:18.806234+00:00",
+    "gold_price": 4311.89990234375,
+    "momentum_score": 25,
+    "alert_level": "none",
+    "reasons": [
+      "VIX 上升 7.59% (+10)",
+      "地緣政治衝擊事件(24小時內): Houthi Militants Launch Missile Attacks on Saudi Arabia, Exp... (+40)",
+      "華許鷹派發言(24小時內): 聯準會升息路徑曝光？美銀：華許談話暗示 通膨惡化恐大幅升息... (-25)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 100.2699966430664,
+        "prev_5d": 98.7699966430664,
+        "change_pct": 1.5186798126769998
+      },
+      "vix": {
+        "latest": 17.709999084472656,
+        "prev_5d": 16.459999084472656,
+        "change_pct": 7.594168101620204
+      },
+      "gld": null,
+      "cot": {
+        "report_date": "2026-09-08T00:00:00.000",
+        "net_long": 134972,
+        "prev_net_long": 136771,
+        "change_pct": -1.3153373156590213
+      },
+      "real_rate_5d_change": 0.16999999999999993,
+      "geo_score": 40,
+      "warsh_score": -25
+    }
   }
 ]
