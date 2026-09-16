@@ -107,10 +107,11 @@
       "stance": "hawkish",
       "tokens": [
         "聯準會升息",
+        "華許發言或",
         "華許談話暗",
         "通膨惡化恐"
       ],
-      "last_seen_utc": "2026-09-09T18:45:18.144264+00:00",
+      "last_seen_utc": "2026-09-16T13:57:28.413860+00:00",
       "confidence": "LIKELY",
       "sources": [
         "yahoo新聞",
@@ -176,7 +177,7 @@
         "watch",
         "wedne"
       ],
-      "last_seen_utc": "2026-09-16T08:50:59.686705+00:00",
+      "last_seen_utc": "2026-09-16T13:57:28.413860+00:00",
       "confidence": "LIKELY",
       "sources": [
         "bloomberg.com",
@@ -306,6 +307,8 @@
       "tokens": [
         "2023",
         "2026",
+        "antic",
+        "arriv",
         "battl",
         "brace",
         "busin",
@@ -315,11 +318,14 @@
         "clash",
         "colli",
         "confr",
+        "consi",
         "could",
         "count",
         "cours",
         "credi",
+        "decis",
         "dot",
+        "ended",
         "era",
         "expec",
         "faces",
@@ -337,9 +343,12 @@
         "kicks",
         "leade",
         "looks",
+        "looms",
         "marke",
+        "matte",
         "may",
         "meeti",
+        "more",
         "news",
         "now",
         "odds",
@@ -352,6 +361,8 @@
         "put",
         "puts",
         "rate",
+        "relat",
+        "reute",
         "risin",
         "secur",
         "septe",
@@ -365,18 +376,23 @@
         "table",
         "test",
         "tests",
+        "than",
         "this",
         "top",
         "tough",
+        "truce",
         "trump",
         "under",
         "vote",
         "votes",
+        "war",
         "warsh",
         "wedne",
-        "week"
+        "week",
+        "words",
+        "would"
       ],
-      "last_seen_utc": "2026-09-16T03:37:55.401289+00:00",
+      "last_seen_utc": "2026-09-16T13:57:28.413860+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "finance.biggo.com",
@@ -414,7 +430,7 @@
         "華許鷹派定",
         "財經週報"
       ],
-      "last_seen_utc": "2026-09-16T08:50:59.686705+00:00",
+      "last_seen_utc": "2026-09-16T13:57:28.413860+00:00",
       "confidence": "LIKELY",
       "sources": [
         "ec.ltn.com.tw",
@@ -444,7 +460,7 @@
         "warsh",
         "week"
       ],
-      "last_seen_utc": "2026-09-16T08:50:59.686705+00:00",
+      "last_seen_utc": "2026-09-16T13:57:28.413860+00:00",
       "confidence": "LIKELY",
       "sources": [
         "barchart.com",
@@ -464,6 +480,8 @@
         "city",
         "colli",
         "cours",
+        "credi",
+        "decis",
         "ended",
         "era",
         "expec",
@@ -487,16 +505,18 @@
         "since",
         "table",
         "test",
+        "tight",
         "trave",
         "truce",
         "trump",
         "under",
+        "walks",
         "war",
         "warsh",
         "wedne",
         "would"
       ],
-      "last_seen_utc": "2026-09-16T08:50:59.686705+00:00",
+      "last_seen_utc": "2026-09-16T13:57:28.413860+00:00",
       "confidence": "LIKELY",
       "sources": [
         "realtor.com",
@@ -510,9 +530,10 @@
       "stance": "hawkish",
       "tokens": [
         "fed升息",
-        "華許緊張升"
+        "華許緊張升",
+        "華許說錯一"
       ],
-      "last_seen_utc": "2026-09-16T08:50:59.686705+00:00",
+      "last_seen_utc": "2026-09-16T13:57:28.413860+00:00",
       "confidence": "LIKELY",
       "sources": [
         "自由財經",
@@ -546,7 +567,7 @@
         "warsh",
         "what"
       ],
-      "last_seen_utc": "2026-09-16T08:50:59.686705+00:00",
+      "last_seen_utc": "2026-09-16T13:57:28.413860+00:00",
       "confidence": "LIKELY",
       "sources": [
         "the crypto times",
@@ -554,6 +575,38 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNemljUnY4NW1CN2FNbXhCaTRPX0hfUVBudi0wNnJwbGVLaHhrNzFzTVRXQkFRLWhIRlZyclZjaFNDSTlkTGRNQURScG5keUVyUHc5N2FNWU9NVnpHaHhRMDNrS3AzSXItcnNiT1NfMVlmU3RmRmRWQUlOd2Nva3VTcDVEX0dibE1tME5oMjc4MXZGakFlUjh5amNzZWoxUFp1Q2gxM0Q4SnB2X2hQNHE3Smx6WlNUeFQ5ZngtdWlkQm10UnI0dVNJNlVlNVA1VzJSWGFJSUFPdw?oc=5",
       "short_link": "https://tinyurl.com/2yyljqgn"
+    },
+    {
+      "title": "Warsh likely to side with financial markets over Trump as Fed rate hike expected",
+      "stance": "hawkish",
+      "tokens": [
+        "assoc",
+        "expec",
+        "fed",
+        "finan",
+        "hike",
+        "likel",
+        "marke",
+        "news",
+        "presi",
+        "press",
+        "rate",
+        "side",
+        "syndi",
+        "trump",
+        "warsh"
+      ],
+      "last_seen_utc": "2026-09-16T13:57:28.413860+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "abc10",
+        "ap news",
+        "enidnews.com",
+        "mankato free press",
+        "seattletimes.com"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVlB2TmNqY1dILUtfRTFBQ0JPSk53elRnU1QzdmhIQ3VvTWlkelRTd3haWHJ4bmxiY2ZOcGhvd09wMTllVkVLQzk5NkdKZzNPeHpaZTRHQ242Ynd2Q1ZIUU50cUp1N2JYd1lCQndZQlhMUTZFekFZWWNueUxNbmRiUHdBZ2dWbDgzNlhmejZneHptaFhGbDI1M0JPbk8zZw?oc=5",
+      "short_link": "https://tinyurl.com/28xj2nda"
     }
   ]
 }
