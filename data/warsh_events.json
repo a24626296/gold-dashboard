@@ -176,7 +176,7 @@
         "watch",
         "wedne"
       ],
-      "last_seen_utc": "2026-09-15T23:58:15.792882+00:00",
+      "last_seen_utc": "2026-09-16T03:37:55.401289+00:00",
       "confidence": "LIKELY",
       "sources": [
         "bloomberg.com",
@@ -376,7 +376,7 @@
         "wedne",
         "week"
       ],
-      "last_seen_utc": "2026-09-15T23:58:15.792882+00:00",
+      "last_seen_utc": "2026-09-16T03:37:55.401289+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "finance.biggo.com",
@@ -414,7 +414,7 @@
         "華許鷹派定",
         "財經週報"
       ],
-      "last_seen_utc": "2026-09-15T23:58:15.792882+00:00",
+      "last_seen_utc": "2026-09-16T03:37:55.401289+00:00",
       "confidence": "LIKELY",
       "sources": [
         "ec.ltn.com.tw",
@@ -444,7 +444,7 @@
         "warsh",
         "week"
       ],
-      "last_seen_utc": "2026-09-15T23:58:15.792882+00:00",
+      "last_seen_utc": "2026-09-16T03:37:55.401289+00:00",
       "confidence": "LIKELY",
       "sources": [
         "barchart.com",
@@ -452,6 +452,52 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYnpCUHZmX1RiaFExeG9YZVc5SVZmYVdPQ0VrNUZNMjRKLTdWUWpJSjdZV2ZUTFdFS0YwNVdnY0dJVGZWREdseUI0NWtZSnktcVk5UERTNlBjUnAxdDRmWDRlTjRtU2tkZUFKWnhYNE8wZmd2bmJGdHh0cGd4TnhEUHN1bjdTZlFxd2FoU0hNeGJqMUdiWWNIdmRtTzRzNnlIcnU5eF9YNzc5YjlsbUNuU2NDcHBVSm41aGRzd2ZwSl9hYm56c1c5ZnhuZlFQdEk3UWo0REpFZ1kydw?oc=5",
       "short_link": "https://tinyurl.com/235qpgu2"
+    },
+    {
+      "title": "Fed Interest Rate Hike May Put Warsh on Collision Course With Trump",
+      "stance": "hawkish",
+      "tokens": [
+        "arriv",
+        "colli",
+        "cours",
+        "ended",
+        "fed",
+        "hike",
+        "inter",
+        "may",
+        "put",
+        "rate",
+        "test",
+        "truce",
+        "trump",
+        "war",
+        "warsh",
+        "would"
+      ],
+      "last_seen_utc": "2026-09-16T03:37:55.401289+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "realtor.com",
+        "wsj.com"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVF9tVWVuMXN0WXJzYndDbmNJdkl1ajl4UGd2Q05NVDQzSEx0LU5fS1JTdlhLUXJFQk1sWkswa0ZCT3FEY0tLaENKZXhKbjhSX0J5cWJseTVRa2VyR0hNUFI2V2NVNEptMVhod0lZenV1MC1lWjdxdTlaOW0tVVpMeXROcGZWa2VRenpWVHdCYkcyWEM1ZXk4cmRISWpYZ0djRE9KUTNPNzc?oc=5",
+      "short_link": "https://tinyurl.com/2xpvzk58"
+    },
+    {
+      "title": "Fed升息機率飆上94.5% 川普.華許緊張升溫- 國際",
+      "stance": "hawkish",
+      "tokens": [
+        "fed升息",
+        "華許緊張升"
+      ],
+      "last_seen_utc": "2026-09-16T03:37:55.401289+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "自由財經",
+        "華視新聞網"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MWHljVGxYMTFYYWlmY0lWeFlBYWRqMkkwMG1ud3k3Nk1lM3Y3SXJvODJtRVk1OWx5bXRXM2lUa1FFb2I3SWo5M2JOd3B4V2FkR0FWdHhIaFZlRWdLZVhaYThvWHJHcjI4NzRqNG9sUzRXSmZMZDl6eg?oc=5",
+      "short_link": "https://tinyurl.com/2ykcwyw9"
     }
   ]
 }
