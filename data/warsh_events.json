@@ -559,10 +559,11 @@
       "stance": "hawkish",
       "tokens": [
         "fed升息",
+        "華許放鷹道",
         "華許緊張升",
         "華許說錯一"
       ],
-      "last_seen_utc": "2026-09-16T23:33:56.357024+00:00",
+      "last_seen_utc": "2026-09-17T01:42:11.088755+00:00",
       "confidence": "LIKELY",
       "sources": [
         "自由財經",
@@ -610,37 +611,53 @@
       "stance": "hawkish",
       "tokens": [
         "advis",
+        "analy",
         "antic",
         "assoc",
         "backs",
+        "blame",
         "blast",
+        "board",
+        "chair",
         "consi",
+        "could",
         "expec",
         "fed",
+        "fight",
         "finan",
+        "grill",
         "hike",
+        "hikes",
+        "how",
         "incre",
+        "indep",
+        "kevin",
         "lashe",
         "likel",
         "marke",
         "matte",
         "may",
         "more",
+        "neces",
         "news",
+        "not",
         "out",
         "presi",
         "press",
         "quest",
         "rate",
+        "reign",
         "side",
         "syndi",
         "than",
         "trump",
         "under",
         "warsh",
+        "was",
+        "will",
         "words"
       ],
-      "last_seen_utc": "2026-09-16T23:33:56.357024+00:00",
+      "last_seen_utc": "2026-09-17T01:42:11.088755+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "abc10",
@@ -686,6 +703,7 @@
         "longe",
         "loom",
         "may",
+        "might",
         "neces",
         "overs",
         "polic",
@@ -700,15 +718,20 @@
         "slams",
         "soon",
         "three",
+        "told",
         "trade",
         "trump",
         "turn",
+        "vote",
         "warsh",
         "was",
+        "well",
         "what",
-        "years"
+        "wsb",
+        "years",
+        "you"
       ],
-      "last_seen_utc": "2026-09-16T23:33:56.357024+00:00",
+      "last_seen_utc": "2026-09-17T01:42:11.088755+00:00",
       "confidence": "LIKELY",
       "sources": [
         "marketwatch",
@@ -727,7 +750,7 @@
         "股市爆料同",
         "華許若按兵"
       ],
-      "last_seen_utc": "2026-09-16T23:33:56.357024+00:00",
+      "last_seen_utc": "2026-09-17T01:42:11.088755+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cmoney",
@@ -750,7 +773,7 @@
         "warsh",
         "was"
       ],
-      "last_seen_utc": "2026-09-16T23:33:56.357024+00:00",
+      "last_seen_utc": "2026-09-17T01:42:11.088755+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "katu",
@@ -771,7 +794,7 @@
         "全球財經",
         "通膨居高太"
       ],
-      "last_seen_utc": "2026-09-16T23:33:56.357024+00:00",
+      "last_seen_utc": "2026-09-17T01:42:11.088755+00:00",
       "confidence": "LIKELY",
       "sources": [
         "udn.com",
@@ -788,7 +811,7 @@
         "聯準會20",
         "股市爆料同"
       ],
-      "last_seen_utc": "2026-09-16T23:33:56.357024+00:00",
+      "last_seen_utc": "2026-09-17T01:42:11.088755+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cmoney.tw",
@@ -807,7 +830,7 @@
         "經濟這麼勇",
         "華許揭7週"
       ],
-      "last_seen_utc": "2026-09-16T23:33:56.357024+00:00",
+      "last_seen_utc": "2026-09-17T01:42:11.088755+00:00",
       "confidence": "LIKELY",
       "sources": [
         "鏡報",
@@ -824,7 +847,7 @@
         "聯準會決定",
         "華許獲川普"
       ],
-      "last_seen_utc": "2026-09-16T23:33:56.357024+00:00",
+      "last_seen_utc": "2026-09-17T01:42:11.088755+00:00",
       "confidence": "LIKELY",
       "sources": [
         "ettoday新聞雲",
