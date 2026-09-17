@@ -567,7 +567,7 @@
         "華許緊張升",
         "華許說錯一"
       ],
-      "last_seen_utc": "2026-09-17T06:39:54.083197+00:00",
+      "last_seen_utc": "2026-09-17T12:05:34.475148+00:00",
       "confidence": "LIKELY",
       "sources": [
         "自由財經",
@@ -752,7 +752,7 @@
         "years",
         "you"
       ],
-      "last_seen_utc": "2026-09-17T06:39:54.083197+00:00",
+      "last_seen_utc": "2026-09-17T12:05:34.475148+00:00",
       "confidence": "LIKELY",
       "sources": [
         "marketwatch",
@@ -771,7 +771,7 @@
         "股市爆料同",
         "華許若按兵"
       ],
-      "last_seen_utc": "2026-09-17T06:39:54.083197+00:00",
+      "last_seen_utc": "2026-09-17T12:05:34.475148+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cmoney",
@@ -794,7 +794,7 @@
         "warsh",
         "was"
       ],
-      "last_seen_utc": "2026-09-17T06:39:54.083197+00:00",
+      "last_seen_utc": "2026-09-17T12:05:34.475148+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "katu",
@@ -815,7 +815,7 @@
         "全球財經",
         "通膨居高太"
       ],
-      "last_seen_utc": "2026-09-17T06:39:54.083197+00:00",
+      "last_seen_utc": "2026-09-17T12:05:34.475148+00:00",
       "confidence": "LIKELY",
       "sources": [
         "udn.com",
@@ -883,17 +883,41 @@
       "tokens": [
         "2023",
         "about",
+        "backs",
+        "board",
+        "chair",
+        "consi",
+        "expec",
+        "fault",
         "fed",
+        "finan",
         "first",
+        "good",
+        "growt",
         "hike",
+        "hosti",
         "kevin",
+        "lashe",
+        "likel",
+        "marke",
+        "news",
+        "out",
+        "press",
         "rate",
         "said",
+        "side",
         "since",
+        "story",
+        "sugge",
+        "three",
+        "touti",
+        "trump",
+        "under",
         "warsh",
-        "what"
+        "what",
+        "years"
       ],
-      "last_seen_utc": "2026-09-17T06:39:54.083197+00:00",
+      "last_seen_utc": "2026-09-17T12:05:34.475148+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cnn"
@@ -909,7 +933,7 @@
         "省話一哥",
         "華許創下史"
       ],
-      "last_seen_utc": "2026-09-17T06:39:54.083197+00:00",
+      "last_seen_utc": "2026-09-17T12:05:34.475148+00:00",
       "confidence": "LIKELY",
       "sources": [
         "knews.com.tw",
@@ -928,7 +952,7 @@
         "華許一句話",
         "華許鷹派言"
       ],
-      "last_seen_utc": "2026-09-17T06:39:54.083197+00:00",
+      "last_seen_utc": "2026-09-17T12:05:34.475148+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "cmoney",
@@ -949,7 +973,7 @@
         "股市爆料同",
         "華許緊盯通"
       ],
-      "last_seen_utc": "2026-09-17T06:39:54.083197+00:00",
+      "last_seen_utc": "2026-09-17T12:05:34.475148+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cmoney",
@@ -967,7 +991,7 @@
         "美聯準會宣",
         "通膨太高了"
       ],
-      "last_seen_utc": "2026-09-17T06:39:54.083197+00:00",
+      "last_seen_utc": "2026-09-17T12:05:34.475148+00:00",
       "confidence": "LIKELY",
       "sources": [
         "yahoo新聞",
@@ -975,6 +999,40 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mNzZFdlAtY0g5YU9LdjBpWkpGUDluYVdQdDEwODNSTmRZcDhxN1pmZm95c3pHQzRWSGpaVFpLcWt3bklzWVVpdXJpRXZBWlRYZDliN1phQ2NBVVXSAWBBVV95cUxNN1JKYnZneUo4TTFiNngzNjFTemlNS3RDTXdNeUJaTGVoZEF1Q0hCR0Frc0tfUkpEd1FmbVJ1T1pIa2gxVDY1QmduWGxJSmVhejN2bnBYMThJdld5XzRCbk8?oc=5",
       "short_link": "https://tinyurl.com/2b7tdl2o"
+    },
+    {
+      "title": "Fed Rate Increase Puts Borrowers on Notice as Warsh Takes Hard Line on Inflation | The 10-Point for September 17",
+      "stance": "dovish",
+      "tokens": [
+        "aim",
+        "bitco",
+        "borro",
+        "ether",
+        "fed",
+        "hard",
+        "hike",
+        "incre",
+        "infla",
+        "line",
+        "notic",
+        "point",
+        "puts",
+        "quart",
+        "rate",
+        "septe",
+        "swing",
+        "takes",
+        "unani",
+        "warsh"
+      ],
+      "last_seen_utc": "2026-09-17T12:05:34.475148+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "the block",
+        "wsj"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOTdabTRkeEl3Z0g1ZEc0YW56Z1pwWGhGR0lXYTdvd05vRDNvaTFYR2VwcWdUellUbXEtUThZc1pRcy00TFBrQWU2RkNPb21CUUZYNlg4bUtSR0YydEhXOTdtRC1ZdE9RWmNCZnQ5MU1NTlZldkhwU29qeVg5Q1p3TFIwSXJrNGhmcDh2TmZZX2RnMWhDclltNkkwelVMTFVjd09JcjJJVXgxd3NLWkt5dzBDNTYtVUhKd3c?oc=5",
+      "short_link": "https://tinyurl.com/24qq2f6s"
     }
   ]
 }
