@@ -558,12 +558,16 @@
       "title": "Fed升息機率飆上94.5% 川普.華許緊張升溫- 國際",
       "stance": "hawkish",
       "tokens": [
+        "fed升1",
         "fed升息",
+        "股市爆料同",
+        "華許出手抗",
         "華許放鷹道",
+        "華許為何仍",
         "華許緊張升",
         "華許說錯一"
       ],
-      "last_seen_utc": "2026-09-17T01:42:11.088755+00:00",
+      "last_seen_utc": "2026-09-17T06:39:54.083197+00:00",
       "confidence": "LIKELY",
       "sources": [
         "自由財經",
@@ -633,6 +637,7 @@
         "indep",
         "kevin",
         "lashe",
+        "less",
         "likel",
         "marke",
         "matte",
@@ -646,7 +651,10 @@
         "press",
         "quest",
         "rate",
+        "rates",
         "reign",
+        "says",
+        "shoul",
         "side",
         "syndi",
         "than",
@@ -657,7 +665,7 @@
         "will",
         "words"
       ],
-      "last_seen_utc": "2026-09-17T01:42:11.088755+00:00",
+      "last_seen_utc": "2026-09-17T06:39:54.083197+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "abc10",
@@ -675,9 +683,12 @@
       "tokens": [
         "2023",
         "about",
+        "advis",
         "affec",
+        "again",
         "annou",
         "betti",
+        "blame",
         "board",
         "bucki",
         "chair",
@@ -688,6 +699,9 @@
         "consu",
         "cours",
         "decis",
+        "defen",
+        "doubl",
+        "econo",
         "expla",
         "fed",
         "feder",
@@ -696,6 +710,7 @@
         "highe",
         "hike",
         "hikes",
+        "hosti",
         "how",
         "inter",
         "kevin",
@@ -704,11 +719,15 @@
         "loom",
         "may",
         "might",
+        "navar",
         "neces",
+        "not",
         "overs",
+        "peter",
         "polic",
         "press",
         "put",
+        "raise",
         "rate",
         "reser",
         "said",
@@ -717,12 +736,14 @@
         "since",
         "slams",
         "soon",
+        "tap",
         "three",
         "told",
         "trade",
         "trump",
         "turn",
         "vote",
+        "warns",
         "warsh",
         "was",
         "well",
@@ -731,7 +752,7 @@
         "years",
         "you"
       ],
-      "last_seen_utc": "2026-09-17T01:42:11.088755+00:00",
+      "last_seen_utc": "2026-09-17T06:39:54.083197+00:00",
       "confidence": "LIKELY",
       "sources": [
         "marketwatch",
@@ -750,7 +771,7 @@
         "股市爆料同",
         "華許若按兵"
       ],
-      "last_seen_utc": "2026-09-17T01:42:11.088755+00:00",
+      "last_seen_utc": "2026-09-17T06:39:54.083197+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cmoney",
@@ -773,7 +794,7 @@
         "warsh",
         "was"
       ],
-      "last_seen_utc": "2026-09-17T01:42:11.088755+00:00",
+      "last_seen_utc": "2026-09-17T06:39:54.083197+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "katu",
@@ -794,7 +815,7 @@
         "全球財經",
         "通膨居高太"
       ],
-      "last_seen_utc": "2026-09-17T01:42:11.088755+00:00",
+      "last_seen_utc": "2026-09-17T06:39:54.083197+00:00",
       "confidence": "LIKELY",
       "sources": [
         "udn.com",
@@ -855,6 +876,105 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VTHZuR2g1ZnBXUG1JcE94T241ZWtZSEJLTUNNMUxiTXhmWktKMDNsOGpSNW4tclJBbHMxV3FFTXBHa0VobjczbWZ3U19TeW9pbXppd0p3MEwyUEYyU0HSAUtBVV95cUxQaTlHN0I5dTdwbG1pZFFpVGkzZ0w3aFBYLVZLOU5tOWd4Mk5aU0pYdENNQ21NYzBobUFFLVBUYkZQVFZib05JbDBsbjg?oc=5",
       "short_link": "https://tinyurl.com/2dj2j8ew"
+    },
+    {
+      "title": "What Kevin Warsh said about the Fed’s first rate hike since 2023",
+      "stance": "hawkish",
+      "tokens": [
+        "2023",
+        "about",
+        "fed",
+        "first",
+        "hike",
+        "kevin",
+        "rate",
+        "said",
+        "since",
+        "warsh",
+        "what"
+      ],
+      "last_seen_utc": "2026-09-17T06:39:54.083197+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "cnn"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LN3JoOWFnZk9rN1U0dFB5WTVCOUxaSklCdzlZSWNPZ2txUktpWFpSTW91enZSSkp6ZW04RzNFNlUxRFhMZFpVUWdyVmZqWjNObkZ1VlBoVmxqclhaVlJxWi1LX2lzMTV1Y3RjNkR4dld2ZHls?oc=5",
+      "short_link": "https://tinyurl.com/2byy2xsw"
+    },
+    {
+      "title": "「省話一哥」華許創下史上最短記者會 Fed升息5大重點一次看",
+      "stance": "hawkish",
+      "tokens": [
+        "fed升息",
+        "省話一哥",
+        "華許創下史"
+      ],
+      "last_seen_utc": "2026-09-17T06:39:54.083197+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "knews.com.tw",
+        "yahoo股市"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOX0MxX0U0VHh1dDJrbjh5OHFrV0dTVDA1WTBOREt2d0VOdFZ2UEJuY1FPODJXRjRmSDhybW1mdGpqcUoxWXVKRFJsQUZPbjJTTEZfZF9Tcl9iRFZST3N4OXpZU2NtVWtOb2dDMWE2aGZHQVJpODZTdndNSlJvSy1LTEJyVEw1RVR5X0dTU3ZybllzTlZqS19jVkk5NDdPNEoxVEdIX1ZPU2twclpvNFJjRjVtc3ZoUENYc2czOExQR2tkNE8wamFaczVRYkFJZV9yRzlteUdCdEp6Rmw2TW1MR3RHQkpWS21SRjFCREpZU3ZfSGRHTHN2SkpObnkwcjZuN3VlbzRMNG5ldFN4LTVBcDhUQnloODU5cWFzejAzZ19OZ19aTFZLek9YRzZ6T09uM3l0X012TW9YU2ZzUGtCcjN2dXFBREVXbE53bDFVVFppVnlhTXptbl9rVVRQZDROM2c?oc=5",
+      "short_link": "https://tinyurl.com/23z3cwgn"
+    },
+    {
+      "title": "聯準會升息市場不埋單華許鷹派言論引發美股挫| 國際",
+      "stance": "hawkish",
+      "tokens": [
+        "機率升25",
+        "聯準會升息",
+        "股市爆料同",
+        "華許一句話",
+        "華許鷹派言"
+      ],
+      "last_seen_utc": "2026-09-17T06:39:54.083197+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "cmoney",
+        "yahoo新聞",
+        "中央社 cna"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XdHloVHNnX0FHdG1IS2cxVmJhdXh1VVlXQ0dkUTRpOGtQb21vTWt5MHlUeEs0MFVXRVZISjZRYmxyWnBnWUQ5aXFuTWV0dUVNRHVCUmpPdjVxZWU4Z1Aw?oc=5",
+      "short_link": "https://tinyurl.com/22gqkufu"
+    },
+    {
+      "title": "Fed未啟長期緊縮循環？華許緊盯通膨、稱仍寬鬆- 新聞",
+      "stance": "dovish",
+      "tokens": [
+        "fed",
+        "fed未啟",
+        "未啟長期緊",
+        "稱仍寬鬆",
+        "股市爆料同",
+        "華許緊盯通"
+      ],
+      "last_seen_utc": "2026-09-17T06:39:54.083197+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "cmoney",
+        "moneydj.com"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcC12WjlySktDN3pjNkNDcW51VzZzbDhyRUpXLUVqVm4wSS1laWgtalVva1RxVnBwVmV2aWlmSlVONGx0cXZIRUxHaHg3TUNzWlM5NW5YaHhDMDIzWmpVaklmeVpJbENjRU9jT000QUN4TjB4Sl9CV1NVaEFyYzMtSF81ZHh4VHlxdnlZVldJd3lfUQ?oc=5",
+      "short_link": "https://tinyurl.com/28asg274"
+    },
+    {
+      "title": "不甩川普施壓！美聯準會宣布升息1碼　主席華許硬起來：通膨太高了",
+      "stance": "hawkish",
+      "tokens": [
+        "不甩川普施",
+        "主席華許硬",
+        "美聯準會宣",
+        "通膨太高了"
+      ],
+      "last_seen_utc": "2026-09-17T06:39:54.083197+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "yahoo新聞",
+        "鏡週刊mirror media"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mNzZFdlAtY0g5YU9LdjBpWkpGUDluYVdQdDEwODNSTmRZcDhxN1pmZm95c3pHQzRWSGpaVFpLcWt3bklzWVVpdXJpRXZBWlRYZDliN1phQ2NBVVXSAWBBVV95cUxNN1JKYnZneUo4TTFiNngzNjFTemlNS3RDTXdNeUJaTGVoZEF1Q0hCR0Frc0tfUkpEd1FmbVJ1T1pIa2gxVDY1QmduWGxJSmVhejN2bnBYMThJdld5XzRCbk8?oc=5",
+      "short_link": "https://tinyurl.com/2b7tdl2o"
     }
   ]
 }
