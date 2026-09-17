@@ -567,7 +567,7 @@
         "華許緊張升",
         "華許說錯一"
       ],
-      "last_seen_utc": "2026-09-17T16:57:46.524063+00:00",
+      "last_seen_utc": "2026-09-17T22:45:33.888885+00:00",
       "confidence": "LIKELY",
       "sources": [
         "自由財經",
@@ -686,37 +686,50 @@
         "advis",
         "affec",
         "again",
+        "analy",
         "annou",
         "backs",
         "bank",
         "betti",
         "blame",
+        "blast",
         "board",
         "bucki",
+        "but",
         "centr",
         "chair",
         "colli",
         "comme",
         "confe",
         "confi",
+        "consi",
         "consu",
+        "could",
         "cours",
         "criti",
         "decis",
         "defen",
+        "disap",
         "doubl",
+        "drove",
         "econo",
         "expla",
         "fault",
         "fed",
         "feder",
+        "fight",
         "first",
+        "follo",
+        "geopo",
         "grill",
         "highe",
         "hike",
         "hikes",
         "hosti",
         "how",
+        "incre",
+        "indep",
+        "infla",
         "inter",
         "kevin",
         "lashe",
@@ -725,6 +738,7 @@
         "loom",
         "may",
         "might",
+        "more",
         "navar",
         "neces",
         "not",
@@ -732,11 +746,16 @@
         "overs",
         "peter",
         "polic",
+        "poten",
         "press",
         "put",
+        "quest",
         "raise",
         "rate",
+        "reign",
         "reser",
+        "revea",
+        "risks",
         "said",
         "says",
         "signa",
@@ -744,12 +763,16 @@
         "slams",
         "soon",
         "spare",
+        "stick",
+        "store",
+        "stron",
         "tap",
         "three",
         "told",
         "trade",
         "trump",
         "turn",
+        "under",
         "vote",
         "warns",
         "warsh",
@@ -760,7 +783,7 @@
         "years",
         "you"
       ],
-      "last_seen_utc": "2026-09-17T16:57:46.524063+00:00",
+      "last_seen_utc": "2026-09-17T22:45:33.888885+00:00",
       "confidence": "LIKELY",
       "sources": [
         "marketwatch",
@@ -779,7 +802,7 @@
         "股市爆料同",
         "華許若按兵"
       ],
-      "last_seen_utc": "2026-09-17T16:57:46.524063+00:00",
+      "last_seen_utc": "2026-09-17T22:45:33.888885+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cmoney",
@@ -823,7 +846,7 @@
         "全球財經",
         "通膨居高太"
       ],
-      "last_seen_utc": "2026-09-17T16:57:46.524063+00:00",
+      "last_seen_utc": "2026-09-17T22:45:33.888885+00:00",
       "confidence": "LIKELY",
       "sources": [
         "udn.com",
@@ -925,7 +948,7 @@
         "what",
         "years"
       ],
-      "last_seen_utc": "2026-09-17T12:05:34.475148+00:00",
+      "last_seen_utc": "2026-09-17T22:45:33.888885+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cnn"
@@ -941,7 +964,7 @@
         "省話一哥",
         "華許創下史"
       ],
-      "last_seen_utc": "2026-09-17T16:57:46.524063+00:00",
+      "last_seen_utc": "2026-09-17T22:45:33.888885+00:00",
       "confidence": "LIKELY",
       "sources": [
         "knews.com.tw",
@@ -961,7 +984,7 @@
         "華許發言更",
         "華許鷹派言"
       ],
-      "last_seen_utc": "2026-09-17T16:57:46.524063+00:00",
+      "last_seen_utc": "2026-09-17T22:45:33.888885+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "cmoney",
@@ -982,7 +1005,7 @@
         "股市爆料同",
         "華許緊盯通"
       ],
-      "last_seen_utc": "2026-09-17T16:57:46.524063+00:00",
+      "last_seen_utc": "2026-09-17T22:45:33.888885+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cmoney",
@@ -1034,7 +1057,7 @@
         "unani",
         "warsh"
       ],
-      "last_seen_utc": "2026-09-17T16:57:46.524063+00:00",
+      "last_seen_utc": "2026-09-17T22:45:33.888885+00:00",
       "confidence": "LIKELY",
       "sources": [
         "the block",
@@ -1080,7 +1103,7 @@
         "瑞銀喊未來",
         "華許新框架"
       ],
-      "last_seen_utc": "2026-09-17T16:57:46.524063+00:00",
+      "last_seen_utc": "2026-09-17T22:45:33.888885+00:00",
       "confidence": "LIKELY",
       "sources": [
         "yahoo股市",
@@ -1097,7 +1120,7 @@
         "聯準會升1",
         "華許未來4"
       ],
-      "last_seen_utc": "2026-09-17T16:57:46.524063+00:00",
+      "last_seen_utc": "2026-09-17T22:45:33.888885+00:00",
       "confidence": "LIKELY",
       "sources": [
         "中時新聞網",
@@ -1105,6 +1128,26 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFT0pTOTZRRDlibjR0TWZCRXBvMGZXWDJUNXpFa0JUb00xaDFQQi1vQkVJbzZsUmdQZ240QTZDakxwR0QtbXhydFE5ZHVwam5TOWo4aW9HcHppa0g5YTk2X2I2b3l0UWJBa0d5NjNB?oc=5",
       "short_link": "https://tinyurl.com/254kvz9k"
+    },
+    {
+      "title": "華許展現鷹式立場…Fed升息1碼 並預期年底前再升1碼",
+      "stance": "hawkish",
+      "tokens": [
+        "fed",
+        "fed升息",
+        "並預期年底",
+        "升息1碼",
+        "國際焦點",
+        "華許展現鷹"
+      ],
+      "last_seen_utc": "2026-09-17T22:45:33.888885+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "udn",
+        "經濟日報"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIY09aNEcycEpHbWFpQndDaXJvMTNHYTJxSi1UUmFvSXZtRlc4UjRwUDJWcDFhQ24xT0Z2TVl6SjJTTzRQZjBOZ0xKZFJSRnpu?oc=5",
+      "short_link": "https://tinyurl.com/28xp99cc"
     }
   ]
 }
