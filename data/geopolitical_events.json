@@ -35,7 +35,7 @@
         "strik",
         "tehra"
       ],
-      "last_seen_utc": "2026-09-18T09:58:20.819490+00:00",
+      "last_seen_utc": "2026-09-18T14:09:06.005504+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "livemint",
@@ -801,7 +801,7 @@
         "suspe",
         "war"
       ],
-      "last_seen_utc": "2026-09-18T09:58:20.819490+00:00",
+      "last_seen_utc": "2026-09-18T14:09:06.005504+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "112.ua",
@@ -811,6 +811,29 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZbHdrZkVVOG9vTWowWkZlT1FBMkNQdHNaRFpodnlpMkZfV0MzOFlNX2VhclJDczhGYW9XUkdrTENSU3lJY2NILW84MzNyX1JPenZJMUdsQ1A4THlmUVJCNDFkUk54bjNY?oc=5",
       "short_link": "https://tinyurl.com/28tz9kvo"
+    },
+    {
+      "title": "Kenya condemns missile and drone attacks on Saudi Arabia",
+      "tokens": [
+        "arabi",
+        "attac",
+        "conce",
+        "conde",
+        "drone",
+        "kenya",
+        "missi",
+        "react",
+        "saudi"
+      ],
+      "last_seen_utc": "2026-09-18T14:09:06.005504+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "kenyans.co.ke",
+        "people daily",
+        "tuko news"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSDVYSFk2LVVNcWtXallER2ZjRkRTbTZfQUUzYkkxRFZmVW92VTgtREY0RU5Fd2JKUm82aGpvdm9ibjJSc0NrYW9TdDM3X0lwRlYwd0FqV1A1OUVGQTRKaHNOSXNwNEo4MDZLZEVDVXpUZDVoWTlPb1JYc25RZFpLQklsT1N1T0hhYWpad2pNRE1rN2RHSG96WVhHS3hfYWlwUUE?oc=5",
+      "short_link": "https://tinyurl.com/25xm73sa"
     }
   ]
 }
