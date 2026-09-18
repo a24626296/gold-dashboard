@@ -45,64 +45,6 @@
       "short_link": "https://tinyurl.com/27uwmahl"
     },
     {
-      "title": "Fed Chair Warsh Signals Rate Hikes May Be Needed With U.S. Inflation Stubbornly Elevated",
-      "stance": "hawkish",
-      "tokens": [
-        "barcl",
-        "bets",
-        "calle",
-        "can",
-        "chair",
-        "comin",
-        "conce",
-        "deliv",
-        "does",
-        "ecb",
-        "eleva",
-        "far",
-        "fed",
-        "fight",
-        "first",
-        "forec",
-        "hawki",
-        "hike",
-        "hikes",
-        "hole",
-        "infla",
-        "jacks",
-        "kevin",
-        "marke",
-        "may",
-        "more",
-        "neede",
-        "now",
-        "pivot",
-        "poten",
-        "rate",
-        "rates",
-        "remar",
-        "signa",
-        "speec",
-        "stubb",
-        "tells",
-        "that",
-        "two",
-        "warni",
-        "warsh",
-        "what",
-        "won"
-      ],
-      "last_seen_utc": "2026-09-11T01:03:15.388301+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "industrial distribution",
-        "streamlinefeed.co.ke",
-        "tekedia"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYTZrZ0Q5SmlLMXpFcmVHcmxGMlFaRjBFbnRuZW0wYnJYTU9Ya1lBMjZyTE5jb2ZDWmQ2Y2xDU0JJeWw2SWc5QU85ZzRVVUxqZzhweUdrdTdJazV2azRtV1NET1AxQUZhWUtzOV9HS19QX1dGejdTTnRiZ0hUaWk2VWkwM1BodU8tZmJUcHEzNWo1eUNrbWNleURXeW81ZVc5YXRHNms2aWtScVpQY0RHNlg2cEc5WTU0SFZkZTNOWHI3TkgtQXYydElLUVc?oc=5",
-      "short_link": "https://tinyurl.com/22crt3nb"
-    },
-    {
       "title": "聯準會升息路徑曝光？美銀：華許談話暗示 通膨惡化恐大幅升息",
       "stance": "hawkish",
       "tokens": [
@@ -567,7 +509,7 @@
         "華許緊張升",
         "華許說錯一"
       ],
-      "last_seen_utc": "2026-09-18T00:48:45.815272+00:00",
+      "last_seen_utc": "2026-09-18T05:27:34.219576+00:00",
       "confidence": "LIKELY",
       "sources": [
         "自由財經",
@@ -688,6 +630,7 @@
         "again",
         "analy",
         "annou",
+        "appla",
         "backs",
         "bank",
         "betti",
@@ -707,6 +650,7 @@
         "could",
         "cours",
         "criti",
+        "day",
         "decis",
         "defen",
         "disap",
@@ -733,6 +677,7 @@
         "indep",
         "infla",
         "inter",
+        "keeps",
         "kevin",
         "lashe",
         "likel",
@@ -784,11 +729,12 @@
         "was",
         "well",
         "what",
+        "who",
         "wsb",
         "years",
         "you"
       ],
-      "last_seen_utc": "2026-09-18T00:48:45.815272+00:00",
+      "last_seen_utc": "2026-09-18T05:27:34.219576+00:00",
       "confidence": "LIKELY",
       "sources": [
         "marketwatch",
@@ -807,7 +753,7 @@
         "股市爆料同",
         "華許若按兵"
       ],
-      "last_seen_utc": "2026-09-18T00:48:45.815272+00:00",
+      "last_seen_utc": "2026-09-18T05:27:34.219576+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cmoney",
@@ -830,7 +776,7 @@
         "warsh",
         "was"
       ],
-      "last_seen_utc": "2026-09-17T12:05:34.475148+00:00",
+      "last_seen_utc": "2026-09-18T05:27:34.219576+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "katu",
@@ -851,7 +797,7 @@
         "全球財經",
         "通膨居高太"
       ],
-      "last_seen_utc": "2026-09-18T00:48:45.815272+00:00",
+      "last_seen_utc": "2026-09-18T05:27:34.219576+00:00",
       "confidence": "LIKELY",
       "sources": [
         "udn.com",
@@ -868,7 +814,7 @@
         "聯準會20",
         "股市爆料同"
       ],
-      "last_seen_utc": "2026-09-17T01:42:11.088755+00:00",
+      "last_seen_utc": "2026-09-18T05:27:34.219576+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cmoney.tw",
@@ -953,7 +899,7 @@
         "what",
         "years"
       ],
-      "last_seen_utc": "2026-09-18T00:48:45.815272+00:00",
+      "last_seen_utc": "2026-09-18T05:27:34.219576+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cnn"
@@ -969,7 +915,7 @@
         "省話一哥",
         "華許創下史"
       ],
-      "last_seen_utc": "2026-09-18T00:48:45.815272+00:00",
+      "last_seen_utc": "2026-09-18T05:27:34.219576+00:00",
       "confidence": "LIKELY",
       "sources": [
         "knews.com.tw",
@@ -990,7 +936,7 @@
         "華許發言更",
         "華許鷹派言"
       ],
-      "last_seen_utc": "2026-09-18T00:48:45.815272+00:00",
+      "last_seen_utc": "2026-09-18T05:27:34.219576+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "cmoney",
@@ -1011,7 +957,7 @@
         "股市爆料同",
         "華許緊盯通"
       ],
-      "last_seen_utc": "2026-09-18T00:48:45.815272+00:00",
+      "last_seen_utc": "2026-09-18T05:27:34.219576+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cmoney",
@@ -1029,7 +975,7 @@
         "美聯準會宣",
         "通膨太高了"
       ],
-      "last_seen_utc": "2026-09-18T00:48:45.815272+00:00",
+      "last_seen_utc": "2026-09-18T05:27:34.219576+00:00",
       "confidence": "LIKELY",
       "sources": [
         "yahoo新聞",
@@ -1063,7 +1009,7 @@
         "unani",
         "warsh"
       ],
-      "last_seen_utc": "2026-09-18T00:48:45.815272+00:00",
+      "last_seen_utc": "2026-09-18T05:27:34.219576+00:00",
       "confidence": "LIKELY",
       "sources": [
         "the block",
@@ -1109,7 +1055,7 @@
         "瑞銀喊未來",
         "華許新框架"
       ],
-      "last_seen_utc": "2026-09-18T00:48:45.815272+00:00",
+      "last_seen_utc": "2026-09-18T05:27:34.219576+00:00",
       "confidence": "LIKELY",
       "sources": [
         "yahoo股市",
@@ -1126,7 +1072,7 @@
         "聯準會升1",
         "華許未來4"
       ],
-      "last_seen_utc": "2026-09-18T00:48:45.815272+00:00",
+      "last_seen_utc": "2026-09-18T05:27:34.219576+00:00",
       "confidence": "LIKELY",
       "sources": [
         "中時新聞網",
@@ -1147,7 +1093,7 @@
         "經濟日報頭",
         "華許展現鷹"
       ],
-      "last_seen_utc": "2026-09-18T00:48:45.815272+00:00",
+      "last_seen_utc": "2026-09-18T05:27:34.219576+00:00",
       "confidence": "LIKELY",
       "sources": [
         "udn",
@@ -1165,7 +1111,7 @@
         "華許會後記",
         "討論牆"
       ],
-      "last_seen_utc": "2026-09-18T00:48:45.815272+00:00",
+      "last_seen_utc": "2026-09-18T05:27:34.219576+00:00",
       "confidence": "LIKELY",
       "sources": [
         "line today",
