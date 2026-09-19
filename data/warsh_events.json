@@ -21,28 +21,6 @@
       "short_link": "https://tinyurl.com/29b5h4p4"
     },
     {
-      "title": "Fed傳聲筒：升不升息就差在0.1個百分點 華許等周五CPI定奪",
-      "stance": "hawkish",
-      "tokens": [
-        "1個百分點",
-        "cpi",
-        "fed",
-        "fed傳聲",
-        "傳聲筒",
-        "升不升息就",
-        "國際焦點",
-        "華許等周五"
-      ],
-      "last_seen_utc": "2026-09-12T00:39:19.890543+00:00",
-      "confidence": "LIKELY",
-      "sources": [
-        "udn",
-        "經濟日報"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qOGRDczFvSER2bEhxM3FDWGdYU3drdm9sQTNieWY4Z0Q0ZUY5WFRKRDNqT0FpOGRGT2h5OEg2Zi03TWp4dmhhaDFMTzVQTzV1?oc=5",
-      "short_link": "https://tinyurl.com/23fn6dvg"
-    },
-    {
       "title": "Warsh Faces Intensifying Pressure to Raise Rates After Hot CPI",
       "stance": "hawkish",
       "tokens": [
@@ -586,6 +564,7 @@
         "again",
         "analy",
         "annou",
+        "anoth",
         "antic",
         "appla",
         "backs",
@@ -631,6 +610,7 @@
         "frict",
         "geopo",
         "gives",
+        "goldm",
         "good",
         "grill",
         "growt",
@@ -661,12 +641,14 @@
         "neces",
         "news",
         "not",
+        "octob",
         "out",
         "overs",
         "pass",
         "peter",
         "polic",
         "poten",
+        "predi",
         "press",
         "put",
         "quest",
@@ -678,6 +660,7 @@
         "revea",
         "rips",
         "risks",
+        "sachs",
         "said",
         "says",
         "shoul",
@@ -696,6 +679,7 @@
         "tap",
         "than",
         "three",
+        "tight",
         "told",
         "touti",
         "trade",
@@ -715,7 +699,7 @@
         "years",
         "you"
       ],
-      "last_seen_utc": "2026-09-19T00:28:01.527613+00:00",
+      "last_seen_utc": "2026-09-19T04:52:53.207395+00:00",
       "confidence": "LIKELY",
       "sources": [
         "marketwatch",
@@ -880,7 +864,7 @@
         "what",
         "years"
       ],
-      "last_seen_utc": "2026-09-19T00:28:01.527613+00:00",
+      "last_seen_utc": "2026-09-19T04:52:53.207395+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cnn"
@@ -894,9 +878,10 @@
       "tokens": [
         "fed升息",
         "省話一哥",
+        "華許一句話",
         "華許創下史"
       ],
-      "last_seen_utc": "2026-09-19T00:28:01.527613+00:00",
+      "last_seen_utc": "2026-09-19T04:52:53.207395+00:00",
       "confidence": "LIKELY",
       "sources": [
         "knews.com.tw",
@@ -918,7 +903,7 @@
         "華許發言更",
         "華許鷹派言"
       ],
-      "last_seen_utc": "2026-09-19T00:28:01.527613+00:00",
+      "last_seen_utc": "2026-09-19T04:52:53.207395+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "cmoney",
@@ -992,7 +977,7 @@
         "unani",
         "warsh"
       ],
-      "last_seen_utc": "2026-09-19T00:28:01.527613+00:00",
+      "last_seen_utc": "2026-09-19T04:52:53.207395+00:00",
       "confidence": "LIKELY",
       "sources": [
         "the block",
@@ -1038,7 +1023,7 @@
         "瑞銀喊未來",
         "華許新框架"
       ],
-      "last_seen_utc": "2026-09-19T00:28:01.527613+00:00",
+      "last_seen_utc": "2026-09-19T04:52:53.207395+00:00",
       "confidence": "LIKELY",
       "sources": [
         "yahoo股市",
@@ -1055,7 +1040,7 @@
         "聯準會升1",
         "華許未來4"
       ],
-      "last_seen_utc": "2026-09-19T00:28:01.527613+00:00",
+      "last_seen_utc": "2026-09-19T04:52:53.207395+00:00",
       "confidence": "LIKELY",
       "sources": [
         "中時新聞網",
@@ -1077,7 +1062,7 @@
         "經濟日報頭",
         "華許展現鷹"
       ],
-      "last_seen_utc": "2026-09-19T00:28:01.527613+00:00",
+      "last_seen_utc": "2026-09-19T04:52:53.207395+00:00",
       "confidence": "LIKELY",
       "sources": [
         "udn",
@@ -1095,7 +1080,7 @@
         "華許會後記",
         "討論牆"
       ],
-      "last_seen_utc": "2026-09-19T00:28:01.527613+00:00",
+      "last_seen_utc": "2026-09-19T04:52:53.207395+00:00",
       "confidence": "LIKELY",
       "sources": [
         "line today",
@@ -1112,7 +1097,7 @@
         "川普顧問納",
         "愚蠢決策"
       ],
-      "last_seen_utc": "2026-09-19T00:28:01.527613+00:00",
+      "last_seen_utc": "2026-09-19T04:52:53.207395+00:00",
       "confidence": "LIKELY",
       "sources": [
         "news.cnyes.com",
@@ -1130,7 +1115,7 @@
         "決策獨立性",
         "經濟日報"
       ],
-      "last_seen_utc": "2026-09-19T00:28:01.527613+00:00",
+      "last_seen_utc": "2026-09-19T04:52:53.207395+00:00",
       "confidence": "LIKELY",
       "sources": [
         "line today",
@@ -1188,7 +1173,7 @@
         "warns",
         "warsh"
       ],
-      "last_seen_utc": "2026-09-19T00:28:01.527613+00:00",
+      "last_seen_utc": "2026-09-19T04:52:53.207395+00:00",
       "confidence": "LIKELY",
       "sources": [
         "bloomberg.com",
@@ -1218,7 +1203,7 @@
         "vows",
         "warsh"
       ],
-      "last_seen_utc": "2026-09-19T00:28:01.527613+00:00",
+      "last_seen_utc": "2026-09-19T04:52:53.207395+00:00",
       "confidence": "LIKELY",
       "sources": [
         "btimesonline.com",
