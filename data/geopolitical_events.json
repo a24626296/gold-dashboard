@@ -528,7 +528,7 @@
         "wsj",
         "zone"
       ],
-      "last_seen_utc": "2026-09-17T06:39:46.384044+00:00",
+      "last_seen_utc": "2026-09-19T13:09:34.551773+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
@@ -648,7 +648,7 @@
         "under",
         "warns"
       ],
-      "last_seen_utc": "2026-09-19T09:07:17.939854+00:00",
+      "last_seen_utc": "2026-09-19T13:09:34.551773+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "kenyans.co.ke",
@@ -681,7 +681,7 @@
         "ukrai",
         "under"
       ],
-      "last_seen_utc": "2026-09-19T09:07:17.939854+00:00",
+      "last_seen_utc": "2026-09-19T13:09:34.551773+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "apa.az",
@@ -691,6 +691,38 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPX1NFc2lXdzJrTTJNQXhVT1VmQTlRZG9HTUp4bjdySVZjdDBQREZWSkpJVVRxTFpiRUUxNV9ZaEVVQTJEV2VtQmJ0QVAtQmdVU2RBWmx4SHJTQUdwMS1PXzR4RkdRN2FRbVJvcXdkMEtYZU1lcnZlSTdGZ3Z6ZUp2SFVKNnREZzNRVFZBSkxWb0d1QlVmVXdkTXZseG1KVV9IekZ5N2pfNldJWmI2Vk5DSVVoODBfZE1taDJfbWtZMHpsX2dVcm9DdGJpc29RZS1YX0ZhVVFfbTVDRHp4TGFUY3Bn0gHnAUFVX3lxTE00THZWa2tDM0pPYnpCaXlQNnIyTXdnSFZBTFA4UlpaWmhUd3RBeXo4SzVEamFMNUJFWU91MFdkeG5fNFdzZTFvSFp2TDE5LTBXUnB0RWRyTHFnYTZHTzI4YzhOUlA5MzZTWVh0a3lqOVpUdVZ4OGpTU3I4SFh2OEdWb3UtSXF4OXhaaXA5SHU1V0RtSE52UThiTXR4THh6SERfbXhPTE1QRHFaTDFqaVVnTXhjaXdiRVlEWGpRckVDVW5odHdPVUlCcDdKYnp1b1RVcTlHMm96Vk5rVmZoekVoQlFFNEhfRQ?oc=5",
       "short_link": "https://tinyurl.com/25svn6kq"
+    },
+    {
+      "title": "Latvian president says Europe would struggle to repel Russian missile attack",
+      "tokens": [
+        "attac",
+        "behin",
+        "drone",
+        "europ",
+        "falls",
+        "latvi",
+        "may",
+        "missi",
+        "presi",
+        "repel",
+        "russi",
+        "says",
+        "strug",
+        "techn",
+        "vulne",
+        "warfa",
+        "warns",
+        "would"
+      ],
+      "last_seen_utc": "2026-09-19T13:09:34.551773+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "newsukraine.rbc.ua",
+        "ukrinform.net",
+        "українська правда"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EejlsOXdOSG9TTEJOa1VUSGh5RVczQU9ab2xmeDlnYTlLTExJRlRNMjJWc0RqbFZTVDF1VUtGZllUY3BteTZoVTVLclQ2dFJZLWpULTVKZUEySTV0ejRISWh2MmbSAXBBVV95cUxONlo3M1EydE1MczdvQlJ6dl93MTVkaW5STE5WeWRxUU5sU2hlUXhBVnh5a0tLNVU3MS1XOU55c1Zlc0ZKNlJWLVRtX21vVEVmcWdZODc4dWhlTlpvbExSaWpRNXJqVGVHXzZEY3puQ01X?oc=5",
+      "short_link": "https://tinyurl.com/2yhcmgv8"
     }
   ]
 }
