@@ -528,7 +528,7 @@
         "wsj",
         "zone"
       ],
-      "last_seen_utc": "2026-09-19T18:44:11.148554+00:00",
+      "last_seen_utc": "2026-09-19T21:04:05.572289+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
@@ -648,7 +648,7 @@
         "under",
         "warns"
       ],
-      "last_seen_utc": "2026-09-19T18:44:11.148554+00:00",
+      "last_seen_utc": "2026-09-19T21:04:05.572289+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "kenyans.co.ke",
@@ -681,7 +681,7 @@
         "ukrai",
         "under"
       ],
-      "last_seen_utc": "2026-09-19T18:44:11.148554+00:00",
+      "last_seen_utc": "2026-09-19T21:04:05.572289+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "apa.az",
@@ -725,7 +725,7 @@
         "will",
         "would"
       ],
-      "last_seen_utc": "2026-09-19T18:44:11.148554+00:00",
+      "last_seen_utc": "2026-09-19T21:04:05.572289+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "newsukraine.rbc.ua",
@@ -738,27 +738,39 @@
     {
       "title": "Yemeni Missile Attack on Saudi Capital; Warning Sirens Sound in Riyadh and Al-Kharj",
       "tokens": [
+        "arabi",
         "attac",
         "backe",
+        "balli",
         "capit",
         "claim",
+        "confi",
         "drone",
         "houth",
         "iran",
         "israe",
         "kharj",
+        "lates",
         "missi",
         "movem",
+        "news",
+        "rebel",
         "respo",
+        "risin",
         "riyad",
         "saudi",
+        "sensi",
         "siren",
+        "sites",
         "sound",
+        "tensi",
         "third",
+        "tried",
+        "war",
         "warni",
         "yemen"
       ],
-      "last_seen_utc": "2026-09-19T18:44:11.148554+00:00",
+      "last_seen_utc": "2026-09-19T21:04:05.572289+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
@@ -767,6 +779,43 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUMydHNxRFhiNTk0dm40bmxxNWpLd0tndTBRRWo2dlNyUkNUOFBIejNrajBNU3pXOTY0d0t2NFNYVVRSVFNiVklWMGE1bEZhLTBfSW5BRUU4QjVkTW1jSnk1WnMtdmdJSmROTnEzVDRUZDc1MHIzSWZQYmMzNTh5VTBEMnVtRWxwNVdXekpTaUJTN1pnRXRSclN4UUZwZFM2eWJEV3RGQ3ZPOVRfd3IwV25vbWpHYnpCZHY5Z0dPWQ?oc=5",
       "short_link": "https://tinyurl.com/2c54u4pr"
+    },
+    {
+      "title": "Yahya Saree Says Houthis Hit Riyadh And Aramco Facilities In Yanbu With Missiles, Drones: how 19 outlets framed it",
+      "tokens": [
+        "aramc",
+        "carri",
+        "claim",
+        "drone",
+        "facil",
+        "frame",
+        "hit",
+        "houth",
+        "how",
+        "missi",
+        "oil",
+        "out",
+        "outle",
+        "riyad",
+        "saree",
+        "says",
+        "sites",
+        "strik",
+        "targe",
+        "they",
+        "yahya",
+        "yanbu"
+      ],
+      "last_seen_utc": "2026-09-19T21:04:05.572289+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "apa.az",
+        "kurdistan24",
+        "mathrubhumi english",
+        "newscord"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTFM5R1BaX05MMFlTbjZELXJmMzBxdDFYUGZWanE0VjIwc1k1TXc3QVJncHdzTC1vU2h1SllOcS1IZHZuRUltclpSN1p0aU9fdGlCNzRJSHMzam9vSEh0ZGRBbnZpYW4wOG5MbVdyUmtISlRvU1JlX0g2M1dtR2U2ZjRyOXFvdkRWN2dpOEtPaDNGQ3VmaEtoWFRHaVc5aEV4bzlsQkg2TXFDNjh6S0RkNmFPdjJJSlp5d1pSSmFvVUllWmZfUmNDQzZVYXhERmlMV1dIN1A2cE5PZHkwNEVRSnlUeW84VElEVEE?oc=5",
+      "short_link": "https://tinyurl.com/27xlmj6w"
     }
   ]
 }
