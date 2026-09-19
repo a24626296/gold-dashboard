@@ -528,7 +528,7 @@
         "wsj",
         "zone"
       ],
-      "last_seen_utc": "2026-09-19T16:28:42.865517+00:00",
+      "last_seen_utc": "2026-09-19T18:44:11.148554+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
@@ -648,7 +648,7 @@
         "under",
         "warns"
       ],
-      "last_seen_utc": "2026-09-19T16:28:42.865517+00:00",
+      "last_seen_utc": "2026-09-19T18:44:11.148554+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "kenyans.co.ke",
@@ -681,7 +681,7 @@
         "ukrai",
         "under"
       ],
-      "last_seen_utc": "2026-09-19T16:28:42.865517+00:00",
+      "last_seen_utc": "2026-09-19T18:44:11.148554+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "apa.az",
@@ -725,7 +725,7 @@
         "will",
         "would"
       ],
-      "last_seen_utc": "2026-09-19T16:28:42.865517+00:00",
+      "last_seen_utc": "2026-09-19T18:44:11.148554+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "newsukraine.rbc.ua",
@@ -734,6 +734,39 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EejlsOXdOSG9TTEJOa1VUSGh5RVczQU9ab2xmeDlnYTlLTExJRlRNMjJWc0RqbFZTVDF1VUtGZllUY3BteTZoVTVLclQ2dFJZLWpULTVKZUEySTV0ejRISWh2MmbSAXBBVV95cUxONlo3M1EydE1MczdvQlJ6dl93MTVkaW5STE5WeWRxUU5sU2hlUXhBVnh5a0tLNVU3MS1XOU55c1Zlc0ZKNlJWLVRtX21vVEVmcWdZODc4dWhlTlpvbExSaWpRNXJqVGVHXzZEY3puQ01X?oc=5",
       "short_link": "https://tinyurl.com/2yhcmgv8"
+    },
+    {
+      "title": "Yemeni Missile Attack on Saudi Capital; Warning Sirens Sound in Riyadh and Al-Kharj",
+      "tokens": [
+        "attac",
+        "backe",
+        "capit",
+        "claim",
+        "drone",
+        "houth",
+        "iran",
+        "israe",
+        "kharj",
+        "missi",
+        "movem",
+        "respo",
+        "riyad",
+        "saudi",
+        "siren",
+        "sound",
+        "third",
+        "warni",
+        "yemen"
+      ],
+      "last_seen_utc": "2026-09-19T18:44:11.148554+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "anadolu ajansı",
+        "news on air",
+        "خبرگزاری صدای افغان(آوا)"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUMydHNxRFhiNTk0dm40bmxxNWpLd0tndTBRRWo2dlNyUkNUOFBIejNrajBNU3pXOTY0d0t2NFNYVVRSVFNiVklWMGE1bEZhLTBfSW5BRUU4QjVkTW1jSnk1WnMtdmdJSmROTnEzVDRUZDc1MHIzSWZQYmMzNTh5VTBEMnVtRWxwNVdXekpTaUJTN1pnRXRSclN4UUZwZFM2eWJEV3RGQ3ZPOVRfd3IwV25vbWpHYnpCZHY5Z0dPWQ?oc=5",
+      "short_link": "https://tinyurl.com/2c54u4pr"
     }
   ]
 }
