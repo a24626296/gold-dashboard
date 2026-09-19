@@ -47,37 +47,6 @@
       "short_link": "https://tinyurl.com/23mggdu7"
     },
     {
-      "title": "Ukrainian forces launch missile strike on Volgograd",
-      "tokens": [
-        "area",
-        "attac",
-        "fire",
-        "force",
-        "irani",
-        "launc",
-        "lukoi",
-        "massi",
-        "missi",
-        "oil",
-        "refin",
-        "strik",
-        "tanke",
-        "ukrai",
-        "volgo",
-        "warsh"
-      ],
-      "last_seen_utc": "2026-09-12T05:02:37.638075+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "azernews",
-        "finway.com.ua",
-        "today.az",
-        "мілітарний"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HU1ZabF9xTW1XVXJ0eHRyclR1SEx2UVhqT3FTR0g3UFBKZzBDdGhhMEwwZk85ajRUejYzakRxTVkwNV9vN0xhNGxwaTBzM0FpQnFDUg?oc=5",
-      "short_link": "https://tinyurl.com/29sdhmf3"
-    },
-    {
       "title": "Odesa hit by massive missile and drone attack, six injured",
       "tokens": [
         "attac",
@@ -654,23 +623,32 @@
     {
       "title": "Kenya condemns missile and drone attacks on Saudi Arabia",
       "tokens": [
+        "alert",
         "arabi",
         "attac",
         "citie",
         "conce",
         "conde",
+        "confl",
         "drone",
+        "escal",
+        "explo",
         "hit",
         "houth",
         "injur",
+        "issue",
         "kenya",
         "mid",
         "missi",
         "react",
+        "repor",
+        "resid",
+        "riyad",
         "saudi",
-        "under"
+        "under",
+        "warns"
       ],
-      "last_seen_utc": "2026-09-19T04:52:45.621653+00:00",
+      "last_seen_utc": "2026-09-19T09:07:17.939854+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "kenyans.co.ke",
@@ -703,7 +681,7 @@
         "ukrai",
         "under"
       ],
-      "last_seen_utc": "2026-09-19T04:52:45.621653+00:00",
+      "last_seen_utc": "2026-09-19T09:07:17.939854+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "apa.az",
