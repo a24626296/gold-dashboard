@@ -528,7 +528,7 @@
         "wsj",
         "zone"
       ],
-      "last_seen_utc": "2026-09-19T13:09:34.551773+00:00",
+      "last_seen_utc": "2026-09-19T16:28:42.865517+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
@@ -648,7 +648,7 @@
         "under",
         "warns"
       ],
-      "last_seen_utc": "2026-09-19T13:09:34.551773+00:00",
+      "last_seen_utc": "2026-09-19T16:28:42.865517+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "kenyans.co.ke",
@@ -681,7 +681,7 @@
         "ukrai",
         "under"
       ],
-      "last_seen_utc": "2026-09-19T13:09:34.551773+00:00",
+      "last_seen_utc": "2026-09-19T16:28:42.865517+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "apa.az",
@@ -695,26 +695,37 @@
     {
       "title": "Latvian president says Europe would struggle to repel Russian missile attack",
       "tokens": [
+        "able",
         "attac",
         "behin",
+        "could",
+        "count",
         "drone",
         "europ",
         "falls",
         "latvi",
         "may",
         "missi",
+        "most",
+        "nato",
+        "not",
+        "prepa",
         "presi",
+        "rbc",
         "repel",
+        "rinke",
         "russi",
         "says",
+        "strik",
         "strug",
         "techn",
         "vulne",
         "warfa",
         "warns",
+        "will",
         "would"
       ],
-      "last_seen_utc": "2026-09-19T13:09:34.551773+00:00",
+      "last_seen_utc": "2026-09-19T16:28:42.865517+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "newsukraine.rbc.ua",
