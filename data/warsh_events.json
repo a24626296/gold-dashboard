@@ -864,7 +864,7 @@
         "what",
         "years"
       ],
-      "last_seen_utc": "2026-09-19T04:52:53.207395+00:00",
+      "last_seen_utc": "2026-09-19T09:07:25.491856+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cnn"
@@ -881,7 +881,7 @@
         "華許一句話",
         "華許創下史"
       ],
-      "last_seen_utc": "2026-09-19T04:52:53.207395+00:00",
+      "last_seen_utc": "2026-09-19T09:07:25.491856+00:00",
       "confidence": "LIKELY",
       "sources": [
         "knews.com.tw",
@@ -901,9 +901,10 @@
         "華許兌現承",
         "華許比鮑爾",
         "華許發言更",
-        "華許鷹派言"
+        "華許鷹派言",
+        "討論牆"
       ],
-      "last_seen_utc": "2026-09-19T04:52:53.207395+00:00",
+      "last_seen_utc": "2026-09-19T09:07:25.491856+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "cmoney",
@@ -940,10 +941,11 @@
         "不甩川普施",
         "主席華許硬",
         "美聯準會宣",
+        "討論牆",
         "通膨太高了",
         "鏡週刊"
       ],
-      "last_seen_utc": "2026-09-19T00:28:01.527613+00:00",
+      "last_seen_utc": "2026-09-19T09:07:25.491856+00:00",
       "confidence": "LIKELY",
       "sources": [
         "yahoo新聞",
@@ -977,7 +979,7 @@
         "unani",
         "warsh"
       ],
-      "last_seen_utc": "2026-09-19T04:52:53.207395+00:00",
+      "last_seen_utc": "2026-09-19T09:07:25.491856+00:00",
       "confidence": "LIKELY",
       "sources": [
         "the block",
@@ -1023,7 +1025,7 @@
         "瑞銀喊未來",
         "華許新框架"
       ],
-      "last_seen_utc": "2026-09-19T04:52:53.207395+00:00",
+      "last_seen_utc": "2026-09-19T09:07:25.491856+00:00",
       "confidence": "LIKELY",
       "sources": [
         "yahoo股市",
@@ -1062,7 +1064,7 @@
         "經濟日報頭",
         "華許展現鷹"
       ],
-      "last_seen_utc": "2026-09-19T04:52:53.207395+00:00",
+      "last_seen_utc": "2026-09-19T09:07:25.491856+00:00",
       "confidence": "LIKELY",
       "sources": [
         "udn",
@@ -1080,7 +1082,7 @@
         "華許會後記",
         "討論牆"
       ],
-      "last_seen_utc": "2026-09-19T04:52:53.207395+00:00",
+      "last_seen_utc": "2026-09-19T09:07:25.491856+00:00",
       "confidence": "LIKELY",
       "sources": [
         "line today",
@@ -1095,9 +1097,10 @@
       "tokens": [
         "升息是",
         "川普顧問納",
-        "愚蠢決策"
+        "愚蠢決策",
+        "討論牆"
       ],
-      "last_seen_utc": "2026-09-19T04:52:53.207395+00:00",
+      "last_seen_utc": "2026-09-19T09:07:25.491856+00:00",
       "confidence": "LIKELY",
       "sources": [
         "news.cnyes.com",
@@ -1115,7 +1118,7 @@
         "決策獨立性",
         "經濟日報"
       ],
-      "last_seen_utc": "2026-09-19T04:52:53.207395+00:00",
+      "last_seen_utc": "2026-09-19T09:07:25.491856+00:00",
       "confidence": "LIKELY",
       "sources": [
         "line today",
@@ -1128,27 +1131,46 @@
       "title": "Trump slams Federal Reserve board for interest rate hike, says he's confident in Kevin Warsh",
       "stance": "hawkish",
       "tokens": [
+        "about",
         "annou",
+        "appla",
+        "backs",
         "bank",
+        "blame",
+        "blast",
         "board",
+        "but",
         "centr",
         "chair",
         "confi",
+        "criti",
+        "day",
         "expla",
         "fed",
         "feder",
+        "finan",
+        "first",
         "hike",
+        "infla",
         "inter",
+        "keeps",
         "kevin",
+        "marke",
         "rate",
         "reser",
+        "revea",
         "says",
         "slams",
+        "spare",
+        "three",
         "trump",
         "warsh",
-        "wsb"
+        "what",
+        "who",
+        "wsb",
+        "years"
       ],
-      "last_seen_utc": "2026-09-18T17:40:36.784913+00:00",
+      "last_seen_utc": "2026-09-19T09:07:25.491856+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "fox business",
@@ -1173,7 +1195,7 @@
         "warns",
         "warsh"
       ],
-      "last_seen_utc": "2026-09-19T04:52:53.207395+00:00",
+      "last_seen_utc": "2026-09-19T09:07:25.491856+00:00",
       "confidence": "LIKELY",
       "sources": [
         "bloomberg.com",
@@ -1203,7 +1225,7 @@
         "vows",
         "warsh"
       ],
-      "last_seen_utc": "2026-09-19T04:52:53.207395+00:00",
+      "last_seen_utc": "2026-09-19T09:07:25.491856+00:00",
       "confidence": "LIKELY",
       "sources": [
         "btimesonline.com",
