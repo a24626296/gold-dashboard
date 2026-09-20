@@ -473,7 +473,9 @@
         "air",
         "airpo",
         "alert",
+        "arabi",
         "aramc",
+        "asia",
         "attac",
         "balli",
         "base",
@@ -506,9 +508,10 @@
         "tensi",
         "trigg",
         "video",
+        "west",
         "yemen"
       ],
-      "last_seen_utc": "2026-09-20T14:46:40.677736+00:00",
+      "last_seen_utc": "2026-09-20T20:06:22.819056+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "moneycontrol.com",
@@ -900,7 +903,7 @@
         "world",
         "yemen"
       ],
-      "last_seen_utc": "2026-09-20T17:50:38.824739+00:00",
+      "last_seen_utc": "2026-09-20T20:06:22.819056+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
@@ -978,7 +981,7 @@
         "yanbu",
         "yemen"
       ],
-      "last_seen_utc": "2026-09-20T17:50:38.824739+00:00",
+      "last_seen_utc": "2026-09-20T20:06:22.819056+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "apa.az",
@@ -988,6 +991,50 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTFM5R1BaX05MMFlTbjZELXJmMzBxdDFYUGZWanE0VjIwc1k1TXc3QVJncHdzTC1vU2h1SllOcS1IZHZuRUltclpSN1p0aU9fdGlCNzRJSHMzam9vSEh0ZGRBbnZpYW4wOG5MbVdyUmtISlRvU1JlX0g2M1dtR2U2ZjRyOXFvdkRWN2dpOEtPaDNGQ3VmaEtoWFRHaVc5aEV4bzlsQkg2TXFDNjh6S0RkNmFPdjJJSlp5d1pSSmFvVUllWmZfUmNDQzZVYXhERmlMV1dIN1A2cE5PZHkwNEVRSnlUeW84VElEVEE?oc=5",
       "short_link": "https://tinyurl.com/27xlmj6w"
+    },
+    {
+      "title": "Ukrainian drones and missiles target Moscow, oil refinery in deadly attack: Officials - ABC News",
+      "tokens": [
+        "abc",
+        "attac",
+        "balli",
+        "deadl",
+        "drone",
+        "flami",
+        "found",
+        "fragm",
+        "hits",
+        "massi",
+        "missi",
+        "mosco",
+        "news",
+        "offic",
+        "oil",
+        "pelic",
+        "refin",
+        "resem",
+        "strik",
+        "targe",
+        "that",
+        "this",
+        "today",
+        "ukrai",
+        "used",
+        "what"
+      ],
+      "last_seen_utc": "2026-09-20T20:06:22.819056+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "abc news - breaking news, latest news and videos",
+        "kcby",
+        "keye",
+        "nashaniva.com",
+        "national news desk",
+        "wpec",
+        "мілітарний"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORGt0RWRlLUFoQ2xGYlVjY0x0bS1oU2VYaURwQlVrVEZtX2JYUkxCOGF1NmpmcWZkNmE3REtjd2d0bW1IV2JoTnpXcndfVTE4dVlCWXFfVVVCSjJRQUFWVlMzZS1iUDZkTHRhQ0l5MDEtcHgzSGM3dHpETVhxWWd2NXlvdUlqU2xlN1VtVHlINm5Wb09IWW1lazRvNmRsY1RabmtuTWhRNWpiZk1LSXVR0gG0AUFVX3lxTE5BRzJ5UkhlX1hUYWVGN2pQNVk2SURFZ3NTZy1Bc0MyN0QtcW9ySU15LTE1aU8zRm4yMXhCVHNINndqcjdsWmM5b1ZOd3pqRS1GZTkyUG8yRkktNFZhbjU0LTdBTTFXdlBBT0hNX1VIVEtwNFQtbDdxVGFDbzdNQ0Jhdmp6QXdua3N0R0V4RkFlbkRsRFdsQ1RpSm4wa3NhR3NBcWhldXhZd2lKYldnZHR6ZzZ6NA?oc=5",
+      "short_link": "https://tinyurl.com/269qf8ml"
     }
   ]
 }
