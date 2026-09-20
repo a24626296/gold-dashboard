@@ -858,6 +858,7 @@
         "escal",
         "fallo",
         "fire",
+        "flame",
         "gulf",
         "houth",
         "inter",
@@ -881,6 +882,7 @@
         "rocke",
         "saudi",
         "says",
+        "seen",
         "sensi",
         "siren",
         "sites",
@@ -903,7 +905,7 @@
         "world",
         "yemen"
       ],
-      "last_seen_utc": "2026-09-20T20:06:22.819056+00:00",
+      "last_seen_utc": "2026-09-20T22:25:24.270524+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
@@ -981,7 +983,7 @@
         "yanbu",
         "yemen"
       ],
-      "last_seen_utc": "2026-09-20T20:06:22.819056+00:00",
+      "last_seen_utc": "2026-09-20T22:25:24.270524+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "apa.az",
@@ -999,11 +1001,14 @@
         "attac",
         "balli",
         "deadl",
+        "did",
         "drone",
+        "durin",
         "flami",
         "found",
         "fragm",
         "hits",
+        "hundr",
         "massi",
         "missi",
         "mosco",
@@ -1019,10 +1024,13 @@
         "this",
         "today",
         "ukrai",
+        "use",
         "used",
-        "what"
+        "uses",
+        "what",
+        "zelen"
       ],
-      "last_seen_utc": "2026-09-20T20:06:22.819056+00:00",
+      "last_seen_utc": "2026-09-20T22:25:24.270524+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "abc news - breaking news, latest news and videos",
