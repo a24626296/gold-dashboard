@@ -291,25 +291,6 @@
       "short_link": "https://tinyurl.com/24zkuxw3"
     },
     {
-      "title": "Fed下周會不會升息？主席華許立場為何…三種情境分析| 全球財經| 全球",
-      "stance": "hawkish",
-      "tokens": [
-        "3種情境分",
-        "fed下周",
-        "三種情境分",
-        "主席華許立",
-        "全球財經"
-      ],
-      "last_seen_utc": "2026-09-14T19:11:22.066558+00:00",
-      "confidence": "LIKELY",
-      "sources": [
-        "udn",
-        "經濟日報"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MbjRxbGRhOGtJYXVFaDR1OTJhRGRSQ0VkTXV1amxOdDlmTjVEY0o1THBzMW1RcUJtcmNNM2FsNjBvT0ZMNVFFclV2cENRX0JX?oc=5",
-      "short_link": "https://tinyurl.com/2d9nuy9m"
-    },
-    {
       "title": "〈財經週報-國際展望〉華許鷹派定調下 投資人面臨的5大關鍵議題",
       "stance": "hawkish",
       "tokens": [
@@ -1001,19 +982,22 @@
         "consi",
         "credi",
         "fed",
+        "focus",
         "hike",
         "incre",
         "kevin",
         "octob",
         "outlo",
         "press",
+        "puts",
         "quest",
         "rate",
+        "test",
         "trump",
         "under",
         "warsh"
       ],
-      "last_seen_utc": "2026-09-21T10:44:25.479663+00:00",
+      "last_seen_utc": "2026-09-21T20:36:30.562698+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "barron's",
@@ -1259,7 +1243,7 @@
         "升息一次夠",
         "華許時代的"
       ],
-      "last_seen_utc": "2026-09-21T16:37:32.598936+00:00",
+      "last_seen_utc": "2026-09-21T20:36:30.562698+00:00",
       "confidence": "LIKELY",
       "sources": [
         "鏡報",
