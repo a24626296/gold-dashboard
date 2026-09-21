@@ -967,14 +967,17 @@
         "attac",
         "balli",
         "claim",
+        "cruis",
         "deadl",
         "did",
         "drone",
         "durin",
+        "facil",
         "flami",
         "found",
         "fragm",
         "hits",
+        "houth",
         "hundr",
         "large",
         "launc",
@@ -991,10 +994,13 @@
         "refin",
         "regio",
         "resem",
+        "rise",
+        "riyad",
         "says",
         "spies",
         "strik",
         "targe",
+        "tensi",
         "that",
         "this",
         "today",
@@ -1008,7 +1014,7 @@
         "what",
         "zelen"
       ],
-      "last_seen_utc": "2026-09-21T10:44:18.271174+00:00",
+      "last_seen_utc": "2026-09-21T16:37:24.526614+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "abc news - breaking news, latest news and videos",
@@ -1021,6 +1027,41 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORGt0RWRlLUFoQ2xGYlVjY0x0bS1oU2VYaURwQlVrVEZtX2JYUkxCOGF1NmpmcWZkNmE3REtjd2d0bW1IV2JoTnpXcndfVTE4dVlCWXFfVVVCSjJRQUFWVlMzZS1iUDZkTHRhQ0l5MDEtcHgzSGM3dHpETVhxWWd2NXlvdUlqU2xlN1VtVHlINm5Wb09IWW1lazRvNmRsY1RabmtuTWhRNWpiZk1LSXVR0gG0AUFVX3lxTE5BRzJ5UkhlX1hUYWVGN2pQNVk2SURFZ3NTZy1Bc0MyN0QtcW9ySU15LTE1aU8zRm4yMXhCVHNINndqcjdsWmM5b1ZOd3pqRS1GZTkyUG8yRkktNFZhbjU0LTdBTTFXdlBBT0hNX1VIVEtwNFQtbDdxVGFDbzdNQ0Jhdmp6QXdua3N0R0V4RkFlbkRsRFdsQ1RpSm4wa3NhR3NBcWhldXhZd2lKYldnZHR6ZzZ6NA?oc=5",
       "short_link": "https://tinyurl.com/269qf8ml"
+    },
+    {
+      "title": "Ukraine hits Moscow oil refinery in massive drone and missile attack",
+      "tokens": [
+        "attac",
+        "drone",
+        "hits",
+        "large",
+        "launc",
+        "massi",
+        "missi",
+        "mosco",
+        "oil",
+        "refin",
+        "regio",
+        "ukrai"
+      ],
+      "last_seen_utc": "2026-09-21T16:37:24.526614+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "dailynews.lk",
+        "fxstreet",
+        "kmph.com",
+        "krcg",
+        "kvii",
+        "myfox28columbus.com",
+        "national news desk",
+        "suaragarut.id",
+        "wkrc",
+        "wtov",
+        "wwmt",
+        "wxlv"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY0JNb1lCNTgtT0c0eGw4MEZPSDMtbTNtTXM3RXlSQUZEYjQ0YWUxRnB1X01QajRLLVZnQk9aaWdqaTFnM3JUM1ZRdGdFRFFhNzhvTHVQU0tWWWhOQ0VOUDd6MHBnTmd5aUwtMEo1em8wc3RMUFpEZmZ4a0JyTVhZQk9MNTNaQzNuMzVTT3N0RlR2ME0tZGc2MXZzZXBxSjFEZEtGRnJ3WTJSeWU0R3hWTGd0Mjc?oc=5",
+      "short_link": "https://tinyurl.com/2yco2an3"
     }
   ]
 }
