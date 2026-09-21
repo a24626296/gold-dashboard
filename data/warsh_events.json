@@ -712,17 +712,23 @@
       "title": "Fed move to raise rates was a 'serious' and 'responsible' decision: Warsh",
       "stance": "hawkish",
       "tokens": [
+        "bucks",
+        "conta",
         "decis",
         "fed",
+        "infla",
         "move",
         "raise",
         "rates",
         "respo",
         "serio",
+        "trump",
         "warsh",
-        "was"
+        "was",
+        "中英對照讀",
+        "因華許為抑"
       ],
-      "last_seen_utc": "2026-09-18T09:58:28.528672+00:00",
+      "last_seen_utc": "2026-09-21T23:37:49.562321+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "katu",
@@ -1243,7 +1249,7 @@
         "升息一次夠",
         "華許時代的"
       ],
-      "last_seen_utc": "2026-09-21T20:36:30.562698+00:00",
+      "last_seen_utc": "2026-09-21T23:37:49.562321+00:00",
       "confidence": "LIKELY",
       "sources": [
         "鏡報",
