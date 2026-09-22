@@ -47,47 +47,6 @@
       "short_link": "https://tinyurl.com/23mggdu7"
     },
     {
-      "title": "Chinese entities provided Iran with satellite images of air base in Jordan before deadly missile strike: report",
-      "tokens": [
-        "air",
-        "ameri",
-        "attac",
-        "base",
-        "befor",
-        "beiji",
-        "china",
-        "chine",
-        "deadl",
-        "denia",
-        "entit",
-        "follo",
-        "guide",
-        "image",
-        "iran",
-        "jorda",
-        "kille",
-        "links",
-        "missi",
-        "provi",
-        "repor",
-        "resum",
-        "satel",
-        "strik",
-        "that",
-        "troop",
-        "wsj"
-      ],
-      "last_seen_utc": "2026-09-15T00:50:28.681138+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "dailybeirut.com",
-        "hornbilltv.com",
-        "new york post"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQM2ZrdDl0a0xUX2ZDVnpYS3g2VERTQXZzSDh3TEpoYkhMNEswbmxWRW5CVG9VTE5EeTlqQ25xU1hldVYyU3dDdmZ6Rk0xdjI2dW9pRmxfMEJ0anI3TE11aEg4OTAya3NNODY1VFhKUFFGRENsM3FzU2t4dlA4UFBEaUFLdG1aUzMtMmw1VDBIZjFwVEpTcmIzZ0syMFBUaTBsUzdONEVma3JDODRUN3dmVk1sMVltRmtBcXVmNWJ1N3UzWlByZ0VaTkpBbUZIbllzZkdDT1RDWlg1bEJtNnVaRFV3dw?oc=5",
-      "short_link": "https://tinyurl.com/2y6phqdj"
-    },
-    {
       "title": "Yemen’s Houthis announce drone and missile attack on base in southern Saudi Arabia",
       "tokens": [
         "abha",
@@ -466,7 +425,7 @@
         "west",
         "yemen"
       ],
-      "last_seen_utc": "2026-09-21T23:37:42.316962+00:00",
+      "last_seen_utc": "2026-09-22T01:53:00.368651+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "moneycontrol.com",
@@ -1032,19 +991,27 @@
       "title": "Ukraine hits Moscow oil refinery in massive drone and missile attack",
       "tokens": [
         "attac",
+        "cruis",
         "drone",
+        "facil",
+        "flami",
         "hits",
         "large",
         "launc",
         "massi",
         "missi",
         "mosco",
+        "new",
         "oil",
+        "pelic",
         "refin",
         "regio",
-        "ukrai"
+        "strik",
+        "ukrai",
+        "used",
+        "what"
       ],
-      "last_seen_utc": "2026-09-21T23:37:42.316962+00:00",
+      "last_seen_utc": "2026-09-22T01:53:00.368651+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "dailynews.lk",
