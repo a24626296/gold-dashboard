@@ -331,42 +331,6 @@
       "short_link": "https://tinyurl.com/2y4aj66t"
     },
     {
-      "title": "經濟這麼勇不怕升一碼！Fed 12比0全票升息 華許揭7週變心、打通膨3大關鍵",
-      "stance": "hawkish",
-      "tokens": [
-        "12比0全",
-        "fed",
-        "打通膨3大",
-        "經濟這麼勇",
-        "華許揭7週"
-      ],
-      "last_seen_utc": "2026-09-17T01:42:11.088755+00:00",
-      "confidence": "LIKELY",
-      "sources": [
-        "鏡報",
-        "鏡週刊mirror media"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PS3pJSGNBYnFWQ1NBU2o3cG1TYWVaYU1TeWVrcFBvdzR6RGIwS3l3TmFweDNfaV8yanI5dUdUMjl0aXJSc1gyT3RyWE5EbWQtMVE?oc=5",
-      "short_link": "https://tinyurl.com/29dtzxbr"
-    },
-    {
-      "title": "華許獲川普任命仍頂住壓力升息！　白宮：令人遺憾",
-      "stance": "hawkish",
-      "tokens": [
-        "令人遺憾",
-        "聯準會決定",
-        "華許獲川普"
-      ],
-      "last_seen_utc": "2026-09-17T01:42:11.088755+00:00",
-      "confidence": "LIKELY",
-      "sources": [
-        "ettoday新聞雲",
-        "自由時報"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VTHZuR2g1ZnBXUG1JcE94T241ZWtZSEJLTUNNMUxiTXhmWktKMDNsOGpSNW4tclJBbHMxV3FFTXBHa0VobjczbWZ3U19TeW9pbXppd0p3MEwyUEYyU0HSAUtBVV95cUxQaTlHN0I5dTdwbG1pZFFpVGkzZ0w3aFBYLVZLOU5tOWd4Mk5aU0pYdENNQ21NYzBobUFFLVBUYkZQVFZib05JbDBsbjg?oc=5",
-      "short_link": "https://tinyurl.com/2dj2j8ew"
-    },
-    {
       "title": "What Kevin Warsh said about the Fed’s first rate hike since 2023",
       "stance": "hawkish",
       "tokens": [
@@ -578,7 +542,7 @@
         "warsh",
         "will"
       ],
-      "last_seen_utc": "2026-09-24T00:43:52.828506+00:00",
+      "last_seen_utc": "2026-09-24T05:28:52.294850+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "barron's",
