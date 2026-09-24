@@ -234,7 +234,7 @@
         "west",
         "yemen"
       ],
-      "last_seen_utc": "2026-09-23T22:28:02.146936+00:00",
+      "last_seen_utc": "2026-09-24T00:43:45.546510+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "moneycontrol.com",
@@ -271,7 +271,7 @@
         "wsj",
         "zone"
       ],
-      "last_seen_utc": "2026-09-23T22:28:02.146936+00:00",
+      "last_seen_utc": "2026-09-24T00:43:45.546510+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
@@ -486,6 +486,10 @@
         "balli",
         "capit",
         "comes",
+        "crews",
+        "dispa",
+        "distr",
+        "emerg",
         "explo",
         "heard",
         "hit",
@@ -498,10 +502,11 @@
         "reute",
         "says",
         "strik",
+        "two",
         "ukrai",
         "under"
       ],
-      "last_seen_utc": "2026-09-20T01:06:11.127144+00:00",
+      "last_seen_utc": "2026-09-24T00:43:45.546510+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "apa.az",
@@ -856,7 +861,9 @@
         "dies",
         "due",
         "evacu",
+        "head",
         "india",
+        "injur",
         "kille",
         "membe",
         "merch",
@@ -868,10 +875,11 @@
         "sarba",
         "seafa",
         "sonow",
+        "succu",
         "union",
         "vesse"
       ],
-      "last_seen_utc": "2026-09-23T22:28:02.146936+00:00",
+      "last_seen_utc": "2026-09-24T00:43:45.546510+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "ani news",
