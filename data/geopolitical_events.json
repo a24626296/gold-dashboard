@@ -362,7 +362,7 @@
         "ukrai",
         "under"
       ],
-      "last_seen_utc": "2026-09-24T19:22:00.372000+00:00",
+      "last_seen_utc": "2026-09-24T22:35:57.396503+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "apa.az",
@@ -780,7 +780,7 @@
         "was",
         "worke"
       ],
-      "last_seen_utc": "2026-09-24T19:22:00.372000+00:00",
+      "last_seen_utc": "2026-09-24T22:35:57.396503+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "ukrinform",
@@ -811,7 +811,7 @@
         "toll",
         "warni"
       ],
-      "last_seen_utc": "2026-09-24T19:22:00.372000+00:00",
+      "last_seen_utc": "2026-09-24T22:35:57.396503+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "антикор",
@@ -824,19 +824,33 @@
     {
       "title": "Yemen’s Houthis claim missile, drone attack on Saudi military sites in Jazan",
       "tokens": [
+        "arabi",
         "attac",
         "claim",
         "drone",
+        "fresh",
+        "globa",
         "houth",
         "jazan",
+        "jerus",
         "mass",
         "milit",
         "missi",
+        "new",
+        "oil",
+        "post",
+        "price",
+        "repor",
+        "riyad",
         "saudi",
         "sites",
+        "strik",
+        "surge",
+        "thwar",
+        "yanbu",
         "yemen"
       ],
-      "last_seen_utc": "2026-09-24T19:22:00.372000+00:00",
+      "last_seen_utc": "2026-09-24T22:35:57.396503+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
