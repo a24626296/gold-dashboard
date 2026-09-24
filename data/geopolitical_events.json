@@ -362,7 +362,7 @@
         "ukrai",
         "under"
       ],
-      "last_seen_utc": "2026-09-24T15:20:30.065185+00:00",
+      "last_seen_utc": "2026-09-24T19:22:00.372000+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "apa.az",
@@ -780,7 +780,7 @@
         "was",
         "worke"
       ],
-      "last_seen_utc": "2026-09-24T15:20:30.065185+00:00",
+      "last_seen_utc": "2026-09-24T19:22:00.372000+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "ukrinform",
@@ -811,7 +811,7 @@
         "toll",
         "warni"
       ],
-      "last_seen_utc": "2026-09-24T15:20:30.065185+00:00",
+      "last_seen_utc": "2026-09-24T19:22:00.372000+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "антикор",
@@ -820,6 +820,31 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc1IyMVh1Mkh6VkFVVXRnQ2tjQjRKcmtPTG5qSk9NWExfMXg0enVpUmNLLXFBZjZxMXJ6RzZUbk5NdnphWk1lR09kanNGTmdDVGg0QzdJbThUTUtzSFllOWtwTThibVRrTTBIOXlBa3FIVmlWQV9TZTdNVVJ0SjVabHJ5eHVCSzI3cV9XWUJjOU1ObHNnWjVEYTRxSkZIMURpM0RYS1B4Y24ySElWcEV6WFJZVQ?oc=5",
       "short_link": "https://tinyurl.com/2ytp7qe5"
+    },
+    {
+      "title": "Yemen’s Houthis claim missile, drone attack on Saudi military sites in Jazan",
+      "tokens": [
+        "attac",
+        "claim",
+        "drone",
+        "houth",
+        "jazan",
+        "mass",
+        "milit",
+        "missi",
+        "saudi",
+        "sites",
+        "yemen"
+      ],
+      "last_seen_utc": "2026-09-24T19:22:00.372000+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "anadolu ajansı",
+        "news.az",
+        "türkiye today"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU25zN2FFaVg4cGJ3NE1FSS1HTE5lejhYS0hHZGhSeEhFTU1rWTU2dXdvYm9ZNmdNSFhQMDJRR0IxOXJieW5QR0gzUnFERG5MOGIyY1JqV3N0OTZlRWExYkdwV3hlVWR5NWd5YWNhM2hGVjR2NVdxblBVZEFSZ1lESkNlSTRZaXZTM3pfUW9uVEFreUhWaHZiR3RMZE04cTB2YnJ1ZkJGYURjSWw3clFMbzdTeEJKUVlVb1JrWg?oc=5",
+      "short_link": "https://tinyurl.com/24f2a435"
     }
   ]
 }
