@@ -96,55 +96,6 @@
       "short_link": "https://tinyurl.com/227e7wyc"
     },
     {
-      "title": "13 injured in Houthi missile and drone attacks on 3 Saudi cities​​​​​​​",
-      "tokens": [
-        "arabi",
-        "attac",
-        "bases",
-        "blame",
-        "citie",
-        "civil",
-        "devas",
-        "drone",
-        "firm",
-        "gaia",
-        "hit",
-        "houth",
-        "hurt",
-        "inclu",
-        "injur",
-        "iran",
-        "leave",
-        "mid",
-        "missi",
-        "oman",
-        "outle",
-        "respo",
-        "retal",
-        "saudi",
-        "stron",
-        "taif",
-        "three",
-        "two",
-        "under",
-        "warns",
-        "who"
-      ],
-      "last_seen_utc": "2026-09-17T01:42:03.286888+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "daily pakistan",
-        "kashmir life",
-        "mid-day",
-        "muslim network tv",
-        "rtv news",
-        "the express tribune",
-        "yeni safak english"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUVc4d0pUNzNWN2YzUkRoLWlPRkltQVhQRXpNdC1xenBDanp4RGtwUUYweFVWUVYwdzFFOHF2eUoweUw3bHlrOHIwbTloek01U0JUdnE5Y1Qtai1FOEF6aWM4VzdXZWdVMllJQXY3YTZVR3RZRlBQTkctd1ZxU1dsWlM4b054blBtdkx4eU1pLWt3VkFwYmN1MkxWZXF5bkxiVm84?oc=5",
-      "short_link": "https://tinyurl.com/24vzonat"
-    },
-    {
       "title": "New photos show widespread damage at U.S. positions caused by Iranian missile, drone attacks",
       "tokens": [
         "acros",
@@ -234,7 +185,7 @@
         "west",
         "yemen"
       ],
-      "last_seen_utc": "2026-09-24T00:43:45.546510+00:00",
+      "last_seen_utc": "2026-09-24T05:28:44.696140+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "moneycontrol.com",
@@ -271,7 +222,7 @@
         "wsj",
         "zone"
       ],
-      "last_seen_utc": "2026-09-24T00:43:45.546510+00:00",
+      "last_seen_utc": "2026-09-24T05:28:44.696140+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
@@ -506,7 +457,7 @@
         "ukrai",
         "under"
       ],
-      "last_seen_utc": "2026-09-24T00:43:45.546510+00:00",
+      "last_seen_utc": "2026-09-24T05:28:44.696140+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "apa.az",
@@ -879,7 +830,7 @@
         "union",
         "vesse"
       ],
-      "last_seen_utc": "2026-09-24T00:43:45.546510+00:00",
+      "last_seen_utc": "2026-09-24T05:28:44.696140+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "ani news",
@@ -890,6 +841,41 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeklnczcyV0FQaU1MUUYtNVo1bTVTQ3NLUlFHRnd6UVBkVWtMaVM5VFhZVXFHeDNFNW9tdWk5Tkk0dFZmcE5BT1prR0RwNFpNdS1FMWZhOHZlLVZNMUVMWC11bXpzcVV4RnpwdGxuemJING04aXdyUlNhaUVJVl91bjhhRkRrQmxYXzBuM3pHMjZnMmRtNVdzNnU3WTVlc2l5YVpQZTQxQmQ2UdIBrgFBVV95cUxNc191T0VOV1VONzVrbzg2cjd6U2k4aTlNVVRXZFBHVGozbHR3TDhCeUs0SGgwaDBRcWJ3LVMxNXBnejNwWG9iQU1jNXpnQ1FCQkVSc3pMMmxZV3lkWVh2RnZWYmk2SXMxUER6VGlWSGU0RmJTaW1TX0UzLVFlY21JMlVBUlRweDNCM3dyMjBWSnpKZEhXa1lwNjlYRWVENHQzTXZLX3ZmME1nR0h5MHc?oc=5",
       "short_link": "https://tinyurl.com/2yvu7zxk"
+    },
+    {
+      "title": "Massive missile attack on Kyiv: 2 killed, at least 8 injured, fires and damage reported in three districts",
+      "tokens": [
+        "attac",
+        "balli",
+        "damag",
+        "distr",
+        "eight",
+        "fires",
+        "injur",
+        "kille",
+        "kills",
+        "kyiv",
+        "least",
+        "mass",
+        "massi",
+        "missi",
+        "one",
+        "perso",
+        "repor",
+        "three",
+        "two",
+        "was"
+      ],
+      "last_seen_utc": "2026-09-24T05:28:44.696140+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "ukrinform",
+        "корабелов.інфо",
+        "межа. новини україни.",
+        "українські національні новини (унн)"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdEtoTURNNzJPVjVRQlc4dW1wQXBGVldLbm9LdVNyOWY0U2Qwd2pLVlhVaGsyRVo3TEpBbE5rcnZ1SUR0dUF4YkxoZjB6Q0ZUTFZ5Z3hFYlQ3d0xSSE9RcGozWE9mMmxLaHkyc0ZuMGRtRjEtTVFxSHgzQ0NzblRySjJoZDRHYS1vUTZ4bGkyb0kzbU5rQXFHbEh1WUlOUFRoTDRhSHhtUllaQkJHbTVSZnExd3Fjc1Q5aHg2NThoRzYwX2ZpN2NJNEZYMzgwbTZ2RjYwNHQ4RmJuQnprMXk2VlNPdUZFQWJ4YkpMMktR0gHuAUFVX3lxTE10S2hNRE03Mk9WNVFCVzh1bXBBcEZWV0tub0t1U3I5ZjRTZDB3aktWWFVoazJFWjdMSkFsTmtydnVJRHR1QXhiTGhmMHpDRlRMVnlneEViVDd3TFJIT1FwajNYT2YybEtoeTJzRm4wZG1GMS1NUXFIeDNDQ3NuVHJKMmhkNEdhLW9RNnhsaTJvSTNtTmtBcUdsSHVZSU5QVGhMNGFIeG1SWVpCQkdtNVJmcTF3cWNzVDloeDY1OGhHNjBfZmk3Y0k0RlgzODBtNnZGNjA0dDhGYm5CemsxeTZWU091RkVBYnhiSkwyS1E?oc=5",
+      "short_link": "https://tinyurl.com/225osmdd"
     }
   ]
 }
