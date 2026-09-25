@@ -1,52 +1,6 @@
 {
   "events": [
     {
-      "title": "Iran launches missile and drone attacks across Gulf as Israel strikes Tehran infrastructure | Akashvani News",
-      "tokens": [
-        "acros",
-        "again",
-        "akash",
-        "attac",
-        "back",
-        "bahra",
-        "balli",
-        "bases",
-        "confl",
-        "drone",
-        "flare",
-        "fresh",
-        "guard",
-        "gulf",
-        "infra",
-        "inter",
-        "iran",
-        "israe",
-        "jorda",
-        "large",
-        "launc",
-        "milit",
-        "missi",
-        "new",
-        "news",
-        "opera",
-        "respo",
-        "retal",
-        "revol",
-        "strik",
-        "tehra"
-      ],
-      "last_seen_utc": "2026-09-18T19:57:31.649414+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "livemint",
-        "news on air",
-        "news9live",
-        "protothema english"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYmFtdmtoamYyU2taWm5uSUp0LWxRR3p3bGszYjhPT0tnNmoweWI3eWtjcnlmRzRqTmtJdWRYTU55Ym5zY0xkTVJOdlRSUVduWjVSSGRndlJwSThXSU9qOW50ejUxWTNjRUZPbkpxZHZBd1RoVUV0V2gtSmZycEZTeFlfejZfOEtNbjYxUF9VYnpHTURxZ3E2dkU3Z1FQOUtpZFM2MVdRdnNGc25RajFhdzlnQlZzbVh4?oc=5",
-      "short_link": "https://tinyurl.com/23mggdu7"
-    },
-    {
       "title": "Saudi-Houthi conflict escalates: Rebels claim missile, drone attacks on Aramco facility and air base After...",
       "tokens": [
         "air",
@@ -821,7 +775,7 @@
         "yanbu",
         "yemen"
       ],
-      "last_seen_utc": "2026-09-25T19:33:27.614946+00:00",
+      "last_seen_utc": "2026-09-25T22:49:04.682022+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
@@ -857,7 +811,7 @@
         "strik",
         "ukrai"
       ],
-      "last_seen_utc": "2026-09-25T19:33:27.614946+00:00",
+      "last_seen_utc": "2026-09-25T22:49:04.682022+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "benzinga.com",
