@@ -178,25 +178,6 @@
       "short_link": "https://tinyurl.com/2bc58quf"
     },
     {
-      "title": "Fed升息機率近90%也不算穩！華許若按兵不動 恐引爆美股賣壓",
-      "stance": "hawkish",
-      "tokens": [
-        "fed升息",
-        "也不算穩",
-        "恐引爆美股",
-        "股市爆料同",
-        "華許若按兵"
-      ],
-      "last_seen_utc": "2026-09-18T14:09:14.154705+00:00",
-      "confidence": "LIKELY",
-      "sources": [
-        "cmoney",
-        "news.cnyes.com"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpZ19FSDJkbEtyemR3cDQwalBVZ0NMZThaY0RxOVg1N0xqSjRjOGFnbVB6Qm9SeklzMTNOdHR5MXpXeDFKdDNwSnNxVmt2ZWs?oc=5",
-      "short_link": "https://tinyurl.com/2avezjgv"
-    },
-    {
       "title": "Fed move to raise rates was a 'serious' and 'responsible' decision: Warsh",
       "stance": "hawkish",
       "tokens": [
@@ -751,7 +732,7 @@
         "warsh",
         "yield"
       ],
-      "last_seen_utc": "2026-09-25T10:34:09.961953+00:00",
+      "last_seen_utc": "2026-09-25T15:34:04.836186+00:00",
       "confidence": "LIKELY",
       "sources": [
         "fortune",
@@ -759,6 +740,53 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM1U2eFFXN3ZGNTFENnJoLVFXeGNrZWlZY2dGampJMU5abmx2MnhKeFVpZXctaGs3clhZVlhQdS1QT2NpOVR6azl6VnJMZTVqUE9VMjV0eFJZbUNGQm84VkRiMlZpUGJTaUE1ekVGdDJZTmNrYkt5S0l6TG4xM19ZNlRpUkJ2eF9FNUctSnpCbE94TldtN1IxQ2xpMU9mT0tVNWNEbmlyYUJsUllpRVgyMlAweDdmN052MTJad05aVUFSWWJBNHloa2t2eWw2c3hDZEhQenhoVmhYeHVIWUE?oc=5",
       "short_link": "https://tinyurl.com/23tyue5p"
+    },
+    {
+      "title": "Kevin Warsh Fed reform: rate hike done, balance sheet cuts stalled",
+      "stance": "hawkish",
+      "tokens": [
+        "balan",
+        "chair",
+        "cuts",
+        "divid",
+        "done",
+        "faces",
+        "fed",
+        "first",
+        "hasse",
+        "hike",
+        "hole",
+        "infla",
+        "jacks",
+        "kevin",
+        "leads",
+        "miran",
+        "now",
+        "parti",
+        "quest",
+        "rate",
+        "reall",
+        "refor",
+        "says",
+        "sheet",
+        "stall",
+        "steph",
+        "stran",
+        "test",
+        "unusu",
+        "warsh",
+        "would"
+      ],
+      "last_seen_utc": "2026-09-25T15:34:04.836186+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "bloomingbit",
+        "operativ məlumat mərkəzi",
+        "qz.com",
+        "stocktwits"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSlk4VE9EbXhCOU1GbW11REstNTNSV1M5VENJMHBlV2QxOVlkQ0dHMDljZTI2QXpYRlF2ZzBabVZQRU40LWlqTk1MWHlORHQ2WHlEXzhVMUI0VlBoMVNqcHVIWDQxeG1RM1pnS0JPR29tWGdIWXhFZS1DRDYxRUhuNw?oc=5",
+      "short_link": "https://tinyurl.com/276skgeg"
     }
   ]
 }
