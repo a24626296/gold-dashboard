@@ -475,7 +475,7 @@
         "warsh",
         "will"
       ],
-      "last_seen_utc": "2026-09-25T00:49:46.607320+00:00",
+      "last_seen_utc": "2026-09-25T05:41:03.261898+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "barron's",
@@ -729,6 +729,36 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91bF91cEpkTThKYmVjOEdYYUUtMXhxQnp6WnAyR003UnN3amo2OHI4bWl6eU9fSzBuS3Z2OG9CVy1BU3NZWndfY1VueHhTQnZDcEE?oc=5",
       "short_link": "https://tinyurl.com/29jfnxmj"
+    },
+    {
+      "title": "Kevin Warsh might have to get a lot less popular on Capitol Hill as bond yields soar and rate expectations turn hawkish",
+      "stance": "hawkish",
+      "tokens": [
+        "bond",
+        "capit",
+        "expec",
+        "get",
+        "hawki",
+        "hill",
+        "kevin",
+        "less",
+        "lot",
+        "might",
+        "popul",
+        "rate",
+        "soar",
+        "turn",
+        "warsh",
+        "yield"
+      ],
+      "last_seen_utc": "2026-09-25T05:41:03.261898+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "fortune",
+        "inkl"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM1U2eFFXN3ZGNTFENnJoLVFXeGNrZWlZY2dGampJMU5abmx2MnhKeFVpZXctaGs3clhZVlhQdS1QT2NpOVR6azl6VnJMZTVqUE9VMjV0eFJZbUNGQm84VkRiMlZpUGJTaUE1ekVGdDJZTmNrYkt5S0l6TG4xM19ZNlRpUkJ2eF9FNUctSnpCbE94TldtN1IxQ2xpMU9mT0tVNWNEbmlyYUJsUllpRVgyMlAweDdmN052MTJad05aVUFSWWJBNHloa2t2eWw2c3hDZEhQenhoVmhYeHVIWUE?oc=5",
+      "short_link": "https://tinyurl.com/23tyue5p"
     }
   ]
 }
