@@ -1142,5 +1142,38 @@
       "geo_score": 40,
       "warsh_score": -25
     }
+  },
+  {
+    "timestamp": "2026-09-25T00:10:34.850745+00:00",
+    "gold_price": 4301.2001953125,
+    "momentum_score": 25,
+    "alert_level": "none",
+    "reasons": [
+      "VIX 下降 -11.52% (+10)",
+      "地緣政治衝擊事件(24小時內): Kyiv comes under missile attack, explosions heard across Ukr... (+40)",
+      "華許鷹派發言(24小時內): Warsh under pressure as Fed considers rate hike... (-25)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 101.2959976196289,
+        "prev_5d": 100.30999755859375,
+        "change_pct": 0.9829529309470946
+      },
+      "vix": {
+        "latest": 15.670000076293945,
+        "prev_5d": 17.709999084472656,
+        "change_pct": -11.518910861871765
+      },
+      "gld": null,
+      "cot": {
+        "report_date": "2026-09-15T00:00:00.000",
+        "net_long": 133116,
+        "prev_net_long": 134972,
+        "change_pct": -1.3751000207450434
+      },
+      "real_rate_5d_change": 0.20999999999999996,
+      "geo_score": 40,
+      "warsh_score": -25
+    }
   }
 ]
