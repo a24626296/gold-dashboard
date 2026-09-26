@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "title": "Fed升息機率飆上94.5% 川普.華許緊張升溫- 國際",
-      "stance": "hawkish",
-      "tokens": [
-        "fed升1",
-        "fed升息",
-        "股市爆料同",
-        "華許出手抗",
-        "華許放鷹道",
-        "華許為何仍",
-        "華許緊張升",
-        "華許說錯一"
-      ],
-      "last_seen_utc": "2026-09-19T00:28:01.527613+00:00",
-      "confidence": "LIKELY",
-      "sources": [
-        "自由財經",
-        "華視新聞網"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MWHljVGxYMTFYYWlmY0lWeFlBYWRqMkkwMG1ud3k3Nk1lM3Y3SXJvODJtRVk1OWx5bXRXM2lUa1FFb2I3SWo5M2JOd3B4V2FkR0FWdHhIaFZlRWdLZVhaYThvWHJHcjI4NzRqNG9sUzRXSmZMZDl6eg?oc=5",
-      "short_link": "https://tinyurl.com/2ykcwyw9"
-    },
-    {
       "title": "Traders are betting Trump may soon turn on Fed chair Kevin Warsh as interest-rate hikes loom",
       "stance": "hawkish",
       "tokens": [
@@ -297,26 +275,6 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XdHloVHNnX0FHdG1IS2cxVmJhdXh1VVlXQ0dkUTRpOGtQb21vTWt5MHlUeEs0MFVXRVZISjZRYmxyWnBnWUQ5aXFuTWV0dUVNRHVCUmpPdjVxZWU4Z1Aw?oc=5",
       "short_link": "https://tinyurl.com/22gqkufu"
-    },
-    {
-      "title": "Fed未啟長期緊縮循環？華許緊盯通膨、稱仍寬鬆- 新聞",
-      "stance": "dovish",
-      "tokens": [
-        "fed",
-        "fed未啟",
-        "未啟長期緊",
-        "稱仍寬鬆",
-        "股市爆料同",
-        "華許緊盯通"
-      ],
-      "last_seen_utc": "2026-09-19T00:28:01.527613+00:00",
-      "confidence": "LIKELY",
-      "sources": [
-        "cmoney",
-        "moneydj.com"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcC12WjlySktDN3pjNkNDcW51VzZzbDhyRUpXLUVqVm4wSS1laWgtalVva1RxVnBwVmV2aWlmSlVONGx0cXZIRUxHaHg3TUNzWlM5NW5YaHhDMDIzWmpVaklmeVpJbENjRU9jT000QUN4TjB4Sl9CV1NVaEFyYzMtSF81ZHh4VHlxdnlZVldJd3lfUQ?oc=5",
-      "short_link": "https://tinyurl.com/28asg274"
     },
     {
       "title": "不甩川普施壓！美聯準會宣布升息1碼　主席華許硬起來：通膨太高了",
@@ -695,7 +653,7 @@
         "warsh",
         "yield"
       ],
-      "last_seen_utc": "2026-09-25T22:49:12.041163+00:00",
+      "last_seen_utc": "2026-09-26T01:06:13.633170+00:00",
       "confidence": "LIKELY",
       "sources": [
         "fortune",
@@ -746,7 +704,7 @@
         "warsh",
         "would"
       ],
-      "last_seen_utc": "2026-09-25T22:49:12.041163+00:00",
+      "last_seen_utc": "2026-09-26T01:06:13.633170+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "bloomingbit",
