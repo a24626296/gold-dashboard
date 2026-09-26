@@ -94,7 +94,7 @@
         "unani",
         "warsh"
       ],
-      "last_seen_utc": "2026-09-26T18:36:08.589454+00:00",
+      "last_seen_utc": "2026-09-26T21:34:27.627631+00:00",
       "confidence": "LIKELY",
       "sources": [
         "the block",
@@ -201,24 +201,6 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIY09aNEcycEpHbWFpQndDaXJvMTNHYTJxSi1UUmFvSXZtRlc4UjRwUDJWcDFhQ24xT0Z2TVl6SjJTTzRQZjBOZ0xKZFJSRnpu?oc=5",
       "short_link": "https://tinyurl.com/28xp99cc"
-    },
-    {
-      "title": "美聯準會升息1碼 華許會後記者會偏鷹 年底還要再升息對抗通膨",
-      "stance": "hawkish",
-      "tokens": [
-        "年底還要再",
-        "美聯準會升",
-        "華許會後記",
-        "討論牆"
-      ],
-      "last_seen_utc": "2026-09-19T18:44:19.459397+00:00",
-      "confidence": "LIKELY",
-      "sources": [
-        "line today",
-        "理財周刊"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rQ3dMVm9JYTZ3OUdCU1JqNWNLWFJvVTBlSVFZUW9XS3lDb2g1N3ktVDQ1a05RMkFtOTFUS0dsZGFHcmFMRldDN3BYdXMtdWFPeUFMQ2xmbWFGWWNROXMzUjNQNkd0VGhUTnZ1bEhjMA?oc=5",
-      "short_link": "https://tinyurl.com/2ac9vrsm"
     },
     {
       "title": "川普顧問納瓦羅痛批聯準會主席華許：升息是「愚蠢決策」",
@@ -430,7 +412,7 @@
         "warsh",
         "would"
       ],
-      "last_seen_utc": "2026-09-26T18:36:08.589454+00:00",
+      "last_seen_utc": "2026-09-26T21:34:27.627631+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "bloomingbit",
