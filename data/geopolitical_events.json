@@ -81,7 +81,7 @@
         "wsj",
         "zone"
       ],
-      "last_seen_utc": "2026-09-26T06:08:52.391224+00:00",
+      "last_seen_utc": "2026-09-26T11:21:06.311687+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
@@ -778,7 +778,7 @@
         "strik",
         "ukrai"
       ],
-      "last_seen_utc": "2026-09-26T06:08:52.391224+00:00",
+      "last_seen_utc": "2026-09-26T11:21:06.311687+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "benzinga.com",
@@ -797,7 +797,7 @@
         "敵基地攻撃",
         "長射程ミサ"
       ],
-      "last_seen_utc": "2026-09-26T06:08:52.391224+00:00",
+      "last_seen_utc": "2026-09-26T11:21:06.311687+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "yahoo!ニュース",
@@ -808,6 +808,38 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSFF6ejFVWDFPVnc4WXRycEZLb1NJTUFaRVdIRmVhUDVCX1RScUU4SWFqaWJwN0w2TXJ0bkZwa05RejVLYzRreDZydlZDN2lzRWlXaHZOSTJxY191cGlQZ0JWcGNTYm5KWVhfc1VuWlc4S1pCSHgwRk5SbkpTTUFXOHRnRVBlX2g0dEV2RFln?oc=5",
       "short_link": "https://tinyurl.com/23sc3ans"
+    },
+    {
+      "title": "Gulf Cooperation Council condemns Houthi missile, drone attacks on Saudi Arabia",
+      "tokens": [
+        "again",
+        "arabi",
+        "attac",
+        "coali",
+        "conde",
+        "coope",
+        "counc",
+        "drone",
+        "expan",
+        "frust",
+        "gcc",
+        "gulf",
+        "houth",
+        "missi",
+        "saudi",
+        "succe",
+        "thwar"
+      ],
+      "last_seen_utc": "2026-09-26T11:21:06.311687+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "democrata.es",
+        "middle east monitor",
+        "operativ məlumat mərkəzi",
+        "samaa tv"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdG52TFdJaTBVZ1hKTnl2aVcxWUF3RW9oVk5zWHkzOFlhWmg3TGlnR2FyMjFfLUFnQ2J5eWVuelNNaF9DWUUwcmgxLTZja3RRaW0xd01WS204U3hxbXdmaXJBOXlsbkllOUVEcnhDRWl4ZnhMYzUwdU1MazEzZFplWmdsc1pxZV9mQ2lvcUZMb3VPM3JjcEprZnF1ZlRHY1E0LWVhX000a0JyRzJwdE9LVWFmSG9BSnNsc2hwdnlia9IBxAFBVV95cUxPbno0NTE5YW51bjhTOUQxcVdES0lEcnBlSWM0cFUwTVlEUktvbURvUGFSNTgyc0JiWU5xLTFVckgtVzIwTHg4VmljWGF3bU1zSWltSUllTGplQ1hOUEZkY3ZNbmRWdUdhc3dKSDFqQ2VPdGhlVWVWM3p5ckZybnBCRVhRdTljODBtVUpvV0w3VlR4TTI0WV9LdlpXV1BYcExqSFBySkhYQjB5M0R2YnBVOHVWOGlzcjdtQ3IxYWxXOGVqOVNm?oc=5",
+      "short_link": "https://tinyurl.com/29q754ox"
     }
   ]
 }
