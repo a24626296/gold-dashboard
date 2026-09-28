@@ -81,7 +81,7 @@
         "wsj",
         "zone"
       ],
-      "last_seen_utc": "2026-09-27T23:58:42.315226+00:00",
+      "last_seen_utc": "2026-09-28T04:13:18.738521+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
@@ -700,6 +700,34 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdG52TFdJaTBVZ1hKTnl2aVcxWUF3RW9oVk5zWHkzOFlhWmg3TGlnR2FyMjFfLUFnQ2J5eWVuelNNaF9DWUUwcmgxLTZja3RRaW0xd01WS204U3hxbXdmaXJBOXlsbkllOUVEcnhDRWl4ZnhMYzUwdU1MazEzZFplWmdsc1pxZV9mQ2lvcUZMb3VPM3JjcEprZnF1ZlRHY1E0LWVhX000a0JyRzJwdE9LVWFmSG9BSnNsc2hwdnlia9IBxAFBVV95cUxPbno0NTE5YW51bjhTOUQxcVdES0lEcnBlSWM0cFUwTVlEUktvbURvUGFSNTgyc0JiWU5xLTFVckgtVzIwTHg4VmljWGF3bU1zSWltSUllTGplQ1hOUEZkY3ZNbmRWdUdhc3dKSDFqQ2VPdGhlVWVWM3p5ckZybnBCRVhRdTljODBtVUpvV0w3VlR4TTI0WV9LdlpXV1BYcExqSFBySkhYQjB5M0R2YnBVOHVWOGlzcjdtQ3IxYWxXOGVqOVNm?oc=5",
       "short_link": "https://tinyurl.com/29q754ox"
+    },
+    {
+      "title": "8 US Marines injured in Iranian missile attack in Strait of Hormuz: Report",
+      "tokens": [
+        "attac",
+        "cruis",
+        "eight",
+        "hindu",
+        "hormu",
+        "injur",
+        "irani",
+        "marin",
+        "missi",
+        "repor",
+        "strai",
+        "strik",
+        "times",
+        "vesse"
+      ],
+      "last_seen_utc": "2026-09-28T04:13:18.738521+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "anadolu ajansı",
+        "hindustan times",
+        "ssbcrack"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd2FueFRqdlF5RkVVdmVlbGNMLTJia1BhZG16N2xxalo1WFFWRTgwd0REaU96dHNTVTZxZzJnQV9hSlVXb3BEOU1FU09lZXJLMXpVM2otNXNTazhFUEdPZGNlRXBvTG9wS3JrOWtYODlDR3MyejNfekV4X1FnczdKaWVvQ3BMck4ydmhKVjJjbnUzbWEyTGtzcUJieWltRTNsQmRRSUo0d1haNVBKM00zTA?oc=5",
+      "short_link": "https://tinyurl.com/2dbhqcj9"
     }
   ]
 }
