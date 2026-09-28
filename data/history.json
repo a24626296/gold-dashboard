@@ -1175,5 +1175,37 @@
       "geo_score": 40,
       "warsh_score": -25
     }
+  },
+  {
+    "timestamp": "2026-09-28T00:09:41.054825+00:00",
+    "gold_price": 4295.2998046875,
+    "momentum_score": 65,
+    "alert_level": "alert",
+    "reasons": [
+      "地緣政治衝擊事件(24小時內): US burns through dozens of missile interceptors in single Ir... (+40)",
+      "華許鴿派發言(24小時內): Fed Rate Increase Puts Borrowers on Notice as Warsh Takes Ha... (+25)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 100.97000122070312,
+        "prev_5d": 100.22000122070312,
+        "change_pct": 0.7483536129164079
+      },
+      "vix": {
+        "latest": 14.869999885559082,
+        "prev_5d": 14.8100004196167,
+        "change_pct": 0.4051280502525176
+      },
+      "gld": null,
+      "cot": {
+        "report_date": "2026-09-22T00:00:00.000",
+        "net_long": 127389,
+        "prev_net_long": 133116,
+        "change_pct": -4.302262688181736
+      },
+      "real_rate_5d_change": 0.25,
+      "geo_score": 40,
+      "warsh_score": 25
+    }
   }
 ]
