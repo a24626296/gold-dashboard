@@ -1,36 +1,6 @@
 {
   "events": [
     {
-      "title": "Fed move to raise rates was a 'serious' and 'responsible' decision: Warsh",
-      "stance": "hawkish",
-      "tokens": [
-        "bucks",
-        "conta",
-        "decis",
-        "fed",
-        "infla",
-        "move",
-        "raise",
-        "rates",
-        "respo",
-        "serio",
-        "trump",
-        "warsh",
-        "was",
-        "中英對照讀",
-        "因華許為抑"
-      ],
-      "last_seen_utc": "2026-09-23T19:45:11.804975+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "katu",
-        "ktul",
-        "wbff"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYjJTU1FxR2xSaVNOclIwdlFQc1RLQkxhSW80SzhWSGNkTkpkY3BZUW5VdEYwbWw0WGNxbHE5YUxPdHNzeE1STV80RVVfdTUtRzVYQ3dHY3NZU0dMNGlTNUMwVzh3bktwcE05VUItY2N2YTlqMUYyamc4a2RZdG1pb1JPeVBsbFBRbE5ER2ZjV3d1cjF2MXBMaUJmT0RfMVg5d1otY3Mzc1JVZWMtV1JnUzVmODVyNEdwRk95Q01CM2x3WWxsS01oeTl1bkJzNFE?oc=5",
-      "short_link": "https://tinyurl.com/286hzx5l"
-    },
-    {
       "title": "Fed Rate Increase Puts Borrowers on Notice as Warsh Takes Hard Line on Inflation | The 10-Point for September 17",
       "stance": "dovish",
       "tokens": [
@@ -120,22 +90,6 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc3JLU293QUd6VGRYTDNKTUMzWXgwR1RmTmIxU3NmbW0xUG5mU21YR1FkcWhyd0VTR1JRVEppSHJFVjJyUDdybnlPZzZzWVRjeTI1ZXh1cHRCNTh2Uk16Zzh4dVF6OUVFOTVwWGI1SGtKakVueUdUay1oMkN0YXBSOFZR0gGHAUFVX3lxTFBfMHdxZi1FaDRwcURzaU5EM2RJLXdkTnUzR0hhN2NSZU9XazZGV2dzZ1ZMQURBQmRtdkZJNlJuNjFiY2JETXBBbkZERHd4bkVaa0tzWENQLWduWk9TS0VCUEZoUHlyUmhvc00wS0RNRUVaODM0b3ZKVmZ2aUV3OHhYS3gxYkVRdw?oc=5",
       "short_link": "https://tinyurl.com/248fdj4c"
-    },
-    {
-      "title": "升息一次夠嗎？華許時代的5道難題",
-      "stance": "hawkish",
-      "tokens": [
-        "升息一次夠",
-        "華許時代的"
-      ],
-      "last_seen_utc": "2026-09-23T19:45:11.804975+00:00",
-      "confidence": "LIKELY",
-      "sources": [
-        "鏡報",
-        "鏡新聞"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91bF91cEpkTThKYmVjOEdYYUUtMXhxQnp6WnAyR003UnN3amo2OHI4bWl6eU9fSzBuS3Z2OG9CVy1BU3NZWndfY1VueHhTQnZDcEE?oc=5",
-      "short_link": "https://tinyurl.com/29jfnxmj"
     },
     {
       "title": "Kevin Warsh might have to get a lot less popular on Capitol Hill as bond yields soar and rate expectations turn hawkish",
@@ -229,7 +183,7 @@
         "財經週報",
         "黑天鵝與鷹"
       ],
-      "last_seen_utc": "2026-09-30T16:12:39.151409+00:00",
+      "last_seen_utc": "2026-09-30T20:49:53.104874+00:00",
       "confidence": "LIKELY",
       "sources": [
         "聚財網",
