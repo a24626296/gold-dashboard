@@ -183,7 +183,7 @@
         "財經週報",
         "黑天鵝與鷹"
       ],
-      "last_seen_utc": "2026-10-01T06:16:34.757009+00:00",
+      "last_seen_utc": "2026-10-01T13:39:44.230506+00:00",
       "confidence": "LIKELY",
       "sources": [
         "聚財網",
@@ -191,6 +191,37 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yWkcyekhoWFVveVVNaGZIRTJmM2gzby1Vb3pCekxEamVhQVB0OTZWU0h5Y2hyNjktUVRsOUpQUWJHWFh6VDIxa2N2S0RCSmQ4bWwyd1hVeVUyU2pETXUzSWpaUUHSAWRBVV95cUxOMlpHMnpIaFhVb3lVTWhmSEUyZjNoM28tVW96QnpMRGplYUFQdDk2VlNIeWNocjY5LVFUbDlKUFFiR1hYelQyMWtjdktEQkpkOG1sMndYVXlVMlNqRE11M0lqWlFB?oc=5",
       "short_link": "https://tinyurl.com/299sl64u"
+    },
+    {
+      "title": "Trump Says Warsh Should Have Voted Against Fed’s Rate Hike",
+      "stance": "hawkish",
+      "tokens": [
+        "again",
+        "criti",
+        "deman",
+        "fed",
+        "hike",
+        "kevin",
+        "monet",
+        "rate",
+        "says",
+        "shoul",
+        "stop",
+        "suppo",
+        "tight",
+        "trump",
+        "voted",
+        "warsh"
+      ],
+      "last_seen_utc": "2026-10-01T13:39:44.230506+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "bloomberg.com",
+        "demócrata",
+        "moneycontrol.com"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ3p3eEhTcmJqUy04M3Y5OG93M19zNTF2c09yZ1hGZkI1Y2pvZzZQOFZDODUzNUQ1VDUxVzFvZ2hMWXBZWk1FS3JqWG9MUkU0Y01YVU1mZnRFLV9TcWg5b3pPc2RWVFdRajZyaU4xeGZlalpaZTF6Y3hRcUNuVDZBVHVzVkFmOUJpel9TbVRTQWJpbW5OcklkYnBOWU16YXI3bjZvZWUtcTFhUS0yM1E?oc=5",
+      "short_link": "https://tinyurl.com/22s4euch"
     }
   ]
 }
