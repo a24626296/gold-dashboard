@@ -178,12 +178,16 @@
       "tokens": [
         "attac",
         "balli",
+        "child",
         "damag",
         "destr",
+        "died",
         "distr",
+        "drone",
         "eight",
         "explo",
         "fires",
+        "inclu",
         "injur",
         "kiev",
         "kille",
@@ -199,6 +203,7 @@
         "one",
         "peopl",
         "perso",
+        "regio",
         "repor",
         "sever",
         "three",
@@ -206,7 +211,7 @@
         "was",
         "worke"
       ],
-      "last_seen_utc": "2026-09-25T05:40:55.631678+00:00",
+      "last_seen_utc": "2026-10-01T00:18:33.967196+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "ukrinform",
