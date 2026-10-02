@@ -1306,5 +1306,37 @@
       "geo_score": 40,
       "warsh_score": -25
     }
+  },
+  {
+    "timestamp": "2026-10-02T01:12:43.169833+00:00",
+    "gold_price": 4179.89990234375,
+    "momentum_score": 0,
+    "alert_level": "none",
+    "reasons": [
+      "地緣政治衝擊事件(24-48小時前,影響力衰減中): Massive missile attack on Kyiv: 2 killed, at least 8 injured... (+25)",
+      "華許鷹派發言(24小時內): Trump Says Warsh Should Have Voted Against Fed’s Rate Hike... (-25)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 102.09100341796875,
+        "prev_5d": 101.29000091552734,
+        "change_pct": 0.7908011602343819
+      },
+      "vix": {
+        "latest": 16.389999389648438,
+        "prev_5d": 15.670000076293945,
+        "change_pct": 4.594762666553711
+      },
+      "gld": null,
+      "cot": {
+        "report_date": "2026-09-22T00:00:00.000",
+        "net_long": 127389,
+        "prev_net_long": 133116,
+        "change_pct": -4.302262688181736
+      },
+      "real_rate_5d_change": 0.3200000000000003,
+      "geo_score": 25,
+      "warsh_score": -25
+    }
   }
 ]
