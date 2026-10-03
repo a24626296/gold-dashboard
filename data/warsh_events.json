@@ -35,36 +35,6 @@
       "short_link": "https://tinyurl.com/24qq2f6s"
     },
     {
-      "title": "Kevin Warsh might have to get a lot less popular on Capitol Hill as bond yields soar and rate expectations turn hawkish",
-      "stance": "hawkish",
-      "tokens": [
-        "bond",
-        "capit",
-        "expec",
-        "get",
-        "hawki",
-        "hill",
-        "kevin",
-        "less",
-        "lot",
-        "might",
-        "popul",
-        "rate",
-        "soar",
-        "turn",
-        "warsh",
-        "yield"
-      ],
-      "last_seen_utc": "2026-09-26T06:08:59.861423+00:00",
-      "confidence": "LIKELY",
-      "sources": [
-        "fortune",
-        "inkl"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM1U2eFFXN3ZGNTFENnJoLVFXeGNrZWlZY2dGampJMU5abmx2MnhKeFVpZXctaGs3clhZVlhQdS1QT2NpOVR6azl6VnJMZTVqUE9VMjV0eFJZbUNGQm84VkRiMlZpUGJTaUE1ekVGdDJZTmNrYkt5S0l6TG4xM19ZNlRpUkJ2eF9FNUctSnpCbE94TldtN1IxQ2xpMU9mT0tVNWNEbmlyYUJsUllpRVgyMlAweDdmN052MTJad05aVUFSWWJBNHloa2t2eWw2c3hDZEhQenhoVmhYeHVIWUE?oc=5",
-      "short_link": "https://tinyurl.com/23tyue5p"
-    },
-    {
       "title": "Kevin Warsh Fed reform: rate hike done, balance sheet cuts stalled",
       "stance": "hawkish",
       "tokens": [
@@ -168,7 +138,7 @@
         "voted",
         "warsh"
       ],
-      "last_seen_utc": "2026-10-03T02:15:03.926505+00:00",
+      "last_seen_utc": "2026-10-03T08:10:40.097293+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "bloomberg.com",
