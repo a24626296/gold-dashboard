@@ -87,42 +87,6 @@
       "short_link": "https://tinyurl.com/225osmdd"
     },
     {
-      "title": "ArcelorMittal Says It Can’t Restart Ukrainian Operations After Missile Strikes",
-      "tokens": [
-        "arcel",
-        "billi",
-        "blow",
-        "can",
-        "canno",
-        "claim",
-        "compa",
-        "derai",
-        "drops",
-        "faces",
-        "five",
-        "four",
-        "lives",
-        "missi",
-        "opera",
-        "plan",
-        "plant",
-        "resta",
-        "safel",
-        "says",
-        "strik",
-        "ukrai"
-      ],
-      "last_seen_utc": "2026-09-26T11:21:06.311687+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "benzinga.com",
-        "stock titan",
-        "wsj"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVE1YcXFTQjN6SlhCWFdhVURDRURJbW1JMmxYSVJtbm9sM21pQ01vd3lrYTFTT1gxaGtiM3pBakJkNEpOeTZVN1ZjcWtJVlVjVEpSbkVtMklFSC1nS01qMmhSSzJHLVl2dHhvS09zTm42WDhjWXhBQkowTzV1M1RMY3psU0dTWWhwSUlNSE04dzRIZkd0MHU5X2pvdkNaR0pfQ3BPSDZnUlI3QkI0eDQ5X1R3UnVOaUpiR0ZJ?oc=5",
-      "short_link": "https://tinyurl.com/23lga9np"
-    },
-    {
       "title": "長射程ミサイル日米演習に 敵基地攻撃で熊本配備 (共同通信)",
       "tokens": [
         "10月初投",
@@ -258,7 +222,7 @@
         "熊本の住民",
         "配備後初"
       ],
-      "last_seen_utc": "2026-10-03T08:10:32.336048+00:00",
+      "last_seen_utc": "2026-10-03T13:21:39.937265+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "373news.com",
@@ -272,6 +236,29 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80alV4QWE1WTEzQmtBVVhTSXlReEhlWUhrSHZxXzd4T3p2QVp1T1pKcUgtdzRGenFkZ0wzNFdiNW5yN0xNLWE4MGVLMA?oc=5",
       "short_link": "https://tinyurl.com/2yh32xf5"
+    },
+    {
+      "title": "North Korea launches ballistic missile after Seoul demands apology over wounded soldiers",
+      "tokens": [
+        "apolo",
+        "balli",
+        "deman",
+        "korea",
+        "launc",
+        "missi",
+        "north",
+        "seoul",
+        "soldi",
+        "wound"
+      ],
+      "last_seen_utc": "2026-10-03T13:21:39.937265+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "people daily",
+        "the guardian"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcUZLbG9yWVZrUkJnOFdzdmpEM2NSM3R5OTByeDFucmRmVng0RWdwa3ZQZHRWSFM2NmtqZjdEWlBsWEtBQXdtSHA2ODVwWmFGZ2NzN3VLb1kxMDNwQ1k4S1hfbEw0VzNIVWZNTVZuZ1J1NjJuVV9VS1JlYTlNRHZ4WUFLdWhuOEZ0MHRQQ3RhNmMteGUyai10WVIzblk4V2FzQnNsSVFWWVZUTDJ5dWJIOUdEbXEyVS0yelk5dmxRTDcycWNzejR4Xy1sZ0RwM1E?oc=5",
+      "short_link": "https://tinyurl.com/254p65p5"
     }
   ]
 }
