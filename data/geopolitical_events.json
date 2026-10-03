@@ -220,9 +220,10 @@
         "全国のニュ",
         "敵基地攻撃",
         "熊本の住民",
-        "配備後初"
+        "配備後初",
+        "長射程ミサ"
       ],
-      "last_seen_utc": "2026-10-03T20:06:51.667786+00:00",
+      "last_seen_utc": "2026-10-03T23:01:28.829697+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "373news.com",
@@ -262,7 +263,7 @@
         "three",
         "wound"
       ],
-      "last_seen_utc": "2026-10-03T20:06:51.667786+00:00",
+      "last_seen_utc": "2026-10-03T23:01:28.829697+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "people daily",
@@ -270,6 +271,33 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcUZLbG9yWVZrUkJnOFdzdmpEM2NSM3R5OTByeDFucmRmVng0RWdwa3ZQZHRWSFM2NmtqZjdEWlBsWEtBQXdtSHA2ODVwWmFGZ2NzN3VLb1kxMDNwQ1k4S1hfbEw0VzNIVWZNTVZuZ1J1NjJuVV9VS1JlYTlNRHZ4WUFLdWhuOEZ0MHRQQ3RhNmMteGUyai10WVIzblk4V2FzQnNsSVFWWVZUTDJ5dWJIOUdEbXEyVS0yelk5dmxRTDcycWNzejR4Xy1sZ0RwM1E?oc=5",
       "short_link": "https://tinyurl.com/254p65p5"
+    },
+    {
+      "title": "Houthis claim missile, drone attack on Saudi Aramco in Riyadh",
+      "tokens": [
+        "arabi",
+        "aramc",
+        "asir",
+        "attac",
+        "claim",
+        "drone",
+        "facil",
+        "houth",
+        "missi",
+        "riyad",
+        "saudi",
+        "thwar"
+      ],
+      "last_seen_utc": "2026-10-03T23:01:28.829697+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "anadolu ajansı",
+        "forth.news",
+        "operativ məlumat mərkəzi",
+        "samaa tv"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnhzbHFJbmRYY1F2UmppR0xDbURYX0xsZkVBWExIXzlEQklaVE5KS0w5ZXo1eU9jbENmVkpFc0xYMDhmdTVJYmYtTXdzOENvQjhuRVRGVW5VNGF2VnRBVnlvbFMxa2NuZGZyZ3VpSGJRQUx4OUREVkJqazJLZWQtMU5YRkRFcUROcElTWGxKNk8zVjNlQTBaNkx5UUV1M0FNMjE0?oc=5",
+      "short_link": "https://tinyurl.com/2ajnlzgx"
     }
   ]
 }
