@@ -216,6 +216,7 @@
     {
       "title": "熊本の住民に長射程ミサイル公開 政府、「敵基地攻撃」配備後初",
       "tokens": [
+        "hokka",
         "web東奥",
         "全国のニュ",
         "敵基地攻撃",
@@ -223,7 +224,7 @@
         "配備後初",
         "長射程ミサ"
       ],
-      "last_seen_utc": "2026-10-03T23:01:28.829697+00:00",
+      "last_seen_utc": "2026-10-04T02:35:35.750056+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "373news.com",
@@ -263,7 +264,7 @@
         "three",
         "wound"
       ],
-      "last_seen_utc": "2026-10-03T23:01:28.829697+00:00",
+      "last_seen_utc": "2026-10-04T02:35:35.750056+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "people daily",
@@ -275,20 +276,26 @@
     {
       "title": "Houthis claim missile, drone attack on Saudi Aramco in Riyadh",
       "tokens": [
+        "ansar",
         "arabi",
         "aramc",
         "asir",
         "attac",
         "claim",
+        "disru",
         "drone",
         "facil",
+        "fligh",
         "houth",
         "missi",
+        "oil",
         "riyad",
         "saudi",
-        "thwar"
+        "targe",
+        "thwar",
+        "yemen"
       ],
-      "last_seen_utc": "2026-10-03T23:01:28.829697+00:00",
+      "last_seen_utc": "2026-10-04T02:35:35.750056+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
