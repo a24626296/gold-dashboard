@@ -1,40 +1,6 @@
 {
   "events": [
     {
-      "title": "Fed Rate Increase Puts Borrowers on Notice as Warsh Takes Hard Line on Inflation | The 10-Point for September 17",
-      "stance": "dovish",
-      "tokens": [
-        "aim",
-        "bitco",
-        "borro",
-        "ether",
-        "fed",
-        "hard",
-        "hike",
-        "incre",
-        "infla",
-        "line",
-        "notic",
-        "point",
-        "puts",
-        "quart",
-        "rate",
-        "septe",
-        "swing",
-        "takes",
-        "unani",
-        "warsh"
-      ],
-      "last_seen_utc": "2026-09-27T23:58:49.660323+00:00",
-      "confidence": "LIKELY",
-      "sources": [
-        "the block",
-        "wsj"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOTdabTRkeEl3Z0g1ZEc0YW56Z1pwWGhGR0lXYTdvd05vRDNvaTFYR2VwcWdUellUbXEtUThZc1pRcy00TFBrQWU2RkNPb21CUUZYNlg4bUtSR0YydEhXOTdtRC1ZdE9RWmNCZnQ5MU1NTlZldkhwU29qeVg5Q1p3TFIwSXJrNGhmcDh2TmZZX2RnMWhDclltNkkwelVMTFVjd09JcjJJVXgxd3NLWkt5dzBDNTYtVUhKd3c?oc=5",
-      "short_link": "https://tinyurl.com/24qq2f6s"
-    },
-    {
       "title": "＜財經週報-投資觀點＞華許時代來臨！黑天鵝與鷹派升息重塑債市",
       "stance": "hawkish",
       "tokens": [
@@ -124,7 +90,7 @@
         "words",
         "year"
       ],
-      "last_seen_utc": "2026-10-04T21:44:00.290374+00:00",
+      "last_seen_utc": "2026-10-05T00:11:48.267945+00:00",
       "confidence": "LIKELY",
       "sources": [
         "the motley fool",
