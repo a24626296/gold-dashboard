@@ -153,7 +153,7 @@
         "配備後初",
         "長射程ミサ"
       ],
-      "last_seen_utc": "2026-10-04T02:35:35.750056+00:00",
+      "last_seen_utc": "2026-10-06T08:07:47.443765+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "373news.com",
@@ -213,12 +213,14 @@
         "asia",
         "asir",
         "attac",
+        "balli",
         "bangl",
         "blaze",
         "broad",
         "busin",
         "citiz",
         "claim",
+        "coali",
         "deshi",
         "disru",
         "drone",
@@ -229,6 +231,7 @@
         "fire",
         "fligh",
         "follo",
+        "force",
         "fresh",
         "heart",
         "hit",
@@ -240,16 +243,19 @@
         "massi",
         "milit",
         "missi",
+        "multi",
         "natio",
         "news",
         "oil",
         "possi",
         "price",
         "rebel",
+        "refin",
         "rise",
         "risks",
         "riyad",
         "rush",
+        "saada",
         "sanaa",
         "saudi",
         "say",
@@ -267,7 +273,7 @@
         "world",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-06T01:37:37.202186+00:00",
+      "last_seen_utc": "2026-10-06T08:07:47.443765+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
@@ -277,6 +283,37 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnhzbHFJbmRYY1F2UmppR0xDbURYX0xsZkVBWExIXzlEQklaVE5KS0w5ZXo1eU9jbENmVkpFc0xYMDhmdTVJYmYtTXdzOENvQjhuRVRGVW5VNGF2VnRBVnlvbFMxa2NuZGZyZ3VpSGJRQUx4OUREVkJqazJLZWQtMU5YRkRFcUROcElTWGxKNk8zVjNlQTBaNkx5UUV1M0FNMjE0?oc=5",
       "short_link": "https://tinyurl.com/2ajnlzgx"
+    },
+    {
+      "title": "US warns citizens in Saudi Arabia of drone, missile attack risks",
+      "tokens": [
+        "arabi",
+        "aramc",
+        "attac",
+        "bangl",
+        "citiz",
+        "deshi",
+        "drone",
+        "facil",
+        "houth",
+        "kille",
+        "missi",
+        "natio",
+        "possi",
+        "risks",
+        "saudi",
+        "warns"
+      ],
+      "last_seen_utc": "2026-10-06T08:07:47.443765+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "daily observer",
+        "lokmattimes.com",
+        "people daily",
+        "yeni şafak english"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOWJTb3doa2tkSXNJZ3BxT19QUWFYVUw2Wjd6bVFIRnFWcWRLbDZGZWp3d1o1MVBKejBnd1FaVUQ3NkFyLXZGbG5xRXd5cUhfYkpjNmpEc2VuT0c3MjNrNEROWUZKbnhyaHIwSVdGVGlJbGc0MTFEc0YzSXRlZmJnZDRUQ09sc0tOZHZIVW94elRDbUR3V0lTVHBOUTFTZFNaZ2VNUw?oc=5",
+      "short_link": "https://tinyurl.com/243mw6x8"
     }
   ]
 }
