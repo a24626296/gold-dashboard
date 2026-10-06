@@ -1370,5 +1370,37 @@
       "geo_score": 40,
       "warsh_score": -25
     }
+  },
+  {
+    "timestamp": "2026-10-06T02:00:19.936417+00:00",
+    "gold_price": 4158.0,
+    "momentum_score": 15,
+    "alert_level": "none",
+    "reasons": [
+      "地緣政治衝擊事件(24小時內): Houthis claim missile, drone attack on Saudi Aramco in Riyad... (+40)",
+      "華許鷹派發言(24小時內): Fed Chair Kevin Warsh Just Used 5 Words to Describe the Fed'... (-25)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 102.10099792480469,
+        "prev_5d": 101.19999694824219,
+        "change_pct": 0.8903171973644511
+      },
+      "vix": {
+        "latest": 15.520000457763672,
+        "prev_5d": 16.06999969482422,
+        "change_pct": -3.422521764189511
+      },
+      "gld": null,
+      "cot": {
+        "report_date": "2026-09-29T00:00:00.000",
+        "net_long": 120318,
+        "prev_net_long": 127389,
+        "change_pct": -5.550714739891199
+      },
+      "real_rate_5d_change": 0.2999999999999998,
+      "geo_score": 40,
+      "warsh_score": -25
+    }
   }
 ]
