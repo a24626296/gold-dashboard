@@ -153,7 +153,7 @@
         "配備後初",
         "長射程ミサ"
       ],
-      "last_seen_utc": "2026-10-06T08:07:47.443765+00:00",
+      "last_seen_utc": "2026-10-06T15:08:04.596345+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "373news.com",
@@ -205,6 +205,7 @@
     {
       "title": "Houthis claim missile, drone attack on Saudi Aramco in Riyadh",
       "tokens": [
+        "abha",
         "airpo",
         "annou",
         "ansar",
@@ -221,7 +222,9 @@
         "citiz",
         "claim",
         "coali",
+        "confi",
         "deshi",
+        "did",
         "disru",
         "drone",
         "durin",
@@ -233,9 +236,11 @@
         "follo",
         "force",
         "fresh",
+        "gives",
         "heart",
         "hit",
         "houth",
+        "immed",
         "jedda",
         "kille",
         "launc",
@@ -260,6 +265,7 @@
         "saudi",
         "say",
         "sites",
+        "south",
         "strik",
         "surge",
         "targe",
@@ -273,7 +279,7 @@
         "world",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-06T08:07:47.443765+00:00",
+      "last_seen_utc": "2026-10-06T15:08:04.596345+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
