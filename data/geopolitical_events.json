@@ -1,43 +1,6 @@
 {
   "events": [
     {
-      "title": "US burns through dozens of missile interceptors in single Iranian attack on Jordan: Report",
-      "tokens": [
-        "attac",
-        "burns",
-        "dozen",
-        "drone",
-        "fire",
-        "fired",
-        "fires",
-        "fujai",
-        "hit",
-        "inter",
-        "iran",
-        "irani",
-        "jorda",
-        "missi",
-        "oil",
-        "patri",
-        "repor",
-        "says",
-        "singl",
-        "throu",
-        "uae",
-        "wsj",
-        "zone"
-      ],
-      "last_seen_utc": "2026-09-29T20:22:58.240148+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "anadolu ajansı",
-        "outlook india",
-        "yeni safak english"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMTM2eUpQbzl3ejItQ2ZucF9BSTYxYmJ6N21RSzIteGNfZFBEYjRISGg1UnJial8wcWtHOGUyOTY1ZFUzY1JPYVhBVXNZTTNHa0h1X3dxZWstMXNwZU53NUQzMlZBM1h5bl9iOG5wSkZGSGVycG16S0h3eGNCVTg4d1J0Q3lNZFBCRFEtWGx5SHJEVDB0NjBBZDNrV2lHUmJnZU5ybUV1NnpnUmlYVi00U2UtczZ5NloyUWxQMkJGYTd5X19HX0JsNFZR?oc=5",
-      "short_link": "https://tinyurl.com/2bck5ytt"
-    },
-    {
       "title": "Massive missile attack on Kyiv: 2 killed, at least 8 injured, fires and damage reported in three districts",
       "tokens": [
         "attac",
@@ -153,7 +116,7 @@
         "配備後初",
         "長射程ミサ"
       ],
-      "last_seen_utc": "2026-10-06T20:16:37.805358+00:00",
+      "last_seen_utc": "2026-10-06T23:56:32.290844+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "373news.com",
@@ -282,7 +245,7 @@
         "world",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-06T20:16:37.805358+00:00",
+      "last_seen_utc": "2026-10-06T23:56:32.290844+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
