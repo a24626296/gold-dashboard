@@ -1,24 +1,6 @@
 {
   "events": [
     {
-      "title": "＜財經週報-投資觀點＞華許時代來臨！黑天鵝與鷹派升息重塑債市",
-      "stance": "hawkish",
-      "tokens": [
-        "投資觀點",
-        "華許時代來",
-        "財經週報",
-        "黑天鵝與鷹"
-      ],
-      "last_seen_utc": "2026-10-01T19:02:42.787940+00:00",
-      "confidence": "LIKELY",
-      "sources": [
-        "聚財網",
-        "自由財經"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yWkcyekhoWFVveVVNaGZIRTJmM2gzby1Vb3pCekxEamVhQVB0OTZWU0h5Y2hyNjktUVRsOUpQUWJHWFh6VDIxa2N2S0RCSmQ4bWwyd1hVeVUyU2pETXUzSWpaUUHSAWRBVV95cUxOMlpHMnpIaFhVb3lVTWhmSEUyZjNoM28tVW96QnpMRGplYUFQdDk2VlNIeWNocjY5LVFUbDlKUFFiR1hYelQyMWtjdktEQkpkOG1sMndYVXlVMlNqRE11M0lqWlFB?oc=5",
-      "short_link": "https://tinyurl.com/299sl64u"
-    },
-    {
       "title": "Trump Says Warsh Should Have Voted Against Fed’s Rate Hike",
       "stance": "hawkish",
       "tokens": [
@@ -119,7 +101,7 @@
         "trump",
         "warsh"
       ],
-      "last_seen_utc": "2026-10-08T16:11:05.996973+00:00",
+      "last_seen_utc": "2026-10-08T21:18:12.981938+00:00",
       "confidence": "LIKELY",
       "sources": [
         "biggo finance",
