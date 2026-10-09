@@ -543,6 +543,7 @@
     {
       "title": "22 killed in Russian missile strike on Pryluky, including five children",
       "tokens": [
+        "antik",
         "build",
         "child",
         "conti",
@@ -563,6 +564,7 @@
         "natal",
         "opera",
         "pharm",
+        "porta",
         "presi",
         "prylu",
         "relie",
@@ -578,7 +580,7 @@
         "visit",
         "zelen"
       ],
-      "last_seen_utc": "2026-10-09T14:40:21.342945+00:00",
+      "last_seen_utc": "2026-10-09T19:45:45.732314+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "euromaidan press",
@@ -615,7 +617,7 @@
         "vows",
         "will"
       ],
-      "last_seen_utc": "2026-10-09T14:40:21.342945+00:00",
+      "last_seen_utc": "2026-10-09T19:45:45.732314+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "gulf news",
@@ -624,6 +626,100 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFMDdsRWd2cDhycXZsTXJSVjcyTTYxUjBpaWtOZzdmREJJcDBUUHRSU2FERHlZRlNCd09GR1RjYUJQbjFvbThJNWpvZw?oc=5",
       "short_link": "https://tinyurl.com/2xzqcasd"
+    },
+    {
+      "title": "Houthi Forces Launch Deadly Missile Strikes Targeting Saudi Airports and Energy Infrastructure",
+      "tokens": [
+        "airli",
+        "airpo",
+        "arabi",
+        "attac",
+        "capit",
+        "claim",
+        "deadl",
+        "energ",
+        "explo",
+        "force",
+        "heard",
+        "houth",
+        "infra",
+        "inten",
+        "issue",
+        "khali",
+        "king",
+        "last",
+        "launc",
+        "missi",
+        "riyad",
+        "rock",
+        "saudi",
+        "strik",
+        "targe",
+        "warni",
+        "yemen"
+      ],
+      "last_seen_utc": "2026-10-09T19:45:45.732314+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "aviation news.eu",
+        "ceylon daily news",
+        "daijiworld",
+        "newswav",
+        "telesur english",
+        "voice of nigeria"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOekxiajNCUzNnaWY0SVlldThWZl9GekI0NnhEN0hOaGNidk52Q1VwYVRrXzFiWXJfODhBWHRlRmdsTkFHTlY1ZThjZGlHMnpYWlg4TlJzdkRQZWNRQWZ0QklLZTFZbWVrTlNpUDNBbEdqaFRJMFNMaGJtUDc4UmRSeDFPUklQWHJrRkxSZXNmdFhCOU44clBRRkhtd0hsN0YtY09uckZBNzhqaGJlQ21MRVZZM2YtVzktTkVCbUQtMXN2N0pyODZLdTk2bWk?oc=5",
+      "short_link": "https://tinyurl.com/2abnr6ak"
+    },
+    {
+      "title": "Saudia pilot fatally injured and aircraft destroyed in missile attack on Riyadh Airport",
+      "tokens": [
+        "2026",
+        "8am",
+        "9oct",
+        "aircr",
+        "airli",
+        "airpl",
+        "airpo",
+        "attac",
+        "balli",
+        "capta",
+        "confl",
+        "damag",
+        "dead",
+        "destr",
+        "escal",
+        "fatal",
+        "headl",
+        "houth",
+        "inclu",
+        "injur",
+        "kille",
+        "kills",
+        "missi",
+        "news",
+        "parke",
+        "pilot",
+        "riyad",
+        "saudi",
+        "that",
+        "three",
+        "war",
+        "watch",
+        "yemen"
+      ],
+      "last_seen_utc": "2026-10-09T19:45:45.732314+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "aerospace global news",
+        "crypto briefing",
+        "gnn | latest news",
+        "pyok",
+        "the bangladesh monitor",
+        "the straits times"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX2JwMzVDeEoySkc4b0UwSVhTU3VBMFlhT0U4TVNEMVZFYllpX0hJYi0ya1VZRnd2cy1MV2pyZ19nZTNlaUhrZzREWlRjUjRzLVFadGZrQW53cUdKWEVUREszc0VNbGsxOURMcE5Fa2o1UzRBSkVIVC1QS3VBSmFjZFNkTlpSTHFHX2ZpcGZyUkNuRVVseWc?oc=5",
+      "short_link": "https://tinyurl.com/2cat5gpa"
     }
   ]
 }
