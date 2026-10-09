@@ -1468,5 +1468,37 @@
       "geo_score": 40,
       "warsh_score": 25
     }
+  },
+  {
+    "timestamp": "2026-10-09T01:35:07.996023+00:00",
+    "gold_price": 4187.0,
+    "momentum_score": 65,
+    "alert_level": "alert",
+    "reasons": [
+      "地緣政治衝擊事件(24小時內): Riyadh Airport Hit With Ballistic Missiles, Three Killed In ... (+40)",
+      "華許鴿派發言(24小時內): Trump on interest rate increase and confidence in Fed Chair ... (+25)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 102.0250015258789,
+        "prev_5d": 102.0999984741211,
+        "change_pct": -0.07345440681979706
+      },
+      "vix": {
+        "latest": 15.40999984741211,
+        "prev_5d": 16.389999389648438,
+        "change_pct": -5.97925307340325
+      },
+      "gld": null,
+      "cot": {
+        "report_date": "2026-09-29T00:00:00.000",
+        "net_long": 120318,
+        "prev_net_long": 127389,
+        "change_pct": -5.550714739891199
+      },
+      "real_rate_5d_change": 0.06999999999999984,
+      "geo_score": 40,
+      "warsh_score": 25
+    }
   }
 ]
