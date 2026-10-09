@@ -435,10 +435,12 @@
         "emerg",
         "entir",
         "escal",
+        "europ",
         "explo",
         "final",
         "fire",
         "fligh",
+        "force",
         "fresh",
         "gravi",
         "groun",
@@ -451,6 +453,7 @@
         "image",
         "india",
         "injur",
+        "inten",
         "inter",
         "iran",
         "issue",
@@ -491,6 +494,7 @@
         "smoke",
         "strik",
         "struc",
+        "suspe",
         "targe",
         "they",
         "three",
@@ -506,7 +510,7 @@
         "woman",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-09T01:19:03.204822+00:00",
+      "last_seen_utc": "2026-10-09T07:39:14.180543+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "businesstoday malaysia",
@@ -559,7 +563,7 @@
         "visit",
         "zelen"
       ],
-      "last_seen_utc": "2026-10-09T01:19:03.204822+00:00",
+      "last_seen_utc": "2026-10-09T07:39:14.180543+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "euromaidan press",
