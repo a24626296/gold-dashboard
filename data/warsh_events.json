@@ -1,49 +1,6 @@
 {
   "events": [
     {
-      "title": "Trump Says Warsh Should Have Voted Against Fed’s Rate Hike",
-      "stance": "hawkish",
-      "tokens": [
-        "again",
-        "bank",
-        "blame",
-        "centr",
-        "chair",
-        "criti",
-        "deman",
-        "don",
-        "fed",
-        "hike",
-        "indep",
-        "insig",
-        "kevin",
-        "marke",
-        "monet",
-        "new",
-        "rate",
-        "says",
-        "shoul",
-        "signa",
-        "stock",
-        "stop",
-        "suppo",
-        "tight",
-        "trump",
-        "under",
-        "voted",
-        "warsh"
-      ],
-      "last_seen_utc": "2026-10-04T02:35:43.104399+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "bloomberg.com",
-        "demócrata",
-        "moneycontrol.com"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ3p3eEhTcmJqUy04M3Y5OG93M19zNTF2c09yZ1hGZkI1Y2pvZzZQOFZDODUzNUQ1VDUxVzFvZ2hMWXBZWk1FS3JqWG9MUkU0Y01YVU1mZnRFLV9TcWg5b3pPc2RWVFdRajZyaU4xeGZlalpaZTF6Y3hRcUNuVDZBVHVzVkFmOUJpel9TbVRTQWJpbW5OcklkYnBOWU16YXI3bjZvZWUtcTFhUS0yM1E?oc=5",
-      "short_link": "https://tinyurl.com/22s4euch"
-    },
-    {
       "title": "Fed Chair Kevin Warsh Just Used 5 Words to Describe the Fed's First Rate Hike Since 2023, Saying The Fed \"Removed A Dose of Accommodation.\" Should Investors Brace for More Hikes This Year?",
       "stance": "hawkish",
       "tokens": [
