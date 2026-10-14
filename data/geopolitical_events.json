@@ -1516,7 +1516,7 @@
         "under",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-14T18:35:22.983413+00:00",
+      "last_seen_utc": "2026-10-14T21:57:08.412685+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "al jazeera",
@@ -1602,11 +1602,16 @@
     {
       "title": "Houthi Missiles Hit Riyadh, Injuring Four and Damaging 15 Homes: who 19 outlets blamed",
       "tokens": [
+        "airpo",
+        "arabi",
         "attac",
+        "balli",
         "blame",
         "capit",
+        "claim",
         "damag",
         "debri",
+        "escal",
         "explo",
         "four",
         "fresh",
@@ -1614,6 +1619,7 @@
         "homes",
         "houth",
         "injur",
+        "int",
         "launc",
         "missi",
         "outle",
@@ -1622,9 +1628,12 @@
         "rock",
         "saudi",
         "says",
+        "strik",
+        "targe",
+        "war",
         "who"
       ],
-      "last_seen_utc": "2026-10-14T18:35:22.983413+00:00",
+      "last_seen_utc": "2026-10-14T21:57:08.412685+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "modern ghana",
@@ -1633,6 +1642,63 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMTJoV2RpSUdJZGVNd3VfbDlDbmR1RzU1TWVGck5IczVrUlRKelVfTF9MaHRFTFNNZ0RBSF90V2E2dXFRZl9uS1VvVmhLbm84Nk9ibVRBZ0FSQUJBd3ltUExXSllWZkpmbDRFSUV2WDllTmtDTXBUaDNKLXJmSHc0UVNON0NFdmcyUmNaYXVIS1dxb2s4M3BNQXhqVDVOX0liZVVpUGVXRW50by12VTE3Sm1OWEZ1SVdSSVZBc2lMTVhKQQ?oc=5",
       "short_link": "https://tinyurl.com/28m7s88q"
+    },
+    {
+      "title": "Ukraine's Air Forces Report No Warning on Missile Attacks",
+      "tokens": [
+        "air",
+        "allie",
+        "attac",
+        "force",
+        "gave",
+        "impen",
+        "missi",
+        "repor",
+        "says",
+        "ukrai",
+        "warni",
+        "zelen"
+      ],
+      "last_seen_utc": "2026-10-14T21:57:08.412685+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "cnn",
+        "finway.com.ua"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqTFpIU1BsRTJIa09vMGtkR0dvSDliajEzanNuSTlHdnRxajdWLW5MM19oS2xocDRKWldoRFlpX0pqMnk3WW5OZEpWTlBzX1R3enNXV25MUWNrT2tiek1UVHY1blM4bDRW?oc=5",
+      "short_link": "https://tinyurl.com/2df2dt4v"
+    },
+    {
+      "title": "Houthi missile hits Aramco building after Saudi-led coalition strike on Yemen fuel depot",
+      "tokens": [
+        "airpo",
+        "arabi",
+        "aramc",
+        "build",
+        "claim",
+        "coali",
+        "depot",
+        "event",
+        "fuel",
+        "hit",
+        "hits",
+        "houth",
+        "led",
+        "missi",
+        "saudi",
+        "spill",
+        "sport",
+        "strik",
+        "yemen"
+      ],
+      "last_seen_utc": "2026-10-14T21:57:08.412685+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "bbc",
+        "bloomberg.com"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NTXliU09wdmZTVFFLc3dfamVjQlRpUnNuVXY3QmpLLUVGYjVXZHBZNm8taks5cTJaVUNndmNFZy01WGxNcFp0YzFlb0NZcXBQclBsZFF1T1o2SGM?oc=5",
+      "short_link": "https://tinyurl.com/22qost9l"
     }
   ]
 }
