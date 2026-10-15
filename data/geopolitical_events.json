@@ -1456,7 +1456,7 @@
         "xinhu",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-15T14:24:52.129319+00:00",
+      "last_seen_utc": "2026-10-15T18:27:51.521235+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "modern ghana",
@@ -1497,6 +1497,7 @@
         "airpo",
         "arabi",
         "aramc",
+        "balli",
         "build",
         "claim",
         "coali",
@@ -1509,9 +1510,11 @@
         "hits",
         "houth",
         "impac",
+        "inter",
         "led",
         "missi",
         "offic",
+        "riyad",
         "saudi",
         "spill",
         "sport",
@@ -1519,7 +1522,7 @@
         "suffe",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-15T14:24:52.129319+00:00",
+      "last_seen_utc": "2026-10-15T18:27:51.521235+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "bbc",
@@ -1540,6 +1543,7 @@
         "destr",
         "devel",
         "didn",
+        "eagle",
         "east",
         "final",
         "headi",
@@ -1549,6 +1553,7 @@
         "mercu",
         "middl",
         "missi",
+        "morni",
         "orovi",
         "other",
         "repor",
@@ -1558,9 +1563,10 @@
         "strik",
         "throw",
         "thwar",
-        "towar"
+        "towar",
+        "tribu"
       ],
-      "last_seen_utc": "2026-10-15T14:24:52.129319+00:00",
+      "last_seen_utc": "2026-10-15T18:27:51.521235+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "ap news",
@@ -1581,6 +1587,57 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVQzNWxwVUxqYThJN1JqdEg5dXpXU3ZKVjZ4Z3BiSWpick5JOHNMSnY3ZjhfcGcxd25uZHRObmVhb2hCOWlKaEdSckJZLXJhb0xLaloxb2lOQXZ4X3lPTWZ2LU1acVlMeUZNYUtZNlRsQWhlaTRpOExSVnA5MlVyaThMOVlzRFRsNXNnUnJ0ZjViaS1LYURnOWNVX2gwSXJBWjAtSXZzcw?oc=5",
       "short_link": "https://tinyurl.com/2abr735c"
+    },
+    {
+      "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
+      "tokens": [
+        "aden",
+        "attac",
+        "balli",
+        "battl",
+        "bbc",
+        "casua",
+        "compl",
+        "deadl",
+        "escap",
+        "fires",
+        "guard",
+        "houth",
+        "insid",
+        "inten",
+        "kille",
+        "kills",
+        "launc",
+        "least",
+        "minis",
+        "missi",
+        "news",
+        "palac",
+        "presi",
+        "safe",
+        "says",
+        "taiz",
+        "targe",
+        "two",
+        "unhur",
+        "was",
+        "yemen"
+      ],
+      "last_seen_utc": "2026-10-15T18:27:51.521235+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "arab news",
+        "bbc",
+        "bhaskar english",
+        "india today",
+        "lbc",
+        "modern ghana",
+        "the star, kenya",
+        "the times of israel",
+        "yemen online"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fNUFycEtoM2tnclA4RkVaZHh0bkZJanktTm9YdmdEYkI2WFJMQTBaOS1BS19uZ3c2a18tMS1BSFpqcGlfUkRuaVlOWkNNZlBvcTNNWWxJbjFqblU?oc=5",
+      "short_link": "https://tinyurl.com/2b8ph7fo"
     }
   ]
 }
