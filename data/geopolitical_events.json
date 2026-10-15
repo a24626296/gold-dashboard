@@ -22,7 +22,7 @@
         "than",
         "two"
       ],
-      "last_seen_utc": "2026-10-15T21:37:45.369779+00:00",
+      "last_seen_utc": "2026-10-15T23:51:47.765135+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "mezha.net",
@@ -1460,7 +1460,7 @@
         "xinhu",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-15T21:37:45.369779+00:00",
+      "last_seen_utc": "2026-10-15T23:51:47.765135+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "modern ghana",
@@ -1510,6 +1510,8 @@
         "event",
         "exten",
         "fuel",
+        "gover",
+        "headq",
         "hit",
         "hits",
         "houth",
@@ -1526,7 +1528,7 @@
         "suffe",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-15T21:37:45.369779+00:00",
+      "last_seen_utc": "2026-10-15T23:51:47.765135+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "bbc",
@@ -1575,7 +1577,7 @@
         "towar",
         "tribu"
       ],
-      "last_seen_utc": "2026-10-15T21:37:45.369779+00:00",
+      "last_seen_utc": "2026-10-15T23:51:47.765135+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "ap news",
@@ -1612,6 +1614,7 @@
         "casua",
         "colle",
         "compl",
+        "dead",
         "deadl",
         "escap",
         "fires",
@@ -1619,7 +1622,9 @@
         "force",
         "govt",
         "guard",
+        "healt",
         "houth",
+        "injur",
         "insid",
         "inten",
         "kille",
@@ -1632,23 +1637,29 @@
         "missi",
         "news",
         "palac",
+        "postp",
         "presi",
+        "prime",
+        "rise",
         "safe",
         "safet",
         "saudi",
         "says",
         "strik",
         "struc",
+        "summi",
         "survi",
         "taiz",
         "targe",
+        "tensi",
         "there",
         "two",
         "unhur",
         "was",
+        "world",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-15T21:37:45.369779+00:00",
+      "last_seen_utc": "2026-10-15T23:51:47.765135+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "arab news",
@@ -1663,6 +1674,39 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fNUFycEtoM2tnclA4RkVaZHh0bkZJanktTm9YdmdEYkI2WFJMQTBaOS1BS19uZ3c2a18tMS1BSFpqcGlfUkRuaVlOWkNNZlBvcTNNWWxJbjFqblU?oc=5",
       "short_link": "https://tinyurl.com/2b8ph7fo"
+    },
+    {
+      "title": "Houthi missiles strike Saudi-led forces HQ at presidential palace in Aden",
+      "tokens": [
+        "aden",
+        "arabi",
+        "blame",
+        "chosu",
+        "escap",
+        "force",
+        "harm",
+        "hits",
+        "houth",
+        "iran",
+        "kill",
+        "led",
+        "missi",
+        "palac",
+        "presi",
+        "saudi",
+        "strik",
+        "wound",
+        "yemen"
+      ],
+      "last_seen_utc": "2026-10-15T23:51:47.765135+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "chosunbiz",
+        "firstpost",
+        "the guardian"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbkFOY3lPYnZzY2JhR0RfeEUtQU1lZDVLU1N4a254d1Z6ZmlLM25LUm12Q2tudk1VOU9oR0xSaW92aUJEUlgyWWJ5NVQzVEJNb0dzU21MWWlXcU5JNkVKWlE5eVBteEItT3RXSHRvY2djQTFkOGNIUFVuVXRERUItcnMtSl9hdw?oc=5",
+      "short_link": "https://tinyurl.com/2by8eqpm"
     }
   ]
 }
