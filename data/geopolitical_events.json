@@ -583,10 +583,14 @@
       "title": "Six years pass since fourth Armenian missile attack on Ganja",
       "tokens": [
         "ago",
+        "anoth",
         "armen",
         "attac",
         "azerb",
         "balli",
+        "blood",
+        "deadl",
+        "fifth",
         "fourt",
         "ganja",
         "hit",
@@ -595,10 +599,11 @@
         "photo",
         "since",
         "six",
+        "strik",
         "today",
         "years"
       ],
-      "last_seen_utc": "2026-10-11T07:34:30.415156+00:00",
+      "last_seen_utc": "2026-10-16T22:22:53.245827+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "apa.az",
@@ -1383,7 +1388,7 @@
         "tribu",
         "wntz"
       ],
-      "last_seen_utc": "2026-10-16T19:50:23.404659+00:00",
+      "last_seen_utc": "2026-10-16T22:22:53.245827+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "ap news",
@@ -1474,6 +1479,7 @@
         "najra",
         "news",
         "palac",
+        "peopl",
         "postp",
         "presi",
         "prime",
@@ -1504,7 +1510,7 @@
         "wound",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-16T19:50:23.404659+00:00",
+      "last_seen_utc": "2026-10-16T22:22:53.245827+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "arab news",
