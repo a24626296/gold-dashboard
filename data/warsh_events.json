@@ -49,7 +49,7 @@
         "warsh",
         "withh"
       ],
-      "last_seen_utc": "2026-10-16T19:50:30.813724+00:00",
+      "last_seen_utc": "2026-10-16T22:23:00.669396+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cnbc",
@@ -67,7 +67,7 @@
         "標普500",
         "華許沒放鷹"
       ],
-      "last_seen_utc": "2026-10-16T19:50:30.813724+00:00",
+      "last_seen_utc": "2026-10-16T22:23:00.669396+00:00",
       "confidence": "LIKELY",
       "sources": [
         "yahoo新聞",
@@ -80,11 +80,14 @@
       "title": "Fed Chair Kevin Warsh Keeps October Rate Hike in Limbo, Warns AI Could Trigger a ‘Very Bumpy’ Transition",
       "stance": "hawkish",
       "tokens": [
+        "956",
         "bitco",
         "boost",
         "bumpy",
+        "cac",
         "chair",
         "could",
+        "decli",
         "fall",
         "fed",
         "free",
@@ -97,10 +100,14 @@
         "limbo",
         "mum",
         "octob",
+        "paris",
         "produ",
         "rate",
         "remar",
         "rider",
+        "rises",
+        "signa",
+        "today",
         "trans",
         "trigg",
         "uncer",
@@ -109,7 +116,7 @@
         "warsh",
         "will"
       ],
-      "last_seen_utc": "2026-10-16T19:50:30.813724+00:00",
+      "last_seen_utc": "2026-10-16T22:23:00.669396+00:00",
       "confidence": "LIKELY",
       "sources": [
         "benzinga",
@@ -125,7 +132,7 @@
         "fed緘默",
         "華許周五談"
       ],
-      "last_seen_utc": "2026-10-16T19:50:30.813724+00:00",
+      "last_seen_utc": "2026-10-16T22:23:00.669396+00:00",
       "confidence": "LIKELY",
       "sources": [
         "yahoo",
@@ -141,7 +148,7 @@
         "10月升息",
         "華許對利率"
       ],
-      "last_seen_utc": "2026-10-16T19:50:30.813724+00:00",
+      "last_seen_utc": "2026-10-16T22:23:00.669396+00:00",
       "confidence": "LIKELY",
       "sources": [
         "聚財網",
@@ -149,6 +156,39 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MWkI3bVN2T3pIbUpjdjdxZlBLLWhZYUUtTnlldWh2Q25PWWZDMmNleE5OdEh2TlBUNTVfSWVubndKamdmaGVZU1V3UG9sR3dLYk1QTHB5TWI1YVlCaTI40gFkQVVfeXFMT2hsQ0YzVXJ1N194a3k1ZzZ5QmQ0MTE4emtLenlrOThOOUNOLWNFOWVpdXNCdzNtOXA0ajlfck1LY3BCY25ybXZTWlBpTGJWbVpLa1hkV211TlBSMHlBLXY2T0VuZg?oc=5",
       "short_link": "https://tinyurl.com/2c2a72cu"
+    },
+    {
+      "title": "華許不露口風 市場估Fed 月不升息",
+      "stance": "hawkish",
+      "tokens": [
+        "市場估fe",
+        "月不升息",
+        "華許不露口"
+      ],
+      "last_seen_utc": "2026-10-16T22:23:00.669396+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "聚財網",
+        "自由時報"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yck1ZVmlhR0prNmFWRk41WmVUQTQzcWdNbnhlQkhkYmg0ZWdsMDNHTTg3ek0zcmZXdFp5SW1sblloc2d4MG1pYkR6bHVFSktTMkhnQ2VyaXk?oc=5",
+      "short_link": "https://tinyurl.com/2bdnq3bk"
+    },
+    {
+      "title": "華許出席IMF年會未鬆口本月是否升息 只談「央行須關注金融穩定面臨的風險」",
+      "stance": "hawkish",
+      "tokens": [
+        "央行須關注",
+        "華許出席i"
+      ],
+      "last_seen_utc": "2026-10-16T22:23:00.669396+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "line today",
+        "太報 taisounds"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qWmtSZVBDUm00ZXZjbXByVEVicDBVYktjQmhoX0Y2Q1h1ZHRkQU9feTNxM0hpX2R3NllONWROWllxMFRXWmg5ajlHOHExTFAxbUZJNk9PbWlSRFpX?oc=5",
+      "short_link": "https://tinyurl.com/272p3aaz"
     }
   ]
 }
