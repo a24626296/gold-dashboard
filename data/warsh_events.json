@@ -49,7 +49,7 @@
         "warsh",
         "withh"
       ],
-      "last_seen_utc": "2026-10-16T07:31:30.575157+00:00",
+      "last_seen_utc": "2026-10-16T12:44:30.904064+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cnbc",
@@ -67,7 +67,7 @@
         "標普500",
         "華許沒放鷹"
       ],
-      "last_seen_utc": "2026-10-16T07:31:30.575157+00:00",
+      "last_seen_utc": "2026-10-16T12:44:30.904064+00:00",
       "confidence": "LIKELY",
       "sources": [
         "yahoo新聞",
@@ -75,6 +75,55 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPZU55bWhnOS1KT2FsRmtTcXlmSUJZMkVPUkRoX195blJvOVRuN0NnX0p3ZEJRNG0zQVBZRDY2SHlUb2NmdDlmZ0FCZlNGNUp5NTFvYmxyVURpSE1BQ2dqMDlVdlFMaXNScVlqc1JTNWFPNjF3NFhOQkJnNmczU2w0RWU2LVhZcjlTcnJVOE1GblIyM1BoeHgxOUUzTkR0Z2VfbS1TMDdyVkEzV2dLN1VsSWdqc01oTmtBNnRiTk5ZN05vN1h3Zkt1Z1R4WDlQRWJmb2JBa3lNeWg3RUtTNVBLMnhDdWtKNUQzbllBZTdUOGFpSUNzMXZpZWw2Qk9PLXJpdnJFUXFDOG1kenNsQUNXMWhpVURhNDRLT3RUNHl1WThBZV82dUd2Sk5DX0EtaUJCdDBZaldOVWc2c2R1eURWOVd5eWpIYWtETTg0c0puNDQ5Rmd0TC1JYW9ZUU44NURRYXNzR3gtc19GMDNOWDlIVzNwS2ZsRW0zMFhHLTFYanRCTnRaNlE?oc=5",
       "short_link": "https://tinyurl.com/2b8gebkr"
+    },
+    {
+      "title": "Fed Chair Kevin Warsh Keeps October Rate Hike in Limbo, Warns AI Could Trigger a ‘Very Bumpy’ Transition",
+      "stance": "hawkish",
+      "tokens": [
+        "boost",
+        "bumpy",
+        "chair",
+        "could",
+        "fed",
+        "hike",
+        "keeps",
+        "kevin",
+        "limbo",
+        "mum",
+        "octob",
+        "produ",
+        "rate",
+        "trans",
+        "trigg",
+        "very",
+        "warns",
+        "warsh",
+        "will"
+      ],
+      "last_seen_utc": "2026-10-16T12:44:30.904064+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "benzinga",
+        "아시아경제"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQeDBjZjJ6dDRNalNYaW5JRGVUZ2VwcHBDX2VjX1lqRl9TcENEczZ3dnhRZ0hzNWlyZ1pWQ01SQTZjY0ZnX0VEb29DYVR3QXhBeGwzMXMtVWZkWmNSNGxTV3ZfdDN2WFI5YjYxQzRkOUE3VER1X25rVjZIZXc1TXNrTnByZ3VPU1VmZVlKWXdnVEpLUGtqWlNKMmkwSXRiWG9XdEpOaVVnaXdjUExjOVVId1h1ZjR2MVd6N3hXVVh5bHpCdzJkdzlwZ0dDQl9SX05VV0lZNVhVZDZmUnVZXy1VNHFRTm42LUtkcmdUczNUeWRLenl6cWhieFRQZjZkTFRFeGR1cWllOXBoU2Rhd21veEF3cmo?oc=5",
+      "short_link": "https://tinyurl.com/28czgc36"
+    },
+    {
+      "title": "Fed緘默期前最後發聲！華許周五談話牽動10月升息押注",
+      "stance": "hawkish",
+      "tokens": [
+        "fed緘默",
+        "華許周五談"
+      ],
+      "last_seen_utc": "2026-10-16T12:44:30.904064+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "yahoo",
+        "鉅亨網"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pRkQ1UWZ2dktGV3g3WjBHSjA5THZmUkZIMFVXRTlNZExTdEw1ZWFwcm5FVGdqWmRjaWtZVUo1UV9fdElYZHg0QVVjQWRZaEU?oc=5",
+      "short_link": "https://tinyurl.com/24l35bdz"
     }
   ]
 }
