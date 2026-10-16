@@ -49,7 +49,7 @@
         "warsh",
         "withh"
       ],
-      "last_seen_utc": "2026-10-16T12:44:30.904064+00:00",
+      "last_seen_utc": "2026-10-16T16:59:20.888925+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cnbc",
@@ -67,7 +67,7 @@
         "標普500",
         "華許沒放鷹"
       ],
-      "last_seen_utc": "2026-10-16T12:44:30.904064+00:00",
+      "last_seen_utc": "2026-10-16T16:59:20.888925+00:00",
       "confidence": "LIKELY",
       "sources": [
         "yahoo新聞",
@@ -80,27 +80,36 @@
       "title": "Fed Chair Kevin Warsh Keeps October Rate Hike in Limbo, Warns AI Could Trigger a ‘Very Bumpy’ Transition",
       "stance": "hawkish",
       "tokens": [
+        "bitco",
         "boost",
         "bumpy",
         "chair",
         "could",
+        "fall",
         "fed",
+        "free",
+        "gold",
         "hike",
+        "imf",
         "keeps",
         "kevin",
+        "leave",
         "limbo",
         "mum",
         "octob",
         "produ",
         "rate",
+        "remar",
+        "rider",
         "trans",
         "trigg",
+        "uncer",
         "very",
         "warns",
         "warsh",
         "will"
       ],
-      "last_seen_utc": "2026-10-16T12:44:30.904064+00:00",
+      "last_seen_utc": "2026-10-16T16:59:20.888925+00:00",
       "confidence": "LIKELY",
       "sources": [
         "benzinga",
@@ -116,7 +125,7 @@
         "fed緘默",
         "華許周五談"
       ],
-      "last_seen_utc": "2026-10-16T12:44:30.904064+00:00",
+      "last_seen_utc": "2026-10-16T16:59:20.888925+00:00",
       "confidence": "LIKELY",
       "sources": [
         "yahoo",
@@ -124,6 +133,22 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pRkQ1UWZ2dktGV3g3WjBHSjA5THZmUkZIMFVXRTlNZExTdEw1ZWFwcm5FVGdqWmRjaWtZVUo1UV9fdElYZHg0QVVjQWRZaEU?oc=5",
       "short_link": "https://tinyurl.com/24l35bdz"
+    },
+    {
+      "title": "華許對利率走向不露口風 10月升息預期降至15％",
+      "stance": "hawkish",
+      "tokens": [
+        "10月升息",
+        "華許對利率"
+      ],
+      "last_seen_utc": "2026-10-16T16:59:20.888925+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "聚財網",
+        "自由財經"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MWkI3bVN2T3pIbUpjdjdxZlBLLWhZYUUtTnlldWh2Q25PWWZDMmNleE5OdEh2TlBUNTVfSWVubndKamdmaGVZU1V3UG9sR3dLYk1QTHB5TWI1YVlCaTI40gFkQVVfeXFMT2hsQ0YzVXJ1N194a3k1ZzZ5QmQ0MTE4emtLenlrOThOOUNOLWNFOWVpdXNCdzNtOXA0ajlfck1LY3BCY25ybXZTWlBpTGJWbVpLa1hkV211TlBSMHlBLXY2T0VuZg?oc=5",
+      "short_link": "https://tinyurl.com/2c2a72cu"
     }
   ]
 }
