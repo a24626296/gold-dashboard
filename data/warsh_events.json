@@ -32,6 +32,49 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4aEJwVDg4dnc0bmJEQmF6YjlobUhGc3JyYU9qc3JjUXU3ekJ2RzZoeWVCejIyUnVjdFRiWG5UakhtNzhTM2pKRjhucDNORE0wdUZxUWJUOUptYVdjeFE?oc=5",
       "short_link": "https://tinyurl.com/2bo48gko"
+    },
+    {
+      "title": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
+      "stance": "hawkish",
+      "tokens": [
+        "fed",
+        "free",
+        "globa",
+        "prais",
+        "rate",
+        "recen",
+        "rider",
+        "signa",
+        "tight",
+        "warsh",
+        "withh"
+      ],
+      "last_seen_utc": "2026-10-16T07:31:30.575157+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "cnbc",
+        "forex factory"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbGxzSlg5TFdlNlE5TkVoRWVLNFVqbXJuamxaRHRfd0tZbnp0aDRXREgtMHg0aDFVWC16V1BuRXJHODltRlJfWHpaRkFPV0ZMZy14OU5JVGNRaXZ3clJfYUdZdDVnaE5wblItNmRWbUotWFpORWMxNk5Kd1h6NlY2VHNRSTdsSkhaYUhIVURTcFJ6Uk5sdExn0gGcAUFVX3lxTE5fZ0p3aTI2eFQyanZ4TmtGV2hkM29JS21sTlBXZkRfdGZjbFE5aGRJcVVBOXI5d2FlRURrMDFZbVEzY19rRFQ4alJwR0JXbk1fN1dSanpLRG00WGRIWnZZUnpCR19WRnMtUmpkNUZJb1VVRFF1QzRFM3p6ZGcwUWlKaUE1elFxRWlNNl9TTEZWZkR6UWlqa0xxdlNOYg?oc=5",
+      "short_link": "https://tinyurl.com/2c3jv8ek"
+    },
+    {
+      "title": "華許沒放鷹市場鬆口氣 Fed 10 月升息機率驟降至13%、標普500期貨翻紅",
+      "stance": "hawkish",
+      "tokens": [
+        "fed",
+        "月升息機率",
+        "標普500",
+        "華許沒放鷹"
+      ],
+      "last_seen_utc": "2026-10-16T07:31:30.575157+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "yahoo新聞",
+        "聚財網"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPZU55bWhnOS1KT2FsRmtTcXlmSUJZMkVPUkRoX195blJvOVRuN0NnX0p3ZEJRNG0zQVBZRDY2SHlUb2NmdDlmZ0FCZlNGNUp5NTFvYmxyVURpSE1BQ2dqMDlVdlFMaXNScVlqc1JTNWFPNjF3NFhOQkJnNmczU2w0RWU2LVhZcjlTcnJVOE1GblIyM1BoeHgxOUUzTkR0Z2VfbS1TMDdyVkEzV2dLN1VsSWdqc01oTmtBNnRiTk5ZN05vN1h3Zkt1Z1R4WDlQRWJmb2JBa3lNeWg3RUtTNVBLMnhDdWtKNUQzbllBZTdUOGFpSUNzMXZpZWw2Qk9PLXJpdnJFUXFDOG1kenNsQUNXMWhpVURhNDRLT3RUNHl1WThBZV82dUd2Sk5DX0EtaUJCdDBZaldOVWc2c2R1eURWOVd5eWpIYWtETTg0c0puNDQ5Rmd0TC1JYW9ZUU44NURRYXNzR3gtc19GMDNOWDlIVzNwS2ZsRW0zMFhHLTFYanRCTnRaNlE?oc=5",
+      "short_link": "https://tinyurl.com/2b8gebkr"
     }
   ]
 }
