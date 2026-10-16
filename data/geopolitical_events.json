@@ -33,61 +33,6 @@
       "short_link": "https://tinyurl.com/2dk4uez8"
     },
     {
-      "title": "22 killed in Russian missile strike on Pryluky, including five children",
-      "tokens": [
-        "antik",
-        "build",
-        "child",
-        "conti",
-        "died",
-        "due",
-        "effor",
-        "emplo",
-        "ends",
-        "five",
-        "forei",
-        "honor",
-        "ihnat",
-        "inclu",
-        "inter",
-        "kille",
-        "kills",
-        "missi",
-        "natal",
-        "opera",
-        "pharm",
-        "porta",
-        "presi",
-        "prylu",
-        "relie",
-        "russi",
-        "searc",
-        "secre",
-        "site",
-        "story",
-        "strik",
-        "ukrna",
-        "urcs",
-        "victi",
-        "visit",
-        "zelen"
-      ],
-      "last_seen_utc": "2026-10-09T19:45:45.732314+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "euromaidan press",
-        "interfax-ukraine",
-        "odessa journal",
-        "the new voice of ukraine",
-        "ua.news",
-        "ukrinform",
-        "головне в україні",
-        "українська правда"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYk5XQ010ek9XME4yQlVjQWhPeUtoZWtsakhQcmtBcjlORWUwSksxbFZoQUZRNkh6WEh2UTZwWmE3WVk4MkNrenlja3F5U3Z4ZmpfRW9uR3daWWNnRGNQRW9JZXJXbHJNUl9qTTIxcGE2eXRJLTlCSEVSWVRZc291eXB1ZzQyeVVmbjFmaHBkQWUtNWNwZnNlVFE2VVY2eW9GMkJleHIybTFNeDlMaW9z?oc=5",
-      "short_link": "https://tinyurl.com/2699389v"
-    },
-    {
       "title": "Coalition: Destruction of 3 Houthi Missile Launch Platforms; Response to Civilian Attacks Will Be Firm",
       "tokens": [
         "attac",
@@ -624,7 +569,7 @@
         "was",
         "zirco"
       ],
-      "last_seen_utc": "2026-10-16T16:59:13.296839+00:00",
+      "last_seen_utc": "2026-10-16T19:50:23.404659+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "ukrmedia news",
@@ -1438,7 +1383,7 @@
         "tribu",
         "wntz"
       ],
-      "last_seen_utc": "2026-10-16T16:59:13.296839+00:00",
+      "last_seen_utc": "2026-10-16T19:50:23.404659+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "ap news",
@@ -1487,7 +1432,9 @@
         "dead",
         "deadl",
         "deser",
+        "devas",
         "dhoba",
+        "drone",
         "escap",
         "exten",
         "fires",
@@ -1557,7 +1504,7 @@
         "wound",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-16T16:59:13.296839+00:00",
+      "last_seen_utc": "2026-10-16T19:50:23.404659+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "arab news",
