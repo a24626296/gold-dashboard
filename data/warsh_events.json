@@ -49,7 +49,7 @@
         "warsh",
         "withh"
       ],
-      "last_seen_utc": "2026-10-17T05:00:04.193462+00:00",
+      "last_seen_utc": "2026-10-17T09:07:03.126612+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cnbc",
@@ -67,7 +67,7 @@
         "標普500",
         "華許沒放鷹"
       ],
-      "last_seen_utc": "2026-10-17T05:00:04.193462+00:00",
+      "last_seen_utc": "2026-10-17T09:07:03.126612+00:00",
       "confidence": "LIKELY",
       "sources": [
         "yahoo新聞",
@@ -81,11 +81,13 @@
       "stance": "hawkish",
       "tokens": [
         "956",
+        "bets",
         "bitco",
         "boost",
         "bumpy",
         "cac",
         "chair",
+        "corne",
         "could",
         "decli",
         "econo",
@@ -95,7 +97,10 @@
         "free",
         "gold",
         "hike",
+        "hot",
         "imf",
+        "infla",
+        "jobs",
         "keeps",
         "kevin",
         "leave",
@@ -112,20 +117,25 @@
         "rises",
         "sees",
         "signa",
+        "spurs",
+        "stage",
         "still",
         "tailw",
+        "takes",
         "term",
         "today",
         "trans",
+        "trap",
         "trigg",
         "unans",
         "uncer",
         "very",
         "warns",
         "warsh",
+        "weak",
         "will"
       ],
-      "last_seen_utc": "2026-10-17T05:00:04.193462+00:00",
+      "last_seen_utc": "2026-10-17T09:07:03.126612+00:00",
       "confidence": "LIKELY",
       "sources": [
         "benzinga",
@@ -157,7 +167,7 @@
         "10月升息",
         "華許對利率"
       ],
-      "last_seen_utc": "2026-10-17T05:00:04.193462+00:00",
+      "last_seen_utc": "2026-10-17T09:07:03.126612+00:00",
       "confidence": "LIKELY",
       "sources": [
         "聚財網",
@@ -174,7 +184,7 @@
         "月不升息",
         "華許不露口"
       ],
-      "last_seen_utc": "2026-10-17T05:00:04.193462+00:00",
+      "last_seen_utc": "2026-10-17T09:07:03.126612+00:00",
       "confidence": "LIKELY",
       "sources": [
         "聚財網",
@@ -190,7 +200,7 @@
         "央行須關注",
         "華許出席i"
       ],
-      "last_seen_utc": "2026-10-17T05:00:04.193462+00:00",
+      "last_seen_utc": "2026-10-17T09:07:03.126612+00:00",
       "confidence": "LIKELY",
       "sources": [
         "line today",
@@ -204,10 +214,11 @@
       "stance": "hawkish",
       "tokens": [
         "fed本月",
+        "不預設立場",
         "提醒ai已",
         "華許曼谷對"
       ],
-      "last_seen_utc": "2026-10-17T05:00:04.193462+00:00",
+      "last_seen_utc": "2026-10-17T09:07:03.126612+00:00",
       "confidence": "LIKELY",
       "sources": [
         "udn",
@@ -226,7 +237,7 @@
         "本月升息機",
         "華許曼谷對"
       ],
-      "last_seen_utc": "2026-10-17T05:00:04.193462+00:00",
+      "last_seen_utc": "2026-10-17T09:07:03.126612+00:00",
       "confidence": "LIKELY",
       "sources": [
         "經濟日報",
@@ -265,7 +276,7 @@
         "tamin",
         "warsh"
       ],
-      "last_seen_utc": "2026-10-17T05:00:04.193462+00:00",
+      "last_seen_utc": "2026-10-17T09:07:03.126612+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "businesstoday malaysia",
