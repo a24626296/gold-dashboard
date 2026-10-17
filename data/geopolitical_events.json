@@ -603,7 +603,7 @@
         "today",
         "years"
       ],
-      "last_seen_utc": "2026-10-16T22:22:53.245827+00:00",
+      "last_seen_utc": "2026-10-17T00:39:21.907448+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "apa.az",
@@ -1388,7 +1388,7 @@
         "tribu",
         "wntz"
       ],
-      "last_seen_utc": "2026-10-16T22:22:53.245827+00:00",
+      "last_seen_utc": "2026-10-17T00:39:21.907448+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "ap news",
@@ -1413,9 +1413,11 @@
     {
       "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
       "tokens": [
+        "151",
         "about",
         "aden",
         "aeros",
+        "airpo",
         "alimi",
         "arabi",
         "aramc",
@@ -1479,6 +1481,7 @@
         "najra",
         "news",
         "palac",
+        "passe",
         "peopl",
         "postp",
         "presi",
@@ -1510,7 +1513,7 @@
         "wound",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-16T22:22:53.245827+00:00",
+      "last_seen_utc": "2026-10-17T00:39:21.907448+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "arab news",
