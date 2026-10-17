@@ -49,7 +49,7 @@
         "warsh",
         "withh"
       ],
-      "last_seen_utc": "2026-10-17T18:28:15.297843+00:00",
+      "last_seen_utc": "2026-10-17T20:49:59.722130+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cnbc",
@@ -67,7 +67,7 @@
         "標普500",
         "華許沒放鷹"
       ],
-      "last_seen_utc": "2026-10-17T18:28:15.297843+00:00",
+      "last_seen_utc": "2026-10-17T20:49:59.722130+00:00",
       "confidence": "LIKELY",
       "sources": [
         "yahoo新聞",
@@ -135,7 +135,7 @@
         "weak",
         "will"
       ],
-      "last_seen_utc": "2026-10-17T18:28:15.297843+00:00",
+      "last_seen_utc": "2026-10-17T20:49:59.722130+00:00",
       "confidence": "LIKELY",
       "sources": [
         "benzinga",
@@ -165,9 +165,10 @@
       "stance": "hawkish",
       "tokens": [
         "10月升息",
-        "華許對利率"
+        "華許對利率",
+        "華許拒絕預"
       ],
-      "last_seen_utc": "2026-10-17T18:28:15.297843+00:00",
+      "last_seen_utc": "2026-10-17T20:49:59.722130+00:00",
       "confidence": "LIKELY",
       "sources": [
         "聚財網",
@@ -184,7 +185,7 @@
         "月不升息",
         "華許不露口"
       ],
-      "last_seen_utc": "2026-10-17T18:28:15.297843+00:00",
+      "last_seen_utc": "2026-10-17T20:49:59.722130+00:00",
       "confidence": "LIKELY",
       "sources": [
         "聚財網",
@@ -200,7 +201,7 @@
         "央行須關注",
         "華許出席i"
       ],
-      "last_seen_utc": "2026-10-17T18:28:15.297843+00:00",
+      "last_seen_utc": "2026-10-17T20:49:59.722130+00:00",
       "confidence": "LIKELY",
       "sources": [
         "line today",
@@ -218,7 +219,7 @@
         "提醒ai已",
         "華許曼谷對"
       ],
-      "last_seen_utc": "2026-10-17T18:28:15.297843+00:00",
+      "last_seen_utc": "2026-10-17T20:49:59.722130+00:00",
       "confidence": "LIKELY",
       "sources": [
         "udn",
@@ -237,7 +238,7 @@
         "本月升息機",
         "華許曼谷對"
       ],
-      "last_seen_utc": "2026-10-17T18:28:15.297843+00:00",
+      "last_seen_utc": "2026-10-17T20:49:59.722130+00:00",
       "confidence": "LIKELY",
       "sources": [
         "經濟日報",
@@ -250,10 +251,13 @@
       "title": "Warsh says Fed is focused on taming rising prices, but gives no hint about next rate hike",
       "stance": "hawkish",
       "tokens": [
+        "956",
         "about",
         "boost",
         "but",
+        "cac",
         "chair",
+        "decli",
         "econo",
         "fed",
         "focus",
@@ -262,11 +266,15 @@
         "hint",
         "hit",
         "issue",
+        "kevin",
         "next",
+        "octob",
         "offer",
+        "paris",
         "price",
         "produ",
         "rate",
+        "rises",
         "risin",
         "says",
         "sees",
@@ -274,9 +282,10 @@
         "stabi",
         "tailw",
         "tamin",
+        "today",
         "warsh"
       ],
-      "last_seen_utc": "2026-10-17T18:28:15.297843+00:00",
+      "last_seen_utc": "2026-10-17T20:49:59.722130+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "businesstoday malaysia",
