@@ -49,7 +49,7 @@
         "warsh",
         "withh"
       ],
-      "last_seen_utc": "2026-10-16T22:23:00.669396+00:00",
+      "last_seen_utc": "2026-10-17T00:39:29.544097+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cnbc",
@@ -67,7 +67,7 @@
         "標普500",
         "華許沒放鷹"
       ],
-      "last_seen_utc": "2026-10-16T22:23:00.669396+00:00",
+      "last_seen_utc": "2026-10-17T00:39:29.544097+00:00",
       "confidence": "LIKELY",
       "sources": [
         "yahoo新聞",
@@ -88,6 +88,8 @@
         "chair",
         "could",
         "decli",
+        "econo",
+        "endor",
         "fall",
         "fed",
         "free",
@@ -98,25 +100,32 @@
         "kevin",
         "leave",
         "limbo",
+        "long",
         "mum",
         "octob",
+        "offer",
         "paris",
         "produ",
         "rate",
         "remar",
         "rider",
         "rises",
+        "sees",
         "signa",
+        "still",
+        "tailw",
+        "term",
         "today",
         "trans",
         "trigg",
+        "unans",
         "uncer",
         "very",
         "warns",
         "warsh",
         "will"
       ],
-      "last_seen_utc": "2026-10-16T22:23:00.669396+00:00",
+      "last_seen_utc": "2026-10-17T00:39:29.544097+00:00",
       "confidence": "LIKELY",
       "sources": [
         "benzinga",
@@ -132,7 +141,7 @@
         "fed緘默",
         "華許周五談"
       ],
-      "last_seen_utc": "2026-10-16T22:23:00.669396+00:00",
+      "last_seen_utc": "2026-10-17T00:39:29.544097+00:00",
       "confidence": "LIKELY",
       "sources": [
         "yahoo",
@@ -148,7 +157,7 @@
         "10月升息",
         "華許對利率"
       ],
-      "last_seen_utc": "2026-10-16T22:23:00.669396+00:00",
+      "last_seen_utc": "2026-10-17T00:39:29.544097+00:00",
       "confidence": "LIKELY",
       "sources": [
         "聚財網",
@@ -165,7 +174,7 @@
         "月不升息",
         "華許不露口"
       ],
-      "last_seen_utc": "2026-10-16T22:23:00.669396+00:00",
+      "last_seen_utc": "2026-10-17T00:39:29.544097+00:00",
       "confidence": "LIKELY",
       "sources": [
         "聚財網",
@@ -181,7 +190,7 @@
         "央行須關注",
         "華許出席i"
       ],
-      "last_seen_utc": "2026-10-16T22:23:00.669396+00:00",
+      "last_seen_utc": "2026-10-17T00:39:29.544097+00:00",
       "confidence": "LIKELY",
       "sources": [
         "line today",
@@ -189,6 +198,42 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qWmtSZVBDUm00ZXZjbXByVEVicDBVYktjQmhoX0Y2Q1h1ZHRkQU9feTNxM0hpX2R3NllONWROWllxMFRXWmg5ajlHOHExTFAxbUZJNk9PbWlSRFpX?oc=5",
       "short_link": "https://tinyurl.com/272p3aaz"
+    },
+    {
+      "title": "華許曼谷對談不放鷹、提醒AI已推升需求 Fed本月升息機率降至不到15%",
+      "stance": "hawkish",
+      "tokens": [
+        "fed本月",
+        "提醒ai已",
+        "華許曼谷對"
+      ],
+      "last_seen_utc": "2026-10-17T00:39:29.544097+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "udn",
+        "世界新聞網"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tZmp2cHQ5N2FaTVVlSE9oUDN6Ui0yNWNFdjkwbGxXbFNEeHRaMjdldll3U3NndTBFekxiYTVabmllai12dkE5Mm51aUJ0VmVKYnRraHg0bW9qS0pnSllfSzZB0gFnQVVfeXFMTWtwTmp5M3VUMi1KSDBocVJ5ckJ3YWpudmR3d0J6OVRHNTB0OTBrRUtwMXJmc1F2dEdsZUJaNWFTWmJSQ1JhcXlSWHNDczNLX2pURnAtTmhINUFmTnZyRkZDQU9qdW9QUQ?oc=5",
+      "short_link": "https://tinyurl.com/27f8agc7"
+    },
+    {
+      "title": "華許曼谷對談不放鷹、提醒 AI 已推升需求 Fed 本月升息機率降至不到15% | 國際焦點 | 國際",
+      "stance": "hawkish",
+      "tokens": [
+        "fed",
+        "國際焦點",
+        "已推升需求",
+        "本月升息機",
+        "華許曼谷對"
+      ],
+      "last_seen_utc": "2026-10-17T00:39:29.544097+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "經濟日報",
+        "聚財網"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTUEFIcWVzTk1YZFhHMEI3ZzJ2R29VWE5RdHZyUGRONjBRbXRRdXY0UEtHbDU3UHh1LW9pSjlhaF9ITUNKUWZqdmZfbTRLZTZfZEJTUGZEcEV5TmFMVzhXajlzNHI3M0l4aVV2SkxORUZWZ0hxeE9N?oc=5",
+      "short_link": "https://tinyurl.com/29444dx9"
     }
   ]
 }
