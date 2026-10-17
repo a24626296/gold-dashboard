@@ -603,7 +603,7 @@
         "today",
         "years"
       ],
-      "last_seen_utc": "2026-10-17T00:39:21.907448+00:00",
+      "last_seen_utc": "2026-10-17T04:59:56.284086+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "apa.az",
@@ -1491,6 +1491,7 @@
         "safet",
         "saudi",
         "says",
+        "secon",
         "six",
         "soldi",
         "strik",
@@ -1504,16 +1505,18 @@
         "targe",
         "tensi",
         "there",
+        "time",
         "two",
         "unhur",
         "unlea",
         "video",
         "was",
+        "week",
         "world",
         "wound",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-17T00:39:21.907448+00:00",
+      "last_seen_utc": "2026-10-17T04:59:56.284086+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "arab news",
@@ -1561,6 +1564,36 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbkFOY3lPYnZzY2JhR0RfeEUtQU1lZDVLU1N4a254d1Z6ZmlLM25LUm12Q2tudk1VOU9oR0xSaW92aUJEUlgyWWJ5NVQzVEJNb0dzU21MWWlXcU5JNkVKWlE5eVBteEItT3RXSHRvY2djQTFkOGNIUFVuVXRERUItcnMtSl9hdw?oc=5",
       "short_link": "https://tinyurl.com/2by8eqpm"
+    },
+    {
+      "title": "2 missiles strike the airport in Yemen’s port city of Aden, officials say",
+      "tokens": [
+        "aden",
+        "airpo",
+        "blame",
+        "city",
+        "gover",
+        "hit",
+        "houth",
+        "missi",
+        "offic",
+        "port",
+        "repor",
+        "say",
+        "strik",
+        "two",
+        "yemen"
+      ],
+      "last_seen_utc": "2026-10-17T04:59:56.284086+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "boston herald",
+        "business standard",
+        "oz arab media",
+        "united news of bangladesh"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSlh6MmtrV1JrMEF4eC1KaUJhZk85aVVBdW4yRi1qM2ZVc0s5bW1JNDFWcW9DY21YbVl6ZDN6RmJqRFAxUTk3cmNnMmIyb3ZjZUtwbW94Z0dUcGhPN0V2bGNRd3JLVFdXZDI3RU9uTjBIUGpqbW5zazAzdkh1RDQtRWNQZTJaVVNfTDRhdkozbXZ3Ri05c1djcjM0S1MxbmpIRUFicDlENDBOYXVNNDJSU2t3?oc=5",
+      "short_link": "https://tinyurl.com/2xlt7mxs"
     }
   ]
 }
