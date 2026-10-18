@@ -1663,5 +1663,40 @@
       "geo_score": 40,
       "warsh_score": 15
     }
+  },
+  {
+    "timestamp": "2026-10-18T23:49:25.177079+00:00",
+    "gold_price": 4201.5,
+    "momentum_score": 100,
+    "alert_level": "alert",
+    "reasons": [
+      "實質利率大幅下降 -0.140 (+35)",
+      "DXY 5日小跌 -0.70% (+8)",
+      "VIX 大幅上升 34.70% (+20)",
+      "地緣政治衝擊事件(24小時內): Russian missile attack on Kremenchuk kills two, injures seve... (+40)",
+      "華許鴿派發言(24小時內): Trump on interest rate increase and confidence in Fed Chair ... (+25)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 101.85900115966797,
+        "prev_5d": 102.58000183105469,
+        "change_pct": -0.702866697715778
+      },
+      "vix": {
+        "latest": 19.989999771118164,
+        "prev_5d": 14.84000015258789,
+        "change_pct": 34.70350111574753
+      },
+      "gld": null,
+      "cot": {
+        "report_date": "2026-10-13T00:00:00.000",
+        "net_long": 107089,
+        "prev_net_long": 110987,
+        "change_pct": -3.512123041437285
+      },
+      "real_rate_5d_change": -0.14000000000000012,
+      "geo_score": 40,
+      "warsh_score": 25
+    }
   }
 ]
