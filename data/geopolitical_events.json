@@ -5,7 +5,9 @@
       "tokens": [
         "alrea",
         "attac",
+        "child",
         "dead",
+        "inclu",
         "injur",
         "khark",
         "kills",
@@ -22,7 +24,7 @@
         "than",
         "two"
       ],
-      "last_seen_utc": "2026-10-16T16:59:13.296839+00:00",
+      "last_seen_utc": "2026-10-18T00:32:11.786451+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "mezha.net",
@@ -834,7 +836,7 @@
         "warns",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-17T22:48:29.134593+00:00",
+      "last_seen_utc": "2026-10-18T00:32:11.786451+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "cnbc",
@@ -1506,7 +1508,7 @@
         "week",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-17T22:48:29.134593+00:00",
+      "last_seen_utc": "2026-10-18T00:32:11.786451+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "boston herald",
