@@ -810,6 +810,7 @@
         "force",
         "gave",
         "impen",
+        "just",
         "kyiv",
         "missi",
         "repor",
@@ -819,7 +820,7 @@
         "warni",
         "zelen"
       ],
-      "last_seen_utc": "2026-10-19T19:57:26.298576+00:00",
+      "last_seen_utc": "2026-10-19T23:18:16.417305+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "cnn",
@@ -1213,7 +1214,9 @@
         "balli",
         "bodie",
         "camp",
+        "claim",
         "dead",
+        "escal",
         "fight",
         "force",
         "gover",
@@ -1231,6 +1234,7 @@
         "launc",
         "least",
         "leave",
+        "lives",
         "local",
         "lying",
         "milit",
@@ -1258,10 +1262,11 @@
         "troop",
         "updat",
         "video",
+        "war",
         "xinhu",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-19T19:57:26.298576+00:00",
+      "last_seen_utc": "2026-10-19T23:18:16.417305+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
@@ -1296,7 +1301,7 @@
         "toll",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-19T19:57:26.298576+00:00",
+      "last_seen_utc": "2026-10-19T23:18:16.417305+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "haaretz",
