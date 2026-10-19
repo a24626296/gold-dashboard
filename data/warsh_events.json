@@ -30,7 +30,7 @@
         "trump",
         "warsh"
       ],
-      "last_seen_utc": "2026-10-19T01:41:54.254119+00:00",
+      "last_seen_utc": "2026-10-19T06:50:57.501792+00:00",
       "confidence": "LIKELY",
       "sources": [
         "biggo finance",
@@ -175,7 +175,7 @@
         "華許對利率",
         "華許拒絕預"
       ],
-      "last_seen_utc": "2026-10-19T01:41:54.254119+00:00",
+      "last_seen_utc": "2026-10-19T06:50:57.501792+00:00",
       "confidence": "LIKELY",
       "sources": [
         "聚財網",
@@ -192,7 +192,7 @@
         "月不升息",
         "華許不露口"
       ],
-      "last_seen_utc": "2026-10-19T01:41:54.254119+00:00",
+      "last_seen_utc": "2026-10-19T06:50:57.501792+00:00",
       "confidence": "LIKELY",
       "sources": [
         "聚財網",
@@ -307,6 +307,31 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUm1YY3gtQVZrcEhOQm9iNE1idzlmNnRZTzQxOXd6dUl2XzBhZTBsZk04a1U1R1VBbEw0VG1keFVhdUNrUEc2N3JlOGVCcDhtLXR6NG1OLTc2OE9RM0hKM1J5N2tCTnVvNEJyR1FhUXA4dFYwMS1BTmszaHZSODNHWjJIQ1NvQU1SMGdzbzZjVHhwTWc1VlJqOWlaTXBvWVRjNHNMXy1CdDM?oc=5",
       "short_link": "https://tinyurl.com/2y3yob8r"
+    },
+    {
+      "title": "Gold Edges Higher as Traders Ease Rate-Hike Bets on Warsh Speech",
+      "stance": "dovish",
+      "tokens": [
+        "bets",
+        "ease",
+        "edges",
+        "gold",
+        "highe",
+        "hike",
+        "rate",
+        "speec",
+        "trade",
+        "warsh"
+      ],
+      "last_seen_utc": "2026-10-19T06:50:57.501792+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "bloomberg.com",
+        "tradingview",
+        "yahoo finance"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPREhDWC00MVloSzQ4QWFaYzl1MTdFTG1fRURVRmZzZF8yTms3MGpaYkhYSWd6Z2V6U1U2a1pNVDVKRl80OHdZY0YxSklldWVPR1g0YklVTGQ1MVhNdDJlUXh4dDNsQm1TQnBrMkp5NV9CTzlnS2VEeGR2a3V0bFhNNVBRejRlZlVRUE9sSUtEakxmMUlyQlQzdEYyanI1WXJaVjV2WXFUQjd1Tm9NR29tZUJCMWRGZw?oc=5",
+      "short_link": "https://tinyurl.com/2yuz78lm"
     }
   ]
 }
