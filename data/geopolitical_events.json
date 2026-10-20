@@ -820,7 +820,7 @@
         "warni",
         "zelen"
       ],
-      "last_seen_utc": "2026-10-19T23:18:16.417305+00:00",
+      "last_seen_utc": "2026-10-20T01:58:30.281283+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "cnn",
@@ -1266,7 +1266,7 @@
         "xinhu",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-19T23:18:16.417305+00:00",
+      "last_seen_utc": "2026-10-20T01:58:30.281283+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
@@ -1287,8 +1287,12 @@
         "army",
         "attac",
         "backe",
+        "balli",
         "base",
+        "centr",
+        "city",
         "death",
+        "fire",
         "follo",
         "gover",
         "houth",
@@ -1296,12 +1300,14 @@
         "least",
         "milit",
         "missi",
+        "repel",
         "rises",
         "saudi",
+        "south",
         "toll",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-19T23:18:16.417305+00:00",
+      "last_seen_utc": "2026-10-20T01:58:30.281283+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "haaretz",
