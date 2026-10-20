@@ -175,7 +175,7 @@
         "華許對利率",
         "華許拒絕預"
       ],
-      "last_seen_utc": "2026-10-20T20:53:45.012182+00:00",
+      "last_seen_utc": "2026-10-20T23:34:29.633991+00:00",
       "confidence": "LIKELY",
       "sources": [
         "聚財網",
@@ -323,7 +323,7 @@
         "trade",
         "warsh"
       ],
-      "last_seen_utc": "2026-10-20T20:53:45.012182+00:00",
+      "last_seen_utc": "2026-10-20T23:34:29.633991+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "bloomberg.com",
@@ -362,7 +362,7 @@
         "why",
         "year"
       ],
-      "last_seen_utc": "2026-10-20T20:53:45.012182+00:00",
+      "last_seen_utc": "2026-10-20T23:34:29.633991+00:00",
       "confidence": "LIKELY",
       "sources": [
         "the motley fool",
@@ -370,6 +370,36 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWXNrVF9vRkFfd1lIS1pDRzl1TldxWnRqeUlDQmF5Tjk4ZXhubVdoWS1qNFB0XzBOVGQ0c0FXNkEyWVBCQU1URE5yZkt2ajhFZjNUT2xzV21rYzI1N2Q5RlRLRmZYNUxiWVZpazFGRWVaUzZDVWZqUUxlV040Q1VQTFBUWjg4TkJKVEdvY1c0QkxjcVo2MHJuTDNn?oc=5",
       "short_link": "https://tinyurl.com/2ahqwawc"
+    },
+    {
+      "title": "Kevin Warsh's Fed May Not Cut Rates Soon. That's Why This Dividend Stock Belongs in Your Portfolio.",
+      "stance": "dovish",
+      "tokens": [
+        "belon",
+        "cut",
+        "divid",
+        "fed",
+        "kevin",
+        "may",
+        "not",
+        "portf",
+        "rates",
+        "soon",
+        "stock",
+        "that",
+        "this",
+        "warsh",
+        "why",
+        "your"
+      ],
+      "last_seen_utc": "2026-10-20T23:34:29.633991+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "aol.com",
+        "the motley fool"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcFRicnZodHp0Z0xMNGM3V2MyX0FrdlgwN3ZJQUZXemN0REhIRmV6SzBoaktiNDVCYnl1YVRrSUFJcjNVcWVKd3pCT0puVUVUeWdESkFxODFMb2V4STZHMHkzTGlRZDZ4enU0al9Ddm4ydmthLUh4UkJqT1hJcW92RnMxcTh5cU1PaEx6T01La0VhV25IX3Zn?oc=5",
+      "short_link": "https://tinyurl.com/2yqwbzyz"
     }
   ]
 }
