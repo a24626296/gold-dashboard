@@ -820,7 +820,7 @@
         "warni",
         "zelen"
       ],
-      "last_seen_utc": "2026-10-20T01:58:30.281283+00:00",
+      "last_seen_utc": "2026-10-20T07:15:29.075418+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "cnn",
@@ -1214,6 +1214,7 @@
         "balli",
         "bodie",
         "camp",
+        "civil",
         "claim",
         "dead",
         "escal",
@@ -1226,6 +1227,7 @@
         "houth",
         "india",
         "injur",
+        "inten",
         "iran",
         "kill",
         "kille",
@@ -1266,7 +1268,7 @@
         "xinhu",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-20T01:58:30.281283+00:00",
+      "last_seen_utc": "2026-10-20T07:15:29.075418+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
@@ -1289,6 +1291,7 @@
         "backe",
         "balli",
         "base",
+        "casua",
         "centr",
         "city",
         "death",
@@ -1300,14 +1303,18 @@
         "least",
         "milit",
         "missi",
+        "provi",
+        "recru",
         "repel",
+        "repor",
         "rises",
         "saudi",
+        "shabw",
         "south",
         "toll",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-20T01:58:30.281283+00:00",
+      "last_seen_utc": "2026-10-20T07:15:29.075418+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "haaretz",
