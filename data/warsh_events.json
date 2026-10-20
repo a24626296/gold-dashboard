@@ -30,7 +30,7 @@
         "trump",
         "warsh"
       ],
-      "last_seen_utc": "2026-10-20T07:15:36.417710+00:00",
+      "last_seen_utc": "2026-10-20T12:45:45.570553+00:00",
       "confidence": "LIKELY",
       "sources": [
         "biggo finance",
@@ -175,7 +175,7 @@
         "華許對利率",
         "華許拒絕預"
       ],
-      "last_seen_utc": "2026-10-20T07:15:36.417710+00:00",
+      "last_seen_utc": "2026-10-20T12:45:45.570553+00:00",
       "confidence": "LIKELY",
       "sources": [
         "聚財網",
@@ -323,7 +323,7 @@
         "trade",
         "warsh"
       ],
-      "last_seen_utc": "2026-10-20T07:15:36.417710+00:00",
+      "last_seen_utc": "2026-10-20T12:45:45.570553+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "bloomberg.com",
@@ -332,6 +332,44 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPREhDWC00MVloSzQ4QWFaYzl1MTdFTG1fRURVRmZzZF8yTms3MGpaYkhYSWd6Z2V6U1U2a1pNVDVKRl80OHdZY0YxSklldWVPR1g0YklVTGQ1MVhNdDJlUXh4dDNsQm1TQnBrMkp5NV9CTzlnS2VEeGR2a3V0bFhNNVBRejRlZlVRUE9sSUtEakxmMUlyQlQzdEYyanI1WXJaVjV2WXFUQjd1Tm9NR29tZUJCMWRGZw?oc=5",
       "short_link": "https://tinyurl.com/2yuz78lm"
+    },
+    {
+      "title": "Fed Minutes Show Another Rate Hike Is Likely This Year as Kevin Warsh's FOMC Battles Persistent Inflation. Here's Why That Signal Matters for Stocks and Bonds Heading Into Year-End.",
+      "stance": "hawkish",
+      "tokens": [
+        "anoth",
+        "battl",
+        "bonds",
+        "end",
+        "fed",
+        "fomc",
+        "headi",
+        "here",
+        "hike",
+        "infla",
+        "kevin",
+        "likel",
+        "matte",
+        "minut",
+        "persi",
+        "rate",
+        "show",
+        "signa",
+        "stock",
+        "that",
+        "this",
+        "warsh",
+        "why",
+        "year"
+      ],
+      "last_seen_utc": "2026-10-20T12:45:45.570553+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "the motley fool",
+        "yahoo finance"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWXNrVF9vRkFfd1lIS1pDRzl1TldxWnRqeUlDQmF5Tjk4ZXhubVdoWS1qNFB0XzBOVGQ0c0FXNkEyWVBCQU1URE5yZkt2ajhFZjNUT2xzV21rYzI1N2Q5RlRLRmZYNUxiWVZpazFGRWVaUzZDVWZqUUxlV040Q1VQTFBUWjg4TkJKVEdvY1c0QkxjcVo2MHJuTDNn?oc=5",
+      "short_link": "https://tinyurl.com/2ahqwawc"
     }
   ]
 }
