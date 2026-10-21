@@ -362,7 +362,7 @@
         "why",
         "year"
       ],
-      "last_seen_utc": "2026-10-21T07:34:41.215862+00:00",
+      "last_seen_utc": "2026-10-21T13:14:28.151623+00:00",
       "confidence": "LIKELY",
       "sources": [
         "the motley fool",
@@ -392,7 +392,7 @@
         "why",
         "your"
       ],
-      "last_seen_utc": "2026-10-21T07:34:41.215862+00:00",
+      "last_seen_utc": "2026-10-21T13:14:28.151623+00:00",
       "confidence": "LIKELY",
       "sources": [
         "aol.com",
@@ -400,6 +400,39 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcFRicnZodHp0Z0xMNGM3V2MyX0FrdlgwN3ZJQUZXemN0REhIRmV6SzBoaktiNDVCYnl1YVRrSUFJcjNVcWVKd3pCT0puVUVUeWdESkFxODFMb2V4STZHMHkzTGlRZDZ4enU0al9Ddm4ydmthLUh4UkJqT1hJcW92RnMxcTh5cU1PaEx6T01La0VhV25IX3Zn?oc=5",
       "short_link": "https://tinyurl.com/2yqwbzyz"
+    },
+    {
+      "title": "No wonder the White House wants Warsh to cut: A 1% Fed rate hike costs the Treasury an extra $95 billion a year in national debt interest, says BofA",
+      "stance": "hawkish",
+      "tokens": [
+        "billi",
+        "bofa",
+        "costs",
+        "cut",
+        "debt",
+        "extra",
+        "fed",
+        "hike",
+        "house",
+        "inter",
+        "natio",
+        "rate",
+        "says",
+        "treas",
+        "wants",
+        "warsh",
+        "white",
+        "wonde",
+        "year"
+      ],
+      "last_seen_utc": "2026-10-21T13:14:28.151623+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "fortune",
+        "yahoo finance"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWDk4ZC1wYS13eklDXzVoTC1MLTBiMVdjbFE5ZG5UVFlpRVQ4WXllalJ4aFNPcmVmSzhkR25nMVF1VlRSU29uQ1hEb2dETkVHU3VSN3RuMkpSelp5cjA4OGNJa1h4ZGdQbVlrOHo4eklqSlZ6OGlvNG1SMFpBWTRHNXlHMkhNaWtwZFYyRUlIaw?oc=5",
+      "short_link": "https://tinyurl.com/22gj2nzr"
     }
   ]
 }
