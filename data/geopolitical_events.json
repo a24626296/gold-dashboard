@@ -66,7 +66,7 @@
         "was",
         "zirco"
       ],
-      "last_seen_utc": "2026-10-21T21:39:19.874364+00:00",
+      "last_seen_utc": "2026-10-22T00:13:41.688600+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "ukrmedia news",
@@ -905,6 +905,8 @@
         "aden",
         "airpo",
         "airst",
+        "annou",
+        "arabi",
         "ashar",
         "attac",
         "badr",
@@ -938,7 +940,7 @@
         "vicin",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-21T21:39:19.874364+00:00",
+      "last_seen_utc": "2026-10-22T00:13:41.688600+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
@@ -949,6 +951,30 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNlVfR21tWjRKeWhoNlRUUEppdmtuWEJhM0RrWnpQam9OazI0a1pYMlAxZm11UWE2bkl3WkZlMjBWVDVsWE02Qk4zd091Z3pkUDBRVkdUSW45amJMeUJoY3FUYml3Ny1UTFJQbUhnelMzbFhaZTlIOUtBYmhWenhmaC1GS1A?oc=5",
       "short_link": "https://tinyurl.com/25sk522d"
+    },
+    {
+      "title": "Ukrainian capital under missile attack, explosions seen in city By Reuters",
+      "tokens": [
+        "attac",
+        "capit",
+        "city",
+        "explo",
+        "kyiv",
+        "missi",
+        "reute",
+        "seen",
+        "ukrai",
+        "under"
+      ],
+      "last_seen_utc": "2026-10-22T00:13:41.688600+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "internazionale",
+        "investing.com",
+        "the straits times"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX3VwMzU1LVhqeDBmRmZSWEppN1J0NEFOZk9uMXpub291Ni1FOVFWLUhjVm1EVE5WTjFlUmRDZUNBVmRFYTdtakVnZ2dBc0JlM0RYZk5hZGZIbnlrbkg1aUtPazRIcTJoQm1adXVDcnFMRTJOOUtTVWFPRE5XT2owa2tmRUFqS2RaSFZ1dEhQZzBodjVad3ktaWdIeGh3MC14ZVlIX0J4a0o2WGFjZEpzajhn?oc=5",
+      "short_link": "https://tinyurl.com/248hwlxp"
     }
   ]
 }
