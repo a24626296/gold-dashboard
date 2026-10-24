@@ -417,6 +417,29 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWDk4ZC1wYS13eklDXzVoTC1MLTBiMVdjbFE5ZG5UVFlpRVQ4WXllalJ4aFNPcmVmSzhkR25nMVF1VlRSU29uQ1hEb2dETkVHU3VSN3RuMkpSelp5cjA4OGNJa1h4ZGdQbVlrOHo4eklqSlZ6OGlvNG1SMFpBWTRHNXlHMkhNaWtwZFYyRUlIaw?oc=5",
       "short_link": "https://tinyurl.com/22gj2nzr"
+    },
+    {
+      "title": "Trump Criticizes Warsh as Fed Rate Hikes Threaten Stocks",
+      "stance": "hawkish",
+      "tokens": [
+        "chair",
+        "criti",
+        "fed",
+        "hikes",
+        "rate",
+        "stock",
+        "threa",
+        "trump",
+        "warsh"
+      ],
+      "last_seen_utc": "2026-10-24T19:16:56.550083+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "demokratis.co.id",
+        "suaragarut.id"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHVFlDMEM4bXBYRW5kZTJWVkUwaFJQdGVSaWJDemI2SFRCXzhNLTFkeDluZHl4QnVwV1VhU3JwLWVvSjJZU25EM2NYVU1BcU1uTkRSM3FUNXhkeHhVR1VsWEF5TjFSNlBUcTFJZ0d3?oc=5",
+      "short_link": "https://tinyurl.com/23gxo4ue"
     }
   ]
 }
