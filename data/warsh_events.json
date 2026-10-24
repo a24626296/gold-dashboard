@@ -152,22 +152,6 @@
       "short_link": "https://tinyurl.com/28czgc36"
     },
     {
-      "title": "Fed緘默期前最後發聲！華許周五談話牽動10月升息押注",
-      "stance": "hawkish",
-      "tokens": [
-        "fed緘默",
-        "華許周五談"
-      ],
-      "last_seen_utc": "2026-10-17T00:39:29.544097+00:00",
-      "confidence": "LIKELY",
-      "sources": [
-        "yahoo",
-        "鉅亨網"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pRkQ1UWZ2dktGV3g3WjBHSjA5THZmUkZIMFVXRTlNZExTdEw1ZWFwcm5FVGdqWmRjaWtZVUo1UV9fdElYZHg0QVVjQWRZaEU?oc=5",
-      "short_link": "https://tinyurl.com/24l35bdz"
-    },
-    {
       "title": "華許對利率走向不露口風 10月升息預期降至15％",
       "stance": "hawkish",
       "tokens": [
@@ -298,7 +282,7 @@
         "today",
         "warsh"
       ],
-      "last_seen_utc": "2026-10-23T22:28:09.010851+00:00",
+      "last_seen_utc": "2026-10-24T00:56:39.910901+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "businesstoday malaysia",
