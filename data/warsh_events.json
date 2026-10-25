@@ -40,31 +40,6 @@
       "short_link": "https://tinyurl.com/2bo48gko"
     },
     {
-      "title": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
-      "stance": "hawkish",
-      "tokens": [
-        "fed",
-        "free",
-        "globa",
-        "prais",
-        "rate",
-        "recen",
-        "rider",
-        "signa",
-        "tight",
-        "warsh",
-        "withh"
-      ],
-      "last_seen_utc": "2026-10-18T00:32:19.387955+00:00",
-      "confidence": "LIKELY",
-      "sources": [
-        "cnbc",
-        "forex factory"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbGxzSlg5TFdlNlE5TkVoRWVLNFVqbXJuamxaRHRfd0tZbnp0aDRXREgtMHg0aDFVWC16V1BuRXJHODltRlJfWHpaRkFPV0ZMZy14OU5JVGNRaXZ3clJfYUdZdDVnaE5wblItNmRWbUotWFpORWMxNk5Kd1h6NlY2VHNRSTdsSkhaYUhIVURTcFJ6Uk5sdExn0gGcAUFVX3lxTE5fZ0p3aTI2eFQyanZ4TmtGV2hkM29JS21sTlBXZkRfdGZjbFE5aGRJcVVBOXI5d2FlRURrMDFZbVEzY19rRFQ4alJwR0JXbk1fN1dSanpLRG00WGRIWnZZUnpCR19WRnMtUmpkNUZJb1VVRFF1QzRFM3p6ZGcwUWlKaUE1elFxRWlNNl9TTEZWZkR6UWlqa0xxdlNOYg?oc=5",
-      "short_link": "https://tinyurl.com/2c3jv8ek"
-    },
-    {
       "title": "華許沒放鷹市場鬆口氣 Fed 10 月升息機率驟降至13%、標普500期貨翻紅",
       "stance": "hawkish",
       "tokens": [
@@ -432,7 +407,7 @@
         "trump",
         "warsh"
       ],
-      "last_seen_utc": "2026-10-24T23:44:20.909052+00:00",
+      "last_seen_utc": "2026-10-25T01:41:23.874454+00:00",
       "confidence": "LIKELY",
       "sources": [
         "demokratis.co.id",
@@ -440,6 +415,30 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHVFlDMEM4bXBYRW5kZTJWVkUwaFJQdGVSaWJDemI2SFRCXzhNLTFkeDluZHl4QnVwV1VhU3JwLWVvSjJZU25EM2NYVU1BcU1uTkRSM3FUNXhkeHhVR1VsWEF5TjFSNlBUcTFJZ0d3?oc=5",
       "short_link": "https://tinyurl.com/23gxo4ue"
+    },
+    {
+      "title": "Warsh likely to signal more rate hikes as inflation remains persistent (US10Y:)",
+      "stance": "hawkish",
+      "tokens": [
+        "hikes",
+        "infla",
+        "likel",
+        "more",
+        "persi",
+        "rate",
+        "remai",
+        "signa",
+        "us10y",
+        "warsh"
+      ],
+      "last_seen_utc": "2026-10-25T01:41:23.874454+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "seeking alpha",
+        "tradingview"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbWN2V21wYWIzaHJjY081UGlDbXo0cmdoQlpzb2tzRHBQYzBHSWdwYkVwMmx5VENSc1VmSWxNRVdiSnJFRDUwTzdLaXBrdFBqeG83WmRfRDkwa3hCZV9QWkpSQ3lQT2pkV2xkQW9LMnY4Yl85TWV5di0wV0hiM3lnRUs0SFkyUXRJN2FqTGJhTnYwQko3N1J2YlBqNkpCN21CbmhHX2dma3BHYlVf?oc=5",
+      "short_link": "https://tinyurl.com/27jwa8on"
     }
   ]
 }
