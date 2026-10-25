@@ -461,7 +461,7 @@
         "world",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-25T12:15:39.272459+00:00",
+      "last_seen_utc": "2026-10-25T16:39:01.671712+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "arab news",
@@ -474,12 +474,13 @@
     {
       "title": "長射程ミサイルを演習に初投入 「敵基地攻撃」運用能力を示す",
       "tokens": [
+        "全国のニュ",
         "共同通信",
         "敵基地攻撃",
         "運用能力を",
         "長射程ミサ"
       ],
-      "last_seen_utc": "2026-10-25T12:15:39.272459+00:00",
+      "last_seen_utc": "2026-10-25T16:39:01.671712+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "excite エキサイト",
@@ -492,6 +493,65 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xMEtCN244MnI1LVU0U2swTVNQTXZWUjgyUmNBWHFDZThLYTNhLU9OM3plX0xoTU83U0YtSUFWZXdxb19FVk9RclVBUlZyUFZZODZwR0ZJc2E5QQ?oc=5",
       "short_link": "https://tinyurl.com/2bmjjkze"
+    },
+    {
+      "title": "Ballistic missile attacks rock Yemen's Aden",
+      "tokens": [
+        "aden",
+        "airpo",
+        "ashar",
+        "attac",
+        "balli",
+        "coast",
+        "conde",
+        "conti",
+        "guard",
+        "houth",
+        "missi",
+        "opera",
+        "rock",
+        "vows",
+        "yemen"
+      ],
+      "last_seen_utc": "2026-10-25T16:39:01.671712+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "asharq al-awsat english",
+        "kuwait times",
+        "morungexpress",
+        "social news xyz",
+        "the eastleigh voice",
+        "vatican news",
+        "وكالة خبر للأنباء"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NUXpHV2g4dTNhSzJFOHVXREtxT0EyRmkxOFFvSmlLM1pMMFhpSUJpbmVBYms2X0pSUXNGR0E4d3Rrd19Qd0k4dk1MSHREMkFtT3JkQkN2QTlfN1BZaGR0a3gyZGdsMk5KYXZ5aWM1bkRPSGxJVmtV?oc=5",
+      "short_link": "https://tinyurl.com/2aawfzgm"
+    },
+    {
+      "title": "Heinous attack: Muslim World League condemns Houthi missile attack targeting Mecca and Medina regions",
+      "tokens": [
+        "attac",
+        "conde",
+        "heino",
+        "houth",
+        "leagu",
+        "mecca",
+        "medin",
+        "missi",
+        "musli",
+        "regio",
+        "targe",
+        "world"
+      ],
+      "last_seen_utc": "2026-10-25T16:39:01.671712+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "lokmat times",
+        "republic world",
+        "the tribune"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX2VxdVJXeEpFV2NrdDl6V1Q2ZG8xWUZhcVlZTkVwcndaSjF1WERoaDQtRWRjdGRPdHNBQmRzeFJZU1VYdmtqWFVhRU5Cb3NEMjg4ZjNjYkp2czJGRjFidk1rWmowUTEwMkM4czg3WTRIZzVHYmhST1FDSEd2OVNHaHNES3VmZ245Y25qLUtPYWFja2lKMEp2ZzNnUjRnZHRjOGQxZUF3dWxLcnYyWlRBUXRTNk9GWHlqN2xpc3J0c0pIM3k0Ti1DdUNGMUg4Z1hmY2F3YzJLYmx6VnpY0gHcAUFVX3lxTE9fZXF1Uld4SkVXY2t0OXpXVDZkbzFZRmFxWVlORXByd1pKMXVYRGhoNC1FZGN0ZE90c0FCZHN4UllTVVh2a2pYVWFFTkJvc0QyODhmM2NiSnZzMkZGMWJ2TWtaajBRMTAyQzhzODdZNEhnNUdiaFJPUUNIR3Y5U0doc0RLdWZnbjljbmotS09hYWNraUowSnZnM2dSNGdkdGM4ZDFlQXd1bEtydjJaVEFRdFM2T0ZYeWo3bGlzcnRzSkgzeTROLUN1Q0YxSDhnWGZjYXdjMktibHpWelg?oc=5",
+      "short_link": "https://tinyurl.com/2b78fs6g"
     }
   ]
 }
