@@ -463,6 +463,7 @@
         "claim",
         "coali",
         "coast",
+        "conde",
         "conti",
         "deter",
         "drone",
@@ -508,7 +509,7 @@
         "will",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-25T01:41:16.632125+00:00",
+      "last_seen_utc": "2026-10-25T06:52:39.712736+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
@@ -547,11 +548,16 @@
     {
       "title": "Coalition forces down missiles and drone as Houthis keep up strikes on Saudi Arabia",
       "tokens": [
+        "acros",
         "airpo",
+        "airst",
         "alert",
         "arabi",
         "attac",
+        "bangl",
         "blast",
+        "body",
+        "broug",
         "citie",
         "claim",
         "coali",
@@ -562,9 +568,12 @@
         "falls",
         "force",
         "gulf",
+        "hit",
+        "home",
         "houth",
         "keep",
         "key",
+        "kille",
         "launc",
         "mecca",
         "medin",
@@ -579,9 +588,10 @@
         "today",
         "towar",
         "wakes",
-        "world"
+        "world",
+        "yemen"
       ],
-      "last_seen_utc": "2026-10-25T01:41:16.632125+00:00",
+      "last_seen_utc": "2026-10-25T06:52:39.712736+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "arab news",
