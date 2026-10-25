@@ -196,25 +196,6 @@
       "short_link": "https://tinyurl.com/27f8agc7"
     },
     {
-      "title": "華許曼谷對談不放鷹、提醒 AI 已推升需求 Fed 本月升息機率降至不到15% | 國際焦點 | 國際",
-      "stance": "hawkish",
-      "tokens": [
-        "fed",
-        "國際焦點",
-        "已推升需求",
-        "本月升息機",
-        "華許曼谷對"
-      ],
-      "last_seen_utc": "2026-10-18T05:08:16.760090+00:00",
-      "confidence": "LIKELY",
-      "sources": [
-        "經濟日報",
-        "聚財網"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTUEFIcWVzTk1YZFhHMEI3ZzJ2R29VWE5RdHZyUGRONjBRbXRRdXY0UEtHbDU3UHh1LW9pSjlhaF9ITUNKUWZqdmZfbTRLZTZfZEJTUGZEcEV5TmFMVzhXajlzNHI3M0l4aVV2SkxORUZWZ0hxeE9N?oc=5",
-      "short_link": "https://tinyurl.com/29444dx9"
-    },
-    {
       "title": "Warsh says Fed is focused on taming rising prices, but gives no hint about next rate hike",
       "stance": "hawkish",
       "tokens": [
@@ -407,7 +388,7 @@
         "trump",
         "warsh"
       ],
-      "last_seen_utc": "2026-10-25T01:41:23.874454+00:00",
+      "last_seen_utc": "2026-10-25T06:52:46.793426+00:00",
       "confidence": "LIKELY",
       "sources": [
         "demokratis.co.id",
@@ -431,7 +412,7 @@
         "us10y",
         "warsh"
       ],
-      "last_seen_utc": "2026-10-25T01:41:23.874454+00:00",
+      "last_seen_utc": "2026-10-25T06:52:46.793426+00:00",
       "confidence": "LIKELY",
       "sources": [
         "seeking alpha",
