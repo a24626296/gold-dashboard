@@ -76,23 +76,6 @@
       "short_link": "https://tinyurl.com/2c2a72cu"
     },
     {
-      "title": "華許不露口風 市場估Fed 月不升息",
-      "stance": "hawkish",
-      "tokens": [
-        "市場估fe",
-        "月不升息",
-        "華許不露口"
-      ],
-      "last_seen_utc": "2026-10-19T06:50:57.501792+00:00",
-      "confidence": "LIKELY",
-      "sources": [
-        "聚財網",
-        "自由時報"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yck1ZVmlhR0prNmFWRk41WmVUQTQzcWdNbnhlQkhkYmg0ZWdsMDNHTTg3ek0zcmZXdFp5SW1sblloc2d4MG1pYkR6bHVFSktTMkhnQ2VyaXk?oc=5",
-      "short_link": "https://tinyurl.com/2bdnq3bk"
-    },
-    {
       "title": "Warsh says Fed is focused on taming rising prices, but gives no hint about next rate hike",
       "stance": "hawkish",
       "tokens": [
@@ -285,7 +268,7 @@
         "trump",
         "warsh"
       ],
-      "last_seen_utc": "2026-10-26T01:44:20.113797+00:00",
+      "last_seen_utc": "2026-10-26T07:01:08.245394+00:00",
       "confidence": "LIKELY",
       "sources": [
         "demokratis.co.id",
