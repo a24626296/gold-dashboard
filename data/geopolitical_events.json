@@ -394,18 +394,32 @@
     {
       "title": "Ukrainian capital under missile attack, explosions seen in city By Reuters",
       "tokens": [
+        "air",
         "attac",
+        "balli",
+        "bank",
+        "bryan",
         "capit",
         "city",
+        "enemy",
         "explo",
+        "five",
+        "force",
+        "heard",
         "kyiv",
+        "left",
         "missi",
         "reute",
+        "say",
+        "says",
         "seen",
+        "threa",
         "ukrai",
-        "under"
+        "under",
+        "were",
+        "witne"
       ],
-      "last_seen_utc": "2026-10-22T14:48:11.846455+00:00",
+      "last_seen_utc": "2026-10-26T23:35:19.316513+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "internazionale",
@@ -679,7 +693,7 @@
         "video",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-26T19:57:47.918387+00:00",
+      "last_seen_utc": "2026-10-26T23:35:19.316513+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "arab news",
@@ -716,7 +730,7 @@
         "targe",
         "world"
       ],
-      "last_seen_utc": "2026-10-26T19:57:47.918387+00:00",
+      "last_seen_utc": "2026-10-26T23:35:19.316513+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "arab news pk",
