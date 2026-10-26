@@ -469,7 +469,7 @@
         "world",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-26T07:01:00.791439+00:00",
+      "last_seen_utc": "2026-10-26T14:13:44.822756+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "arab news",
@@ -490,7 +490,7 @@
         "運用能力を",
         "長射程ミサ"
       ],
-      "last_seen_utc": "2026-10-26T07:01:00.791439+00:00",
+      "last_seen_utc": "2026-10-26T14:13:44.822756+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "excite エキサイト",
@@ -621,31 +621,53 @@
     {
       "title": "Coalition destroys Houthi missile launchers in Sanaa after foiled attack on Riyadh",
       "tokens": [
+        "again",
         "airpo",
         "attac",
         "claim",
         "coali",
+        "conti",
         "destr",
+        "drone",
+        "facil",
         "fired",
         "fligh",
         "foile",
+        "force",
+        "frame",
         "fresh",
+        "hit",
         "hours",
         "houth",
+        "how",
+        "iran",
         "launc",
         "led",
+        "live",
+        "merce",
+        "mid",
+        "milit",
         "missi",
+        "new",
+        "oil",
+        "outle",
         "parti",
+        "pipel",
         "reope",
         "resum",
         "riyad",
         "sanaa",
         "saudi",
+        "says",
         "sites",
         "strik",
-        "targe"
+        "targe",
+        "two",
+        "updat",
+        "video",
+        "yemen"
       ],
-      "last_seen_utc": "2026-10-26T07:01:00.791439+00:00",
+      "last_seen_utc": "2026-10-26T14:13:44.822756+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "arab news",
@@ -659,6 +681,38 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLUJNY1NkTzhac1p0elZFdHBxdFZ0NDg2emlIb3luejBEQ0szYUZyV1Bid0NnaHBpd0lVT29NdnVjS25rU1RSbUZkb002V0MxS0xmbU84UEE0VmxMRm44blozTFptS0hNOFFLbTdoQ2JVY0d4R0dVQ090S213VElIeG9JSmVncXIxQnphaUpiX1BCWVVmeW95RTBiaWp3WXAxY283cDIzY05xZWFnVkZFN2ZUZTctMVJmYXBKS2w4cmJyM3pwa09j?oc=5",
       "short_link": "https://tinyurl.com/2432xt8d"
+    },
+    {
+      "title": "Pakistan denounces Houthi missile attacks targeting Makkah, Madinah regions",
+      "tokens": [
+        "attac",
+        "conde",
+        "denou",
+        "houth",
+        "islam",
+        "leagu",
+        "madin",
+        "makka",
+        "mecca",
+        "medin",
+        "missi",
+        "musli",
+        "organ",
+        "pakis",
+        "regio",
+        "stron",
+        "targe",
+        "world"
+      ],
+      "last_seen_utc": "2026-10-26T14:13:44.822756+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "arab news pk",
+        "hum news english",
+        "الصحوة نت"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYXYwbDVxQ2VvSkJXenNFcEpIUGRQQ3Bfbk1ndjR3MjBsVk5hRUNIM0VTT0tNemxqRTYtUkF2OVRhOWZOSmh6TmF1WEVRaGJTRDlnR1Y5cUY2RVN5cW8tVnFPNllJS2dDcHlpcW1Rc29takkwZmF2MzdveElTVEpDS1JLa2NOb3VwTEhnLTV1bVNTYmxwaFkzM2VJLTVJdEJublVsQTVoUmRydF83X1Jmdk5iSE1iZw?oc=5",
+      "short_link": "https://tinyurl.com/2bdyl7sa"
     }
   ]
 }
