@@ -469,7 +469,7 @@
         "world",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-26T01:44:12.888335+00:00",
+      "last_seen_utc": "2026-10-26T07:01:00.791439+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "arab news",
@@ -482,6 +482,7 @@
     {
       "title": "長射程ミサイルを演習に初投入 「敵基地攻撃」運用能力を示す",
       "tokens": [
+        "2026年",
         "全国のニュ",
         "共同通信",
         "敵基地攻撃",
@@ -489,7 +490,7 @@
         "運用能力を",
         "長射程ミサ"
       ],
-      "last_seen_utc": "2026-10-26T01:44:12.888335+00:00",
+      "last_seen_utc": "2026-10-26T07:01:00.791439+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "excite エキサイト",
@@ -513,24 +514,35 @@
         "ashar",
         "attac",
         "balli",
+        "coali",
         "coast",
         "conde",
         "conti",
+        "drone",
+        "emerg",
+        "facil",
         "guard",
         "houth",
+        "leave",
         "limit",
         "missi",
+        "non",
         "opera",
+        "order",
         "persi",
+        "perso",
+        "reope",
         "resum",
         "riyad",
         "rock",
         "saudi",
+        "says",
+        "struc",
         "threa",
         "vows",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-25T23:42:06.881342+00:00",
+      "last_seen_utc": "2026-10-26T07:01:00.791439+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "asharq al-awsat english",
@@ -563,10 +575,13 @@
         "heino",
         "hits",
         "houth",
+        "islam",
         "issue",
         "leagu",
         "limit",
         "line",
+        "madin",
+        "makka",
         "mecca",
         "medin",
         "milit",
@@ -574,6 +589,7 @@
         "musli",
         "oil",
         "opera",
+        "organ",
         "persi",
         "red",
         "regio",
@@ -592,7 +608,7 @@
         "world",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-26T01:44:12.888335+00:00",
+      "last_seen_utc": "2026-10-26T07:01:00.791439+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "lokmat times",
@@ -601,6 +617,48 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX2VxdVJXeEpFV2NrdDl6V1Q2ZG8xWUZhcVlZTkVwcndaSjF1WERoaDQtRWRjdGRPdHNBQmRzeFJZU1VYdmtqWFVhRU5Cb3NEMjg4ZjNjYkp2czJGRjFidk1rWmowUTEwMkM4czg3WTRIZzVHYmhST1FDSEd2OVNHaHNES3VmZ245Y25qLUtPYWFja2lKMEp2ZzNnUjRnZHRjOGQxZUF3dWxLcnYyWlRBUXRTNk9GWHlqN2xpc3J0c0pIM3k0Ti1DdUNGMUg4Z1hmY2F3YzJLYmx6VnpY0gHcAUFVX3lxTE9fZXF1Uld4SkVXY2t0OXpXVDZkbzFZRmFxWVlORXByd1pKMXVYRGhoNC1FZGN0ZE90c0FCZHN4UllTVVh2a2pYVWFFTkJvc0QyODhmM2NiSnZzMkZGMWJ2TWtaajBRMTAyQzhzODdZNEhnNUdiaFJPUUNIR3Y5U0doc0RLdWZnbjljbmotS09hYWNraUowSnZnM2dSNGdkdGM4ZDFlQXd1bEtydjJaVEFRdFM2T0ZYeWo3bGlzcnRzSkgzeTROLUN1Q0YxSDhnWGZjYXdjMktibHpWelg?oc=5",
       "short_link": "https://tinyurl.com/2b78fs6g"
+    },
+    {
+      "title": "Coalition destroys Houthi missile launchers in Sanaa after foiled attack on Riyadh",
+      "tokens": [
+        "airpo",
+        "attac",
+        "claim",
+        "coali",
+        "destr",
+        "fired",
+        "fligh",
+        "foile",
+        "fresh",
+        "hours",
+        "houth",
+        "launc",
+        "led",
+        "missi",
+        "parti",
+        "reope",
+        "resum",
+        "riyad",
+        "sanaa",
+        "saudi",
+        "sites",
+        "strik",
+        "targe"
+      ],
+      "last_seen_utc": "2026-10-26T07:01:00.791439+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "arab news",
+        "arab news pk",
+        "breakingthenews.net",
+        "kuwait times",
+        "latest news from azerbaijan",
+        "the chronicle ph",
+        "the vibes",
+        "tradearabia"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLUJNY1NkTzhac1p0elZFdHBxdFZ0NDg2emlIb3luejBEQ0szYUZyV1Bid0NnaHBpd0lVT29NdnVjS25rU1RSbUZkb002V0MxS0xmbU84UEE0VmxMRm44blozTFptS0hNOFFLbTdoQ2JVY0d4R0dVQ090S213VElIeG9JSmVncXIxQnphaUpiX1BCWVVmeW95RTBiaWp3WXAxY283cDIzY05xZWFnVkZFN2ZUZTctMVJmYXBKS2w4cmJyM3pwa09j?oc=5",
+      "short_link": "https://tinyurl.com/2432xt8d"
     }
   ]
 }
