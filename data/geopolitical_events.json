@@ -561,7 +561,7 @@
         "vows",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-27T08:08:19.976717+00:00",
+      "last_seen_utc": "2026-10-27T14:27:22.837519+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "asharq al-awsat english",
@@ -747,6 +747,79 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYXYwbDVxQ2VvSkJXenNFcEpIUGRQQ3Bfbk1ndjR3MjBsVk5hRUNIM0VTT0tNemxqRTYtUkF2OVRhOWZOSmh6TmF1WEVRaGJTRDlnR1Y5cUY2RVN5cW8tVnFPNllJS2dDcHlpcW1Rc29takkwZmF2MzdveElTVEpDS1JLa2NOb3VwTEhnLTV1bVNTYmxwaFkzM2VJLTVJdEJublVsQTVoUmRydF83X1Jmdk5iSE1iZw?oc=5",
       "short_link": "https://tinyurl.com/2bdyl7sa"
+    },
+    {
+      "title": "Yemen's Houthis say they hit Saudi Ras Tanura oil refinery with missile",
+      "tokens": [
+        "arabi",
+        "attac",
+        "balli",
+        "bigge",
+        "blast",
+        "claim",
+        "egypt",
+        "hit",
+        "houth",
+        "missi",
+        "oil",
+        "ras",
+        "refin",
+        "riyad",
+        "saudi",
+        "say",
+        "shake",
+        "strik",
+        "suppo",
+        "tanur",
+        "they",
+        "warn",
+        "yemen"
+      ],
+      "last_seen_utc": "2026-10-27T14:27:22.837519+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "anadolu ajansı",
+        "business upturn",
+        "reuters"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMU9tRHdmbzQ2ZHlsQzBDVmpqUEhlTk9meXgzN1VMOWlUMnlKOU1ibFRMQ1VQNDNjTkloUG9lb054S2JXZ2YwMS1MMXM4b1pwczl2clNyTHM5RGZVdnd6bzJXTVl4bW4yZ0pGTEV2aEV4dlR2cDNkc0lvNjVMN2ZScklvRDE3S1VyS0FoaC02Z3BqTHJPeTJrekxhM0dONmN0VzdXTmE5QjNfM0pIZ1Q2SHMtSkZzbFNqSThaN2RybDFBdw?oc=5",
+      "short_link": "https://tinyurl.com/2ybwy9u7"
+    },
+    {
+      "title": "Specialists assess damage to Kyiv’s Southern Bridge after ballistic missile strike",
+      "tokens": [
+        "asses",
+        "attac",
+        "balli",
+        "bridg",
+        "damag",
+        "follo",
+        "klits",
+        "kyiv",
+        "least",
+        "metro",
+        "missi",
+        "overn",
+        "photo",
+        "share",
+        "south",
+        "speci",
+        "strik",
+        "struc",
+        "three",
+        "video",
+        "were"
+      ],
+      "last_seen_utc": "2026-10-27T14:27:22.837519+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "sfg media",
+        "ua.news",
+        "ukrainian news",
+        "ukrinform"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdThsRzUyZ0N6Mzc5X0dabWx5Y2VHc0hxTmhIUmtFWFhpY1V4X1h0UGViRUVpUjBHTmhfcXFvWk0tak5MS0NOVEZrMU9fTVlUR3RiWExnRWZyQkNYRmR3QTRmaVBUcnpMT250WV94MEJuRUFuSnl5RXBfMW1YRF9PV3RmdWs4M0tHdUVDVXB2T2RsMGtDUElWN3NUdmMwaXBON1hNT0ljT3VGUDBhcEQ3c2hlcjQ4WHlFa0lEcHVFQm1rbWJYN2NaUjRPNNIB0AFBVV95cUxNWUhmdXItYlVTTUVQWG02ZWplSzFnYXBHeS1QTFBZMzZLZHhTV3k1ZFRIc3FTcDE1XzBhY3Z3czJXWUxBNEFBVGF3emk1XzhaNmQ2TENtTW84OWg1bjZCRVQyRGk1bjgwT3F4NWVEcERBb21HQ1hxT2NjNFpaenFRZVJhdDNCOHNOa1Nmd1NLUDEwZzUxQnljVGNSMXhkNTUtcjg5X0x6aVBHY3FKSWNBQkszcWQ4T2JtQlRNZnlSb1RIWFNkYnM2QnhodUVCS3Yw?oc=5",
+      "short_link": "https://tinyurl.com/2ddqeqq5"
     }
   ]
 }
