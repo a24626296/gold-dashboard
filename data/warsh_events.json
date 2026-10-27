@@ -1,45 +1,6 @@
 {
   "events": [
     {
-      "title": "Trump on interest rate increase and confidence in Fed Chair Kevin Warsh",
-      "stance": "dovish",
-      "tokens": [
-        "blame",
-        "board",
-        "chair",
-        "confi",
-        "could",
-        "credi",
-        "defy",
-        "dista",
-        "expec",
-        "fed",
-        "focus",
-        "hike",
-        "himse",
-        "hosti",
-        "incre",
-        "inter",
-        "kevin",
-        "marke",
-        "octob",
-        "puts",
-        "rate",
-        "surpr",
-        "test",
-        "trump",
-        "warsh"
-      ],
-      "last_seen_utc": "2026-10-20T12:45:45.570553+00:00",
-      "confidence": "LIKELY",
-      "sources": [
-        "biggo finance",
-        "the straits times"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4aEJwVDg4dnc0bmJEQmF6YjlobUhGc3JyYU9qc3JjUXU3ekJ2RzZoeWVCejIyUnVjdFRiWG5UakhtNzhTM2pKRjhucDNORE0wdUZxUWJUOUptYVdjeFE?oc=5",
-      "short_link": "https://tinyurl.com/2bo48gko"
-    },
-    {
       "title": "華許沒放鷹市場鬆口氣 Fed 10 月升息機率驟降至13%、標普500期貨翻紅",
       "stance": "hawkish",
       "tokens": [
