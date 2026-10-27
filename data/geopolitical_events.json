@@ -419,7 +419,7 @@
         "were",
         "witne"
       ],
-      "last_seen_utc": "2026-10-27T02:25:22.485363+00:00",
+      "last_seen_utc": "2026-10-27T08:08:19.976717+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "internazionale",
@@ -504,7 +504,7 @@
         "運用能力を",
         "長射程ミサ"
       ],
-      "last_seen_utc": "2026-10-26T14:13:44.822756+00:00",
+      "last_seen_utc": "2026-10-27T08:08:19.976717+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "excite エキサイト",
@@ -535,28 +535,33 @@
         "drone",
         "emerg",
         "facil",
+        "foils",
         "guard",
         "houth",
         "leave",
+        "led",
         "limit",
         "missi",
         "non",
+        "oil",
         "opera",
         "order",
         "persi",
         "perso",
+        "pipel",
         "reope",
         "resum",
         "riyad",
         "rock",
         "saudi",
         "says",
+        "strik",
         "struc",
         "threa",
         "vows",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-26T07:01:00.791439+00:00",
+      "last_seen_utc": "2026-10-27T08:08:19.976717+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "asharq al-awsat english",
@@ -693,7 +698,7 @@
         "video",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-27T02:25:22.485363+00:00",
+      "last_seen_utc": "2026-10-27T08:08:19.976717+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "arab news",
@@ -711,11 +716,13 @@
     {
       "title": "Pakistan denounces Houthi missile attacks targeting Makkah, Madinah regions",
       "tokens": [
+        "aggre",
         "attac",
         "conde",
         "denou",
         "houth",
         "islam",
+        "jorda",
         "leagu",
         "madin",
         "makka",
@@ -728,9 +735,10 @@
         "regio",
         "stron",
         "targe",
+        "uae",
         "world"
       ],
-      "last_seen_utc": "2026-10-26T23:35:19.316513+00:00",
+      "last_seen_utc": "2026-10-27T08:08:19.976717+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "arab news pk",
