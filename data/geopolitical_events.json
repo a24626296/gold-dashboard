@@ -79,43 +79,6 @@
       "short_link": "https://tinyurl.com/25sxv8x3"
     },
     {
-      "title": "Ukraine's Air Forces Report No Warning on Missile Attacks",
-      "tokens": [
-        "air",
-        "allie",
-        "attac",
-        "balli",
-        "brace",
-        "expos",
-        "failu",
-        "force",
-        "gave",
-        "gets",
-        "hindu",
-        "impen",
-        "intel",
-        "just",
-        "kyiv",
-        "missi",
-        "putin",
-        "repor",
-        "says",
-        "secon",
-        "times",
-        "ukrai",
-        "warni",
-        "zelen"
-      ],
-      "last_seen_utc": "2026-10-21T07:34:33.646685+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "cnn",
-        "finway.com.ua"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqTFpIU1BsRTJIa09vMGtkR0dvSDliajEzanNuSTlHdnRxajdWLW5MM19oS2xocDRKWldoRFlpX0pqMnk3WW5OZEpWTlBzX1R3enNXV25MUWNrT2tiek1UVHY1blM4bDRW?oc=5",
-      "short_link": "https://tinyurl.com/2df2dt4v"
-    },
-    {
       "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
       "tokens": [
         "attac",
@@ -356,7 +319,7 @@
         "運用能力を",
         "長射程ミサ"
       ],
-      "last_seen_utc": "2026-10-28T02:13:41.444344+00:00",
+      "last_seen_utc": "2026-10-28T08:34:03.807762+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "excite エキサイト",
@@ -413,7 +376,7 @@
         "vows",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-28T02:13:41.444344+00:00",
+      "last_seen_utc": "2026-10-28T08:34:03.807762+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "asharq al-awsat english",
@@ -603,6 +566,7 @@
     {
       "title": "Yemen's Houthis say they hit Saudi Ras Tanura oil refinery with missile",
       "tokens": [
+        "101",
         "115",
         "activ",
         "air",
@@ -613,8 +577,11 @@
         "blast",
         "brent",
         "claim",
+        "cross",
+        "crude",
         "damag",
         "defen",
+        "der",
         "direc",
         "east",
         "easte",
@@ -643,16 +610,19 @@
         "saudi",
         "say",
         "shake",
+        "spieg",
         "strik",
         "suppo",
         "surge",
         "tanur",
         "targe",
         "they",
+        "tops",
         "warn",
+        "wti",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-28T02:13:41.444344+00:00",
+      "last_seen_utc": "2026-10-28T08:34:03.807762+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
