@@ -120,6 +120,7 @@
         "attac",
         "balli",
         "bank",
+        "blast",
         "bryan",
         "capit",
         "city",
@@ -130,6 +131,7 @@
         "heard",
         "kyiv",
         "left",
+        "loud",
         "missi",
         "reute",
         "say",
@@ -138,10 +140,11 @@
         "threa",
         "ukrai",
         "under",
+        "updat",
         "were",
         "witne"
       ],
-      "last_seen_utc": "2026-10-27T08:08:19.976717+00:00",
+      "last_seen_utc": "2026-10-29T22:54:38.932804+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "internazionale",
