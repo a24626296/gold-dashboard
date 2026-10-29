@@ -37,48 +37,6 @@
       "short_link": "https://tinyurl.com/2dk4uez8"
     },
     {
-      "title": "«Zircon» missile attack on Kyiv: debris struck a restaurant",
-      "tokens": [
-        "ashar",
-        "attac",
-        "balli",
-        "build",
-        "coali",
-        "confi",
-        "court",
-        "damag",
-        "debri",
-        "distr",
-        "fell",
-        "gas",
-        "hit",
-        "hits",
-        "houth",
-        "injur",
-        "inter",
-        "klych",
-        "kyiv",
-        "missi",
-        "obolo",
-        "rbc",
-        "resid",
-        "resta",
-        "stati",
-        "struc",
-        "was",
-        "zirco"
-      ],
-      "last_seen_utc": "2026-10-22T09:46:24.363807+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "ukrmedia news",
-        "антикор",
-        "цензор.нет"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwOWJFbXNrOGpSckx2RXlvU0RJVDEwNUZzQy16dDYyN2VoZGpCNjVxeUMtWjlnWVpfSHdDVG54dUsxLXYxYnlaUDdwaWNLMXFxYTAxd3ZZLVQwYlBnS3pYMHJkaU1NbVJmWjRkWG80b1FWYlVFaXdlVGpVRVE?oc=5",
-      "short_link": "https://tinyurl.com/25sxv8x3"
-    },
-    {
       "title": "Aden Airport Hit by Houthi Ballistic Missile",
       "tokens": [
         "3rd",
@@ -678,6 +636,8 @@
         "afp",
         "airpo",
         "airwa",
+        "arabi",
+        "aroun",
         "attac",
         "aviat",
         "balli",
@@ -694,6 +654,7 @@
         "disru",
         "diver",
         "djibo",
+        "escal",
         "explo",
         "facil",
         "fligh",
@@ -734,7 +695,7 @@
         "wound",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-29T05:45:49.499475+00:00",
+      "last_seen_utc": "2026-10-29T12:04:05.342979+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "arab news",
@@ -767,7 +728,7 @@
         "use",
         "weapo"
       ],
-      "last_seen_utc": "2026-10-29T05:45:49.499475+00:00",
+      "last_seen_utc": "2026-10-29T12:04:05.342979+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "moneycontrol.com",
@@ -776,6 +737,37 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUUN4enNWcnFJQmdiUEN4S24yOFpFYWJPLWEtbzRUUVJxMzdfUS1lZldORXR3X19DdEZ4YWFDMzM2VVRpSkYtSjNhSmVKQXJ5OTFxSVQyYWUxbWx6V3BNT1J6eWQ0X0tvT2IwUEVza0Y5UFA1d2FCbGtvbUtNdVhZcmR3cUdUQmhkWnhNaFFsdmd3RjMwLVVoVEYxWldlQWxBNVJqcUtmeUNMd1RBcGl6eERpX0VUN3lNel9kTEo2a9IBxAFBVV95cUxNQ2dWNG9kYkRMTi1sVXNKMHhUZ04wMHpPcDBNR1FiMW5QbDNuSUxqellfVDRtSDdfZ0kydkFTdmhYYXhYQlNwVWdpX3pJOXpRZ3B3RHJIRlJ5OVpUTVY3T0NScDd5Wjhnd2VvLXhyMFNJbkUtNnQwZjFHdEp0TDVNcFVndE0zUTJqaWRCZXpSZFAtSEVTRGFqMjBLZHZWbG9xM2lDTUkySXAxU0lEd3RyV1MxQldZNHMtZFBwd01pbkxjRVR1?oc=5",
       "short_link": "https://tinyurl.com/28288uzh"
+    },
+    {
+      "title": "Houthis Claim Missile Strike On Saudi Arabia’s Major Oil Export Hub",
+      "tokens": [
+        "116",
+        "arabi",
+        "claim",
+        "expor",
+        "houth",
+        "hub",
+        "jump",
+        "large",
+        "major",
+        "missi",
+        "oil",
+        "price",
+        "refin",
+        "rise",
+        "saudi",
+        "strik",
+        "towar"
+      ],
+      "last_seen_utc": "2026-10-29T12:04:05.342979+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "brand icon image",
+        "coinpaper",
+        "marine insight"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdFNrT2MzWm5vNDhldUlBWXdIMS1zZ3liYkVBSGkzLVhUMkRRUXNvZFdZdk9RdjFZX3piLWp4bTVFZU1KbktVMTh3blNid3h4RzdPNy12OWhLc2pqUlRHMjdYUEpCWkp0S0VMS1BKOFhrU0IySGhia2pmOURkTHBmbTFESURUMlJMUzRzTlJiaTlsakdiTVY0TFR3SzQ3UQ?oc=5",
+      "short_link": "https://tinyurl.com/29z8uwl5"
     }
   ]
 }
