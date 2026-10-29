@@ -594,7 +594,7 @@
         "wti",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-29T00:11:44.161572+00:00",
+      "last_seen_utc": "2026-10-29T05:45:49.499475+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "anadolu ajansı",
@@ -660,7 +660,7 @@
         "saudi",
         "strik"
       ],
-      "last_seen_utc": "2026-10-29T00:11:44.161572+00:00",
+      "last_seen_utc": "2026-10-29T05:45:49.499475+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "dna india",
@@ -679,12 +679,14 @@
         "airpo",
         "airwa",
         "attac",
+        "aviat",
         "balli",
         "camp",
         "casua",
         "cause",
         "civil",
         "coast",
+        "conce",
         "conde",
         "counc",
         "damag",
@@ -702,20 +704,26 @@
         "houth",
         "inter",
         "kill",
+        "kills",
         "marke",
         "missi",
         "momen",
         "pakis",
         "passe",
         "polic",
+        "provi",
+        "recru",
         "regio",
         "repor",
         "risin",
         "rocks",
+        "safet",
         "saudi",
         "says",
         "secur",
+        "shabw",
         "sourc",
+        "spark",
         "stran",
         "strik",
         "talib",
@@ -726,7 +734,7 @@
         "wound",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-29T00:11:44.161572+00:00",
+      "last_seen_utc": "2026-10-29T05:45:49.499475+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "arab news",
@@ -736,6 +744,38 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTno2dkZ5R3d2LUhyYlp6OERDSENPeFFGaTRfcVo2TDNpVkxjYVpfREFkMnV0ZEt6MkhfckxINElKejVwMlV4Qm9Hd3VZb2U4VEJQb25pWGVMU21EdEJRb0tIUXlPS0FaNTVUaE1BOE9PazUyQWF3NDJPLWhEWlNoWlE3UGdFd2dvRHlaVUFCNGVlaDNFdF83dTZsSGtFc2t0dmJsY0xIYkZtUmc?oc=5",
       "short_link": "https://tinyurl.com/28wq4ev8"
+    },
+    {
+      "title": "Japan turns to India to test its long-range missiles & attack drones | Gravitas",
+      "tokens": [
+        "anti",
+        "attac",
+        "drone",
+        "eyes",
+        "gravi",
+        "india",
+        "japan",
+        "long",
+        "missi",
+        "power",
+        "range",
+        "repor",
+        "ship",
+        "small",
+        "test",
+        "turns",
+        "use",
+        "weapo"
+      ],
+      "last_seen_utc": "2026-10-29T05:45:49.499475+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "moneycontrol.com",
+        "news18",
+        "wion"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUUN4enNWcnFJQmdiUEN4S24yOFpFYWJPLWEtbzRUUVJxMzdfUS1lZldORXR3X19DdEZ4YWFDMzM2VVRpSkYtSjNhSmVKQXJ5OTFxSVQyYWUxbWx6V3BNT1J6eWQ0X0tvT2IwUEVza0Y5UFA1d2FCbGtvbUtNdVhZcmR3cUdUQmhkWnhNaFFsdmd3RjMwLVVoVEYxWldlQWxBNVJqcUtmeUNMd1RBcGl6eERpX0VUN3lNel9kTEo2a9IBxAFBVV95cUxNQ2dWNG9kYkRMTi1sVXNKMHhUZ04wMHpPcDBNR1FiMW5QbDNuSUxqellfVDRtSDdfZ0kydkFTdmhYYXhYQlNwVWdpX3pJOXpRZ3B3RHJIRlJ5OVpUTVY3T0NScDd5Wjhnd2VvLXhyMFNJbkUtNnQwZjFHdEp0TDVNcFVndE0zUTJqaWRCZXpSZFAtSEVTRGFqMjBLZHZWbG9xM2lDTUkySXAxU0lEd3RyV1MxQldZNHMtZFBwd01pbkxjRVR1?oc=5",
+      "short_link": "https://tinyurl.com/28288uzh"
     }
   ]
 }
