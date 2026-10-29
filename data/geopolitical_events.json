@@ -657,10 +657,13 @@
         "escal",
         "explo",
         "facil",
+        "fight",
+        "flare",
         "fligh",
         "follo",
         "fresh",
         "guard",
+        "hit",
         "hits",
         "houth",
         "inter",
@@ -687,6 +690,7 @@
         "spark",
         "stran",
         "strik",
+        "taiz",
         "talib",
         "targe",
         "tensi",
@@ -695,7 +699,7 @@
         "wound",
         "yemen"
       ],
-      "last_seen_utc": "2026-10-29T12:04:05.342979+00:00",
+      "last_seen_utc": "2026-10-29T18:26:47.563937+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "arab news",
@@ -728,7 +732,7 @@
         "use",
         "weapo"
       ],
-      "last_seen_utc": "2026-10-29T12:04:05.342979+00:00",
+      "last_seen_utc": "2026-10-29T18:26:47.563937+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "moneycontrol.com",
@@ -759,7 +763,7 @@
         "strik",
         "towar"
       ],
-      "last_seen_utc": "2026-10-29T12:04:05.342979+00:00",
+      "last_seen_utc": "2026-10-29T18:26:47.563937+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "brand icon image",
