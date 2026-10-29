@@ -129,7 +129,7 @@
         "華許駁",
         "鏡新聞"
       ],
-      "last_seen_utc": "2026-10-29T18:26:55.110406+00:00",
+      "last_seen_utc": "2026-10-29T22:54:46.347500+00:00",
       "confidence": "LIKELY",
       "sources": [
         "yahoo新聞",
@@ -147,7 +147,7 @@
         "華許保留升",
         "重塑fed"
       ],
-      "last_seen_utc": "2026-10-29T18:26:55.110406+00:00",
+      "last_seen_utc": "2026-10-29T22:54:46.347500+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cmoney",
@@ -155,6 +155,23 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DNm5GZC03UFBqcHcwWkZIdjRySThPaVVNTTRJRjlSVTdqa25fNWQyaGhDRTY2VUpSSE45ejE3UnZyaXMxM3dManBIV1k0ZjJWMGFkZnlQWmk?oc=5",
       "short_link": "https://tinyurl.com/28lgbnnl"
+    },
+    {
+      "title": "升息壓得住AI熱潮？Fed傳聲筒揭華許政策兩難",
+      "stance": "hawkish",
+      "tokens": [
+        "fed傳聲",
+        "升息壓得住",
+        "股市爆料同"
+      ],
+      "last_seen_utc": "2026-10-29T22:54:46.347500+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "cmoney",
+        "鉅亨網"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wQjk0VHpZYWlRWWFDTWswbmZ1aGotZ1JSOVpTd1BXVFFyMnBjczNaV3pWM3RQTWxRdkxjTHZ1SHBGWlktV3VDMUZCSDRPVlE?oc=5",
+      "short_link": "https://tinyurl.com/2y3j4crp"
     }
   ]
 }
