@@ -1,42 +1,6 @@
 {
   "events": [
     {
-      "title": "Russian missile attack on Kremenchuk kills two, injures seven",
-      "tokens": [
-        "alrea",
-        "attac",
-        "child",
-        "dead",
-        "fifte",
-        "inclu",
-        "injur",
-        "khark",
-        "kills",
-        "kreme",
-        "kyiv",
-        "missi",
-        "more",
-        "numbe",
-        "outsk",
-        "peopl",
-        "risen",
-        "russi",
-        "seven",
-        "strik",
-        "than",
-        "two"
-      ],
-      "last_seen_utc": "2026-10-23T00:40:43.110191+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "mezha.net",
-        "ukrinform",
-        "українські національні новини (унн)"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ3NsazMxTlVmOUNvdHMxV2JQQVJSZFg5MVZhMUM2dzQyZ3RTcFNtMGpwR3ZVbUViaHFZR0hoajVuSVh1Q3BTaGhwRjYxbHRaeGNPOUhoc2ZzM09jQVA1YlZ4WXhqemxlSDR5VnBleTk1R0FFbTVzdU02X2lSck9pYTRTNFd3MXk1d0RXVGNUdUxGOUNPUkpzSEZZcGJnNWphdU05MmpnNTJ2RFRZN3RB0gG0AUFVX3lxTE96SVRmU2xad2dRRWE1UHFKWnVoYmU3R0g3RW9nRFFIbERXYWt1ZTdfa19BUlJQNnE2eUo1TzNLY2FmV0lwZmhDb1BpR0t4eE5sbmZEMDhHeVN3M0p3dHhaaU9jaVJEZXBKdEhLckJabzVYUmI3amNjT1VObFJDNjVPU1dGWGplckRMd20xd1BqM19OM3JGaWw3cEFUUEdNaEYtR2tzZlJzTUhuUnhGdmRHZTlfdQ?oc=5",
-      "short_link": "https://tinyurl.com/2dk4uez8"
-    },
-    {
       "title": "Aden Airport Hit by Houthi Ballistic Missile",
       "tokens": [
         "3rd",
@@ -144,7 +108,7 @@
         "were",
         "witne"
       ],
-      "last_seen_utc": "2026-10-29T22:54:38.932804+00:00",
+      "last_seen_utc": "2026-10-30T02:18:21.744162+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "internazionale",
