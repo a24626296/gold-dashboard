@@ -1,25 +1,6 @@
 {
   "events": [
     {
-      "title": "華許沒放鷹市場鬆口氣 Fed 10 月升息機率驟降至13%、標普500期貨翻紅",
-      "stance": "hawkish",
-      "tokens": [
-        "fed",
-        "newta",
-        "月升息機率",
-        "標普500",
-        "華許沒放鷹"
-      ],
-      "last_seen_utc": "2026-10-23T22:28:09.010851+00:00",
-      "confidence": "LIKELY",
-      "sources": [
-        "yahoo新聞",
-        "聚財網"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPZU55bWhnOS1KT2FsRmtTcXlmSUJZMkVPUkRoX195blJvOVRuN0NnX0p3ZEJRNG0zQVBZRDY2SHlUb2NmdDlmZ0FCZlNGNUp5NTFvYmxyVURpSE1BQ2dqMDlVdlFMaXNScVlqc1JTNWFPNjF3NFhOQkJnNmczU2w0RWU2LVhZcjlTcnJVOE1GblIyM1BoeHgxOUUzTkR0Z2VfbS1TMDdyVkEzV2dLN1VsSWdqc01oTmtBNnRiTk5ZN05vN1h3Zkt1Z1R4WDlQRWJmb2JBa3lNeWg3RUtTNVBLMnhDdWtKNUQzbllBZTdUOGFpSUNzMXZpZWw2Qk9PLXJpdnJFUXFDOG1kenNsQUNXMWhpVURhNDRLT3RUNHl1WThBZV82dUd2Sk5DX0EtaUJCdDBZaldOVWc2c2R1eURWOVd5eWpIYWtETTg0c0puNDQ5Rmd0TC1JYW9ZUU44NURRYXNzR3gtc19GMDNOWDlIVzNwS2ZsRW0zMFhHLTFYanRCTnRaNlE?oc=5",
-      "short_link": "https://tinyurl.com/2b8gebkr"
-    },
-    {
       "title": "Warsh says Fed is focused on taming rising prices, but gives no hint about next rate hike",
       "stance": "hawkish",
       "tokens": [
@@ -129,7 +110,7 @@
         "華許駁",
         "鏡新聞"
       ],
-      "last_seen_utc": "2026-10-30T19:59:46.563329+00:00",
+      "last_seen_utc": "2026-10-30T23:31:54.028107+00:00",
       "confidence": "LIKELY",
       "sources": [
         "yahoo新聞",
@@ -147,7 +128,7 @@
         "華許保留升",
         "重塑fed"
       ],
-      "last_seen_utc": "2026-10-30T19:59:46.563329+00:00",
+      "last_seen_utc": "2026-10-30T23:31:54.028107+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cmoney",
@@ -164,7 +145,7 @@
         "升息壓得住",
         "股市爆料同"
       ],
-      "last_seen_utc": "2026-10-30T19:59:46.563329+00:00",
+      "last_seen_utc": "2026-10-30T23:31:54.028107+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cmoney",
@@ -180,7 +161,7 @@
         "無須刻意讓",
         "貝森特為升"
       ],
-      "last_seen_utc": "2026-10-30T19:59:46.563329+00:00",
+      "last_seen_utc": "2026-10-30T23:31:54.028107+00:00",
       "confidence": "LIKELY",
       "sources": [
         "moneydj",
@@ -206,7 +187,7 @@
         "warsh",
         "words"
       ],
-      "last_seen_utc": "2026-10-30T19:59:46.563329+00:00",
+      "last_seen_utc": "2026-10-30T23:31:54.028107+00:00",
       "confidence": "LIKELY",
       "sources": [
         "forex factory",
