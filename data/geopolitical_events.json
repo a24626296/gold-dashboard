@@ -734,7 +734,7 @@
         "strik",
         "towar"
       ],
-      "last_seen_utc": "2026-10-30T19:59:38.992727+00:00",
+      "last_seen_utc": "2026-10-30T23:31:46.396064+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "brand icon image",
@@ -743,6 +743,45 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdFNrT2MzWm5vNDhldUlBWXdIMS1zZ3liYkVBSGkzLVhUMkRRUXNvZFdZdk9RdjFZX3piLWp4bTVFZU1KbktVMTh3blNid3h4RzdPNy12OWhLc2pqUlRHMjdYUEpCWkp0S0VMS1BKOFhrU0IySGhia2pmOURkTHBmbTFESURUMlJMUzRzTlJiaTlsakdiTVY0TFR3SzQ3UQ?oc=5",
       "short_link": "https://tinyurl.com/29z8uwl5"
+    },
+    {
+      "title": "Shafaq News..Houthis launch ballistic missile strikes on Aden",
+      "tokens": [
+        "aden",
+        "agenc",
+        "airpo",
+        "anado",
+        "attac",
+        "balli",
+        "civil",
+        "houth",
+        "inten",
+        "launc",
+        "milit",
+        "missi",
+        "news",
+        "palac",
+        "presi",
+        "rebel",
+        "repor",
+        "shafa",
+        "strik",
+        "targe",
+        "war",
+        "yemen"
+      ],
+      "last_seen_utc": "2026-10-30T23:31:46.396064+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "big news network.com",
+        "crypto briefing",
+        "news.sbs.co.kr",
+        "ua.news",
+        "yemen online",
+        "شفق نيوز"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbjQ4TnJucy1UTlVWZC1WLVVGNlJWVURHdTV4Vi1xMFAwUGNMRGFmQUxheEcxLVZvZ18tV1lPZW5IalNjSE9WZ0lpNkpnSGZ2QWFSVHRWZ2Jkemo2a1NyOXhFM0lUZE4tcGhrNGlVdTJwQ0U5RDRtZ2kxZzVwbmFkak4ybDdfbXJvdUVNaEVFaw?oc=5",
+      "short_link": "https://tinyurl.com/2thxyuth"
     }
   ]
 }
