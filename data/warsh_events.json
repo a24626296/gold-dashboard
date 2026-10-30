@@ -129,7 +129,7 @@
         "華許駁",
         "鏡新聞"
       ],
-      "last_seen_utc": "2026-10-29T22:54:46.347500+00:00",
+      "last_seen_utc": "2026-10-30T02:18:29.375459+00:00",
       "confidence": "LIKELY",
       "sources": [
         "yahoo新聞",
@@ -147,7 +147,7 @@
         "華許保留升",
         "重塑fed"
       ],
-      "last_seen_utc": "2026-10-29T22:54:46.347500+00:00",
+      "last_seen_utc": "2026-10-30T02:18:29.375459+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cmoney",
@@ -164,7 +164,7 @@
         "升息壓得住",
         "股市爆料同"
       ],
-      "last_seen_utc": "2026-10-29T22:54:46.347500+00:00",
+      "last_seen_utc": "2026-10-30T02:18:29.375459+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cmoney",
@@ -172,6 +172,22 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wQjk0VHpZYWlRWWFDTWswbmZ1aGotZ1JSOVpTd1BXVFFyMnBjczNaV3pWM3RQTWxRdkxjTHZ1SHBGWlktV3VDMUZCSDRPVlE?oc=5",
       "short_link": "https://tinyurl.com/2y3j4crp"
+    },
+    {
+      "title": "貝森特為升息開扇窗？華許：無須刻意讓經濟降溫",
+      "stance": "hawkish",
+      "tokens": [
+        "無須刻意讓",
+        "貝森特為升"
+      ],
+      "last_seen_utc": "2026-10-30T02:18:29.375459+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "moneydj",
+        "台視全球資訊網"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ2VRM01YdUQ3Z1ZEUkp2NnRCVHNPZHVoSUFZUGZLdzNMTmdpejFlSkM3M0JSbElYR0gyN0pvYjNGOXJ3V21UelUwZ2F3ak5hSjMyYmphdjdXbHVmcDhDdlBmcnJEUEpBWDhweUlkQm9hM29XME5hQmQ1MHJNR0hVWS1ISElOZFk1elUyS0RoZ2VwWmwtMk9EMk9KQW9uRUgxSTVWdXUyZzhIWFE?oc=5",
+      "short_link": "https://tinyurl.com/22z97jr9"
     }
   ]
 }
