@@ -1933,5 +1933,39 @@
       "geo_score": 40,
       "warsh_score": -5
     }
+  },
+  {
+    "timestamp": "2026-10-30T01:28:08.741785+00:00",
+    "gold_price": 4012.89990234375,
+    "momentum_score": 60,
+    "alert_level": "alert",
+    "reasons": [
+      "實質利率大幅下降 -0.110 (+35)",
+      "VIX 下降 -9.62% (+10)",
+      "地緣政治衝擊事件(24小時內): Ukrainian capital under missile attack, explosions seen in c... (+40)",
+      "華許鷹派發言(24小時內): 聯準會不升息！期中選舉前按兵不動 華許駁「政治因素」｜#鏡新聞... (-25)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 101.60700225830078,
+        "prev_5d": 101.61000061035156,
+        "change_pct": -0.0029508434531746197
+      },
+      "vix": {
+        "latest": 17.200000762939453,
+        "prev_5d": 19.030000686645508,
+        "change_pct": -9.61639441763276
+      },
+      "gld": null,
+      "cot": {
+        "report_date": "2026-10-20T00:00:00.000",
+        "net_long": 104206,
+        "prev_net_long": 107089,
+        "change_pct": -2.6921532557032
+      },
+      "real_rate_5d_change": -0.10999999999999988,
+      "geo_score": 40,
+      "warsh_score": -25
+    }
   }
 ]
