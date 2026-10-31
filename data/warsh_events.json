@@ -1,59 +1,6 @@
 {
   "events": [
     {
-      "title": "Warsh says Fed is focused on taming rising prices, but gives no hint about next rate hike",
-      "stance": "hawkish",
-      "tokens": [
-        "956",
-        "about",
-        "boost",
-        "but",
-        "cac",
-        "chair",
-        "could",
-        "decli",
-        "defy",
-        "econo",
-        "expec",
-        "fed",
-        "focus",
-        "gives",
-        "hike",
-        "hint",
-        "hit",
-        "issue",
-        "kevin",
-        "marke",
-        "next",
-        "octob",
-        "offer",
-        "paris",
-        "price",
-        "produ",
-        "rate",
-        "rises",
-        "risin",
-        "says",
-        "sees",
-        "signa",
-        "stabi",
-        "surpr",
-        "tailw",
-        "tamin",
-        "today",
-        "warsh"
-      ],
-      "last_seen_utc": "2026-10-24T09:41:47.371190+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "businesstoday malaysia",
-        "nbc news",
-        "newswav"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUm1YY3gtQVZrcEhOQm9iNE1idzlmNnRZTzQxOXd6dUl2XzBhZTBsZk04a1U1R1VBbEw0VG1keFVhdUNrUEc2N3JlOGVCcDhtLXR6NG1OLTc2OE9RM0hKM1J5N2tCTnVvNEJyR1FhUXA4dFYwMS1BTmszaHZSODNHWjJIQ1NvQU1SMGdzbzZjVHhwTWc1VlJqOWlaTXBvWVRjNHNMXy1CdDM?oc=5",
-      "short_link": "https://tinyurl.com/2y3yob8r"
-    },
-    {
       "title": "Trump Criticizes Warsh as Fed Rate Hikes Threaten Stocks",
       "stance": "hawkish",
       "tokens": [
@@ -128,7 +75,7 @@
         "華許保留升",
         "重塑fed"
       ],
-      "last_seen_utc": "2026-10-31T08:54:38.849358+00:00",
+      "last_seen_utc": "2026-10-31T14:56:53.911758+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cmoney",
@@ -145,7 +92,7 @@
         "升息壓得住",
         "股市爆料同"
       ],
-      "last_seen_utc": "2026-10-31T08:54:38.849358+00:00",
+      "last_seen_utc": "2026-10-31T14:56:53.911758+00:00",
       "confidence": "LIKELY",
       "sources": [
         "cmoney",
@@ -187,7 +134,7 @@
         "warsh",
         "words"
       ],
-      "last_seen_utc": "2026-10-31T08:54:38.849358+00:00",
+      "last_seen_utc": "2026-10-31T14:56:53.911758+00:00",
       "confidence": "LIKELY",
       "sources": [
         "forex factory",
