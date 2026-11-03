@@ -399,18 +399,25 @@
       "title": "Houthis Claim Missile Strike On Saudi Arabia’s Major Oil Export Hub",
       "tokens": [
         "116",
+        "abha",
         "airpo",
         "arabi",
+        "attac",
+        "base",
         "claim",
+        "disru",
         "drone",
         "expor",
+        "fligh",
         "houth",
         "hub",
         "jump",
+        "khami",
         "large",
         "major",
         "milit",
         "missi",
+        "musha",
         "oil",
         "price",
         "refin",
@@ -418,9 +425,10 @@
         "saudi",
         "sites",
         "strik",
-        "towar"
+        "towar",
+        "yemen"
       ],
-      "last_seen_utc": "2026-10-31T02:42:54.775798+00:00",
+      "last_seen_utc": "2026-11-03T22:00:22.324336+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "brand icon image",
@@ -549,7 +557,7 @@
         "villa",
         "wound"
       ],
-      "last_seen_utc": "2026-11-03T16:32:27.561846+00:00",
+      "last_seen_utc": "2026-11-03T22:00:22.324336+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "yemen online",
