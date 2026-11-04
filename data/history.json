@@ -2036,5 +2036,41 @@
       "geo_score": 40,
       "warsh_score": -25
     }
+  },
+  {
+    "timestamp": "2026-11-04T01:46:27.855171+00:00",
+    "gold_price": 3968.199951171875,
+    "momentum_score": 75,
+    "alert_level": "alert",
+    "reasons": [
+      "實質利率大幅下降 -0.150 (+35)",
+      "DXY 5日小跌 -0.93% (+8)",
+      "COT 淨多頭週增 1.30% (報告日 2026-10-27) (+20)",
+      "VIX 大幅上升 18.89% (+20)",
+      "地緣政治衝擊事件(24小時內): Houthis Claim Missile Strike On Saudi Arabia’s Major Oil Exp... (+40)",
+      "華許鷹派發言(24小時內): Trump Criticizes Warsh as Fed Rate Hikes Threaten Stocks... (-25)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 101.36699676513672,
+        "prev_5d": 102.31999969482422,
+        "change_pct": -0.9313945783130283
+      },
+      "vix": {
+        "latest": 20.829999923706055,
+        "prev_5d": 17.520000457763672,
+        "change_pct": 18.892690522023454
+      },
+      "gld": null,
+      "cot": {
+        "report_date": "2026-10-27T00:00:00.000",
+        "net_long": 105562,
+        "prev_net_long": 104206,
+        "change_pct": 1.3012686409611731
+      },
+      "real_rate_5d_change": -0.1499999999999999,
+      "geo_score": 40,
+      "warsh_score": -25
+    }
   }
 ]
