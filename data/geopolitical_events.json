@@ -67,63 +67,6 @@
       "short_link": "https://tinyurl.com/2bmjjkze"
     },
     {
-      "title": "Ballistic missile attacks rock Yemen's Aden",
-      "tokens": [
-        "aden",
-        "airpo",
-        "annou",
-        "arabi",
-        "ashar",
-        "attac",
-        "balli",
-        "coali",
-        "coast",
-        "conde",
-        "conti",
-        "drone",
-        "emerg",
-        "facil",
-        "foils",
-        "guard",
-        "houth",
-        "leave",
-        "led",
-        "limit",
-        "missi",
-        "non",
-        "oil",
-        "opera",
-        "order",
-        "persi",
-        "perso",
-        "pipel",
-        "reope",
-        "resum",
-        "riyad",
-        "rock",
-        "saudi",
-        "says",
-        "strik",
-        "struc",
-        "threa",
-        "vows",
-        "yemen"
-      ],
-      "last_seen_utc": "2026-10-28T08:34:03.807762+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "asharq al-awsat english",
-        "kuwait times",
-        "morungexpress",
-        "social news xyz",
-        "the eastleigh voice",
-        "vatican news",
-        "وكالة خبر للأنباء"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NUXpHV2g4dTNhSzJFOHVXREtxT0EyRmkxOFFvSmlLM1pMMFhpSUJpbmVBYms2X0pSUXNGR0E4d3Rrd19Qd0k4dk1MSHREMkFtT3JkQkN2QTlfN1BZaGR0a3gyZGdsMk5KYXZ5aWM1bkRPSGxJVmtV?oc=5",
-      "short_link": "https://tinyurl.com/2aawfzgm"
-    },
-    {
       "title": "Yemen's Houthis say they hit Saudi Ras Tanura oil refinery with missile",
       "tokens": [
         "000",
@@ -214,42 +157,6 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMU9tRHdmbzQ2ZHlsQzBDVmpqUEhlTk9meXgzN1VMOWlUMnlKOU1ibFRMQ1VQNDNjTkloUG9lb054S2JXZ2YwMS1MMXM4b1pwczl2clNyTHM5RGZVdnd6bzJXTVl4bW4yZ0pGTEV2aEV4dlR2cDNkc0lvNjVMN2ZScklvRDE3S1VyS0FoaC02Z3BqTHJPeTJrekxhM0dONmN0VzdXTmE5QjNfM0pIZ1Q2SHMtSkZzbFNqSThaN2RybDFBdw?oc=5",
       "short_link": "https://tinyurl.com/2ybwy9u7"
-    },
-    {
-      "title": "Specialists assess damage to Kyiv’s Southern Bridge after ballistic missile strike",
-      "tokens": [
-        "asses",
-        "attac",
-        "balli",
-        "bridg",
-        "damag",
-        "follo",
-        "klits",
-        "kyiv",
-        "least",
-        "metro",
-        "missi",
-        "overn",
-        "photo",
-        "share",
-        "south",
-        "speci",
-        "strik",
-        "struc",
-        "three",
-        "video",
-        "were"
-      ],
-      "last_seen_utc": "2026-10-28T02:13:41.444344+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "sfg media",
-        "ua.news",
-        "ukrainian news",
-        "ukrinform"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdThsRzUyZ0N6Mzc5X0dabWx5Y2VHc0hxTmhIUmtFWFhpY1V4X1h0UGViRUVpUjBHTmhfcXFvWk0tak5MS0NOVEZrMU9fTVlUR3RiWExnRWZyQkNYRmR3QTRmaVBUcnpMT250WV94MEJuRUFuSnl5RXBfMW1YRF9PV3RmdWs4M0tHdUVDVXB2T2RsMGtDUElWN3NUdmMwaXBON1hNT0ljT3VGUDBhcEQ3c2hlcjQ4WHlFa0lEcHVFQm1rbWJYN2NaUjRPNNIB0AFBVV95cUxNWUhmdXItYlVTTUVQWG02ZWplSzFnYXBHeS1QTFBZMzZLZHhTV3k1ZFRIc3FTcDE1XzBhY3Z3czJXWUxBNEFBVGF3emk1XzhaNmQ2TENtTW84OWg1bjZCRVQyRGk1bjgwT3F4NWVEcERBb21HQ1hxT2NjNFpaenFRZVJhdDNCOHNOa1Nmd1NLUDEwZzUxQnljVGNSMXhkNTUtcjg5X0x6aVBHY3FKSWNBQkszcWQ4T2JtQlRNZnlSb1RIWFNkYnM2QnhodUVCS3Yw?oc=5",
-      "short_link": "https://tinyurl.com/2ddqeqq5"
     },
     {
       "title": "Houthis claim ‘direct hit’ on Saudi defence ministry with ballistic missile",
@@ -400,6 +307,7 @@
       "tokens": [
         "116",
         "abha",
+        "airba",
         "airpo",
         "arabi",
         "attac",
@@ -428,7 +336,7 @@
         "towar",
         "yemen"
       ],
-      "last_seen_utc": "2026-11-04T02:04:19.551528+00:00",
+      "last_seen_utc": "2026-11-04T09:06:39.774991+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "brand icon image",
@@ -557,7 +465,7 @@
         "villa",
         "wound"
       ],
-      "last_seen_utc": "2026-11-04T02:04:19.551528+00:00",
+      "last_seen_utc": "2026-11-04T09:06:39.774991+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "yemen online",
