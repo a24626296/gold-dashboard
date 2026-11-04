@@ -336,7 +336,7 @@
         "towar",
         "yemen"
       ],
-      "last_seen_utc": "2026-11-04T09:06:39.774991+00:00",
+      "last_seen_utc": "2026-11-04T17:12:23.841026+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "brand icon image",
@@ -448,24 +448,37 @@
     {
       "title": "14 Civilians Killed, 25 Injured After Failed Houthi Ballistic Missile Launch in Taiz",
       "tokens": [
+        "attac",
         "balli",
+        "camp",
         "civil",
         "dead",
+        "death",
         "destr",
+        "dhale",
+        "dozen",
         "faile",
         "homes",
         "houth",
         "injur",
         "kille",
+        "kills",
         "launc",
         "leave",
+        "mid",
+        "milit",
         "missi",
+        "recru",
+        "repor",
         "strik",
         "taiz",
+        "train",
+        "under",
         "villa",
-        "wound"
+        "wound",
+        "yemen"
       ],
-      "last_seen_utc": "2026-11-04T09:06:39.774991+00:00",
+      "last_seen_utc": "2026-11-04T17:12:23.841026+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "yemen online",
