@@ -42,31 +42,6 @@
       "short_link": "https://tinyurl.com/248hwlxp"
     },
     {
-      "title": "長射程ミサイルを演習に初投入 「敵基地攻撃」運用能力を示す",
-      "tokens": [
-        "2026年",
-        "全国のニュ",
-        "共同通信",
-        "敵基地攻撃",
-        "米との演習",
-        "運用能力を",
-        "長射程ミサ"
-      ],
-      "last_seen_utc": "2026-10-29T00:11:44.161572+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "excite エキサイト",
-        "newsjp",
-        "yahoo!ニュース",
-        "北海道新聞デジタル",
-        "奈良新聞",
-        "宮崎日日新聞",
-        "ｄメニューニュース"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xMEtCN244MnI1LVU0U2swTVNQTXZWUjgyUmNBWHFDZThLYTNhLU9OM3plX0xoTU83U0YtSUFWZXdxb19FVk9RclVBUlZyUFZZODZwR0ZJc2E5QQ?oc=5",
-      "short_link": "https://tinyurl.com/2bmjjkze"
-    },
-    {
       "title": "Yemen's Houthis say they hit Saudi Ras Tanura oil refinery with missile",
       "tokens": [
         "000",
@@ -184,7 +159,7 @@
         "saudi",
         "strik"
       ],
-      "last_seen_utc": "2026-11-04T22:37:45.713397+00:00",
+      "last_seen_utc": "2026-11-05T02:46:59.943094+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "dna india",
@@ -486,7 +461,7 @@
         "wound",
         "yemen"
       ],
-      "last_seen_utc": "2026-11-04T22:37:45.713397+00:00",
+      "last_seen_utc": "2026-11-05T02:46:59.943094+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "yemen online",
@@ -495,6 +470,23 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xT29ocFh4OXc3NXdLcjJINXdGWGowVmwzYkR2aXlhZUNkWjREdDBBMER0c3RQbDdPMHdKXzRnZ2tTMHdCVDZrYzZTQUo5eFlqbVBKT3NtNktHZw?oc=5",
       "short_link": "https://tinyurl.com/24ya8wbp"
+    },
+    {
+      "title": "対空システムの発射実験 巡航ミサイルの攻撃訓練も―北朝鮮",
+      "tokens": [
+        "北朝鮮",
+        "対空システ",
+        "巡航ミサイ"
+      ],
+      "last_seen_utc": "2026-11-05T02:46:59.943094+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "excite エキサイト",
+        "infoseek",
+        "時事ドットコム"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQSGtpTUN1SHBBOEEtV3o1THZ0Wl81WVFwOVZvdnRaQV81cHMwVWQwQlFHZlFDV09iLTVsSjZjVHRwYjNITmswTnM4ZUU2anlsMXpvYlgtcGo3Smk0ZVozaXhPaw?oc=5",
+      "short_link": "https://tinyurl.com/2y5ce8c7"
     }
   ]
 }
