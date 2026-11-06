@@ -1,47 +1,6 @@
 {
   "events": [
     {
-      "title": "Ukrainian capital under missile attack, explosions seen in city By Reuters",
-      "tokens": [
-        "air",
-        "attac",
-        "balli",
-        "bank",
-        "blast",
-        "bryan",
-        "capit",
-        "city",
-        "enemy",
-        "explo",
-        "five",
-        "force",
-        "heard",
-        "kyiv",
-        "left",
-        "loud",
-        "missi",
-        "reute",
-        "say",
-        "says",
-        "seen",
-        "threa",
-        "ukrai",
-        "under",
-        "updat",
-        "were",
-        "witne"
-      ],
-      "last_seen_utc": "2026-10-30T19:59:38.992727+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "internazionale",
-        "investing.com",
-        "the straits times"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX3VwMzU1LVhqeDBmRmZSWEppN1J0NEFOZk9uMXpub291Ni1FOVFWLUhjVm1EVE5WTjFlUmRDZUNBVmRFYTdtakVnZ2dBc0JlM0RYZk5hZGZIbnlrbkg1aUtPazRIcTJoQm1adXVDcnFMRTJOOUtTVWFPRE5XT2owa2tmRUFqS2RaSFZ1dEhQZzBodjVad3ktaWdIeGh3MC14ZVlIX0J4a0o2WGFjZEpzajhn?oc=5",
-      "short_link": "https://tinyurl.com/248hwlxp"
-    },
-    {
       "title": "Houthis claim ‘direct hit’ on Saudi defence ministry with ballistic missile",
       "tokens": [
         "activ",
@@ -316,7 +275,7 @@
         "suppo",
         "targe"
       ],
-      "last_seen_utc": "2026-11-06T18:17:00.039074+00:00",
+      "last_seen_utc": "2026-11-06T23:21:25.885594+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "crypto briefing",
@@ -332,6 +291,7 @@
       "tokens": [
         "appar",
         "attac",
+        "crew",
         "dies",
         "greek",
         "gulf",
@@ -339,6 +299,7 @@
         "kille",
         "kills",
         "manag",
+        "membe",
         "missi",
         "oil",
         "one",
@@ -346,13 +307,15 @@
         "persi",
         "post",
         "sailo",
+        "sapph",
         "seafa",
         "strik",
         "suspe",
         "tanke",
-        "targe"
+        "targe",
+        "velos"
       ],
-      "last_seen_utc": "2026-11-06T18:17:00.039074+00:00",
+      "last_seen_utc": "2026-11-06T23:21:25.885594+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "al arabiya english",
