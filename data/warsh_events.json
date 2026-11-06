@@ -126,6 +126,23 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BaTZTWERNZFg1VThaakdyYXAtNGpHY0Q1X21BbWlCRDlvb1NnZHdlZjhuU1J3UEZQT0NrSEU1YS1PWEJoNU1BbF9WSExGa0RubDZla1lfdXNDMVJyT0Eyd0FXeGFydmhJOENZSUJqYTRkWGdpVHBHeA?oc=5",
       "short_link": "https://tinyurl.com/2cezcqho"
+    },
+    {
+      "title": "華許上任政策轉鷹？聯準會啟動三年來首次升息",
+      "stance": "hawkish",
+      "tokens": [
+        "聯準會啟動",
+        "華許上任政",
+        "討論牆"
+      ],
+      "last_seen_utc": "2026-11-06T18:17:07.500161+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "line today",
+        "tvbs新聞網"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02eG9pS1UyZy1DZkh6ZlV0Y2NvWS1nMTBrMnZORmlOcmFJc09idTlGc245NExPY0xvNE5TMDRkSVU5a3l6amNCZzhndjAzaDQ?oc=5",
+      "short_link": "https://tinyurl.com/2yhsah99"
     }
   ]
 }
