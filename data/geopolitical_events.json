@@ -92,6 +92,7 @@
         "disru",
         "drone",
         "expor",
+        "facil",
         "fligh",
         "houth",
         "hub",
@@ -106,15 +107,17 @@
         "oil",
         "price",
         "refin",
+        "respo",
         "rise",
         "riyad",
         "saudi",
+        "scale",
         "sites",
         "strik",
         "towar",
         "yemen"
       ],
-      "last_seen_utc": "2026-11-05T17:59:38.245185+00:00",
+      "last_seen_utc": "2026-11-06T11:29:40.561545+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "brand icon image",
@@ -288,6 +291,40 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQSGtpTUN1SHBBOEEtV3o1THZ0Wl81WVFwOVZvdnRaQV81cHMwVWQwQlFHZlFDV09iLTVsSjZjVHRwYjNITmswTnM4ZUU2anlsMXpvYlgtcGo3Smk0ZVozaXhPaw?oc=5",
       "short_link": "https://tinyurl.com/2y5ce8c7"
+    },
+    {
+      "title": "4 Arab States Condemn Houthi Missile Attack on Madinah Region",
+      "tokens": [
+        "alleg",
+        "arab",
+        "arabi",
+        "attac",
+        "conde",
+        "defen",
+        "egypt",
+        "houth",
+        "madin",
+        "measu",
+        "medin",
+        "missi",
+        "natio",
+        "reaff",
+        "regio",
+        "saudi",
+        "state",
+        "suppo",
+        "targe"
+      ],
+      "last_seen_utc": "2026-11-06T11:29:40.561545+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "crypto briefing",
+        "egypt independent",
+        "https://houseofsaud.com/",
+        "thechronicle.com.ph"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJWFJ0UVJKT3hZVkZQNnp5dXh2VGhJQXVQcWx6cHRXM0Y3dGlxOTF4cHlMc0NHNzl3ZmJ4NGdZdUlRQnVyOUtWRlJyYy11RlFVSXRlM09oZS1JbXZBOEx0X1BCd3BRT3NKRC0yVEpWSHFSc1BKUkdQVW9XUzk?oc=5",
+      "short_link": "https://tinyurl.com/267qrcrz"
     }
   ]
 }
