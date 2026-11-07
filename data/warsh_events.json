@@ -83,7 +83,7 @@
         "華許上任政",
         "討論牆"
       ],
-      "last_seen_utc": "2026-11-07T15:55:49.140164+00:00",
+      "last_seen_utc": "2026-11-07T19:47:06.105835+00:00",
       "confidence": "LIKELY",
       "sources": [
         "line today",
@@ -91,6 +91,24 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02eG9pS1UyZy1DZkh6ZlV0Y2NvWS1nMTBrMnZORmlOcmFJc09idTlGc245NExPY0xvNE5TMDRkSVU5a3l6amNCZzhndjAzaDQ?oc=5",
       "short_link": "https://tinyurl.com/2yhsah99"
+    },
+    {
+      "title": "美期中選舉重塑Fed政策空間！華許升息阻力降低 但經濟可能不再需要更高利率",
+      "stance": "hawkish",
+      "tokens": [
+        "但經濟可能",
+        "美期中選舉",
+        "股市爆料同",
+        "華許升息阻"
+      ],
+      "last_seen_utc": "2026-11-07T19:47:06.105835+00:00",
+      "confidence": "LIKELY",
+      "sources": [
+        "cmoney",
+        "鉅亨網"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfNnRtdU1LSGdiQ3QzbWZaYmRtUTl0c1lDS0ZBd2JSekdyR0VndEdnbS1zaHlUcmZORElGQmtXMTZMOGtpV3NjQWhxTHlFcUU?oc=5",
+      "short_link": "https://tinyurl.com/25k49a47"
     }
   ]
 }
