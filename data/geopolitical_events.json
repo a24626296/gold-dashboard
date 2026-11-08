@@ -56,6 +56,7 @@
         "fligh",
         "houth",
         "hub",
+        "issue",
         "jump",
         "khami",
         "kill",
@@ -79,9 +80,10 @@
         "strik",
         "towar",
         "under",
+        "warni",
         "yemen"
       ],
-      "last_seen_utc": "2026-11-08T02:37:23.477897+00:00",
+      "last_seen_utc": "2026-11-08T09:28:32.411759+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "brand icon image",
@@ -333,6 +335,34 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRFU1aGU1UkZhalVfQ29Qc051eElwZ1lacWhBUDhIckNscmN3d2I0ci1CbUU1TmNoTXhreEp0ekhPOGJfY2VCSUk5Z2tJb2tyVW1MN1VCQWwyZGRROUozR05OYXRfMUwwbkdUTEk3a0tiWHBlYkliTlVJaGpzWUp5WUlyd0RuVmxaMGswdWVONGhoY1VXZTNZVF94V2xjUGd5bWFVQXk0ZG1rRF9VSDBVTGdYMVV1RS1Uck80MU9LdXR1QjlwbzhBbdIBzgFBVV95cUxNd0dDSVhZOWd4ZEJqUE5MTWpjQzV3ZEFVQXFpVm5jQWExN2o3SkhIaHg4VHVVYW54OTJmWHFFSFlCUEdMVmh1RHhxUTRjWklwMlBWOElQcGZFMVBuRElvcUNhSU1uazIwRG8yS2JyTlg4TlU0WkxTR1U1SXVSazhiYm51cE9xUnZqZkdKMEl1RUpCcnR5MmZ4cnNKNU55YWJsd2hhcUJzVWE5eEJOQnpMbW1BWXAtVTRkMGFjdWkxb2JINWZxX2xJNDBuSnFaQQ?oc=5",
       "short_link": "https://tinyurl.com/22cskac7"
+    },
+    {
+      "title": "Explosions Heard On Iran's Qeshm Island After Missile Strikes",
+      "tokens": [
+        "explo",
+        "heard",
+        "iran",
+        "islan",
+        "missi",
+        "peace",
+        "push",
+        "qatar",
+        "qeshm",
+        "respo",
+        "strik",
+        "tehra",
+        "threa",
+        "wider"
+      ],
+      "last_seen_utc": "2026-11-08T09:28:32.411759+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "moneycontrol.com",
+        "ndtv",
+        "شبكة تواصل الإخبارية"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRng4YjFVR2xoNWQ4eWJrSE5BNElsUW9CLVh6OHMwYS03azlPMzQ4cG1Cb0tjOEpFdEVtU3pRYXdVVUZwUU10N3QtUzVXSTdSMzJmYk56OUV5ZWxQUmVncHV0eWdTTVBNZnktaFBVVXI5bG9qNkFQMnc0YWNyY2dJTDVGWEFTbEtud1g3bjZoek1GNzFvbThRWjJQdmltR28tcXpnZUFjRTctSUtGbVBHclBCSdIBuwFBVV95cUxNT1c4Nk92MVVuMWtJbUptNVp3dTRWM1JQN1RTUHRqVEZ2RWFLeWU1TzJ0ZTdQN19sNTNEUlAtYUFaZjlGa3A4YWJlRWpxR3pycVF6MzRRaE83dGFsa2tvZUtfUEExZlN4VXJIbl9vZ254d0Q1NzAtTDNSTDhla25rSWJ3ZFMyaW9nTU1lRkZkSGhsRmFNbzFkUTZxbXNNME9UcEdrbF80WTg5WXB3SEFRaGJQVXNxa084LWE0?oc=5",
+      "short_link": "https://tinyurl.com/2yndeosk"
     }
   ]
 }
