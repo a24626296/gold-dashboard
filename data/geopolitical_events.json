@@ -238,7 +238,7 @@
         "suppo",
         "targe"
       ],
-      "last_seen_utc": "2026-11-08T16:12:00.584435+00:00",
+      "last_seen_utc": "2026-11-08T20:28:37.931057+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "crypto briefing",
@@ -358,7 +358,7 @@
         "threa",
         "wider"
       ],
-      "last_seen_utc": "2026-11-08T16:12:00.584435+00:00",
+      "last_seen_utc": "2026-11-08T20:28:37.931057+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "moneycontrol.com",
@@ -372,6 +372,7 @@
       "title": "Aramco: Building owned by Saudi oil giant damaged in missile attack on Riyadh’s financial district",
       "tokens": [
         "airpo",
+        "alert",
         "arabi",
         "aramc",
         "attac",
@@ -383,9 +384,11 @@
         "damag",
         "distr",
         "drone",
+        "escal",
         "facil",
         "finan",
         "follo",
+        "fresh",
         "giant",
         "houth",
         "inclu",
@@ -394,6 +397,7 @@
         "khali",
         "king",
         "launc",
+        "milit",
         "minor",
         "missi",
         "oil",
@@ -403,6 +407,8 @@
         "retal",
         "riyad",
         "saudi",
+        "secur",
+        "sites",
         "six",
         "strik",
         "suffe",
@@ -411,9 +417,10 @@
         "threa",
         "tower",
         "unit",
+        "video",
         "warni"
       ],
-      "last_seen_utc": "2026-11-08T16:12:00.584435+00:00",
+      "last_seen_utc": "2026-11-08T20:28:37.931057+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "arab news",
@@ -458,7 +465,7 @@
         "sues",
         "yam"
       ],
-      "last_seen_utc": "2026-11-08T16:12:00.584435+00:00",
+      "last_seen_utc": "2026-11-08T20:28:37.931057+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "the media line",
