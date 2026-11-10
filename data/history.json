@@ -2175,5 +2175,38 @@
       "geo_score": 40,
       "warsh_score": -25
     }
+  },
+  {
+    "timestamp": "2026-11-10T03:54:13.420914+00:00",
+    "gold_price": 4119.7001953125,
+    "momentum_score": 25,
+    "alert_level": "none",
+    "reasons": [
+      "實質利率小幅下降 -0.030 (+10)",
+      "地緣政治衝擊事件(24小時內): 4 Arab States Condemn Houthi Missile Attack on Madinah Regio... (+40)",
+      "華許鷹派發言(24小時內): 美期中選舉重塑Fed政策空間！華許升息阻力降低 但經濟可能不再需要更高利率... (-25)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 101.66799926757812,
+        "prev_5d": 101.75,
+        "change_pct": -0.08059040041461916
+      },
+      "vix": {
+        "latest": 19.920000076293945,
+        "prev_5d": 21.149999618530273,
+        "change_pct": -5.815600777404655
+      },
+      "gld": null,
+      "cot": {
+        "report_date": "2026-11-03T00:00:00.000",
+        "net_long": 103614,
+        "prev_net_long": 105562,
+        "change_pct": -1.8453610200640382
+      },
+      "real_rate_5d_change": -0.03000000000000025,
+      "geo_score": 40,
+      "warsh_score": -25
+    }
   }
 ]
