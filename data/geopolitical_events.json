@@ -8,6 +8,7 @@
         "airba",
         "airpo",
         "alert",
+        "arab",
         "arabi",
         "aramc",
         "attac",
@@ -19,6 +20,7 @@
         "defen",
         "destr",
         "direc",
+        "downs",
         "drone",
         "escal",
         "explo",
@@ -41,17 +43,21 @@
         "multi",
         "oil",
         "outle",
+        "pipel",
+        "polit",
         "riyad",
+        "saada",
         "saudi",
         "secur",
         "sites",
         "six",
         "strik",
         "targe",
+        "video",
         "warni",
         "yemen"
       ],
-      "last_seen_utc": "2026-11-09T12:35:32.875107+00:00",
+      "last_seen_utc": "2026-11-10T12:51:10.052748+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "dna india",
@@ -117,57 +123,6 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdFNrT2MzWm5vNDhldUlBWXdIMS1zZ3liYkVBSGkzLVhUMkRRUXNvZFdZdk9RdjFZX3piLWp4bTVFZU1KbktVMTh3blNid3h4RzdPNy12OWhLc2pqUlRHMjdYUEpCWkp0S0VMS1BKOFhrU0IySGhia2pmOURkTHBmbTFESURUMlJMUzRzTlJiaTlsakdiTVY0TFR3SzQ3UQ?oc=5",
       "short_link": "https://tinyurl.com/29z8uwl5"
-    },
-    {
-      "title": "20 civilians killed, injured in Houthi missile attack on health center in Yemen: Media",
-      "tokens": [
-        "accus",
-        "aroun",
-        "attac",
-        "backe",
-        "balli",
-        "cente",
-        "centr",
-        "civil",
-        "conde",
-        "deadl",
-        "death",
-        "dozen",
-        "five",
-        "healt",
-        "houth",
-        "injur",
-        "iran",
-        "kille",
-        "kills",
-        "lahij",
-        "lahj",
-        "media",
-        "medic",
-        "milit",
-        "missi",
-        "rises",
-        "saqqi",
-        "says",
-        "sever",
-        "shaya",
-        "south",
-        "staff",
-        "strik",
-        "toll",
-        "wound",
-        "yemen",
-        "zinda"
-      ],
-      "last_seen_utc": "2026-11-03T08:36:46.340277+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "anadolu ajansı",
-        "yemen online",
-        "مركز سوث24"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQelp1S056WFREd1VWRWQ5OTdfRXh2SVY4UUZhSXJiT1EzU2FzQUVJemFMTzlwRk1BekJxRXpwYnM5REJWVWZyZHJKeVVlQ0VPRk9ORnV5R2dLZjVwUFJ3eVVPN0lBYVl2d0Zsd1N3dGFGV2lnMEVwR0ZaZm1PQW5EVTFpTmVtRmxaMHNqRTdGYzJWY1ZDaTJRTXEwQ0o3ZHFmbS1IXzhJX1VkZm16empSTGYtODFtbl9EV0tlcWxEdWZ2azRNdmp3cg?oc=5",
-      "short_link": "https://tinyurl.com/25nve738"
     },
     {
       "title": "14 Civilians Killed, 25 Injured After Failed Houthi Ballistic Missile Launch in Taiz",
@@ -561,6 +516,31 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeDl5YnM0b2tuSGJ4bThIdHRJdFNHVlRfZUNpSDBMbW1iVTdNOVkxRXBGdHVWcUhPd2RFQlV6d0Y5Q3hUWHk3akd4ZjBVc1BkZ3lkT1lqeUFMenpwWm50UnItX2g1NENONkpIN2JJcTkyOU0zM1hTTm5jV2tNR2VKMFNLTjhPYmpWeHl1TWp1alU4R3BDNjVUcU14anlmRzd3OWlWNXRCS0VOaVFaREtxSHZ3?oc=5",
       "short_link": "https://tinyurl.com/2bn3hhe6"
+    },
+    {
+      "title": "Saudi-led coalition reports Houthi missile, drone interceptions; Saba reports Saudi strikes on Sanaa",
+      "tokens": [
+        "coali",
+        "drone",
+        "houth",
+        "inter",
+        "led",
+        "missi",
+        "repor",
+        "saba",
+        "sanaa",
+        "saudi",
+        "strik"
+      ],
+      "last_seen_utc": "2026-11-10T12:51:10.052748+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "internazionale",
+        "reuters",
+        "the express tribune"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeEFMZHZXSnB4Q1RWMGxYRGJrYUFLdXBsc2ZGcmowbDhlNGVjMWxtOWt6bno5WWZnd2F2NVNncnJKdFM1bm1QU2RGQmNNOFBXampZcHpYLU1mdGxIRFJ4Z0drcHcyNHYtTmhVWEVlY0FldWp1d3ZoWlpoZXljR2w1b1lvb2pSR3owY2tnbUF2MDFYQXZlNUxsUUM1TGdaQ1lJZ3ZSUzl6cVp2czBFeTA3akRSS19vMTR3LW1qcGZGUExhbEJQTlpzSFdfNGc2dw?oc=5",
+      "short_link": "https://tinyurl.com/2bzwspw9"
     }
   ]
 }
