@@ -92,7 +92,7 @@
         "warsh",
         "won"
       ],
-      "last_seen_utc": "2026-11-11T07:08:21.235730+00:00",
+      "last_seen_utc": "2026-11-11T15:09:21.732221+00:00",
       "confidence": "LIKELY",
       "sources": [
         "24/7 wall st.",
@@ -100,6 +100,31 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPclpHZEtyOHl3NzNzVUZmWE1pY2w1WGZpR0NBdzZsS1hsbTkxVl9BNFpJOVdLQ2MtdzA4Y1RUY2JqRllUaHdGelVUSXpkeTJiTVF3OUdsSzViZ3hDbHUzdGU2RU1aY2xDc1pjTFJIREZWSU1IV1lJZzNwZWl6ZmN6d2xleF9aY2NTN0FYVG1qc3Q5V2ZQNkJvVklvaGdCR09wYW9sZE1JcHltQnJCN3NsZHAtRGZ3U1BZV0Fva2tiLUIyX0tUdkRRWFV2X04?oc=5",
       "short_link": "https://tinyurl.com/25u89yjj"
+    },
+    {
+      "title": "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
+      "stance": "hawkish",
+      "tokens": [
+        "basis",
+        "bps",
+        "comme",
+        "comms",
+        "commu",
+        "fed",
+        "hike",
+        "point",
+        "probl",
+        "rate",
+        "warsh"
+      ],
+      "last_seen_utc": "2026-11-11T15:09:21.732221+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "reuters",
+        "the globe and mail"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVmdEZENBbDFmNjBmQ1lkUUdxbTUwZlZCZDF0MUo5cXZCTzMxNmdORWpkWl9WX1RucHdsR0VuSWhLOXhSYjZTYUstRFl6WWJ6V3JYallmel9vc0xhS2VGa0EwVGRkdE95MEVlU3RLb3owb0cweERFQUxXaFRqNXJiYURqN2F0WEVWSVY1SzkxbzVqN2V1NlMyMUxXTG1SQ0VEZUZZQm43SUxlbWpRSG15TVhRdUJDdXF5Q1laUmV1MGg?oc=5",
+      "short_link": "https://tinyurl.com/296ve26n"
     }
   ]
 }
