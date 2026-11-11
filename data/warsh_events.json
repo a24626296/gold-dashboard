@@ -1,37 +1,6 @@
 {
   "events": [
     {
-      "title": "Trump Criticizes Warsh as Fed Rate Hikes Threaten Stocks",
-      "stance": "hawkish",
-      "tokens": [
-        "chair",
-        "confi",
-        "criti",
-        "fed",
-        "furth",
-        "hikes",
-        "incre",
-        "infla",
-        "inter",
-        "kevin",
-        "persi",
-        "rate",
-        "signa",
-        "stock",
-        "threa",
-        "trump",
-        "warsh"
-      ],
-      "last_seen_utc": "2026-11-04T17:12:31.079389+00:00",
-      "confidence": "LIKELY",
-      "sources": [
-        "demokratis.co.id",
-        "suaragarut.id"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHVFlDMEM4bXBYRW5kZTJWVkUwaFJQdGVSaWJDemI2SFRCXzhNLTFkeDluZHl4QnVwV1VhU3JwLWVvSjJZU25EM2NYVU1BcU1uTkRSM3FUNXhkeHhVR1VsWEF5TjFSNlBUcTFJZ0d3?oc=5",
-      "short_link": "https://tinyurl.com/23gxo4ue"
-    },
-    {
       "title": "華許上任政策轉鷹？聯準會啟動三年來首次升息",
       "stance": "hawkish",
       "tokens": [
@@ -92,7 +61,7 @@
         "warsh",
         "won"
       ],
-      "last_seen_utc": "2026-11-11T15:09:21.732221+00:00",
+      "last_seen_utc": "2026-11-11T21:55:09.900683+00:00",
       "confidence": "LIKELY",
       "sources": [
         "24/7 wall st.",
@@ -117,7 +86,7 @@
         "rate",
         "warsh"
       ],
-      "last_seen_utc": "2026-11-11T15:09:21.732221+00:00",
+      "last_seen_utc": "2026-11-11T21:55:09.900683+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "reuters",
