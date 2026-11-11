@@ -2208,5 +2208,38 @@
       "geo_score": 40,
       "warsh_score": -25
     }
+  },
+  {
+    "timestamp": "2026-11-11T01:37:30.301290+00:00",
+    "gold_price": 4040.0,
+    "momentum_score": 25,
+    "alert_level": "none",
+    "reasons": [
+      "VIX 下降 -6.58% (+10)",
+      "地緣政治衝擊事件(24小時內): Saudi-led coalition reports Houthi missile, drone intercepti... (+40)",
+      "華許鷹派發言(24小時內): Kevin Warsh's Expected Rate Hike Is a Warning to Retirees Th... (-25)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 102.27200317382812,
+        "prev_5d": 101.87000274658203,
+        "change_pct": 0.3946210036394465
+      },
+      "vix": {
+        "latest": 19.459999084472656,
+        "prev_5d": 20.829999923706055,
+        "change_pct": -6.577056381427241
+      },
+      "gld": null,
+      "cot": {
+        "report_date": "2026-11-03T00:00:00.000",
+        "net_long": 103614,
+        "prev_net_long": 105562,
+        "change_pct": -1.8453610200640382
+      },
+      "real_rate_5d_change": 0.020000000000000018,
+      "geo_score": 40,
+      "warsh_score": -25
+    }
   }
 ]
