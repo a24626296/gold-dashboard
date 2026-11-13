@@ -445,7 +445,7 @@
         "that",
         "yam"
       ],
-      "last_seen_utc": "2026-11-13T04:30:03.627928+00:00",
+      "last_seen_utc": "2026-11-13T12:31:10.815645+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "the media line",
@@ -535,18 +535,21 @@
       "title": "Iran launches missile attack on US ships as Trump unleashes new strikes in Middle East",
       "tokens": [
         "attac",
+        "break",
         "east",
         "iran",
         "launc",
+        "locat",
         "middl",
         "missi",
         "new",
         "ships",
         "strik",
         "trump",
+        "two",
         "unlea"
       ],
-      "last_seen_utc": "2026-11-13T04:30:03.627928+00:00",
+      "last_seen_utc": "2026-11-13T12:31:10.815645+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "aol.co.uk",
