@@ -458,9 +458,13 @@
     {
       "title": "Saudi-led coalition reports Houthi missile, drone interceptions; Saba reports Saudi strikes on Sanaa",
       "tokens": [
+        "attac",
+        "claim",
         "coali",
         "downs",
         "drone",
+        "force",
+        "gover",
         "houth",
         "inter",
         "led",
@@ -469,9 +473,10 @@
         "saba",
         "sanaa",
         "saudi",
-        "strik"
+        "strik",
+        "yemen"
       ],
-      "last_seen_utc": "2026-11-12T02:38:40.003656+00:00",
+      "last_seen_utc": "2026-11-14T14:11:50.730826+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "internazionale",
@@ -585,7 +590,7 @@
         "targe",
         "yemen"
       ],
-      "last_seen_utc": "2026-11-14T07:15:24.796821+00:00",
+      "last_seen_utc": "2026-11-14T14:11:50.730826+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "daily beirut",
