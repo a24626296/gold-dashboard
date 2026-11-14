@@ -570,8 +570,12 @@
         "camp",
         "claim",
         "drone",
+        "energ",
         "facil",
+        "force",
         "houth",
+        "infra",
+        "jazan",
         "milit",
         "missi",
         "offic",
@@ -581,7 +585,7 @@
         "targe",
         "yemen"
       ],
-      "last_seen_utc": "2026-11-14T00:52:43.944843+00:00",
+      "last_seen_utc": "2026-11-14T07:15:24.796821+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "daily beirut",
