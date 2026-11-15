@@ -428,7 +428,7 @@
         "two",
         "unlea"
       ],
-      "last_seen_utc": "2026-11-15T16:36:35.093408+00:00",
+      "last_seen_utc": "2026-11-15T21:16:44.567897+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "aol.co.uk",
@@ -472,7 +472,7 @@
         "west",
         "yemen"
       ],
-      "last_seen_utc": "2026-11-15T16:36:35.093408+00:00",
+      "last_seen_utc": "2026-11-15T21:16:44.567897+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "daily beirut",
@@ -491,17 +491,19 @@
         "balli",
         "check",
         "civil",
+        "eight",
         "fight",
         "five",
         "houth",
         "inten",
+        "kill",
         "kille",
         "kills",
         "missi",
         "threa",
         "yemen"
       ],
-      "last_seen_utc": "2026-11-15T16:36:35.093408+00:00",
+      "last_seen_utc": "2026-11-15T21:16:44.567897+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "kurdistan24",
@@ -516,12 +518,16 @@
       "title": "Iran retains up to 2,500 missiles despite months of US-Israeli strikes",
       "tokens": [
         "500",
+        "compa",
+        "estim",
+        "intel",
         "iran",
         "israe",
         "missi",
         "month",
         "move",
         "next",
+        "outle",
         "repor",
         "retai",
         "strik",
@@ -529,7 +535,7 @@
         "trump",
         "weigh"
       ],
-      "last_seen_utc": "2026-11-15T16:36:35.093408+00:00",
+      "last_seen_utc": "2026-11-15T21:16:44.567897+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "firstpost",
