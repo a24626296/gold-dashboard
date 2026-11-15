@@ -315,6 +315,7 @@
         "airst",
         "arabi",
         "attac",
+        "blast",
         "camp",
         "capit",
         "claim",
@@ -332,6 +333,7 @@
         "led",
         "missi",
         "offic",
+        "power",
         "repor",
         "rock",
         "saba",
@@ -342,7 +344,7 @@
         "troop",
         "yemen"
       ],
-      "last_seen_utc": "2026-11-15T09:41:51.361623+00:00",
+      "last_seen_utc": "2026-11-15T16:36:35.093408+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "internazionale",
@@ -406,21 +408,27 @@
       "title": "Iran launches missile attack on US ships as Trump unleashes new strikes in Middle East",
       "tokens": [
         "attac",
+        "bahra",
+        "base",
         "break",
+        "drone",
         "east",
         "iran",
         "launc",
         "locat",
         "middl",
+        "milit",
         "missi",
         "new",
+        "risin",
         "ships",
         "strik",
+        "tensi",
         "trump",
         "two",
         "unlea"
       ],
-      "last_seen_utc": "2026-11-13T20:02:13.952458+00:00",
+      "last_seen_utc": "2026-11-15T16:36:35.093408+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "aol.co.uk",
@@ -464,7 +472,7 @@
         "west",
         "yemen"
       ],
-      "last_seen_utc": "2026-11-15T09:41:51.361623+00:00",
+      "last_seen_utc": "2026-11-15T16:36:35.093408+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "daily beirut",
@@ -473,6 +481,63 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SbTFqdVpmSDhlcG15cEdRdWUxMDAxMnNMaTJZV3MwcnA5LWt2SERqQmRnb2w2djdkX0twMTRYSjA1X2tqbFgyd3R5eG9wUjVROUltcUJGbjMteW0xOFU4T0xTdk9mak4zTzRQTFdXcDFEbXRVQkVFZg?oc=5",
       "short_link": "https://tinyurl.com/28m358jq"
+    },
+    {
+      "title": "Houthi Missile Attack Kills Five Near Yemen’s Aden as Fighting Intensifies",
+      "tokens": [
+        "aden",
+        "army",
+        "attac",
+        "balli",
+        "check",
+        "civil",
+        "fight",
+        "five",
+        "houth",
+        "inten",
+        "kille",
+        "kills",
+        "missi",
+        "threa",
+        "yemen"
+      ],
+      "last_seen_utc": "2026-11-15T16:36:35.093408+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "kurdistan24",
+        "sada elbalad english",
+        "the times of israel",
+        "يمن مونيتور"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVWh1TEZ5YlcyWHZqbkFiMjlaOW50Y0dDS2xzQW5hdHQtX3RYWXROaEZfY0l3TkZnckFKZ0JuRjFJX1ZteHZzd2psbDJyOTNrZnFGUUt1aVpraE1wNEZmUVhiQVdiNTdFMU1pNVJpNGN2aWFiT3Vlajh0dFVMbm9fZ2JXeUMzTC1scVNvWTZDb1Vwc0JaODAyNFpCeEt4eFlQQUxCUUJaMHAwN3BER1kzQ0lpRnZwT1ZK?oc=5",
+      "short_link": "https://tinyurl.com/2cb49sqy"
+    },
+    {
+      "title": "Iran retains up to 2,500 missiles despite months of US-Israeli strikes",
+      "tokens": [
+        "500",
+        "iran",
+        "israe",
+        "missi",
+        "month",
+        "move",
+        "next",
+        "repor",
+        "retai",
+        "strik",
+        "thous",
+        "trump",
+        "weigh"
+      ],
+      "last_seen_utc": "2026-11-15T16:36:35.093408+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "firstpost",
+        "latest news from azerbaijan",
+        "saudi gazette"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUJVMHVlWU9jVzhjbjZmVGxUVnJlLW5kVWRzd18ydUhpZDAxREhmbjl0cTNvRDFDNDNaT1czdU1weGkyLXpXRy14NmctOUttZHRlaURRVWxYd0FzUlNCYmNFU3VmZGFWQXhyQWRkVUljVE5CT1pIakpvNXVTRHE5M3BwNE9MSEdjU2puME9tSEhHTzdpdVpiRGtjNkx0Vk13ckMtTG9KLWQzdExhWTBsdXlxWUV1Sjd4RkE?oc=5",
+      "short_link": "https://tinyurl.com/2y3o9qo4"
     }
   ]
 }
