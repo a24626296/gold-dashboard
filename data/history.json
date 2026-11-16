@@ -2306,5 +2306,38 @@
       "geo_score": 40,
       "warsh_score": -25
     }
+  },
+  {
+    "timestamp": "2026-11-16T01:29:47.899516+00:00",
+    "gold_price": 3875.800048828125,
+    "momentum_score": 55,
+    "alert_level": "alert",
+    "reasons": [
+      "VIX 大幅下降 -24.73% (+20)",
+      "地緣政治衝擊事件(24小時內): Iran launches missile attack on US ships as Trump unleashes ... (+40)",
+      "華許鷹派發言(48-72小時前): COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms prob... (-5)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 103.43499755859375,
+        "prev_5d": 101.6500015258789,
+        "change_pct": 1.7560216487162617
+      },
+      "vix": {
+        "latest": 19.299999237060547,
+        "prev_5d": 25.639999389648438,
+        "change_pct": -24.72699026329743
+      },
+      "gld": null,
+      "cot": {
+        "report_date": "2026-11-03T00:00:00.000",
+        "net_long": 103614,
+        "prev_net_long": 105562,
+        "change_pct": -1.8453610200640382
+      },
+      "real_rate_5d_change": 0.2599999999999998,
+      "geo_score": 40,
+      "warsh_score": -5
+    }
   }
 ]
