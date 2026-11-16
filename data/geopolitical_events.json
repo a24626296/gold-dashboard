@@ -144,34 +144,6 @@
       "short_link": "https://tinyurl.com/267qrcrz"
     },
     {
-      "title": "Explosions Heard On Iran's Qeshm Island After Missile Strikes",
-      "tokens": [
-        "explo",
-        "heard",
-        "iran",
-        "islan",
-        "missi",
-        "peace",
-        "push",
-        "qatar",
-        "qeshm",
-        "respo",
-        "strik",
-        "tehra",
-        "threa",
-        "wider"
-      ],
-      "last_seen_utc": "2026-11-09T03:58:22.787049+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "moneycontrol.com",
-        "ndtv",
-        "شبكة تواصل الإخبارية"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRng4YjFVR2xoNWQ4eWJrSE5BNElsUW9CLVh6OHMwYS03azlPMzQ4cG1Cb0tjOEpFdEVtU3pRYXdVVUZwUU10N3QtUzVXSTdSMzJmYk56OUV5ZWxQUmVncHV0eWdTTVBNZnktaFBVVXI5bG9qNkFQMnc0YWNyY2dJTDVGWEFTbEtud1g3bjZoek1GNzFvbThRWjJQdmltR28tcXpnZUFjRTctSUtGbVBHclBCSdIBuwFBVV95cUxNT1c4Nk92MVVuMWtJbUptNVp3dTRWM1JQN1RTUHRqVEZ2RWFLeWU1TzJ0ZTdQN19sNTNEUlAtYUFaZjlGa3A4YWJlRWpxR3pycVF6MzRRaE83dGFsa2tvZUtfUEExZlN4VXJIbl9vZ254d0Q1NzAtTDNSTDhla25rSWJ3ZFMyaW9nTU1lRkZkSGhsRmFNbzFkUTZxbXNNME9UcEdrbF80WTg5WXB3SEFRaGJQVXNxa084LWE0?oc=5",
-      "short_link": "https://tinyurl.com/2yndeosk"
-    },
-    {
       "title": "Aramco: Building owned by Saudi oil giant damaged in missile attack on Riyadh’s financial district",
       "tokens": [
         "abdul",
@@ -428,7 +400,7 @@
         "two",
         "unlea"
       ],
-      "last_seen_utc": "2026-11-16T01:14:58.132552+00:00",
+      "last_seen_utc": "2026-11-16T08:01:09.892187+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "aol.co.uk",
@@ -486,6 +458,7 @@
       "title": "Houthi Missile Attack Kills Five Near Yemen’s Aden as Fighting Intensifies",
       "tokens": [
         "aden",
+        "airpo",
         "army",
         "attac",
         "balli",
@@ -500,10 +473,11 @@
         "kille",
         "kills",
         "missi",
+        "targe",
         "threa",
         "yemen"
       ],
-      "last_seen_utc": "2026-11-16T01:14:58.132552+00:00",
+      "last_seen_utc": "2026-11-16T08:01:09.892187+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "kurdistan24",
@@ -535,7 +509,7 @@
         "trump",
         "weigh"
       ],
-      "last_seen_utc": "2026-11-16T01:14:58.132552+00:00",
+      "last_seen_utc": "2026-11-16T08:01:09.892187+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "firstpost",
@@ -552,16 +526,27 @@
         "alert",
         "attac",
         "bahra",
+        "balli",
         "centr",
         "claim",
+        "com",
         "finan",
         "houth",
+        "hub",
+        "inves",
+        "khali",
+        "king",
         "missi",
+        "novem",
+        "rebel",
         "riyad",
+        "saudi",
+        "strik",
+        "struc",
         "targe",
         "yemen"
       ],
-      "last_seen_utc": "2026-11-16T01:14:58.132552+00:00",
+      "last_seen_utc": "2026-11-16T08:01:09.892187+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "businessline",
