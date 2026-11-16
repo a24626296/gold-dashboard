@@ -1,24 +1,6 @@
 {
   "events": [
     {
-      "title": "美期中選舉重塑Fed政策空間！華許升息阻力降低 但經濟可能不再需要更高利率",
-      "stance": "hawkish",
-      "tokens": [
-        "但經濟可能",
-        "美期中選舉",
-        "股市爆料同",
-        "華許升息阻"
-      ],
-      "last_seen_utc": "2026-11-09T12:35:39.824267+00:00",
-      "confidence": "LIKELY",
-      "sources": [
-        "cmoney",
-        "鉅亨網"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfNnRtdU1LSGdiQ3QzbWZaYmRtUTl0c1lDS0ZBd2JSekdyR0VndEdnbS1zaHlUcmZORElGQmtXMTZMOGtpV3NjQWhxTHlFcUU?oc=5",
-      "short_link": "https://tinyurl.com/25k49a47"
-    },
-    {
       "title": "Kevin Warsh's Expected Rate Hike Is a Warning to Retirees That the Fed Won't Rescue Stocks",
       "stance": "hawkish",
       "tokens": [
