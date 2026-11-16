@@ -428,7 +428,7 @@
         "two",
         "unlea"
       ],
-      "last_seen_utc": "2026-11-15T21:16:44.567897+00:00",
+      "last_seen_utc": "2026-11-16T01:14:58.132552+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "aol.co.uk",
@@ -472,7 +472,7 @@
         "west",
         "yemen"
       ],
-      "last_seen_utc": "2026-11-15T21:16:44.567897+00:00",
+      "last_seen_utc": "2026-11-16T01:14:58.132552+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "daily beirut",
@@ -503,7 +503,7 @@
         "threa",
         "yemen"
       ],
-      "last_seen_utc": "2026-11-15T21:16:44.567897+00:00",
+      "last_seen_utc": "2026-11-16T01:14:58.132552+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "kurdistan24",
@@ -535,7 +535,7 @@
         "trump",
         "weigh"
       ],
-      "last_seen_utc": "2026-11-15T21:16:44.567897+00:00",
+      "last_seen_utc": "2026-11-16T01:14:58.132552+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "firstpost",
@@ -544,6 +544,32 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUJVMHVlWU9jVzhjbjZmVGxUVnJlLW5kVWRzd18ydUhpZDAxREhmbjl0cTNvRDFDNDNaT1czdU1weGkyLXpXRy14NmctOUttZHRlaURRVWxYd0FzUlNCYmNFU3VmZGFWQXhyQWRkVUljVE5CT1pIakpvNXVTRHE5M3BwNE9MSEdjU2puME9tSEhHTzdpdVpiRGtjNkx0Vk13ckMtTG9KLWQzdExhWTBsdXlxWUV1Sjd4RkE?oc=5",
       "short_link": "https://tinyurl.com/2y3o9qo4"
+    },
+    {
+      "title": "Houthi missile attack targeting Riyadh, alert in Bahrain",
+      "tokens": [
+        "airpo",
+        "alert",
+        "attac",
+        "bahra",
+        "centr",
+        "claim",
+        "finan",
+        "houth",
+        "missi",
+        "riyad",
+        "targe",
+        "yemen"
+      ],
+      "last_seen_utc": "2026-11-16T01:14:58.132552+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "businessline",
+        "dhakamagazine.com",
+        "investing.com"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOTdiakVUQ01oUGhVdVNqX2RQd2RCNnUzWFlOREsxNFl0cjRMTlo5Y0lrYkFXTjFEZXJaV2Z6UWRZWnU1RWhmS0xjVlRxbEtJWmFKQnpqQlZXal9aT3k5VGN5c2ZBYlM5dG5UYkNEWm1IYmlQRFRoZjM1ME9YaDh1OF9GQ3ZjZnh4NkM0TXFzb2FhQVNTeEpiMllqUm9JRW1xc0dr?oc=5",
+      "short_link": "https://tinyurl.com/257datfc"
     }
   ]
 }
