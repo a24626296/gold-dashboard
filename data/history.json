@@ -2339,5 +2339,38 @@
       "geo_score": 40,
       "warsh_score": -5
     }
+  },
+  {
+    "timestamp": "2026-11-17T04:15:40.463933+00:00",
+    "gold_price": 3871.39990234375,
+    "momentum_score": 80,
+    "alert_level": "alert",
+    "reasons": [
+      "COT 淨多頭週增 8.42% (報告日 2026-11-10) (+20)",
+      "VIX 大幅上升 15.01% (+20)",
+      "地緣政治衝擊事件(24小時內): Iran retains up to 2,500 missiles despite months of US-Israe... (+40)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 103.51599884033203,
+        "prev_5d": 101.6500015258789,
+        "change_pct": 1.8357081027471147
+      },
+      "vix": {
+        "latest": 22.90999984741211,
+        "prev_5d": 19.920000076293945,
+        "change_pct": 15.01003895414866
+      },
+      "gld": null,
+      "cot": {
+        "report_date": "2026-11-10T00:00:00.000",
+        "net_long": 112341,
+        "prev_net_long": 103614,
+        "change_pct": 8.422606983612253
+      },
+      "real_rate_5d_change": 0.29000000000000004,
+      "geo_score": 40,
+      "warsh_score": 0
+    }
   }
 ]
