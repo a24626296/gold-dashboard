@@ -362,7 +362,7 @@
         "targe",
         "under"
       ],
-      "last_seen_utc": "2026-11-18T01:36:30.124794+00:00",
+      "last_seen_utc": "2026-11-18T09:07:26.530428+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "brighter kashmir",
@@ -430,7 +430,7 @@
         "video",
         "water"
       ],
-      "last_seen_utc": "2026-11-18T01:36:30.124794+00:00",
+      "last_seen_utc": "2026-11-18T09:07:26.530428+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "apa.az",
@@ -455,9 +455,12 @@
         "citin",
         "condu",
         "confi",
+        "dams",
+        "debat",
         "defen",
         "drone",
         "earli",
+        "fears",
         "fight",
         "force",
         "frame",
@@ -471,18 +474,24 @@
         "irani",
         "irgc",
         "islan",
+        "israe",
         "jets",
+        "kuwai",
         "launc",
+        "major",
         "milit",
         "missi",
         "new",
         "offic",
         "out",
         "outle",
+        "preci",
         "qeshm",
         "radar",
+        "repor",
         "reute",
         "revol",
+        "rise",
         "says",
         "self",
         "site",
@@ -494,12 +503,14 @@
         "targe",
         "tehra",
         "tells",
+        "tensi",
         "third",
         "times",
         "today",
-        "warpl"
+        "warpl",
+        "watch"
       ],
-      "last_seen_utc": "2026-11-18T01:36:30.124794+00:00",
+      "last_seen_utc": "2026-11-18T09:07:26.530428+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "a news",
@@ -551,12 +562,13 @@
     {
       "title": "米戦闘機、イランのミサイル発射施設を精密攻撃 「自衛のため」と説明",
       "tokens": [
+        "cnn",
         "と説明",
         "イランのミ",
         "米戦闘機",
         "自衛のため"
       ],
-      "last_seen_utc": "2026-11-18T01:36:30.124794+00:00",
+      "last_seen_utc": "2026-11-18T09:07:26.530428+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "au webポータル",
@@ -564,6 +576,26 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5aRVVkWmFCRVZiQ1FRSmtIZFdXUW15WGE4S1VFd2tqT0pjWUcxczJhd3hjTjRaVWNsNkszTlhFNzZVMy1QWEF0aFVuS09UN3Vh?oc=5",
       "short_link": "https://tinyurl.com/26jgj72m"
+    },
+    {
+      "title": "米国、イランのケシム島攻撃－革命防衛隊のミサイル発射施設標的",
+      "tokens": [
+        "bloom",
+        "cross",
+        "dig",
+        "tbs",
+        "イランのケ",
+        "革命防衛隊"
+      ],
+      "last_seen_utc": "2026-11-18T09:07:26.530428+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "infoseek",
+        "tbs news dig",
+        "yahoo!ニュース"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwMWdHVFpfVVNkUnhLTkpIRTQ0OGlLaWdILW92WHhzNjRJUUdjUldHUzJGVnJsSlpOY2gwc3FnUnBkQU1Fb1dKOGZFRjVyOWVwWVI4MUNvRzRkN3VXdHkzbDI0UFRsTGM?oc=5",
+      "short_link": "https://tinyurl.com/2c2ur659"
     }
   ]
 }
