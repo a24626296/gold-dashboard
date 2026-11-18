@@ -86,56 +86,6 @@
       "short_link": "https://tinyurl.com/2bzwspw9"
     },
     {
-      "title": "Houthis launch missile attack on Saudi Arabia | 'Will continue operations deep inside Saudi' | Inshorts",
-      "tokens": [
-        "arabi",
-        "aramc",
-        "attac",
-        "attem",
-        "busin",
-        "coali",
-        "conti",
-        "damag",
-        "deep",
-        "downs",
-        "easte",
-        "explo",
-        "fired",
-        "heard",
-        "houth",
-        "insho",
-        "insid",
-        "launc",
-        "missi",
-        "moves",
-        "opera",
-        "pipel",
-        "platf",
-        "polit",
-        "regio",
-        "riyad",
-        "saada",
-        "saudi",
-        "says",
-        "tower",
-        "used",
-        "will",
-        "zoom"
-      ],
-      "last_seen_utc": "2026-11-11T15:09:14.706753+00:00",
-      "confidence": "CONFIRMED",
-      "sources": [
-        "al jazeera",
-        "fish4news.co.uk",
-        "inshorts",
-        "politis - to the point",
-        "the circuit",
-        "وكالة سبأ"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd3FsZlpGc1ptelJOMmp2YU5zbWVwVVZVeElkbGgzMFI5ZDZiNGRSNElTeE9JdDBLcE9iOHl4eFBtdGVZWVdyZWxpcGxjRk91cld5dUFJOUVGMS1lckE2X1pHVFpNeU5EQ0k3TEpHVjNhR0xTRmt0bkxPNjA5UXh1MUxCTHZIUGRSMkJsSXoyajRtREhxLXhV0gGXAUFVX3lxTE93cWxmWkZzWm16Uk4yanZhTnNtZXBVVlV4SWRsaDMwUjlkNmI0ZFI0SVN4T0l0MEtwT2I4eXh4UG10ZVlZV3JlbGlwbGNGT3VyV3l1QUk5RUYxLWVyQTZfWkdUWk15TkRDSTdMSkdWM2FHTFNGa3RuTE82MDlReHUxTEJMdkhQZFIyQmxJejJqNG1ESHEteFU?oc=5",
-      "short_link": "https://tinyurl.com/25yvztkj"
-    },
-    {
       "title": "Iran launches missile attack on US ships as Trump unleashes new strikes in Middle East",
       "tokens": [
         "attac",
@@ -455,20 +405,28 @@
         "citin",
         "condu",
         "confi",
+        "count",
         "dams",
         "debat",
         "defen",
+        "depar",
         "drone",
         "earli",
+        "emerg",
+        "expan",
         "fears",
         "fight",
+        "fires",
+        "follo",
         "force",
         "frame",
         "fresh",
         "guard",
+        "gulf",
         "hindu",
         "hit",
         "hormu",
+        "hospi",
         "how",
         "iran",
         "irani",
@@ -479,6 +437,7 @@
         "kuwai",
         "launc",
         "major",
+        "malay",
         "milit",
         "missi",
         "new",
@@ -508,9 +467,10 @@
         "times",
         "today",
         "warpl",
-        "watch"
+        "watch",
+        "widen"
       ],
-      "last_seen_utc": "2026-11-18T09:07:26.530428+00:00",
+      "last_seen_utc": "2026-11-18T18:00:29.265704+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "a news",
@@ -568,7 +528,7 @@
         "米戦闘機",
         "自衛のため"
       ],
-      "last_seen_utc": "2026-11-18T09:07:26.530428+00:00",
+      "last_seen_utc": "2026-11-18T18:00:29.265704+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "au webポータル",
@@ -596,6 +556,37 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwMWdHVFpfVVNkUnhLTkpIRTQ0OGlLaWdILW92WHhzNjRJUUdjUldHUzJGVnJsSlpOY2gwc3FnUnBkQU1Fb1dKOGZFRjVyOWVwWVI4MUNvRzRkN3VXdHkzbDI0UFRsTGM?oc=5",
       "short_link": "https://tinyurl.com/2c2ur659"
+    },
+    {
+      "title": "Ukrainian Drone and Missile Strike Heavily Damages Kerch Bridge",
+      "tokens": [
+        "bridg",
+        "crime",
+        "cruis",
+        "damag",
+        "drone",
+        "foota",
+        "heavi",
+        "kerch",
+        "live",
+        "missi",
+        "prize",
+        "putin",
+        "relea",
+        "sever",
+        "strea",
+        "strik",
+        "ukrai"
+      ],
+      "last_seen_utc": "2026-11-18T18:00:29.265704+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "dagens.com",
+        "israel defense",
+        "new age bd"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CNGt2VHozRVp1YnpDQ1A1aDBTN3Bycl9ZVEcxUklWOUczbEFGWXhweWYwSjFNMW0tVHZwTWd4SkFzN0NzWl9tMXNlcDFQczhwTFJPdFg1bTM?oc=5",
+      "short_link": "https://tinyurl.com/2yu5yhne"
     }
   ]
 }
