@@ -2372,5 +2372,38 @@
       "geo_score": 40,
       "warsh_score": 0
     }
+  },
+  {
+    "timestamp": "2026-11-18T03:15:13.246862+00:00",
+    "gold_price": 3805.60009765625,
+    "momentum_score": 80,
+    "alert_level": "alert",
+    "reasons": [
+      "COT 淨多頭週增 8.42% (報告日 2026-11-10) (+20)",
+      "VIX 大幅上升 30.83% (+20)",
+      "地緣政治衝擊事件(24小時內): India identifies Tara Gas as tanker targeted in Strait of Ho... (+40)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 103.63800048828125,
+        "prev_5d": 102.2300033569336,
+        "change_pct": 1.3772836595061708
+      },
+      "vix": {
+        "latest": 25.459999084472656,
+        "prev_5d": 19.459999084472656,
+        "change_pct": 30.832478326206424
+      },
+      "gld": null,
+      "cot": {
+        "report_date": "2026-11-10T00:00:00.000",
+        "net_long": 112341,
+        "prev_net_long": 103614,
+        "change_pct": 8.422606983612253
+      },
+      "real_rate_5d_change": 0.27,
+      "geo_score": 40,
+      "warsh_score": 0
+    }
   }
 ]
