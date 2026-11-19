@@ -47,6 +47,7 @@
         "arabi",
         "attac",
         "blast",
+        "blog",
         "camp",
         "capit",
         "claim",
@@ -62,10 +63,12 @@
         "inter",
         "jazan",
         "led",
+        "live",
         "missi",
         "offic",
         "power",
         "repor",
+        "riyad",
         "rock",
         "saba",
         "sanaa",
@@ -75,7 +78,7 @@
         "troop",
         "yemen"
       ],
-      "last_seen_utc": "2026-11-15T16:36:35.093408+00:00",
+      "last_seen_utc": "2026-11-19T16:41:35.620160+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "internazionale",
@@ -279,7 +282,7 @@
         "threa",
         "yemen"
       ],
-      "last_seen_utc": "2026-11-19T07:19:00.098793+00:00",
+      "last_seen_utc": "2026-11-19T16:41:35.620160+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "businessline",
@@ -606,6 +609,7 @@
         "allie",
         "ameri",
         "attac",
+        "aveng",
         "bahra",
         "bases",
         "carri",
@@ -621,10 +625,12 @@
         "islan",
         "kuwai",
         "launc",
+        "milit",
         "missi",
         "out",
         "qeshm",
         "repor",
+        "says",
         "self",
         "site",
         "strik",
@@ -632,7 +638,7 @@
         "tehra",
         "widen"
       ],
-      "last_seen_utc": "2026-11-19T07:19:00.098793+00:00",
+      "last_seen_utc": "2026-11-19T16:41:35.620160+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "apa.az",
@@ -677,7 +683,7 @@
         "two",
         "used"
       ],
-      "last_seen_utc": "2026-11-19T07:19:00.098793+00:00",
+      "last_seen_utc": "2026-11-19T16:41:35.620160+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "cgtn",
@@ -691,11 +697,12 @@
     {
       "title": "イラン、湾岸地域での攻撃範囲拡大 米軍によるミサイル発射施設への攻撃受け",
       "tokens": [
+        "cnn",
         "イラン",
         "湾岸地域で",
         "米軍による"
       ],
-      "last_seen_utc": "2026-11-19T07:19:00.098793+00:00",
+      "last_seen_utc": "2026-11-19T16:41:35.620160+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "au webポータル",
@@ -704,6 +711,89 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DSGdWMEZScGNVVkc3ZDJBc21sVmMzYmpmRmthNWlpX1ZqWmxIOVZzb3BkX28zNmQtM3E3dl9KNjZ6cUM4eDZfelIxMjY4cW5vd3VB?oc=5",
       "short_link": "https://tinyurl.com/23byladx"
+    },
+    {
+      "title": "Missile Strike Damages Saudi Sovereign Wealth Fund Offices in Riyadh",
+      "tokens": [
+        "arabi",
+        "attac",
+        "build",
+        "damag",
+        "fund",
+        "funds",
+        "headq",
+        "hit",
+        "hits",
+        "housi",
+        "houth",
+        "landm",
+        "major",
+        "massi",
+        "missi",
+        "offic",
+        "pif",
+        "riyad",
+        "saudi",
+        "secon",
+        "skysc",
+        "sover",
+        "strik",
+        "talle",
+        "tower",
+        "trill",
+        "video",
+        "wealt"
+      ],
+      "last_seen_utc": "2026-11-19T16:41:35.620160+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "bloom pakistan",
+        "business news nigeria",
+        "daily observer",
+        "funds global mena",
+        "india tv news",
+        "moneycontrol.com",
+        "newswire",
+        "ssbcrack",
+        "the media line"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYThJN2hITzdybU84OWx3bHkwYkhBSHJsemJscG14ZzFFNGFQRExlRFBRdm94UGRzVGUzVEhJS2M3NDRJVGI3VHdrcjVyUGV0ck9VVkgzdktUc19GX1Y4c1R0enRHRk1Zc2Frclg4ajNwVEFDcXhvVmFIM0hvSkdMOWtJV3dULTRHSFRocXI4cFJLQlNxV3ZzbkJUT3JfV1pBbENQTUVQWVFOcGFuREM4Xw?oc=5",
+      "short_link": "https://tinyurl.com/2ab8pcm3"
+    },
+    {
+      "title": "Third strike on Kerch Bridge in a week: Ukrainian Neptune missiles hit railway link to occupied Crimea",
+      "tokens": [
+        "arch",
+        "bridg",
+        "confi",
+        "crime",
+        "damag",
+        "halte",
+        "hit",
+        "kerch",
+        "link",
+        "main",
+        "missi",
+        "neptu",
+        "occup",
+        "pleas",
+        "railw",
+        "strik",
+        "third",
+        "traff",
+        "ukrai",
+        "vacat",
+        "week"
+      ],
+      "last_seen_utc": "2026-11-19T16:41:35.620160+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "euromaidan press",
+        "the kyiv independent",
+        "the new voice of ukraine"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcnlDNWNpOWc3VVFfUEVfUWpLMTEyRDRKNjQzODB1blR6enZwTWk4WjlFY1pHRUZDTVUxTlBLRGJlakFDc21XLURhNXg4U204NzFiWTR1X1ZXS0otVzdwRUN2b1hZVFB5MERGZ0czbXVtQXg3eld0WWpHWjIzb2VFakxZaF8?oc=5",
+      "short_link": "https://tinyurl.com/24x2y6ug"
     }
   ]
 }
