@@ -257,6 +257,7 @@
         "faces",
         "fight",
         "finan",
+        "four",
         "fresh",
         "growi",
         "houth",
@@ -280,9 +281,10 @@
         "struc",
         "targe",
         "threa",
+        "towar",
         "yemen"
       ],
-      "last_seen_utc": "2026-11-19T16:41:35.620160+00:00",
+      "last_seen_utc": "2026-11-19T23:14:23.529929+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "businessline",
@@ -627,18 +629,24 @@
         "launc",
         "milit",
         "missi",
+        "navy",
+        "oil",
         "out",
+        "overn",
         "qeshm",
         "repor",
         "says",
         "self",
         "site",
         "strik",
+        "tanke",
         "targe",
         "tehra",
+        "three",
+        "warsh",
         "widen"
       ],
-      "last_seen_utc": "2026-11-19T16:41:35.620160+00:00",
+      "last_seen_utc": "2026-11-19T23:14:23.529929+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "apa.az",
@@ -683,7 +691,7 @@
         "two",
         "used"
       ],
-      "last_seen_utc": "2026-11-19T16:41:35.620160+00:00",
+      "last_seen_utc": "2026-11-19T23:14:23.529929+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "cgtn",
@@ -702,7 +710,7 @@
         "湾岸地域で",
         "米軍による"
       ],
-      "last_seen_utc": "2026-11-19T16:41:35.620160+00:00",
+      "last_seen_utc": "2026-11-19T23:14:23.529929+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "au webポータル",
@@ -718,10 +726,14 @@
         "arabi",
         "attac",
         "build",
+        "city",
+        "confl",
         "damag",
+        "escal",
         "fund",
         "funds",
         "headq",
+        "heart",
         "hit",
         "hits",
         "housi",
@@ -729,22 +741,28 @@
         "landm",
         "major",
         "massi",
+        "mid",
         "missi",
         "offic",
+        "one",
         "pif",
         "riyad",
+        "rocks",
         "saudi",
         "secon",
         "skysc",
         "sover",
+        "store",
         "strik",
+        "suspe",
         "talle",
         "tower",
         "trill",
         "video",
-        "wealt"
+        "wealt",
+        "yemen"
       ],
-      "last_seen_utc": "2026-11-19T16:41:35.620160+00:00",
+      "last_seen_utc": "2026-11-19T23:14:23.529929+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "bloom pakistan",
@@ -785,7 +803,7 @@
         "vacat",
         "week"
       ],
-      "last_seen_utc": "2026-11-19T16:41:35.620160+00:00",
+      "last_seen_utc": "2026-11-19T23:14:23.529929+00:00",
       "confidence": "CONFIRMED",
       "sources": [
         "euromaidan press",
@@ -794,6 +812,33 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcnlDNWNpOWc3VVFfUEVfUWpLMTEyRDRKNjQzODB1blR6enZwTWk4WjlFY1pHRUZDTVUxTlBLRGJlakFDc21XLURhNXg4U204NzFiWTR1X1ZXS0otVzdwRUN2b1hZVFB5MERGZ0czbXVtQXg3eld0WWpHWjIzb2VFakxZaF8?oc=5",
       "short_link": "https://tinyurl.com/24x2y6ug"
+    },
+    {
+      "title": "IDF says it targeted Hezbollah missile site in Lebanon strikes",
+      "tokens": [
+        "bekaa",
+        "facil",
+        "forme",
+        "hezbo",
+        "idf",
+        "israe",
+        "leban",
+        "missi",
+        "says",
+        "site",
+        "strik",
+        "targe",
+        "valle"
+      ],
+      "last_seen_utc": "2026-11-19T23:14:23.529929+00:00",
+      "confidence": "CONFIRMED",
+      "sources": [
+        "jfeed",
+        "the times of israel",
+        "world israel news"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeUFnTlFvemVwVno0eU5NcHhyM2YyRzRmbTJSQ3N6X1pzV2g2UmhtWmd1WXFqN18wVnZOSi1tRjZieU9hT016cGZkaWtwOGpFZzRCTFVxVjNOc2xnMjlGYndjYW1QdW9mNjJ3eVpTdndwakJ5OG9RQUdYTzhLVTU1RFkzdHZTcnlMN0cxa1lLdVMtb0xMcDg1dzdrQWx5cURGc250SGFEZEFnM2hL?oc=5",
+      "short_link": "https://tinyurl.com/28zbg3w3"
     }
   ]
 }
