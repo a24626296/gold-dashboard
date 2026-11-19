@@ -2405,5 +2405,38 @@
       "geo_score": 40,
       "warsh_score": 0
     }
+  },
+  {
+    "timestamp": "2026-11-19T02:53:48.689942+00:00",
+    "gold_price": 3736.10009765625,
+    "momentum_score": 80,
+    "alert_level": "alert",
+    "reasons": [
+      "COT 淨多頭週增 8.42% (報告日 2026-11-10) (+20)",
+      "VIX 大幅上升 40.42% (+20)",
+      "地緣政治衝擊事件(24小時內): Houthi missile attack targeting Riyadh, alert in Bahrain... (+40)"
+    ],
+    "raw": {
+      "dxy": {
+        "latest": 103.85600280761719,
+        "prev_5d": 102.91000366210938,
+        "change_pct": 0.9192489669069185
+      },
+      "vix": {
+        "latest": 24.559999465942383,
+        "prev_5d": 17.489999771118164,
+        "change_pct": 40.42309769780073
+      },
+      "gld": null,
+      "cot": {
+        "report_date": "2026-11-10T00:00:00.000",
+        "net_long": 112341,
+        "prev_net_long": 103614,
+        "change_pct": 8.422606983612253
+      },
+      "real_rate_5d_change": 0.25,
+      "geo_score": 40,
+      "warsh_score": 0
+    }
   }
 ]
