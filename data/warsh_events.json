@@ -1,41 +1,6 @@
 {
   "events": [
     {
-      "title": "Kevin Warsh's Expected Rate Hike Is a Warning to Retirees That the Fed Won't Rescue Stocks",
-      "stance": "hawkish",
-      "tokens": [
-        "came",
-        "done",
-        "expec",
-        "fed",
-        "hike",
-        "hotte",
-        "infla",
-        "just",
-        "kevin",
-        "not",
-        "raisi",
-        "rate",
-        "rates",
-        "rescu",
-        "retir",
-        "stock",
-        "than",
-        "that",
-        "warni",
-        "warsh",
-        "won"
-      ],
-      "last_seen_utc": "2026-11-12T10:19:16.423853+00:00",
-      "confidence": "LIKELY",
-      "sources": [
-        "24/7 wall st.",
-        "yahoo finance"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPclpHZEtyOHl3NzNzVUZmWE1pY2w1WGZpR0NBdzZsS1hsbTkxVl9BNFpJOVdLQ2MtdzA4Y1RUY2JqRllUaHdGelVUSXpkeTJiTVF3OUdsSzViZ3hDbHUzdGU2RU1aY2xDc1pjTFJIREZWSU1IV1lJZzNwZWl6ZmN6d2xleF9aY2NTN0FYVG1qc3Q5V2ZQNkJvVklvaGdCR09wYW9sZE1JcHltQnJCN3NsZHAtRGZ3U1BZV0Fva2tiLUIyX0tUdkRRWFV2X04?oc=5",
-      "short_link": "https://tinyurl.com/25u89yjj"
-    },
-    {
       "title": "COMMENTARY: A 50 bps rate hike? Warsh's Fed has a comms problem",
       "stance": "hawkish",
       "tokens": [
