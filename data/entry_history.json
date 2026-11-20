@@ -993,5 +993,22 @@
       "latest_close": 3736.10009765625,
       "volume_ratio": 1.33585665508787
     }
+  },
+  {
+    "timestamp": "2026-11-20T02:45:58.702256+00:00",
+    "gold_price": 3532.5,
+    "entry_score": 10,
+    "entry_level": "none",
+    "reasons": [
+      "RSI 處於超賣區 (22.7),尚未反轉 (+10)"
+    ],
+    "detail": {
+      "rsi": 22.700512478427612,
+      "macd": -111.05318153480812,
+      "macd_signal": -76.0964981971737,
+      "high_20d": 4114.5,
+      "latest_close": 3532.5,
+      "volume_ratio": 1.0855344325302518
+    }
   }
 ]
